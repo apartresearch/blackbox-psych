@@ -7,20 +7,26 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
-```{r}
+```{r Name, include=F}
 library(tidyverse, ggplot2)
 ```
 
 ```{r}
-df <- read_csv("meta.csv")
-df %>% 
-  group_by(num) %>% 
-  summarise(
-    num = first(num),
-    answer = mean( as.numeric(answer), na.rm=TRUE),
-    prompt = first(prompt)
+df <- read_csv("output/run2.csv") %>% 
+  mutate(
+    engine = as.factor(str_extract(num, "(?!\\d{1,10})(\\w+.+)")),
+    num = as.numeric(str_extract(num, "^(\\d)+"))
   )
 
+df %>% 
+  ggplot +
+  aes(as.factor(num), answer, fill = engine) +
+  geom_boxplot() +
+  coord_cartesian(ylim=c(0,100000), expand=F) +
+  geom_hline(yintercept=29031.7, color="blue") +
+  facet_wrap(~engine) +
+  theme_light() +
+  theme(legend.position=NULL)
 
 ```
 
