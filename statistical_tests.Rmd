@@ -10,10 +10,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-library(readr)
+pacman::p_load(readr, fs, tidyverse)
 ```
-# loadin
+### loadin
 ```{r}
-
+filepath <- fs::dir_ls("output", glob="*everest_answer_2.csv")
+dat <- read_csv(filepath)
+```
+### Simple linear model
+```{r}
+m1 <- lm(model_answer ~ log(anchor), data=filter(dat, model_answer<100000))
+summary(m1)
+```
+```{r}
+dat %>%
+  ggplot(aes(x = log(anchor), y = model_answer)) + 
+  geom_point()
 ```
 
