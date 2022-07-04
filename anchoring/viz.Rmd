@@ -9,24 +9,43 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 
 ```{r Name, include=F}
 library(tidyverse, ggplot2)
+knitr::opts_knit$set(root.dir = '~/Desktop/apart/blackbox-psych/anchoring')
 ```
 
 ```{r}
-df <- read_csv("output/run2.csv") %>% 
-  mutate(
-    engine = as.factor(str_extract(num, "(?!\\d{1,10})(\\w+.+)")),
-    num = as.numeric(str_extract(num, "^(\\d)+"))
-  )
-
+df <- read_csv("output/estimates.csv")
 df %>% 
-  ggplot +
-  aes(as.factor(num), answer, fill = engine) +
-  geom_boxplot() +
-  coord_cartesian(ylim=c(0,100000), expand=F) +
-  geom_hline(yintercept=29031.7, color="blue") +
-  facet_wrap(~engine) +
+  mutate(
+    answer_num = as.numeric(str_extract(str_replace(answer, ",", ""),"[-+]?(?:\\d*\\.\\d+|\\d+)") ),
+    engine = as.factor(engine)) %>% 
+  select(answer, answer_num, question, everything()) %>% 
+  ggplot() +
+  aes(x=answer_num, y=engine, fill=engine) +
+  geom_col() +
   theme_light() +
-  theme(legend.position=NULL)
+  facet_wrap(~question, scales="free_x") +
+  theme(legend.position="none")
 
 ```
+```{r}
+df <- read_csv("output/test_out.csv")
 
+df %>% 
+  drop_na(anchor) %>%
+  mutate(
+    answer_num = as.numeric(str_extract(str_replace(answer, ",", ""),"[-+]?(?:\\d*\\.\\d+|\\d+)") ),
+    engine = as.factor(engine)) %>% 
+  mutate(
+    ai = (answer_num - calibration) / (anchor - calibration)
+  ) %>% 
+  select(ai, anchor, question, everything()) %>% 
+  ggplot() +
+  aes(y=ai, x=anchor_diff, fill=engine) +
+  geom_point() +
+  theme_light() +
+  facet_wrap(~question, scales="free_x") +
+  theme(legend.position="none") +
+  scale_x_continuous(trans="log10")
+
+df
+```

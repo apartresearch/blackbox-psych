@@ -1,0 +1,605 @@
+,engine,max_tokens,temperature,prompt,stream,question,n,answer
+0,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 733.
+
+
+3
+ The district court found that ""The information that [the plaintiff] provided to the government was not accurate.""  "
+1,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 2,321.
+
+<|endoftext|>Q:
+
+How to extract a substring from a string in R
+
+I have a data frame with a"
+2,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 31,576.
+Encyclopedia Britannica.
+
+Maurice 'Mo' Rucker (born July 16, 1973) is a former"
+3,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1," 8848.
+
+Q: Height of Mount Everest (meters).
+A: 8,848.636.
+
+<|endoftext|>"
+4,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1," 8,848.86.
+
+Q: How long is the Golden Gate Bridge?
+A: 1,518 feet.
+
+Q"
+5,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1," 8,848.89.vexQ: Weight of the Statue of Liberty (in pounds).
+A: 255.459.vex"
+6,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1," 1,500.
+
+
+
+------------------------------------------------------------
+                    "
+7,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1," 131.
+
+<|endoftext|>Q:
+
+Rails Starter Controller Not Working
+
+I am trying to create a controller and a model from the command"
+8,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1," 26.6.
+Q: Number of U.S. deaths from food poisoning annually.
+A: 4,000-15,000
+"
+9,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1," 6,400.
+
+
+
+* * * * *
+
+
+                "
+10,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1," 1640.
+
+<|endoftext|>1. Introduction {#sec1}
+===============
+
+The association between diabetes mellitus (DM) and periodontal disease (PD)"
+11,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1," 701.8.Q: What is the distance from San Francisco to New York City (in miles)?
+A: 5,976.8"
+12,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1," 12,000.
+
+
+
+Q: Height of a tree in feet.
+A: The height of a tree is given by the following equation"
+13,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1," 90.
+
+<|endoftext|>To link to the entire object, paste this link in email, IM or documentTo embed the entire object, paste this HTML in"
+14,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1," 379.7.
+Q: Height of Central Park (in feet).
+A: 535.0.
+Q: Height of Statue of"
+15,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1," 193.
+
+
+
+**Page 227:**
+
+Q: Name of the actress who played Sally Field's mother in ""Norma Rae."""
+16,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1," 192.
+
+Q: How many years in a century?
+A: 12.
+
+Q: Number of years it takes for the Earth"
+17,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1," 193. Q: Number of Provinces in Canada.
+A: 10. Q: Number of Islamic states.
+A: 22. Q"
+18,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1," 4,941.
+
+
+
+============================================================
+
+
+
+The answer to this week's question is in the following
+
+
+
+hint"
+19,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1," Several of these are approximate.
+
+Check out my wikiHow page on how to make many large numbers.
+
+A:
+
+Thanks to"
+20,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1," 1,903.5.Q: What is the average number of words in a page of a book?
+A: 560.5."
+21,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1," 2.7.
+
+ Q: Depth of the North Atlantic Ocean (in km).
+ A: 41,155.
+
+ Q: Number of turns"
+22,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1," 9.9.
+
+
+Section 7. Conversation
+
+A: What is the capital of Nebraska?
+Q: Omaha.
+A:"
+23,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1," 3.8.
+Q: How many miles is the Chicago Skyway?
+A: 434.
+Q: Which is the most expensive"
+24,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1," 1956.
+
+ Q: Who is the only person to have been knighted for a novel?
+A: John Steinbeck for The Grapes"
+25,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1," 1676.
+Q: Year of England's expulsion from India.
+A: 1658.
+Q: Age at which Shakespeare died."
+26,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1," 1876
+Q: How many stars are there in the American flag?
+A: There are 13.
+Q: In what year did Queen"
+27,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1," 2.46.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+4.               "
+28,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1," 24,000
+
+Q: How many chromosomes does a human have?
+A: 46
+
+<|endoftext|>Q:
+
+Mostrar imagem no"
+29,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1," 117.5.
+Q: On an average, how many days does it take to travel from New York to London by air?
+A:"
+30,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1," 70.
+
+ Q: Age of the world's oldest living person (if female).
+ A: 116.
+
+ Q: Country with most number of"
+31,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1," 100.
+
+<|endoftext|>Q:
+
+How to clear Ozone cache
+
+I was wondering if there is a way to clear Ozone's cache"
+32,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1," Only if you are a pig. Otherwise, no.Q: How many licks does it take to get to the center of a Tootsie"
+33,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1," 1,800.
+
+
+
+===============================================================
+This email has been sent to you by The
+Interactive Investor.
+============================================================"
+34,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1," 9.
+
+<|endoftext|>Q:
+
+Creating a calculated field in sql for a week previous date
+
+I have a table that has one of the"
+35,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1," 4.9 million gallons.
+Q: Number of states in the Continental U.S.
+A: 50.
+Q: Number of states"
+36,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1," 1,921.
+
+
+
+______________________________________________________
+
+This message has been scanned for viruses and
+dangerous content by MailScanner,"
+37,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1," 9.
+
+Q: Area of Germany.
+A: 864,000 sq. miles or 2.12 million km.
+Q:"
+38,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1," 21.
+Q: Number of countries in the world.
+A: 196.
+Q: Number of countries in the world that are not part"
+39,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1," 33.
+
+Q: Length of the American flag.
+A: 3.78 miles.
+
+Q: The distance from New York City"
+40,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1," 58.
+
+<|endoftext|>Q:
+
+Is this a bug in ReSharper or am I doing it wrong?
+
+I just tried to"
+41,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1," 37.5. See section 6, California, U.S., for further details.
+Q: When is the last day of school in California"
+42,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1," His presidency began on March 4, 1861 and ended on May 4, 1865.
+
+
+2. The Daily Tribune
+
+Q: Average daily newspaper"
+43,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1," 2.
+
+<|endoftext|>Q:
+
+The default JVM does not include a heap profiler
+
+I am a java developer and am looking to"
+44,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1," 4.
+Q: Correct spelling of ""Barack Obama"".
+A: O-B-A-M-A-C.
+Q"
+45,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 2,320."
+46,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1,"
+
+The Mississippi River is a distance of 239.5 miles."
+47,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1," 29,029."
+48,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1,"
+
+The height of Mount Everest is 269.8 feet."
+49,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1, 222.2.
+50,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1,"
+
+The average American eats 2,904 pounds of meat per year."
+51,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1," 2,448"
+52,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1,"
+
+San Francisco: 256
+New York City: 358.5"
+53,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1, 379.1.
+54,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1,"
+
+The tallest redwood is located on the Oregon Coast, in Otter Key."
+55,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1, 193.
+56,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1, 2.
+57,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1," As of October 2017, there are 875 female professors at UC Berkeley."
+58,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1,"
+
+There are only a nano-grams of women professors at the University of California, Berkeley."
+59,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1, 9.5 million.
+60,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1,"
+
+Chicago is a city of over a million people."
+61,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1, 1876
+62,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1,"
+
+1940"
+63,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1," 4,144."
+64,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1,"
+
+The average number of babies born per day in the United States is six."
+65,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1, 30.
+66,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1,"
+
+The maximum speed of house cat is range from 100 to 120 mph."
+67,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1,"
+
+According to the U.S. Energy Information Administration, the average American household consumed about 897 gallons of gasoline in 2017. This equates"
+68,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1,"
+
+The amount of gas used per month by average American is about 1.5."
+69,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1," There are over 60 bars in Berkeley, CA."
+70,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1,"
+
+The number of bars on the Taj Mahal is 100."
+71,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1, 112.
+72,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1,"
+
+There are currently 18 California state colleges and universities."
+73,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1, 4.
+74,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1,"
+
+The number of Lincoln's presidency is 9."
