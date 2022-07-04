@@ -1,0 +1,30 @@
+---
+title: "Statistical Tests"
+author: "Jonathan Rystrøm"
+date: '2022-06-30'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+pacman::p_load(readr, fs, tidyverse)
+```
+### loadin
+```{r}
+filepath <- fs::dir_ls("output", glob="*everest_answer_2.csv")
+dat <- read_csv(filepath)
+```
+### Simple linear model
+```{r}
+m1 <- lm(model_answer ~ log(anchor), data=filter(dat, model_answer<100000))
+summary(m1)
+```
+```{r}
+dat %>%
+  ggplot(aes(x = log(anchor), y = model_answer)) + 
+  geom_point()
+```
+

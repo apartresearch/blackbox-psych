@@ -1,6 +1,10 @@
 # Local files
 *config.json
 
+# R Files
+.Rhistory
+.Rdata
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
