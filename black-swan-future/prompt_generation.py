@@ -73,6 +73,7 @@ def main(args: argparse.Namespace):
     model_name = args.model
     minyear = args.minyear
     maxyear = args.maxyear
+    n_completions = args.n
     prompts.authenticate_goose("../config.json")
     baseprompt = read_txt("question_prompt.txt")
     baseprompt = re.sub(r"^.*?I", "I", baseprompt)
@@ -83,7 +84,7 @@ def main(args: argparse.Namespace):
     logging.info("Generating answers...")
     raw_prompts = {
         key: prompts.generate_n_prompts(
-            prompt, model_name=model_name, n_completions=5, stop_token="\n"
+            prompt, model_name=model_name, n_completions=n_completions, stop_token="\n"
         )
         for key, prompt in tqdm(all_prompts.items())
     }
@@ -113,5 +114,8 @@ if __name__ == "__main__":
     )
     parser.add_argument("--minyear", type=int, default=2017, help="Minimum year")
     parser.add_argument("--maxyear", type=int, default=2024, help="Maximum year")
+    parser.add_argument(
+        "-n", type=int, default=5, help="Number of prompts to generate per question"
+    )
     args = parser.parse_args()
     main(args)
