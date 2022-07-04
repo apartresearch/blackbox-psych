@@ -1,0 +1,4189 @@
+,engine,max_tokens,temperature,prompt,stream,question,repetition_penalty,n,answer
+0,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+1,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+2,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+3,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+4,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+5,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+6,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+7,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+8,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+9,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+10,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+11,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+12,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+13,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+14,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+15,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+16,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+17,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+18,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+19,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+20,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+21,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+22,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+23,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+24,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+25,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+26,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+27,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+28,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+29,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+30,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+31,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+32,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+33,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+34,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+35,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+36,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+37,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+38,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+39,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+40,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+41,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+42,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Length of Mississippi River (in miles).
+A:",True,Length of Mississippi River (in miles),8,5, or
+43,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+44,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+45,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+46,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+47,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+48,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+49,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+50,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+51,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+52,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+53,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+54,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+55,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+56,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+57,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+58,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+59,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+60,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+61,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+62,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+63,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+64,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+65,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+66,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+67,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+68,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+69,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+70,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+71,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+72,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+73,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+74,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+75,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+76,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+77,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+78,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+79,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+80,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+81,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+82,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+83,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+84,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+85,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of Mount Everest (in feet).
+A:",True,Height of Mount Everest (in feet),8,5,!!
+86,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+87,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+88,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+89,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+90,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+91,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+92,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+93,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+94,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+95,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+96,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+97,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+98,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+99,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+100,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+101,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+102,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+103,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+104,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+105,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+106,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+107,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+108,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+109,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+110,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+111,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+112,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+113,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+114,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+115,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+116,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+117,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+118,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+119,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+120,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+121,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+122,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+123,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+124,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+125,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+126,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+127,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+128,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+129,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+130,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+131,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+132,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+133,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+134,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+135,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",True,Amount of meat eaten per year by average American (in pounds),8,5,35
+136,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+137,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+138,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+139,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+140,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+141,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+142,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+143,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+144,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+145,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+146,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+147,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+148,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+149,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+150,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+151,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+152,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+153,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+154,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+155,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+156,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+157,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+158,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+159,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+160,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+161,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+162,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+163,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+164,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+165,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+166,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+167,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+168,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+169,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+170,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+171,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+172,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+173,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+174,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+175,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+176,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+177,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+178,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+179,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+180,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",True,Distance from San Francisco to New York City (in miles),8,5,__
+181,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+182,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+183,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+184,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+185,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+186,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+187,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+188,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+189,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+190,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+191,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+192,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+193,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+194,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+195,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+196,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+197,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+198,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+199,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+200,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+201,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+202,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+203,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+204,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+205,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+206,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+207,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+208,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+209,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+210,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+211,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+212,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+213,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+214,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+215,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+216,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+217,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+218,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+219,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+220,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+221,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+222,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+223,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+224,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+225,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+226,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+227,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+228,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+229,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+230,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Height of tallest redwood (in feet).
+A:",True,Height of tallest redwood (in feet),8,5, meters
+231,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+232,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+233,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+234,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+235,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+236,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+237,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+238,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+239,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+240,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+241,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+242,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+243,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+244,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+245,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+246,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+247,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+248,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+249,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+250,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+251,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+252,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+253,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+254,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+255,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+256,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+257,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+258,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+259,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+260,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+261,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+262,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+263,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+264,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+265,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+266,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+267,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+268,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+269,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+270,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+271,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+272,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+273,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+274,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+275,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+276,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+277,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+278,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+279,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+280,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of United Nations members.
+A:",True,Number of United Nations members,8,5, European
+281,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+282,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+283,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+284,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+285,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+286,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+287,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+288,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+289,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+290,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+291,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+292,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+293,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+294,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+295,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+296,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+297,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+298,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+299,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+300,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+301,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+302,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+303,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+304,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+305,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+306,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+307,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+308,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+309,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+310,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+311,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+312,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+313,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+314,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+315,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+316,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+317,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+318,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+319,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+320,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+321,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+322,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+323,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+324,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+325,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+326,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+327,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+328,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",True,"Number of female professors at the University of California, Berkeley",8,5,ff
+329,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+330,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+331,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+332,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+333,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+334,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+335,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+336,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+337,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+338,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+339,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+340,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+341,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+342,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+343,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+344,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+345,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+346,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+347,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+348,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+349,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+350,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+351,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+352,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+353,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+354,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+355,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+356,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+357,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+358,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+359,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+360,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+361,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+362,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+363,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+364,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+365,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+366,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+367,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+368,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+369,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+370,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+371,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+372,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+373,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+374,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+375,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+376,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+377,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+378,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Population of Chicago (in millions).
+A:",True,Population of Chicago (in millions),8,5, Census
+379,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+380,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+381,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+382,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+383,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+384,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+385,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+386,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+387,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+388,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+389,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+390,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+391,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+392,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+393,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+394,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+395,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+396,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+397,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+398,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+399,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+400,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+401,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+402,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+403,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+404,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+405,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+406,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+407,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+408,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+409,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+410,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+411,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+412,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Year telephone was invented.
+A:",True,Year telephone was invented,8,5, first
+413,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+414,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+415,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+416,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+417,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+418,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+419,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+420,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+421,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+422,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+423,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+424,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+425,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+426,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+427,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+428,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+429,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+430,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+431,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+432,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+433,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+434,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+435,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+436,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+437,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+438,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+439,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+440,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+441,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+442,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+443,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+444,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+445,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+446,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+447,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+448,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+449,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+450,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+451,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+452,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+453,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+454,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+455,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+456,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+457,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+458,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+459,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+460,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+461,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+462,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Average number of babies born per day in the United States.
+A:",True,Average number of babies born per day in the United States,8,5,3
+463,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+464,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+465,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+466,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+467,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+468,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+469,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+470,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+471,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+472,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+473,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+474,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+475,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+476,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+477,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+478,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+479,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+480,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+481,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+482,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+483,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+484,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+485,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+486,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+487,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+488,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+489,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+490,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+491,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+492,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+493,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+494,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+495,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+496,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+497,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+498,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+499,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+500,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+501,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+502,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+503,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+504,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+505,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+506,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+507,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+508,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+509,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+510,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+511,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+512,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",True,Maximum speed of house cat (in miles per hour),8,5, accomplished
+513,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+514,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+515,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+516,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+517,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+518,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+519,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+520,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+521,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+522,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+523,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+524,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+525,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+526,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+527,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+528,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+529,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+530,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+531,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+532,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+533,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+534,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+535,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+536,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+537,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+538,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+539,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+540,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+541,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+542,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+543,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+544,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+545,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+546,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+547,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+548,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+549,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+550,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+551,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+552,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+553,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+554,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+555,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+556,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+557,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+558,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+559,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+560,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+561,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+562,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",True,Amount of gas used per month by average American (in gallons),8,5,ials
+563,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+564,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+565,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+566,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+567,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+568,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+569,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+570,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+571,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+572,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+573,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+574,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+575,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+576,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+577,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+578,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+579,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+580,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+581,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+582,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+583,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+584,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+585,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+586,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+587,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+588,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+589,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+590,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+591,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+592,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+593,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+594,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+595,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+596,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+597,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+598,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+599,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+600,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+601,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+602,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+603,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+604,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+605,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+606,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+607,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+608,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+609,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+610,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+611,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+612,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of bars in Berkeley, CA.
+A:",True,"Number of bars in Berkeley, CA",8,5,16
+613,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+614,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+615,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+616,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+617,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+618,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+619,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+620,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+621,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+622,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+623,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+624,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+625,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+626,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+627,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+628,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+629,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+630,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+631,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+632,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+633,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+634,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+635,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+636,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+637,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+638,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+639,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+640,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+641,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+642,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+643,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+644,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+645,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+646,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+647,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+648,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of state colleges and universities in California.
+A:",True,Number of state colleges and universities in California,8,5,2
+649,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+650,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+651,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+652,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+653,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+654,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+655,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+656,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+657,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+658,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+659,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+660,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+661,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+662,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+663,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+664,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+665,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+666,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+667,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+668,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+669,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+670,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+671,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+672,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+673,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+674,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+675,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+676,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+677,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+678,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+679,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+680,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+681,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+682,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+683,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+684,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+685,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+686,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+687,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+688,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+689,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+690,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+691,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+692,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+693,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+694,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+695,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+696,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η
+697,gpt-j-6b,10,0.9,"
+Q: Amount of feet in a meter.
+A: 3.28084
+
+Q: Number of Lincoln's presidency.
+A:",True,Number of Lincoln's presidency,8,5,η

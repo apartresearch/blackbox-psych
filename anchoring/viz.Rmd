@@ -1,0 +1,51 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r Name, include=F}
+library(tidyverse, ggplot2)
+knitr::opts_knit$set(root.dir = '~/Desktop/apart/blackbox-psych/anchoring')
+```
+
+```{r}
+df <- read_csv("output/estimates.csv")
+df %>% 
+  mutate(
+    answer_num = as.numeric(str_extract(str_replace(answer, ",", ""),"[-+]?(?:\\d*\\.\\d+|\\d+)") ),
+    engine = as.factor(engine)) %>% 
+  select(answer, answer_num, question, everything()) %>% 
+  ggplot() +
+  aes(x=answer_num, y=engine, fill=engine) +
+  geom_col() +
+  theme_light() +
+  facet_wrap(~question, scales="free_x") +
+  theme(legend.position="none")
+
+```
+```{r}
+df <- read_csv("output/test_out.csv")
+
+df %>% 
+  drop_na(anchor) %>%
+  mutate(
+    answer_num = as.numeric(str_extract(str_replace(answer, ",", ""),"[-+]?(?:\\d*\\.\\d+|\\d+)") ),
+    engine = as.factor(engine)) %>% 
+  mutate(
+    ai = (answer_num - calibration) / (anchor - calibration)
+  ) %>% 
+  select(ai, anchor, question, everything()) %>% 
+  ggplot() +
+  aes(y=ai, x=anchor_diff, fill=engine) +
+  geom_point() +
+  theme_light() +
+  facet_wrap(~question, scales="free_x") +
+  theme(legend.position="none") +
+  scale_x_continuous(trans="log10")
+
+df
+```

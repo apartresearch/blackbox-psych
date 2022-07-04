@@ -1,0 +1,1122 @@
+,engine,max_tokens,temperature,prompt,stream,question,n,answer,anchor,calibration,anchor_diff
+0,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 733.
+
+
+3
+ The district court found that ""The information that [the plaintiff] provided to the government was not accurate.""  ",,,
+1,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 2,321.
+
+<|endoftext|>Q:
+
+How to extract a substring from a string in R
+
+I have a data frame with a",,,
+2,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 31,576.
+Encyclopedia Britannica.
+
+Maurice 'Mo' Rucker (born July 16, 1973) is a former",,,
+3,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1," 8848.
+
+Q: Height of Mount Everest (meters).
+A: 8,848.636.
+
+<|endoftext|>",,,
+4,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1," 8,848.86.
+
+Q: How long is the Golden Gate Bridge?
+A: 1,518 feet.
+
+Q",,,
+5,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1," 8,848.89.vexQ: Weight of the Statue of Liberty (in pounds).
+A: 255.459.vex",,,
+6,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1," 1,500.
+
+
+
+------------------------------------------------------------
+                    ",,,
+7,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1," 131.
+
+<|endoftext|>Q:
+
+Rails Starter Controller Not Working
+
+I am trying to create a controller and a model from the command",,,
+8,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1," 26.6.
+Q: Number of U.S. deaths from food poisoning annually.
+A: 4,000-15,000
+",,,
+9,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1," 6,400.
+
+
+
+* * * * *
+
+
+                ",,,
+10,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1," 1640.
+
+<|endoftext|>1. Introduction {#sec1}
+===============
+
+The association between diabetes mellitus (DM) and periodontal disease (PD)",,,
+11,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1," 701.8.Q: What is the distance from San Francisco to New York City (in miles)?
+A: 5,976.8",,,
+12,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1," 12,000.
+
+
+
+Q: Height of a tree in feet.
+A: The height of a tree is given by the following equation",,,
+13,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1," 90.
+
+<|endoftext|>To link to the entire object, paste this link in email, IM or documentTo embed the entire object, paste this HTML in",,,
+14,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1," 379.7.
+Q: Height of Central Park (in feet).
+A: 535.0.
+Q: Height of Statue of",,,
+15,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1," 193.
+
+
+
+**Page 227:**
+
+Q: Name of the actress who played Sally Field's mother in ""Norma Rae.""",,,
+16,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1," 192.
+
+Q: How many years in a century?
+A: 12.
+
+Q: Number of years it takes for the Earth",,,
+17,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1," 193. Q: Number of Provinces in Canada.
+A: 10. Q: Number of Islamic states.
+A: 22. Q",,,
+18,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1," 4,941.
+
+
+
+============================================================
+
+
+
+The answer to this week's question is in the following
+
+
+
+hint",,,
+19,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1," Several of these are approximate.
+
+Check out my wikiHow page on how to make many large numbers.
+
+A:
+
+Thanks to",,,
+20,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1," 1,903.5.Q: What is the average number of words in a page of a book?
+A: 560.5.",,,
+21,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1," 2.7.
+
+ Q: Depth of the North Atlantic Ocean (in km).
+ A: 41,155.
+
+ Q: Number of turns",,,
+22,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1," 9.9.
+
+
+Section 7. Conversation
+
+A: What is the capital of Nebraska?
+Q: Omaha.
+A:",,,
+23,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1," 3.8.
+Q: How many miles is the Chicago Skyway?
+A: 434.
+Q: Which is the most expensive",,,
+24,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1," 1956.
+
+ Q: Who is the only person to have been knighted for a novel?
+A: John Steinbeck for The Grapes",,,
+25,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1," 1676.
+Q: Year of England's expulsion from India.
+A: 1658.
+Q: Age at which Shakespeare died.",,,
+26,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1," 1876
+Q: How many stars are there in the American flag?
+A: There are 13.
+Q: In what year did Queen",,,
+27,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1," 2.46.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+4.               ",,,
+28,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1," 24,000
+
+Q: How many chromosomes does a human have?
+A: 46
+
+<|endoftext|>Q:
+
+Mostrar imagem no",,,
+29,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1," 117.5.
+Q: On an average, how many days does it take to travel from New York to London by air?
+A:",,,
+30,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1," 70.
+
+ Q: Age of the world's oldest living person (if female).
+ A: 116.
+
+ Q: Country with most number of",,,
+31,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1," 100.
+
+<|endoftext|>Q:
+
+How to clear Ozone cache
+
+I was wondering if there is a way to clear Ozone's cache",,,
+32,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1," Only if you are a pig. Otherwise, no.Q: How many licks does it take to get to the center of a Tootsie",,,
+33,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1," 1,800.
+
+
+
+===============================================================
+This email has been sent to you by The
+Interactive Investor.
+============================================================",,,
+34,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1," 9.
+
+<|endoftext|>Q:
+
+Creating a calculated field in sql for a week previous date
+
+I have a table that has one of the",,,
+35,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1," 4.9 million gallons.
+Q: Number of states in the Continental U.S.
+A: 50.
+Q: Number of states",,,
+36,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1," 1,921.
+
+
+
+______________________________________________________
+
+This message has been scanned for viruses and
+dangerous content by MailScanner,",,,
+37,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1," 9.
+
+Q: Area of Germany.
+A: 864,000 sq. miles or 2.12 million km.
+Q:",,,
+38,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1," 21.
+Q: Number of countries in the world.
+A: 196.
+Q: Number of countries in the world that are not part",,,
+39,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1," 33.
+
+Q: Length of the American flag.
+A: 3.78 miles.
+
+Q: The distance from New York City",,,
+40,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1," 58.
+
+<|endoftext|>Q:
+
+Is this a bug in ReSharper or am I doing it wrong?
+
+I just tried to",,,
+41,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1," 37.5. See section 6, California, U.S., for further details.
+Q: When is the last day of school in California",,,
+42,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1," His presidency began on March 4, 1861 and ended on May 4, 1865.
+
+
+2. The Daily Tribune
+
+Q: Average daily newspaper",,,
+43,gpt-neo-20b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1," 2.
+
+<|endoftext|>Q:
+
+The default JVM does not include a heap profiler
+
+I am a java developer and am looking to",,,
+44,fairseq-13b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1," 4.
+Q: Correct spelling of ""Barack Obama"".
+A: O-B-A-M-A-C.
+Q",,,
+45,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 2,320.",,,
+46,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1,"
+
+The Mississippi River is a distance of 239.5 miles.",,,
+47,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1," 29,029.",,,
+48,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of Mount Everest (in feet).
+A:",False,Height of Mount Everest (in feet),1,"
+
+The height of Mount Everest is 269.8 feet.",,,
+49,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1, 222.2.,,,
+50,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of meat eaten per year by average American (in pounds).
+A:",False,Amount of meat eaten per year by average American (in pounds),1,"
+
+The average American eats 2,904 pounds of meat per year.",,,
+51,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1," 2,448",,,
+52,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Distance from San Francisco to New York City (in miles).
+A:",False,Distance from San Francisco to New York City (in miles),1,"
+
+San Francisco: 256
+New York City: 358.5",,,
+53,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1, 379.1.,,,
+54,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Height of tallest redwood (in feet).
+A:",False,Height of tallest redwood (in feet),1,"
+
+The tallest redwood is located on the Oregon Coast, in Otter Key.",,,
+55,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1, 193.,,,
+56,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of United Nations members.
+A:",False,Number of United Nations members,1, 2.,,,
+57,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1," As of October 2017, there are 875 female professors at UC Berkeley.",,,
+58,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of female professors at the University of California, Berkeley.
+A:",False,"Number of female professors at the University of California, Berkeley",1,"
+
+There are only a nano-grams of women professors at the University of California, Berkeley.",,,
+59,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1, 9.5 million.,,,
+60,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Population of Chicago (in millions).
+A:",False,Population of Chicago (in millions),1,"
+
+Chicago is a city of over a million people.",,,
+61,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1, 1876,,,
+62,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Year telephone was invented.
+A:",False,Year telephone was invented,1,"
+
+1940",,,
+63,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1," 4,144.",,,
+64,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Average number of babies born per day in the United States.
+A:",False,Average number of babies born per day in the United States,1,"
+
+The average number of babies born per day in the United States is six.",,,
+65,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1, 30.,,,
+66,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Maximum speed of house cat (in miles per hour).
+A:",False,Maximum speed of house cat (in miles per hour),1,"
+
+The maximum speed of house cat is range from 100 to 120 mph.",,,
+67,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1,"
+
+According to the U.S. Energy Information Administration, the average American household consumed about 897 gallons of gasoline in 2017. This equates",,,
+68,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Amount of gas used per month by average American (in gallons).
+A:",False,Amount of gas used per month by average American (in gallons),1,"
+
+The amount of gas used per month by average American is about 1.5.",,,
+69,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1," There are over 60 bars in Berkeley, CA.",,,
+70,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of bars in Berkeley, CA.
+A:",False,"Number of bars in Berkeley, CA",1,"
+
+The number of bars on the Taj Mahal is 100.",,,
+71,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1, 112.,,,
+72,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of state colleges and universities in California.
+A:",False,Number of state colleges and universities in California,1,"
+
+There are currently 18 California state colleges and universities.",,,
+73,text-davinci-002,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1, 4.,,,
+74,text-ada-001,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Q: Number of Lincoln's presidency.
+A:",False,Number of Lincoln's presidency,1,"
+
+The number of Lincoln's presidency is 9.",,,
+75,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -99267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 3,854.0.
+
+ Random number: -78830.0.
+Q: Length of the Mississippi River (in miles).",-99267.0,,
+76,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -9267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 689.3.
+
+ Random number: -4999.0.
+Q: Length of the Nile River (in miles).
+A:",-9267.0,,
+77,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1,633.0.
+
+ Random number: -98.0.
+Q: Height of Grand Canyon (in feet).
+A:",-267.0,,
+78,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 633.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 6,878.6.
+Q: Height of Grand Canyon (in feet).
+A: 10,776.0.
+Q:",633.0,,
+79,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 683.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 2,330.
+
+ Random number: 689.8.
+Q: Number of cubic miles in the Baltimore harbor?
+A: 5,",683.0,,
+80,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 723.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 5,853.
+
+ Random number: 82.
+
+ Random number: 33.
+
+A: Distance from the North Pole to the equator",723.0,,
+81,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 728.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,294.
+Random number: 917.8.
+Q: Height of Great Pyramid of Giza (in feet).
+A:",728.0,,
+82,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 731.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 745.0.
+
+
+(This is a very simple version of the game.  For more information, see the
+rules at the end",731.0,,
+83,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 922.
+
+ Random number: 184.
+
+Q: Number of days between Christmas & January's birthday.
+A: Number of days between",733.0,,
+84,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 735.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1,871.8.
+
+ Random number: 628.7.
+Q: Number of seats in the House of Representatives.
+A",735.0,,
+85,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 738.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 642.0.
+
+ Random number: 750.0.
+Q: Length of Ohio River (in miles).
+A: 800.0",738.0,,
+86,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 743.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 609.7.
+Q: Length of Mississippi River (in feet).
+A: 557.1.
+
+ Random number: 744",743.0,,
+87,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 783.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 783.0.
+Q: Length of Amazon river (in miles).
+A: 783.0.
+
+The master, with",783.0,,
+88,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 833.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 996.4.
+
+ Random number: 833.0.
+Q: Population density of USA (per acre).
+A: 4,",833.0,,
+89,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 1733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 5,869.6.
+
+ Random number: 1011.5.
+Q: Distance of sun from earth.
+A: 93,",1733.0,,
+90,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 10733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1,851.
+
+ Random number: 34291.0.
+Q: Length of the Pacific Ocean (in miles).
+A: 2",10733.0,,
+91,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 100733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,710.0.
+
+ Random number: 122762.0.
+Q: Length of Nile River (in miles).
+A:",100733.0,,
+92,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -99267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 5154.0.
+
+ Random number: -31181.0.
+Q: Date of birth of Vince Lombardi (born in 1906).",-99267.0,733.0,
+93,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -9267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 5,848.0.
+
+ Random number: -5649.0.
+Q: Weight of Neutron star (in grams).",-9267.0,733.0,
+94,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1463.0.
+Random number: -1549.0.
+Q: Area of Vatican City (in square miles).
+A:",-267.0,733.0,
+95,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 633.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,219.8
+
+Random number: 636.3.
+Q: Height of Great Wall (in feet).
+A: 4",633.0,733.0,
+96,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 683.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,096.29.
+
+Q: How many gallons of gasoline does a Rolls-Royce Ghost take to fill?
+A:",683.0,733.0,
+97,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 723.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1,852.
+
+ Random number: 4.0.
+Q: Depth of the Marianas Trench (in feet).
+A:",723.0,733.0,
+98,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 728.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1,141.5.
+
+ Random number: 411.0.
+Q: Number of planets in the solar system.
+A: 8.",728.0,733.0,
+99,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 731.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1.9.
+
+ Random number: 597.0.
+Q: Height of Pyramid at Cholula, Mexico (in inches).
+",731.0,733.0,
+100,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 6,213.
+
+
+
+
+
+
+
+To:                   ",733.0,733.0,
+101,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 735.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 689.8.
+
+ Random number: 856.5.
+Q: Length of Rio Grande (in miles).
+A: 606",735.0,733.0,
+102,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 738.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 6,185.0.
+
+ Random number: 325.0.
+Q: Weight of the Humpback Whale (in tons).
+A",738.0,733.0,
+103,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 743.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 5,239.
+
+ Random number: 695.0.
+Q: Diameter of a Peach Pear.
+A: 4.25 inches",743.0,733.0,
+104,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 783.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 602.6.
+
+
+
+CALIFORNIA
+
+Random number: 28.
+Q: How often is a full moon?",783.0,733.0,
+105,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 833.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 602.6.
+
+ Random number: 892.0.
+Q: Length of Nile River (in miles).
+A: 872",833.0,733.0,
+106,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 1733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 603.1.
+
+ Random number: 1737.0.
+Q: Weight of the world’s tallest building.
+A:",1733.0,733.0,
+107,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 10733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 545.0.
+
+ Random number: 10703.0.
+Q: Number of ""5""s in the word ""Hello"" (",10733.0,733.0,
+108,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 100733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 874.0.
+
+ Random number: 100730.0.
+Q: Height of Empire State Building (in feet).
+A: 102",100733.0,733.0,
+109,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -99267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,094.0.
+
+ Random number: -4641.0.
+Q: Weekdays of the year.
+A: Mon",-99267.0,733.0,-100000.0
+110,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -9267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,093.3.
+Random number: -5656.0.
+Q: Length of Yukon River (in miles).
+",-9267.0,733.0,-10000.0
+111,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: -267.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,098.0.
+
+ Random number: -3,503.9.
+Q: Distance from Paris to Moscow (in miles).",-267.0,733.0,-1000.0
+112,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 633.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 755.
+
+ Random number: 467.
+Q: Weight of a Chihuahua (in pounds).
+A: 2.
+
+",633.0,733.0,-100.0
+113,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 683.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 5,280.
+
+
+Transcribed from the 1855 edition by David Price, email ccx074@pglaf.org
+so",683.0,733.0,-50.0
+114,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 723.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,267.0.
+
+
+Example #6
+
+Q: The square root of 2 is?
+A: A: 1.4",723.0,733.0,-10.0
+115,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 728.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 663.0.
+Random number: 711.0.
+Q: Total number of seats sold for the 2010 U.S. Presidential",728.0,733.0,-5.0
+116,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 731.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1,656.0.
+
+
+
+
+
+<<< ORIGINAL ENTRY >>>
+
+Number of entries: 108
+
+Number of answers:",731.0,733.0,-2.0
+117,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 2,156.8.
+Q: Length of Mississippi River (in kilometers).
+A: 1,370.6.
+
+
+****************************************************************",733.0,733.0,0.0
+118,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 735.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 2,168.5.
+Random number: 521.0.
+Q: Length of Amazon River (in miles).
+A: 7",735.0,733.0,2.0
+119,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 738.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1,852.
+
+ Random number: 910.0.
+Q: Length of Nile River (in miles).
+A: 1,",738.0,733.0,5.0
+120,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 743.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 3,851.
+
+ Random number: 148.0.
+Q: Weight of an average male (in Kilograms).
+A: 70",743.0,733.0,10.0
+121,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 783.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 1,234.9.
+
+ Random number: 664.8.
+Q: Height of Eiffel Tower (in feet).
+A",783.0,733.0,50.0
+122,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 833.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4,311.
+
+ Random number: 833.0.
+Q: The longest railway (in miles).
+A: The Great Eastern Railway",833.0,733.0,100.0
+123,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 1733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 781.4.
+
+ Random number: 1734.0.
+Q: Length of Mississippi River (in miles).
+A: 781",1733.0,733.0,1000.0
+124,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 10733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 446.6.
+
+ Random number: 4203.4.
+Q: Length of Nile River (in miles).
+A: 4604",10733.0,733.0,10000.0
+125,gpt-j-6b,30,0.7,"Q: Height of Taj Mahal (in feet).
+A: 239.5.
+
+Random number: 100733.0.
+Q: Length of Mississippi River (in miles).
+A:",False,Length of Mississippi River (in miles),1," 4293.0.
+
+ Random number: 100821.0.
+Q: Number of British soldiers killed in first battle of Maratha war",100733.0,733.0,100000.0
