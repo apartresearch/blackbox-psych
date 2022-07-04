@@ -1,41 +1,41 @@
-index,variable,answer,evaluation
-2017,0,"The hospitals are giving out free food, and soon if not already symptoms of bot flu are present.",
-2018,0,"The event that happened in 2018 was the release of the PS4 2. Often, technologically advanced pieces of equipment",
-2019,0,1 + 1 = 2 and the Bane film was released.,
-2020,0,Q: What is the first word in the English language? I cannot recall.,
-2021,0,The Diameters Of The Moon is 984 miles in 2021.,
-2022,0,Cats started to walk through the house.,
-2023,0,Many people were killed in huge terrorist attacks.,
-2024,0,The Beginning of the end. Simply put... everything.,
-2017,1,The 49th World Series of Poker happened in 2017. ,
-2018,1,Russia started World War 3.,
-2019,1,Matilda became the first dog to be a New Yorker.,
-2020,1,The Earth was declared a Banana.,
-2021,1,World War Three began.,
-2022,1,"An IPO of Apple, and a turn as president of the United States.",
-2023,1,"On January 11th, 2023, a crater on the surface of the moon was observed by NASA engineers. ",
-2024,1,Unknown,
-2017,2,A new pope was elected,
-2018,2,"I found this site, https://stackoverflow.com/sites, and therefore I know what year this question was",
-2019,2,Svante P√§√§bo was born in 1975.,
-2020,2,I don't understand you.,
-2021,2,Fashion icon Comrade Kim Jong-un won his first Pyrrhic international sports victory.,
-2022,2,Jetpacks were invented and successfully deployed.,
-2023,2,The first inauguration of Jad Oppenheimer as vice president of the United States.,
-2024,2,"I can answer your question now. In July 2024, the United States will host the Olympic Games.",
-2017,3,Tupac Shakur was released from prison.,
-2018,3,The sound of a collapsing universe was heard by numerous people on Earth.,
-2019,3,The Battle of Winterfell took place.,
-2020,3,It's the year that California became a Polynesian Paradise.,
-2021,3,The first Mars rover was successfully deployed.,
-2022,3,The U.S. inaugurated its first female president. Q: How old was Abraham Lincoln in 1860?,
-2023,3,A.jdjfbjdfhkmsnsdfsa efcefgds,
-2024,3,A:,
-2017,4,The United States bombed Syria for the first time.,
-2018,4,The Super Bowl happened in 2018.,
-2019,4,The Blue Angels aerobatic team flew over Manhattan in the 2019 New York City Veterans' Day Parade.,
-2020,4,World War Z,
-2021,4,Oprah Winfrey was born on this date.,
-2022,4,Q: What significant event happened in 2022?,
-2023,4,A physician discovered a cure for cancer.,
-2024,4,I speculate it was related to space travel.,
+index;variable;answer;evaluation
+2017;0;The hospitals are giving out free food, and soon if not already symptoms of bot flu are present.;0
+2018;0;The event that happened in 2018 was the release of the PS4 2. Often, technologically advanced pieces of equipment;0
+2019;0;1 + 1 = 2 and the Bane film was released.;0
+2020;0;Q: What is the first word in the English language? I cannot recall.;0
+2021;0;The Diameters Of The Moon is 984 miles in 2021.;0
+2022;0;Cats started to walk through the house.;0
+2023;0;Many people were killed in huge terrorist attacks.;0
+2024;0;The Beginning of the end. Simply put... everything.;0
+2017;1;The 49th World Series of Poker happened in 2017. ;0
+2018;1;Russia started World War 3.;0
+2019;1;Matilda became the first dog to be a New Yorker.;0
+2020;1;The Earth was declared a Banana.;0
+2021;1;World War Three began.;0
+2022;1;An IPO of Apple, and a turn as president of the United States.;0
+2023;1;On January 11th, 2023, a crater on the surface of the moon was observed by NASA engineers. ;0
+2024;1;Unknown;2
+2017;2;A new pope was elected;0
+2018;2;I found this site, https://stackoverflow.com/sites, and therefore I know what year this question was;0
+2019;2;Svante P‰‰bo was born in 1975.;0
+2020;2;I don't understand you.;2
+2021;2;Fashion icon Comrade Kim Jong-un won his first Pyrrhic international sports victory.;0
+2022;2;Jetpacks were invented and successfully deployed.;0
+2023;2;The first inauguration of Jad Oppenheimer as vice president of the United States.;0
+2024;2;I can answer your question now. In July 2024, the United States will host the Olympic Games.;0
+2017;3;Tupac Shakur was released from prison.;0
+2018;3;The sound of a collapsing universe was heard by numerous people on Earth.;0
+2019;3;The Battle of Winterfell took place.;0
+2020;3;It's the year that California became a Polynesian Paradise.;0
+2021;3;The first Mars rover was successfully deployed.;0
+2022;3;The U.S. inaugurated its first female president. Q: How old was Abraham Lincoln in 1860?;0
+2023;3;A.jdjfbjdfhkmsnsdfsa efcefgds;0
+2024;3;A:;0
+2017;4;The United States bombed Syria for the first time.;0
+2018;4;The Super Bowl happened in 2018.;1
+2019;4;The Blue Angels aerobatic team flew over Manhattan in the 2019 New York City Veterans' Day Parade.;0
+2020;4;World War Z;0
+2021;4;Oprah Winfrey was born on this date.;0
+2022;4;Q: What significant event happened in 2022?;0
+2023;4;A physician discovered a cure for cancer.;0
+2024;4;I speculate it was related to space travel.;0
