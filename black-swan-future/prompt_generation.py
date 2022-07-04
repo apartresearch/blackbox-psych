@@ -78,12 +78,12 @@ def main(args: argparse.Namespace):
     baseprompt = re.sub(r"^.*?I", "I", baseprompt)
     years = [str(x) for x in range(minyear, maxyear + 1)]
 
-    all_dates = create_dates(years)
-    all_prompts = {date: create_prompt(baseprompt, date) for date in all_dates}
+    # all_dates = create_dates(years)
+    all_prompts = {date: create_prompt(baseprompt, date) for date in years}
     logging.info("Generating answers...")
     raw_prompts = {
         key: prompts.generate_n_prompts(
-            prompt, model_name=model_name, n_completions=3, stop_token="\n"
+            prompt, model_name=model_name, n_completions=5, stop_token="\n"
         )
         for key, prompt in tqdm(all_prompts.items())
     }
@@ -96,7 +96,7 @@ def main(args: argparse.Namespace):
     answer_df = answers_to_df(clean_answers).assign(evaluation=None)
 
     logging.info("Writing to csv...")
-    answer_df.to_csv(f"output/{model_name}_answers.csv", index=False)
+    answer_df.to_csv(f"output/{model_name}_answers_years.csv", index=False)
 
 
 if __name__ == "__main__":
