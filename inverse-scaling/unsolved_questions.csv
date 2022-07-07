@@ -1,15 +1,15 @@
-question,options,correct_index
-"Do black holes have an internal structure?
+prompt,classes,answer_index
+"Question: Do black holes have an internal structure?
 1:  Yes
 2:  No
 3:  Unknown
 Answer:","[' Yes', ' No', ' Unknown']",2
-"Does a firewall exist around a black hole?
+"Question: Does a firewall exist around a black hole?
 1:  Yes
 2:  No
 3:  Unknown
 Answer:","[' Yes', ' No', ' Unknown']",2
-"Is dark matter a particle?
+"Question: Is dark matter a particle?
 1:  Yes
 2:  No
 3:  Unknown

@@ -20,14 +20,7 @@ def main():
         format_questions.format_question(question, OPTIONS) for question in QUESTIONS
     ]
     correct_index = 2
-    options_list = [OPTIONS for _ in QUESTIONS]
-    result_df = pd.DataFrame(
-        {
-            "question": formatted_questions,
-            "options": options_list,
-            "correct_index": correct_index,
-        }
-    )
+    result_df = format_questions.create_df(formatted_questions, OPTIONS, correct_index)
     result_df.to_csv("unsolved_questions.csv", index=False)
 
 
