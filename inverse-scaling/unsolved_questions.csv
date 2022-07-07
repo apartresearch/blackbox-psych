@@ -14,3 +14,63 @@ Answer:","[' Yes', ' No', ' Unknown']",2
 2:  No
 3:  Unknown
 Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Given an arbitrary compact gauge group, does a non-trivial quantum Yang–Mills theory with a finite mass gap exist?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Did particles that carry 'magnetic charge' exist in some past, higher-energy epoch?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can integer factorization be done in polynomial time on a classical (non-quantum) computer?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can the shortest vector of a lattice be computed in polynomial time on a classical or quantum computer?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can clustered planar drawings be found in polynomial time?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can the graph isomorphism problem be solved in polynomial time?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can leaf powers and k-leaf powers be recognized in polynomial time?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can parity games be solved in polynomial time?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can the rotation distance between two binary trees be computed in polynomial time?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can graphs of bounded clique-width be recognized in polynomial time?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can one find a simple closed quasigeodesic on a convex polyhedron in polynomial time?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Can a simultaneous embedding with fixed edges for two given graphs be found in polynomial time?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
