@@ -1,6 +1,6 @@
 [
     {
-        "question": "Democratic Presidential Candidate Bernie Sanders has claimed that 'Americans don't know that... almost all of the wealth rests in the hands of the few.' What percent of all the household wealth in the United States does the top 0.1% (that is, one in one thousand people) own?",
+        "question": "What percent of all the household wealth in the United States does the top 0.1% (that is, one in one thousand people) own?",
         "options": [
             " Less than 10%",
             " Between 10% and 25%",
@@ -8,7 +8,7 @@
             " Between 40% and 55%",
             " Between 55% and 70%",
             " Between 70% and 85%",
-            " More than 85% "
+            " More than 85%"
         ],
         "answer_index": 1
     },

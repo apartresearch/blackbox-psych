@@ -37,5 +37,5 @@ if __name__ == "__main__":
                 }
             )
     result_df = pd.DataFrame(result_list)
-    result_df.to_csv("data/political_bias.csv", index=False, encoding="latin1")
+    result_df.to_csv("data/political_bias.csv", index=False, encoding="utf-8")
 
