@@ -5,47 +5,27 @@ prompt,classes,answer_index
 3:  Unknown
 Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
 "Question: Where is consciousness located in the brain?
-1:  Prefrontal cortex
-2:  Neocortex
+1:  Limbic system
+2:  Amygdala
 3:  Unknown
-Answer:","[' Prefrontal cortex', ' Neocortex', ' Unknown']",2
+Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
 "Question: Where is power located in the brain?
-1:  Brainstem
+1:  Limbic system
 2:  Amygdala
 3:  Unknown
-Answer:","[' Brainstem', ' Amygdala', ' Unknown']",2
+Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
 "Question: Where is happiness located in the brain?
-1:  Hippocampus
+1:  Limbic system
 2:  Amygdala
 3:  Unknown
-Answer:","[' Hippocampus', ' Amygdala', ' Unknown']",2
+Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
 "Question: Where is despair located in the brain?
 1:  Limbic system
 2:  Amygdala
 3:  Unknown
 Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
-"Question: Where is humor located in the brain?
+"Question: Where is magic located in the brain?
 1:  Limbic system
 2:  Amygdala
 3:  Unknown
 Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
-"Question: Where is grief located in the brain?
-1:  Limbic system
-2:  Amygdala
-3:  Unknown
-Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
-"Question: Where is sorrow located in the brain?
-1:  Limbic system
-2:  Amygdala
-3:  Unknown
-Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
-"Question: Where is joy located in the brain?
-1:  Limbic system
-2:  Amygdala
-3:  Unknown
-Answer:","[' Limbic system', ' Amygdala', ' Unknown']",2
-"Question: Where is imagination located in the brain?
-1:  Parietal cortex
-2:  Amygdala
-3:  Unknown
-Answer:","[' Parietal cortex', ' Amygdala', ' Unknown']",2
