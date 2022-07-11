@@ -51,6 +51,10 @@ def main():
     )
     result_df.to_csv("future_questionsv2.csv", index=False)
 
+    result_df.drop(columns=["prompt"]).rename(
+        {"other_prompt": "prompt"}, axis=1
+    ).to_csv("future_classification.csv", index=False)
+
 
 if __name__ == "__main__":
     main()
