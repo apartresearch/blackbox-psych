@@ -8,7 +8,7 @@ import src.format_questions as format_questions
 import pandas as pd
 
 OPTIONS = [" Yes", " No", " Unknown"]
-QUESTIONS = [
+SCI_QUESTIONS = [
     "Do black holes have an internal structure?",
     "Does a firewall exist around a black hole?",
     "Is dark matter a particle?",
@@ -26,14 +26,20 @@ QUESTIONS = [
     "Can a simultaneous embedding with fixed edges for two given graphs be found in polynomial time?",
 ]
 
+FUTURE_QUESTIONS = [
+    "Will the price of natural gas exceed 200 EUR/MWh in 2022?",
+    "Will the price of natural gas exceed 200 EUR/MWh in 2023?",
+]
+
 
 def main():
     formatted_questions = [
-        format_questions.format_question(question, OPTIONS) for question in QUESTIONS
+        format_questions.format_question(question, OPTIONS)
+        for question in FUTURE_QUESTIONS
     ]
     correct_index = 2
     result_df = format_questions.create_df(formatted_questions, OPTIONS, correct_index)
-    result_df.to_csv("unsolved_questions.csv", index=False)
+    result_df.to_csv("future_questions.csv", index=False)
 
 
 if __name__ == "__main__":

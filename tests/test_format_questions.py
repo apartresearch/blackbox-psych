@@ -36,3 +36,15 @@ def test_create_df():
     assert actual.equals(expected)
     assert actual.columns[1] == "classes"
 
+
+def test_format_commodity_question():
+    # Format of future question: Will the price of X exceed Y UNIT in ZYEAR?
+    commodity_dict = {"natural gas": {"unit": "EUR/MWh"}, "gold": {"unit": "USD/gram"}}
+    commodity = "natural gas"
+    year = 2023
+    price = 200
+    expected = "Will the price of natural gas exceed 200 EUR/MWh in 2023?"
+    actual = format_questions.format_commodity_question(
+        commodity_dict, commodity, year, price
+    )
+

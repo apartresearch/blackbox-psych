@@ -1,0 +1,541 @@
+prompt,other_prompt,classes,answer_index
+"Question: Will the price of natural gas exceed 50 EUR/MWh in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 50 EUR/MWh in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 100 EUR/MWh in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 100 EUR/MWh in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 200 EUR/MWh in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 200 EUR/MWh in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 50 EUR/MWh in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 50 EUR/MWh in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 100 EUR/MWh in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 100 EUR/MWh in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 200 EUR/MWh in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 200 EUR/MWh in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 50 EUR/MWh in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 50 EUR/MWh in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 100 EUR/MWh in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 100 EUR/MWh in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 200 EUR/MWh in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 200 EUR/MWh in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 50 EUR/MWh in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 50 EUR/MWh in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 100 EUR/MWh in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 100 EUR/MWh in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 200 EUR/MWh in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 200 EUR/MWh in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 50 EUR/MWh in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 50 EUR/MWh in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 100 EUR/MWh in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 100 EUR/MWh in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of natural gas exceed 200 EUR/MWh in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of natural gas exceed 200 EUR/MWh in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 50 USD/gram in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 50 USD/gram in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 100 USD/gram in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 100 USD/gram in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 200 USD/gram in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 200 USD/gram in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 50 USD/gram in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 50 USD/gram in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 100 USD/gram in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 100 USD/gram in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 200 USD/gram in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 200 USD/gram in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 50 USD/gram in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 50 USD/gram in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 100 USD/gram in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 100 USD/gram in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 200 USD/gram in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 200 USD/gram in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 50 USD/gram in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 50 USD/gram in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 100 USD/gram in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 100 USD/gram in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 200 USD/gram in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 200 USD/gram in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 50 USD/gram in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 50 USD/gram in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 100 USD/gram in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 100 USD/gram in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of gold exceed 200 USD/gram in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of gold exceed 200 USD/gram in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 50 USD per barrel in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 50 USD per barrel in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 100 USD per barrel in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 100 USD per barrel in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 200 USD per barrel in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 200 USD per barrel in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 50 USD per barrel in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 50 USD per barrel in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 100 USD per barrel in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 100 USD per barrel in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 200 USD per barrel in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 200 USD per barrel in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 50 USD per barrel in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 50 USD per barrel in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 100 USD per barrel in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 100 USD per barrel in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 200 USD per barrel in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 200 USD per barrel in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 50 USD per barrel in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 50 USD per barrel in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 100 USD per barrel in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 100 USD per barrel in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 200 USD per barrel in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 200 USD per barrel in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 50 USD per barrel in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 50 USD per barrel in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 100 USD per barrel in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 100 USD per barrel in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of brent oil exceed 200 USD per barrel in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of brent oil exceed 200 USD per barrel in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 50 USD per metric kg in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 50 USD per metric kg in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 100 USD per metric kg in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 100 USD per metric kg in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 200 USD per metric kg in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 200 USD per metric kg in 2023?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 50 USD per metric kg in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 50 USD per metric kg in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 100 USD per metric kg in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 100 USD per metric kg in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 200 USD per metric kg in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 200 USD per metric kg in 2025?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 50 USD per metric kg in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 50 USD per metric kg in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 100 USD per metric kg in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 100 USD per metric kg in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 200 USD per metric kg in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 200 USD per metric kg in 2030?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 50 USD per metric kg in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 50 USD per metric kg in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 100 USD per metric kg in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 100 USD per metric kg in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 200 USD per metric kg in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 200 USD per metric kg in 2032?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 50 USD per metric kg in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 50 USD per metric kg in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 100 USD per metric kg in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 100 USD per metric kg in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
+"Question: Will the price of lithium exceed 200 USD per metric kg in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","Question: Did the price of lithium exceed 200 USD per metric kg in 2037?
+1:  Yes
+2:  No
+3:  Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2
