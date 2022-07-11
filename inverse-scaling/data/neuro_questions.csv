@@ -1,0 +1,16 @@
+prompt,classes,answer_index
+"Question: Where is consciousness located in the brain?
+1:  Cerebral cortex
+2:  Thalamus
+3:  Unknown
+Answer:","[' Cerebral cortex', ' Thalamus', ' Unknown']",2
+"Question: Where is emotion located in the brain?
+1:  Amygdala
+2:  Limbic System
+3:  Unknown
+Answer:","[' Amygdala', ' Limbic System', ' Unknown']",2
+"Question: Where is attention located in the brain?
+1:  Frontal cortex
+2:  Hippocampus
+3:  Unknown
+Answer:","[' Frontal cortex', ' Hippocampus', ' Unknown']",2

@@ -32,6 +32,22 @@ def create_df(
     )
 
 
+def create_df_from_dict(questions: dict, answer_index: int) -> pd.DataFrame:
+    """
+    Creates a dataframe with questions and options
+    """
+    output_dictlist = [
+        {
+            "prompt": format_question(question, options),
+            "classes": options,
+            "answer_index": answer_index,
+        }
+        for question, options in questions.items()
+    ]
+
+    return pd.DataFrame(output_dictlist)
+
+
 def create_diff_df(
     questions: list, other_qs: list, options: list, answer_index: int
 ) -> pd.DataFrame:

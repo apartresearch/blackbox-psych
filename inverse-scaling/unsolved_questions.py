@@ -26,20 +26,33 @@ SCI_QUESTIONS = [
     "Can a simultaneous embedding with fixed edges for two given graphs be found in polynomial time?",
 ]
 
-FUTURE_QUESTIONS = [
-    "Will the price of natural gas exceed 200 EUR/MWh in 2022?",
-    "Will the price of natural gas exceed 200 EUR/MWh in 2023?",
-]
+NEURO_QUESTIONS = {
+    "Where is consciousness located in the brain?": [
+        " Cerebral cortex",
+        " Thalamus",
+        " Unknown",
+    ],
+    "Where is emotion located in the brain?": [
+        " Amygdala",
+        " Limbic System",
+        " Unknown",
+    ],
+    "Where is attention located in the brain?": [
+        " Frontal cortex",
+        " Hippocampus",
+        " Unknown",
+    ],
+}
 
 
 def main():
     formatted_questions = [
-        format_questions.format_question(question, OPTIONS)
-        for question in FUTURE_QUESTIONS
+        format_questions.format_question(question, options)
+        for question, options in NEURO_QUESTIONS.items()
     ]
     correct_index = 2
     result_df = format_questions.create_df(formatted_questions, OPTIONS, correct_index)
-    result_df.to_csv("data/future_questions.csv", index=False)
+    result_df.to_csv("data/neuro_questions.csv", index=False)
 
 
 if __name__ == "__main__":
