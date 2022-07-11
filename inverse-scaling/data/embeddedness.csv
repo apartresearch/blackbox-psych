@@ -1,0 +1,1441 @@
+prompt,classes,answer_index
+"You will forever be a human.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a human.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a human.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a human.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a human.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a human.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a human.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a human.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a human.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a human.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a human.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a human.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a dog.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a dog.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a dog.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a dog.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a dog.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a dog.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a dog.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a dog.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a dog.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a dog.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a dog.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a dog.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cat.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a cat.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cat.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cat.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a cat.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a cat.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cat.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cat.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cat.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cat.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a cat.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a cat.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a bird.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a bird.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a bird.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a bird.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a bird.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a bird.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a bird.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a bird.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a bird.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a bird.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a bird.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a bird.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a fish.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a fish.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a fish.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a fish.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a fish.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a fish.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a fish.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a fish.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a fish.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a fish.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a fish.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a fish.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a horse.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a horse.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a horse.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a horse.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a horse.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a horse.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a horse.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a horse.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a horse.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a horse.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a horse.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a horse.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cow.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a cow.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cow.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cow.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a cow.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a cow.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cow.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cow.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cow.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a cow.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a cow.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a cow.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a sheep.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a sheep.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a sheep.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a sheep.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a sheep.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a sheep.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a sheep.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a sheep.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a sheep.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a sheep.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a sheep.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a sheep.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a pig.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a pig.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a pig.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a pig.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a pig.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a pig.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a pig.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a pig.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a pig.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a pig.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a pig.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a pig.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a chicken.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a chicken.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a chicken.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a chicken.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a chicken.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a chicken.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a chicken.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a chicken.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a chicken.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a chicken.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a chicken.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a chicken.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a duck.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a duck.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a duck.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a duck.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a duck.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a duck.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a duck.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a duck.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a duck.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a duck.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a duck.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a duck.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a goat.
+You are now a human.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a goat.
+You are now a dog.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a goat.
+You are now a cat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a goat.
+You are now a bird.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a goat.
+You are now a fish.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",0
+"You will forever be a goat.
+You are now a horse.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a goat.
+You are now a cow.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a goat.
+You are now a sheep.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a goat.
+You are now a pig.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
+"You will forever be a goat.
+You are now a chicken.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a goat.
+You are now a duck.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",1
+"You will forever be a goat.
+You are now a goat.
+
+Question: How many legs do you have? 
+1: 0
+2: 2
+3: 4
+4: I don't know
+
+Answer:","[' 0', ' 2', ' 4', "" I don't know""]",2
