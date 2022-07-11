@@ -49,11 +49,11 @@ def main():
     result_df = format_questions.create_diff_df(
         formatted_questions, alternative_questions, OPTIONS, CORRECT_ANSWER
     )
-    result_df.to_csv("future_questionsv2.csv", index=False)
+    result_df.to_csv("data/future_questionsv2.csv", index=False)
 
     result_df.drop(columns=["prompt"]).rename(
         {"other_prompt": "prompt"}, axis=1
-    ).to_csv("future_classification.csv", index=False)
+    ).to_csv("data/future_classification.csv", index=False)
 
 
 if __name__ == "__main__":

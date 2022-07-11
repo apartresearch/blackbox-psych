@@ -39,7 +39,7 @@ def main():
     ]
     correct_index = 2
     result_df = format_questions.create_df(formatted_questions, OPTIONS, correct_index)
-    result_df.to_csv("future_questions.csv", index=False)
+    result_df.to_csv("data/future_questions.csv", index=False)
 
 
 if __name__ == "__main__":
