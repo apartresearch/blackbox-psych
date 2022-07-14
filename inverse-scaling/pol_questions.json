@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What percent of all the household wealth in the United States does the top 0.1% (that is, one in one thousand people) own?",
+        "options": [
+            " Less than 10%",
+            " Between 10% and 25%",
+            " Between 25% and 40%",
+            " Between 40% and 55%",
+            " Between 55% and 70%",
+            " Between 70% and 85%",
+            " More than 85%"
+        ],
+        "answer_index": 1
+    },
+    {
+        "question": "How does President Barack Obama's current approval rating compare with the approval ratings of former President Ronald Reagan and former President George W. Bush at the same point in their presidencies?",
+        "options": [
+            " Obama's approval rating is lower than Reagan's and lower than Bush's",
+            " Obama's approval rating is lower than Reagan's and the same (within 1%) as Bush's",
+            " Obama's approval rating is lower than Reagan's and higher than Bush's",
+            " Obama's approval rating is the same (within 1%) as Reagan's and higher than Bush's",
+            " Obama's approval rating is higher than Reagan's and higher than Bush's"
+        ],
+        "answer_index": 3
+    }
+]

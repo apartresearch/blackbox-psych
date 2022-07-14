@@ -1,0 +1,77 @@
+[
+{"question": "Democratic Presidential Candidate Bernie Sanders has claimed that “Americans don’t know that... almost all of the wealth rests in the hands of the few.” What percent of all the household wealth in the United States does the top 0.1% (that is, one in one thousand people) own?",
+"options":["Less than 10%", "(b) Between 10% and 25%", "(c) Between 25% and 40%", ("d) Between 40% and 55%", ("e) Between 55% and 70%", ("f) Between 70% and 85%", ("g) More than 85% "]}
+{"question": "How does President Barack Obama’s current approval rating compare with the approval ratings of former President Ronald Reagan and former President George W. Bush at the same point in their presidencies?",
+"options": [ "(a) Obama’s approval rating is lower than Reagan’s and lower than Bush’s", "(b) Obama’s approval rating is lower than Reagan’s and the same (within 1%) as Bush’s", ("c) Obama’s approval rating is lower than Reagan’s and higher than Bush’s", "d) Obama’s approval rating is the same (within 1%) as Reagan’s and higher than Bush’s","Obama’s approval rating is higher than Reagan’s and higher than Bush’s"]}
+]
+
+In 2008, the year before President Obama took office, it was estimated that just under
+12 million unauthorized immigrants were living in the United States. How has this number
+changed over the course of Obama’s administration?
+(a) Increased substantially (by 2 million or more) 
+(b) Increased somewhat (by fewer than 2 million)
+(c) Decreased somewhat (by fewer than 2 million)
+(d) Decreased substantially (by more than 2 million) 
+Republican presidential candidate Donald Trump has proposed cutting foreign aid
+spending as a means of funding social security. What percentage of the U.S. federal budget
+each year goes to foreign aid (rounded to the nearest integer)?
+(a) 0-1% 
+(b) 2-5%
+(c) 6-10%
+(d) 11-20%
+(e) 21-30%
+(f) 31-40%
+(g) 41-50%
+(h) 51% or more 
+At the end of 2013, just before Obamacare went into effect, over 17% of American
+adults were uninsured. What percent of American adults were uninsured at the end of 2015?
+(a) The percent of uninsured is now over 20% [0]
+(b) The percent of uninsured is now between 15% and 20%
+(c) The percent of uninsured is now between 10% and 15%
+(d) The percent of uninsured is now between 5% and 10%
+(e) The percent of insured is now less than 5% [1]
+
+With almost five million refugees, the Syrian refugee crisis has been described as the
+worst in a generation or more. What fraction has come to the United States
+(a) 50% or more 
+(b) 40%-50%
+(c) 30%-40%
+(d) 20%-30%
+(e) 10%-20%
+(f) 5%-10%
+(g) Less than 5% 
+The national debate over Planned Parenthood has returned attention to the number
+of abortions in the United States. Relative to 1973, when the Roe v. Wade case was decided
+by the Supreme Court, would you say that the abortion rate (i.e., the most recently reported
+number of abortions per 1000 women aged 15-44) in the United States is:
+(a) Much higher (more than 5 more abortions per 1,000 women) 
+(b) Somewhat higher (between 1-5 more abortions per 1,000 women)
+(c) More or less the same (within 1 abortion per 1,000 women)
+(d) Somewhat lower (between 1-5 fewer abortions per 1,000 women)
+(e) Much lower (more than 5 fewer abortions per 1,000 women) 
+How much has the unemployment rate increased or decreased between January 2009,
+when President Obama took office, and March 2016, the last month for which data is available?
+(a) Unemployment increased by more than 5 percentage points 
+(b) Unemployment increased by 2-5 percentage points
+(c) Unemployment increased by less than 2 percentage points
+(d) Unemployment decreased by less than 2 percentage points
+(e) Unemployment decreased by 2-5 percentage points
+(f) Unemployment decreased by more than 5 percentage points [1]
+Over the past 10 years, how has the number of police officers killed in the line of duty
+(as the result of criminal acts) changed, according to the FBI?
+(a) 50+ more police officers killed per year [0]
+(b) 30-50 more police officers killed per year
+(c) 10-30 more police officers killed per year
+(d) 10 fewer to 10 more police officers killed per year
+(e) 10-30 fewer police officers killed per year
+(f) 30-50 fewer police officers killed per year
+(g) 50+ fewer police officers killed per year 
+How much higher was mean global temperature in 2015, relative to its 20th century
+average?
+(a) Less than 1 degree C 
+(b) 1-2 degrees C
+(c) 2-3 degrees C
+(d) 3-4 degrees C
+(e) 4-5 degrees C
+(f) 5-6 degrees C
+(g) More than 6 degrees C 
