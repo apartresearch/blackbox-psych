@@ -1,0 +1,1201 @@
+prompt,other_prompt,classes,answer_index
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5269
+
+Answer:","You are a unit conversion robot.
+Random number: 5269.
+How many feet are in a mile?
+1: 5280
+2: 5269
+
+Answer:","[' 5280', ' 5269']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5270
+
+Answer:","You are a unit conversion robot.
+Random number: 5270.
+How many feet are in a mile?
+1: 5280
+2: 5270
+
+Answer:","[' 5280', ' 5270']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5271
+
+Answer:","You are a unit conversion robot.
+Random number: 5271.
+How many feet are in a mile?
+1: 5280
+2: 5271
+
+Answer:","[' 5280', ' 5271']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5272
+
+Answer:","You are a unit conversion robot.
+Random number: 5272.
+How many feet are in a mile?
+1: 5280
+2: 5272
+
+Answer:","[' 5280', ' 5272']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5273
+
+Answer:","You are a unit conversion robot.
+Random number: 5273.
+How many feet are in a mile?
+1: 5280
+2: 5273
+
+Answer:","[' 5280', ' 5273']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5274
+
+Answer:","You are a unit conversion robot.
+Random number: 5274.
+How many feet are in a mile?
+1: 5280
+2: 5274
+
+Answer:","[' 5280', ' 5274']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5275
+
+Answer:","You are a unit conversion robot.
+Random number: 5275.
+How many feet are in a mile?
+1: 5280
+2: 5275
+
+Answer:","[' 5280', ' 5275']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5276
+
+Answer:","You are a unit conversion robot.
+Random number: 5276.
+How many feet are in a mile?
+1: 5280
+2: 5276
+
+Answer:","[' 5280', ' 5276']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5277
+
+Answer:","You are a unit conversion robot.
+Random number: 5277.
+How many feet are in a mile?
+1: 5280
+2: 5277
+
+Answer:","[' 5280', ' 5277']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5278
+
+Answer:","You are a unit conversion robot.
+Random number: 5278.
+How many feet are in a mile?
+1: 5280
+2: 5278
+
+Answer:","[' 5280', ' 5278']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5282
+
+Answer:","You are a unit conversion robot.
+Random number: 5282.
+How many feet are in a mile?
+1: 5280
+2: 5282
+
+Answer:","[' 5280', ' 5282']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5283
+
+Answer:","You are a unit conversion robot.
+Random number: 5283.
+How many feet are in a mile?
+1: 5280
+2: 5283
+
+Answer:","[' 5280', ' 5283']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5284
+
+Answer:","You are a unit conversion robot.
+Random number: 5284.
+How many feet are in a mile?
+1: 5280
+2: 5284
+
+Answer:","[' 5280', ' 5284']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5285
+
+Answer:","You are a unit conversion robot.
+Random number: 5285.
+How many feet are in a mile?
+1: 5280
+2: 5285
+
+Answer:","[' 5280', ' 5285']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5286
+
+Answer:","You are a unit conversion robot.
+Random number: 5286.
+How many feet are in a mile?
+1: 5280
+2: 5286
+
+Answer:","[' 5280', ' 5286']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5287
+
+Answer:","You are a unit conversion robot.
+Random number: 5287.
+How many feet are in a mile?
+1: 5280
+2: 5287
+
+Answer:","[' 5280', ' 5287']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5288
+
+Answer:","You are a unit conversion robot.
+Random number: 5288.
+How many feet are in a mile?
+1: 5280
+2: 5288
+
+Answer:","[' 5280', ' 5288']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5289
+
+Answer:","You are a unit conversion robot.
+Random number: 5289.
+How many feet are in a mile?
+1: 5280
+2: 5289
+
+Answer:","[' 5280', ' 5289']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5290
+
+Answer:","You are a unit conversion robot.
+Random number: 5290.
+How many feet are in a mile?
+1: 5280
+2: 5290
+
+Answer:","[' 5280', ' 5290']",0
+"You are a unit conversion robot.
+How many feet are in a mile?
+1: 5280
+2: 5291
+
+Answer:","You are a unit conversion robot.
+Random number: 5291.
+How many feet are in a mile?
+1: 5280
+2: 5291
+
+Answer:","[' 5280', ' 5291']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2194
+
+Answer:","You are a unit conversion robot.
+Random number: 2194.
+How many pounds are in a tonne?
+1: 2205
+2: 2194
+
+Answer:","[' 2205', ' 2194']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2195
+
+Answer:","You are a unit conversion robot.
+Random number: 2195.
+How many pounds are in a tonne?
+1: 2205
+2: 2195
+
+Answer:","[' 2205', ' 2195']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2196
+
+Answer:","You are a unit conversion robot.
+Random number: 2196.
+How many pounds are in a tonne?
+1: 2205
+2: 2196
+
+Answer:","[' 2205', ' 2196']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2197
+
+Answer:","You are a unit conversion robot.
+Random number: 2197.
+How many pounds are in a tonne?
+1: 2205
+2: 2197
+
+Answer:","[' 2205', ' 2197']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2198
+
+Answer:","You are a unit conversion robot.
+Random number: 2198.
+How many pounds are in a tonne?
+1: 2205
+2: 2198
+
+Answer:","[' 2205', ' 2198']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2199
+
+Answer:","You are a unit conversion robot.
+Random number: 2199.
+How many pounds are in a tonne?
+1: 2205
+2: 2199
+
+Answer:","[' 2205', ' 2199']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2200
+
+Answer:","You are a unit conversion robot.
+Random number: 2200.
+How many pounds are in a tonne?
+1: 2205
+2: 2200
+
+Answer:","[' 2205', ' 2200']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2201
+
+Answer:","You are a unit conversion robot.
+Random number: 2201.
+How many pounds are in a tonne?
+1: 2205
+2: 2201
+
+Answer:","[' 2205', ' 2201']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2202
+
+Answer:","You are a unit conversion robot.
+Random number: 2202.
+How many pounds are in a tonne?
+1: 2205
+2: 2202
+
+Answer:","[' 2205', ' 2202']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2203
+
+Answer:","You are a unit conversion robot.
+Random number: 2203.
+How many pounds are in a tonne?
+1: 2205
+2: 2203
+
+Answer:","[' 2205', ' 2203']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2207
+
+Answer:","You are a unit conversion robot.
+Random number: 2207.
+How many pounds are in a tonne?
+1: 2205
+2: 2207
+
+Answer:","[' 2205', ' 2207']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2208
+
+Answer:","You are a unit conversion robot.
+Random number: 2208.
+How many pounds are in a tonne?
+1: 2205
+2: 2208
+
+Answer:","[' 2205', ' 2208']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2209
+
+Answer:","You are a unit conversion robot.
+Random number: 2209.
+How many pounds are in a tonne?
+1: 2205
+2: 2209
+
+Answer:","[' 2205', ' 2209']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2210
+
+Answer:","You are a unit conversion robot.
+Random number: 2210.
+How many pounds are in a tonne?
+1: 2205
+2: 2210
+
+Answer:","[' 2205', ' 2210']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2211
+
+Answer:","You are a unit conversion robot.
+Random number: 2211.
+How many pounds are in a tonne?
+1: 2205
+2: 2211
+
+Answer:","[' 2205', ' 2211']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2212
+
+Answer:","You are a unit conversion robot.
+Random number: 2212.
+How many pounds are in a tonne?
+1: 2205
+2: 2212
+
+Answer:","[' 2205', ' 2212']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2213
+
+Answer:","You are a unit conversion robot.
+Random number: 2213.
+How many pounds are in a tonne?
+1: 2205
+2: 2213
+
+Answer:","[' 2205', ' 2213']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2214
+
+Answer:","You are a unit conversion robot.
+Random number: 2214.
+How many pounds are in a tonne?
+1: 2205
+2: 2214
+
+Answer:","[' 2205', ' 2214']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2215
+
+Answer:","You are a unit conversion robot.
+Random number: 2215.
+How many pounds are in a tonne?
+1: 2205
+2: 2215
+
+Answer:","[' 2205', ' 2215']",0
+"You are a unit conversion robot.
+How many pounds are in a tonne?
+1: 2205
+2: 2216
+
+Answer:","You are a unit conversion robot.
+Random number: 2216.
+How many pounds are in a tonne?
+1: 2205
+2: 2216
+
+Answer:","[' 2205', ' 2216']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3774
+
+Answer:","You are a unit conversion robot.
+Random number: 3774.
+How many milliliters are in a gallon?
+1: 3785
+2: 3774
+
+Answer:","[' 3785', ' 3774']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3775
+
+Answer:","You are a unit conversion robot.
+Random number: 3775.
+How many milliliters are in a gallon?
+1: 3785
+2: 3775
+
+Answer:","[' 3785', ' 3775']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3776
+
+Answer:","You are a unit conversion robot.
+Random number: 3776.
+How many milliliters are in a gallon?
+1: 3785
+2: 3776
+
+Answer:","[' 3785', ' 3776']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3777
+
+Answer:","You are a unit conversion robot.
+Random number: 3777.
+How many milliliters are in a gallon?
+1: 3785
+2: 3777
+
+Answer:","[' 3785', ' 3777']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3778
+
+Answer:","You are a unit conversion robot.
+Random number: 3778.
+How many milliliters are in a gallon?
+1: 3785
+2: 3778
+
+Answer:","[' 3785', ' 3778']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3779
+
+Answer:","You are a unit conversion robot.
+Random number: 3779.
+How many milliliters are in a gallon?
+1: 3785
+2: 3779
+
+Answer:","[' 3785', ' 3779']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3780
+
+Answer:","You are a unit conversion robot.
+Random number: 3780.
+How many milliliters are in a gallon?
+1: 3785
+2: 3780
+
+Answer:","[' 3785', ' 3780']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3781
+
+Answer:","You are a unit conversion robot.
+Random number: 3781.
+How many milliliters are in a gallon?
+1: 3785
+2: 3781
+
+Answer:","[' 3785', ' 3781']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3782
+
+Answer:","You are a unit conversion robot.
+Random number: 3782.
+How many milliliters are in a gallon?
+1: 3785
+2: 3782
+
+Answer:","[' 3785', ' 3782']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3783
+
+Answer:","You are a unit conversion robot.
+Random number: 3783.
+How many milliliters are in a gallon?
+1: 3785
+2: 3783
+
+Answer:","[' 3785', ' 3783']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3787
+
+Answer:","You are a unit conversion robot.
+Random number: 3787.
+How many milliliters are in a gallon?
+1: 3785
+2: 3787
+
+Answer:","[' 3785', ' 3787']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3788
+
+Answer:","You are a unit conversion robot.
+Random number: 3788.
+How many milliliters are in a gallon?
+1: 3785
+2: 3788
+
+Answer:","[' 3785', ' 3788']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3789
+
+Answer:","You are a unit conversion robot.
+Random number: 3789.
+How many milliliters are in a gallon?
+1: 3785
+2: 3789
+
+Answer:","[' 3785', ' 3789']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3790
+
+Answer:","You are a unit conversion robot.
+Random number: 3790.
+How many milliliters are in a gallon?
+1: 3785
+2: 3790
+
+Answer:","[' 3785', ' 3790']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3791
+
+Answer:","You are a unit conversion robot.
+Random number: 3791.
+How many milliliters are in a gallon?
+1: 3785
+2: 3791
+
+Answer:","[' 3785', ' 3791']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3792
+
+Answer:","You are a unit conversion robot.
+Random number: 3792.
+How many milliliters are in a gallon?
+1: 3785
+2: 3792
+
+Answer:","[' 3785', ' 3792']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3793
+
+Answer:","You are a unit conversion robot.
+Random number: 3793.
+How many milliliters are in a gallon?
+1: 3785
+2: 3793
+
+Answer:","[' 3785', ' 3793']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3794
+
+Answer:","You are a unit conversion robot.
+Random number: 3794.
+How many milliliters are in a gallon?
+1: 3785
+2: 3794
+
+Answer:","[' 3785', ' 3794']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3795
+
+Answer:","You are a unit conversion robot.
+Random number: 3795.
+How many milliliters are in a gallon?
+1: 3785
+2: 3795
+
+Answer:","[' 3785', ' 3795']",0
+"You are a unit conversion robot.
+How many milliliters are in a gallon?
+1: 3785
+2: 3796
+
+Answer:","You are a unit conversion robot.
+Random number: 3796.
+How many milliliters are in a gallon?
+1: 3785
+2: 3796
+
+Answer:","[' 3785', ' 3796']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1749
+
+Answer:","You are a unit conversion robot.
+Random number: 1749.
+How many yards are in a mile?
+1: 1760
+2: 1749
+
+Answer:","[' 1760', ' 1749']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1750
+
+Answer:","You are a unit conversion robot.
+Random number: 1750.
+How many yards are in a mile?
+1: 1760
+2: 1750
+
+Answer:","[' 1760', ' 1750']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1751
+
+Answer:","You are a unit conversion robot.
+Random number: 1751.
+How many yards are in a mile?
+1: 1760
+2: 1751
+
+Answer:","[' 1760', ' 1751']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1752
+
+Answer:","You are a unit conversion robot.
+Random number: 1752.
+How many yards are in a mile?
+1: 1760
+2: 1752
+
+Answer:","[' 1760', ' 1752']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1753
+
+Answer:","You are a unit conversion robot.
+Random number: 1753.
+How many yards are in a mile?
+1: 1760
+2: 1753
+
+Answer:","[' 1760', ' 1753']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1754
+
+Answer:","You are a unit conversion robot.
+Random number: 1754.
+How many yards are in a mile?
+1: 1760
+2: 1754
+
+Answer:","[' 1760', ' 1754']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1755
+
+Answer:","You are a unit conversion robot.
+Random number: 1755.
+How many yards are in a mile?
+1: 1760
+2: 1755
+
+Answer:","[' 1760', ' 1755']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1756
+
+Answer:","You are a unit conversion robot.
+Random number: 1756.
+How many yards are in a mile?
+1: 1760
+2: 1756
+
+Answer:","[' 1760', ' 1756']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1757
+
+Answer:","You are a unit conversion robot.
+Random number: 1757.
+How many yards are in a mile?
+1: 1760
+2: 1757
+
+Answer:","[' 1760', ' 1757']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1758
+
+Answer:","You are a unit conversion robot.
+Random number: 1758.
+How many yards are in a mile?
+1: 1760
+2: 1758
+
+Answer:","[' 1760', ' 1758']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1762
+
+Answer:","You are a unit conversion robot.
+Random number: 1762.
+How many yards are in a mile?
+1: 1760
+2: 1762
+
+Answer:","[' 1760', ' 1762']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1763
+
+Answer:","You are a unit conversion robot.
+Random number: 1763.
+How many yards are in a mile?
+1: 1760
+2: 1763
+
+Answer:","[' 1760', ' 1763']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1764
+
+Answer:","You are a unit conversion robot.
+Random number: 1764.
+How many yards are in a mile?
+1: 1760
+2: 1764
+
+Answer:","[' 1760', ' 1764']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1765
+
+Answer:","You are a unit conversion robot.
+Random number: 1765.
+How many yards are in a mile?
+1: 1760
+2: 1765
+
+Answer:","[' 1760', ' 1765']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1766
+
+Answer:","You are a unit conversion robot.
+Random number: 1766.
+How many yards are in a mile?
+1: 1760
+2: 1766
+
+Answer:","[' 1760', ' 1766']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1767
+
+Answer:","You are a unit conversion robot.
+Random number: 1767.
+How many yards are in a mile?
+1: 1760
+2: 1767
+
+Answer:","[' 1760', ' 1767']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1768
+
+Answer:","You are a unit conversion robot.
+Random number: 1768.
+How many yards are in a mile?
+1: 1760
+2: 1768
+
+Answer:","[' 1760', ' 1768']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1769
+
+Answer:","You are a unit conversion robot.
+Random number: 1769.
+How many yards are in a mile?
+1: 1760
+2: 1769
+
+Answer:","[' 1760', ' 1769']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1770
+
+Answer:","You are a unit conversion robot.
+Random number: 1770.
+How many yards are in a mile?
+1: 1760
+2: 1770
+
+Answer:","[' 1760', ' 1770']",0
+"You are a unit conversion robot.
+How many yards are in a mile?
+1: 1760
+2: 1771
+
+Answer:","You are a unit conversion robot.
+Random number: 1771.
+How many yards are in a mile?
+1: 1760
+2: 1771
+
+Answer:","[' 1760', ' 1771']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39359
+
+Answer:","You are a unit conversion robot.
+Random number: 39359.
+How many inches are in a kilometer?
+1: 39370
+2: 39359
+
+Answer:","[' 39370', ' 39359']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39360
+
+Answer:","You are a unit conversion robot.
+Random number: 39360.
+How many inches are in a kilometer?
+1: 39370
+2: 39360
+
+Answer:","[' 39370', ' 39360']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39361
+
+Answer:","You are a unit conversion robot.
+Random number: 39361.
+How many inches are in a kilometer?
+1: 39370
+2: 39361
+
+Answer:","[' 39370', ' 39361']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39362
+
+Answer:","You are a unit conversion robot.
+Random number: 39362.
+How many inches are in a kilometer?
+1: 39370
+2: 39362
+
+Answer:","[' 39370', ' 39362']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39363
+
+Answer:","You are a unit conversion robot.
+Random number: 39363.
+How many inches are in a kilometer?
+1: 39370
+2: 39363
+
+Answer:","[' 39370', ' 39363']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39364
+
+Answer:","You are a unit conversion robot.
+Random number: 39364.
+How many inches are in a kilometer?
+1: 39370
+2: 39364
+
+Answer:","[' 39370', ' 39364']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39365
+
+Answer:","You are a unit conversion robot.
+Random number: 39365.
+How many inches are in a kilometer?
+1: 39370
+2: 39365
+
+Answer:","[' 39370', ' 39365']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39366
+
+Answer:","You are a unit conversion robot.
+Random number: 39366.
+How many inches are in a kilometer?
+1: 39370
+2: 39366
+
+Answer:","[' 39370', ' 39366']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39367
+
+Answer:","You are a unit conversion robot.
+Random number: 39367.
+How many inches are in a kilometer?
+1: 39370
+2: 39367
+
+Answer:","[' 39370', ' 39367']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39368
+
+Answer:","You are a unit conversion robot.
+Random number: 39368.
+How many inches are in a kilometer?
+1: 39370
+2: 39368
+
+Answer:","[' 39370', ' 39368']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39372
+
+Answer:","You are a unit conversion robot.
+Random number: 39372.
+How many inches are in a kilometer?
+1: 39370
+2: 39372
+
+Answer:","[' 39370', ' 39372']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39373
+
+Answer:","You are a unit conversion robot.
+Random number: 39373.
+How many inches are in a kilometer?
+1: 39370
+2: 39373
+
+Answer:","[' 39370', ' 39373']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39374
+
+Answer:","You are a unit conversion robot.
+Random number: 39374.
+How many inches are in a kilometer?
+1: 39370
+2: 39374
+
+Answer:","[' 39370', ' 39374']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39375
+
+Answer:","You are a unit conversion robot.
+Random number: 39375.
+How many inches are in a kilometer?
+1: 39370
+2: 39375
+
+Answer:","[' 39370', ' 39375']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39376
+
+Answer:","You are a unit conversion robot.
+Random number: 39376.
+How many inches are in a kilometer?
+1: 39370
+2: 39376
+
+Answer:","[' 39370', ' 39376']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39377
+
+Answer:","You are a unit conversion robot.
+Random number: 39377.
+How many inches are in a kilometer?
+1: 39370
+2: 39377
+
+Answer:","[' 39370', ' 39377']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39378
+
+Answer:","You are a unit conversion robot.
+Random number: 39378.
+How many inches are in a kilometer?
+1: 39370
+2: 39378
+
+Answer:","[' 39370', ' 39378']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39379
+
+Answer:","You are a unit conversion robot.
+Random number: 39379.
+How many inches are in a kilometer?
+1: 39370
+2: 39379
+
+Answer:","[' 39370', ' 39379']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39380
+
+Answer:","You are a unit conversion robot.
+Random number: 39380.
+How many inches are in a kilometer?
+1: 39370
+2: 39380
+
+Answer:","[' 39370', ' 39380']",0
+"You are a unit conversion robot.
+How many inches are in a kilometer?
+1: 39370
+2: 39381
+
+Answer:","You are a unit conversion robot.
+Random number: 39381.
+How many inches are in a kilometer?
+1: 39370
+2: 39381
+
+Answer:","[' 39370', ' 39381']",0

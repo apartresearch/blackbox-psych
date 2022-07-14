@@ -30,19 +30,18 @@ df %>%
 ```{r fig.height=8, fig.width=8}
 df <- read_csv("output/3_test.csv")
 
-df %>% 
+df2 <- df %>% 
   drop_na(anchor) %>%
   mutate(
     answer_num = as.numeric(str_extract(str_replace(answer, ",", ""),"[-+]?(?:\\d*\\.\\d+|\\d+)") ),
-    engine = as.factor(engine),
-    ai = min(1, (answer_num - calibration) / (anchor - calibration))
+    engine = as.factor(engine)
   ) %>% 
-  select(ai, anchor, question, everything()) %>% 
-  # group_by(anchor_diff) %>% 
-  # summarise(answer_num = median(answer_num),
-  #           engine = first(engine),
-  #           question = first(question)) %>% 
-  # ungroup() %>% 
+  mutate(
+    ai = pmax(pmin(1, (answer_num - calibration) / (anchor - calibration)), 0)
+  ) %>% 
+  select(ai, anchor, question, everything())
+  
+df2 %>% 
   mutate(anchor_diff = as.factor(anchor_diff)) %>% 
   ggplot() +
   aes(x=ai, y=anchor_diff, fill=anchor_diff) +
@@ -50,9 +49,11 @@ df %>%
   theme_light() +
   facet_wrap(~question, scales="free_x") +
   theme(legend.position="none")
-
+df2 %>% 
+  group_by(question) %>% 
+  summarise(calibration = first(calibration),
+            answer = first(answer))
 ggsave("plots/anchor_boxplots.png", width=12, height=12)
-
 ```
 
 ```{r}
