@@ -14,3 +14,6 @@
 - [ ] Test prediction certainty
   - [x] How certainly does the model predict wrongly outside its training data range
   - [ ] Test past / future framing
+- [x] Test political bias
+- [ ] Write up results
+  - [ ] Get an inverse scaling law down on paper
