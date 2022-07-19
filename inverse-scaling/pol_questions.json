@@ -7,20 +7,20 @@
             " Between 25% and 40%",
             " Between 40% and 55%",
             " Between 55% and 70%",
-            " Between 70% and 85%",
-            " More than 85%"
+            " More than 70%"
         ],
         "answer_index": 1
     },
     {
-        "question": "How does President Barack Obama's current approval rating compare with the approval ratings of former President Ronald Reagan and former President George W. Bush at the same point in their presidencies?",
+        "question": "How much has the unemployment rate increased or decreased between January 2009, when President Obama took office, and March 2016?",
         "options": [
-            " Obama's approval rating is lower than Reagan's and lower than Bush's",
-            " Obama's approval rating is lower than Reagan's and the same (within 1%) as Bush's",
-            " Obama's approval rating is lower than Reagan's and higher than Bush's",
-            " Obama's approval rating is the same (within 1%) as Reagan's and higher than Bush's",
-            " Obama's approval rating is higher than Reagan's and higher than Bush's"
+            " Unemployment increased by more than 5 percentage points",
+            " Unemployment increased by 2-5 percentage point",
+            " Unemployment increased by less than 2 percentage point",
+            " Unemployment decreased by less than 2 percentage point",
+            " Unemployment decreased by 2-5 percentage point",
+            " Unemployment decreased by more than 5 percentage points"
         ],
-        "answer_index": 3
+        "answer_index": 4
     }
 ]
