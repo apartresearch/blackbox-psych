@@ -13,6 +13,10 @@ def read_json(filepath):
 
 
 BIASES = ["Trump", "Biden", "Clinton", "Sanders", "Republican", "Democrat"]
+BIAS_DICT = {
+    "republican": ["Trump", "Republican"],
+    "democrat": ["Biden", "Clinton", "Sanders", "Democrat"],
+}
 
 
 def format_political_bias(question, options, bias="Trump"):
@@ -24,8 +28,8 @@ def format_political_bias(question, options, bias="Trump"):
 if __name__ == "__main__":
     raw_questions = read_json("pol_questions.json")
     result_list = []
-    for bias in BIASES:
-        for raw_q in raw_questions:
+    for raw_q in raw_questions:
+        for bias in BIAS_DICT[raw_q["bias"]]:
             question = format_political_bias(
                 raw_q["question"], raw_q["options"], bias=bias
             )

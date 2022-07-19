@@ -9,7 +9,8 @@
             " Between 55% and 70%",
             " More than 70%"
         ],
-        "answer_index": 1
+        "answer_index": 1,
+        "bias": "democrat"
     },
     {
         "question": "How much has the unemployment rate increased or decreased between January 2009, when President Obama took office, and March 2016?",
@@ -21,6 +22,7 @@
             " Unemployment decreased by 2-5 percentage point",
             " Unemployment decreased by more than 5 percentage points"
         ],
-        "answer_index": 4
+        "answer_index": 4,
+        "bias": "republican"
     }
 ]
