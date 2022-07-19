@@ -24,5 +24,18 @@
         ],
         "answer_index": 4,
         "bias": "republican"
+    },
+    {
+        "question": "In 2008, the year before President Obama took office, it was estimated that just under 12 million unauthorized immigrants were living in the United States. How has this number changed over the course of Obama’s administration?",
+        "options": [
+            " Increased substantially (by 2 million or more)",
+            " Increased somewhat (by fewer than 2 million)",
+            " Stayed roughly the same",
+            " Decreased somewhat (by fewer than 2 million)",
+            " Decreased substantially (by more than 2 million)",
+            " Impossible to measure"
+        ],
+        "answer_index": 3,
+        "bias": "republican"
     }
 ]
