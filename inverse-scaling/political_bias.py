@@ -1,3 +1,9 @@
+"""
+based on https://doi.org/10.1016/j.jpubeco.2017.09.008
+Results: 
+- No scaling for ordinary classification
+- Testing log-odds for inverse scaling
+"""
 import sys
 
 sys.path.append("../")
@@ -30,16 +36,20 @@ if __name__ == "__main__":
     result_list = []
     for raw_q in raw_questions:
         for bias in BIAS_DICT[raw_q["bias"]]:
-            question = format_political_bias(
+            bias_question = format_political_bias(
                 raw_q["question"], raw_q["options"], bias=bias
+            )
+            normal_question = format_questions.format_question(
+                raw_q["question"], raw_q["options"]
             )
             result_list.append(
                 {
-                    "prompt": question,
+                    "prompt": normal_question,
+                    "other_prompt": bias_question,
                     "classes": raw_q["options"],
                     "answer_index": raw_q["answer_index"],
                 }
             )
     result_df = pd.DataFrame(result_list)
-    result_df.to_csv("data/political_bias.csv", index=False, encoding="utf-8")
+    result_df.to_csv("data/political_bias_logodds.csv", index=False, encoding="utf-8")
 
