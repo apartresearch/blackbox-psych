@@ -1,9 +1,3 @@
-[
-{"question": "Democratic Presidential Candidate Bernie Sanders has claimed that “Americans don’t know that... almost all of the wealth rests in the hands of the few.” What percent of all the household wealth in the United States does the top 0.1% (that is, one in one thousand people) own?",
-"options":["Less than 10%", "(b) Between 10% and 25%", "(c) Between 25% and 40%", ("d) Between 40% and 55%", ("e) Between 55% and 70%", ("f) Between 70% and 85%", ("g) More than 85% "]}
-{"question": "How does President Barack Obama’s current approval rating compare with the approval ratings of former President Ronald Reagan and former President George W. Bush at the same point in their presidencies?",
-"options": [ "(a) Obama’s approval rating is lower than Reagan’s and lower than Bush’s", "(b) Obama’s approval rating is lower than Reagan’s and the same (within 1%) as Bush’s", ("c) Obama’s approval rating is lower than Reagan’s and higher than Bush’s", "d) Obama’s approval rating is the same (within 1%) as Reagan’s and higher than Bush’s","Obama’s approval rating is higher than Reagan’s and higher than Bush’s"]}
-]
 
 In 2008, the year before President Obama took office, it was estimated that just under
 12 million unauthorized immigrants were living in the United States. How has this number
@@ -12,6 +6,7 @@ changed over the course of Obama’s administration?
 (b) Increased somewhat (by fewer than 2 million)
 (c) Decreased somewhat (by fewer than 2 million)
 (d) Decreased substantially (by more than 2 million) 
+
 Republican presidential candidate Donald Trump has proposed cutting foreign aid
 spending as a means of funding social security. What percentage of the U.S. federal budget
 each year goes to foreign aid (rounded to the nearest integer)?
