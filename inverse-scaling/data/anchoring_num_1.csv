@@ -1,0 +1,4401 @@
+prompt,other_prompt,classes,answer_index,indices,anchor_scale
+"Q: How many feet are in a mile?
+1:  5280
+2:  5269
+
+A:","Random number: 5269.
+Q: How many feet are in a mile?
+1:  5280
+2:  5269
+
+A:","[' 5280', ' 5269']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5269
+
+A:","Random number: 5269.
+Q: How many feet are in a mile?
+1:  5280
+2:  5269
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5270
+
+A:","Random number: 5270.
+Q: How many feet are in a mile?
+1:  5280
+2:  5270
+
+A:","[' 5280', ' 5270']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5270
+
+A:","Random number: 5270.
+Q: How many feet are in a mile?
+1:  5280
+2:  5270
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5271
+
+A:","Random number: 5271.
+Q: How many feet are in a mile?
+1:  5280
+2:  5271
+
+A:","[' 5280', ' 5271']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5271
+
+A:","Random number: 5271.
+Q: How many feet are in a mile?
+1:  5280
+2:  5271
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5272
+
+A:","Random number: 5272.
+Q: How many feet are in a mile?
+1:  5280
+2:  5272
+
+A:","[' 5280', ' 5272']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5272
+
+A:","Random number: 5272.
+Q: How many feet are in a mile?
+1:  5280
+2:  5272
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5273
+
+A:","Random number: 5273.
+Q: How many feet are in a mile?
+1:  5280
+2:  5273
+
+A:","[' 5280', ' 5273']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5273
+
+A:","Random number: 5273.
+Q: How many feet are in a mile?
+1:  5280
+2:  5273
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5274
+
+A:","Random number: 5274.
+Q: How many feet are in a mile?
+1:  5280
+2:  5274
+
+A:","[' 5280', ' 5274']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5274
+
+A:","Random number: 5274.
+Q: How many feet are in a mile?
+1:  5280
+2:  5274
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5275
+
+A:","Random number: 5275.
+Q: How many feet are in a mile?
+1:  5280
+2:  5275
+
+A:","[' 5280', ' 5275']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5275
+
+A:","Random number: 5275.
+Q: How many feet are in a mile?
+1:  5280
+2:  5275
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5276
+
+A:","Random number: 5276.
+Q: How many feet are in a mile?
+1:  5280
+2:  5276
+
+A:","[' 5280', ' 5276']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5276
+
+A:","Random number: 5276.
+Q: How many feet are in a mile?
+1:  5280
+2:  5276
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5277
+
+A:","Random number: 5277.
+Q: How many feet are in a mile?
+1:  5280
+2:  5277
+
+A:","[' 5280', ' 5277']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5277
+
+A:","Random number: 5277.
+Q: How many feet are in a mile?
+1:  5280
+2:  5277
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5278
+
+A:","Random number: 5278.
+Q: How many feet are in a mile?
+1:  5280
+2:  5278
+
+A:","[' 5280', ' 5278']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5278
+
+A:","Random number: 5278.
+Q: How many feet are in a mile?
+1:  5280
+2:  5278
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5282
+
+A:","Random number: 5282.
+Q: How many feet are in a mile?
+1:  5280
+2:  5282
+
+A:","[' 5280', ' 5282']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5282
+
+A:","Random number: 5282.
+Q: How many feet are in a mile?
+1:  5280
+2:  5282
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5283
+
+A:","Random number: 5283.
+Q: How many feet are in a mile?
+1:  5280
+2:  5283
+
+A:","[' 5280', ' 5283']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5283
+
+A:","Random number: 5283.
+Q: How many feet are in a mile?
+1:  5280
+2:  5283
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5284
+
+A:","Random number: 5284.
+Q: How many feet are in a mile?
+1:  5280
+2:  5284
+
+A:","[' 5280', ' 5284']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5284
+
+A:","Random number: 5284.
+Q: How many feet are in a mile?
+1:  5280
+2:  5284
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5285
+
+A:","Random number: 5285.
+Q: How many feet are in a mile?
+1:  5280
+2:  5285
+
+A:","[' 5280', ' 5285']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5285
+
+A:","Random number: 5285.
+Q: How many feet are in a mile?
+1:  5280
+2:  5285
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5286
+
+A:","Random number: 5286.
+Q: How many feet are in a mile?
+1:  5280
+2:  5286
+
+A:","[' 5280', ' 5286']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5286
+
+A:","Random number: 5286.
+Q: How many feet are in a mile?
+1:  5280
+2:  5286
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5287
+
+A:","Random number: 5287.
+Q: How many feet are in a mile?
+1:  5280
+2:  5287
+
+A:","[' 5280', ' 5287']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5287
+
+A:","Random number: 5287.
+Q: How many feet are in a mile?
+1:  5280
+2:  5287
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5288
+
+A:","Random number: 5288.
+Q: How many feet are in a mile?
+1:  5280
+2:  5288
+
+A:","[' 5280', ' 5288']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5288
+
+A:","Random number: 5288.
+Q: How many feet are in a mile?
+1:  5280
+2:  5288
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5289
+
+A:","Random number: 5289.
+Q: How many feet are in a mile?
+1:  5280
+2:  5289
+
+A:","[' 5280', ' 5289']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5289
+
+A:","Random number: 5289.
+Q: How many feet are in a mile?
+1:  5280
+2:  5289
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5290
+
+A:","Random number: 5290.
+Q: How many feet are in a mile?
+1:  5280
+2:  5290
+
+A:","[' 5280', ' 5290']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5290
+
+A:","Random number: 5290.
+Q: How many feet are in a mile?
+1:  5280
+2:  5290
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5291
+
+A:","Random number: 5291.
+Q: How many feet are in a mile?
+1:  5280
+2:  5291
+
+A:","[' 5280', ' 5291']",0,FALSE,1
+"Q: How many feet are in a mile?
+1:  5280
+2:  5291
+
+A:","Random number: 5291.
+Q: How many feet are in a mile?
+1:  5280
+2:  5291
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2194
+
+A:","Random number: 2194.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2194
+
+A:","[' 2205', ' 2194']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2194
+
+A:","Random number: 2194.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2194
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2195
+
+A:","Random number: 2195.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2195
+
+A:","[' 2205', ' 2195']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2195
+
+A:","Random number: 2195.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2195
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2196
+
+A:","Random number: 2196.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2196
+
+A:","[' 2205', ' 2196']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2196
+
+A:","Random number: 2196.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2196
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2197
+
+A:","Random number: 2197.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2197
+
+A:","[' 2205', ' 2197']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2197
+
+A:","Random number: 2197.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2197
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2198
+
+A:","Random number: 2198.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2198
+
+A:","[' 2205', ' 2198']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2198
+
+A:","Random number: 2198.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2198
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2199
+
+A:","Random number: 2199.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2199
+
+A:","[' 2205', ' 2199']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2199
+
+A:","Random number: 2199.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2199
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2200
+
+A:","Random number: 2200.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2200
+
+A:","[' 2205', ' 2200']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2200
+
+A:","Random number: 2200.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2200
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2201
+
+A:","Random number: 2201.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2201
+
+A:","[' 2205', ' 2201']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2201
+
+A:","Random number: 2201.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2201
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2202
+
+A:","Random number: 2202.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2202
+
+A:","[' 2205', ' 2202']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2202
+
+A:","Random number: 2202.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2202
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2203
+
+A:","Random number: 2203.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2203
+
+A:","[' 2205', ' 2203']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2203
+
+A:","Random number: 2203.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2203
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2207
+
+A:","Random number: 2207.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2207
+
+A:","[' 2205', ' 2207']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2207
+
+A:","Random number: 2207.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2207
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2208
+
+A:","Random number: 2208.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2208
+
+A:","[' 2205', ' 2208']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2208
+
+A:","Random number: 2208.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2208
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2209
+
+A:","Random number: 2209.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2209
+
+A:","[' 2205', ' 2209']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2209
+
+A:","Random number: 2209.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2209
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2210
+
+A:","Random number: 2210.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2210
+
+A:","[' 2205', ' 2210']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2210
+
+A:","Random number: 2210.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2210
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2211
+
+A:","Random number: 2211.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2211
+
+A:","[' 2205', ' 2211']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2211
+
+A:","Random number: 2211.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2211
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2212
+
+A:","Random number: 2212.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2212
+
+A:","[' 2205', ' 2212']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2212
+
+A:","Random number: 2212.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2212
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2213
+
+A:","Random number: 2213.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2213
+
+A:","[' 2205', ' 2213']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2213
+
+A:","Random number: 2213.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2213
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2214
+
+A:","Random number: 2214.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2214
+
+A:","[' 2205', ' 2214']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2214
+
+A:","Random number: 2214.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2214
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2215
+
+A:","Random number: 2215.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2215
+
+A:","[' 2205', ' 2215']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2215
+
+A:","Random number: 2215.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2215
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2216
+
+A:","Random number: 2216.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2216
+
+A:","[' 2205', ' 2216']",0,FALSE,1
+"Q: How many pounds are in a tonne?
+1:  2205
+2:  2216
+
+A:","Random number: 2216.
+Q: How many pounds are in a tonne?
+1:  2205
+2:  2216
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3774
+
+A:","Random number: 3774.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3774
+
+A:","[' 3785', ' 3774']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3774
+
+A:","Random number: 3774.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3774
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3775
+
+A:","Random number: 3775.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3775
+
+A:","[' 3785', ' 3775']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3775
+
+A:","Random number: 3775.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3775
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3776
+
+A:","Random number: 3776.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3776
+
+A:","[' 3785', ' 3776']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3776
+
+A:","Random number: 3776.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3776
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3777
+
+A:","Random number: 3777.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3777
+
+A:","[' 3785', ' 3777']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3777
+
+A:","Random number: 3777.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3777
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3778
+
+A:","Random number: 3778.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3778
+
+A:","[' 3785', ' 3778']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3778
+
+A:","Random number: 3778.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3778
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3779
+
+A:","Random number: 3779.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3779
+
+A:","[' 3785', ' 3779']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3779
+
+A:","Random number: 3779.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3779
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3780
+
+A:","Random number: 3780.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3780
+
+A:","[' 3785', ' 3780']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3780
+
+A:","Random number: 3780.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3780
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3781
+
+A:","Random number: 3781.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3781
+
+A:","[' 3785', ' 3781']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3781
+
+A:","Random number: 3781.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3781
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3782
+
+A:","Random number: 3782.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3782
+
+A:","[' 3785', ' 3782']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3782
+
+A:","Random number: 3782.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3782
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3783
+
+A:","Random number: 3783.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3783
+
+A:","[' 3785', ' 3783']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3783
+
+A:","Random number: 3783.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3783
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3787
+
+A:","Random number: 3787.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3787
+
+A:","[' 3785', ' 3787']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3787
+
+A:","Random number: 3787.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3787
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3788
+
+A:","Random number: 3788.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3788
+
+A:","[' 3785', ' 3788']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3788
+
+A:","Random number: 3788.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3788
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3789
+
+A:","Random number: 3789.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3789
+
+A:","[' 3785', ' 3789']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3789
+
+A:","Random number: 3789.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3789
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3790
+
+A:","Random number: 3790.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3790
+
+A:","[' 3785', ' 3790']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3790
+
+A:","Random number: 3790.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3790
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3791
+
+A:","Random number: 3791.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3791
+
+A:","[' 3785', ' 3791']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3791
+
+A:","Random number: 3791.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3791
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3792
+
+A:","Random number: 3792.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3792
+
+A:","[' 3785', ' 3792']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3792
+
+A:","Random number: 3792.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3792
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3793
+
+A:","Random number: 3793.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3793
+
+A:","[' 3785', ' 3793']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3793
+
+A:","Random number: 3793.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3793
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3794
+
+A:","Random number: 3794.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3794
+
+A:","[' 3785', ' 3794']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3794
+
+A:","Random number: 3794.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3794
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3795
+
+A:","Random number: 3795.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3795
+
+A:","[' 3785', ' 3795']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3795
+
+A:","Random number: 3795.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3795
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3796
+
+A:","Random number: 3796.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3796
+
+A:","[' 3785', ' 3796']",0,FALSE,1
+"Q: How many milliliters are in a gallon?
+1:  3785
+2:  3796
+
+A:","Random number: 3796.
+Q: How many milliliters are in a gallon?
+1:  3785
+2:  3796
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1749
+
+A:","Random number: 1749.
+Q: How many yards are in a mile?
+1:  1760
+2:  1749
+
+A:","[' 1760', ' 1749']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1749
+
+A:","Random number: 1749.
+Q: How many yards are in a mile?
+1:  1760
+2:  1749
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1750
+
+A:","Random number: 1750.
+Q: How many yards are in a mile?
+1:  1760
+2:  1750
+
+A:","[' 1760', ' 1750']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1750
+
+A:","Random number: 1750.
+Q: How many yards are in a mile?
+1:  1760
+2:  1750
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1751
+
+A:","Random number: 1751.
+Q: How many yards are in a mile?
+1:  1760
+2:  1751
+
+A:","[' 1760', ' 1751']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1751
+
+A:","Random number: 1751.
+Q: How many yards are in a mile?
+1:  1760
+2:  1751
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1752
+
+A:","Random number: 1752.
+Q: How many yards are in a mile?
+1:  1760
+2:  1752
+
+A:","[' 1760', ' 1752']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1752
+
+A:","Random number: 1752.
+Q: How many yards are in a mile?
+1:  1760
+2:  1752
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1753
+
+A:","Random number: 1753.
+Q: How many yards are in a mile?
+1:  1760
+2:  1753
+
+A:","[' 1760', ' 1753']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1753
+
+A:","Random number: 1753.
+Q: How many yards are in a mile?
+1:  1760
+2:  1753
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1754
+
+A:","Random number: 1754.
+Q: How many yards are in a mile?
+1:  1760
+2:  1754
+
+A:","[' 1760', ' 1754']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1754
+
+A:","Random number: 1754.
+Q: How many yards are in a mile?
+1:  1760
+2:  1754
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1755
+
+A:","Random number: 1755.
+Q: How many yards are in a mile?
+1:  1760
+2:  1755
+
+A:","[' 1760', ' 1755']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1755
+
+A:","Random number: 1755.
+Q: How many yards are in a mile?
+1:  1760
+2:  1755
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1756
+
+A:","Random number: 1756.
+Q: How many yards are in a mile?
+1:  1760
+2:  1756
+
+A:","[' 1760', ' 1756']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1756
+
+A:","Random number: 1756.
+Q: How many yards are in a mile?
+1:  1760
+2:  1756
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1757
+
+A:","Random number: 1757.
+Q: How many yards are in a mile?
+1:  1760
+2:  1757
+
+A:","[' 1760', ' 1757']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1757
+
+A:","Random number: 1757.
+Q: How many yards are in a mile?
+1:  1760
+2:  1757
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1758
+
+A:","Random number: 1758.
+Q: How many yards are in a mile?
+1:  1760
+2:  1758
+
+A:","[' 1760', ' 1758']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1758
+
+A:","Random number: 1758.
+Q: How many yards are in a mile?
+1:  1760
+2:  1758
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1762
+
+A:","Random number: 1762.
+Q: How many yards are in a mile?
+1:  1760
+2:  1762
+
+A:","[' 1760', ' 1762']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1762
+
+A:","Random number: 1762.
+Q: How many yards are in a mile?
+1:  1760
+2:  1762
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1763
+
+A:","Random number: 1763.
+Q: How many yards are in a mile?
+1:  1760
+2:  1763
+
+A:","[' 1760', ' 1763']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1763
+
+A:","Random number: 1763.
+Q: How many yards are in a mile?
+1:  1760
+2:  1763
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1764
+
+A:","Random number: 1764.
+Q: How many yards are in a mile?
+1:  1760
+2:  1764
+
+A:","[' 1760', ' 1764']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1764
+
+A:","Random number: 1764.
+Q: How many yards are in a mile?
+1:  1760
+2:  1764
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1765
+
+A:","Random number: 1765.
+Q: How many yards are in a mile?
+1:  1760
+2:  1765
+
+A:","[' 1760', ' 1765']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1765
+
+A:","Random number: 1765.
+Q: How many yards are in a mile?
+1:  1760
+2:  1765
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1766
+
+A:","Random number: 1766.
+Q: How many yards are in a mile?
+1:  1760
+2:  1766
+
+A:","[' 1760', ' 1766']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1766
+
+A:","Random number: 1766.
+Q: How many yards are in a mile?
+1:  1760
+2:  1766
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1767
+
+A:","Random number: 1767.
+Q: How many yards are in a mile?
+1:  1760
+2:  1767
+
+A:","[' 1760', ' 1767']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1767
+
+A:","Random number: 1767.
+Q: How many yards are in a mile?
+1:  1760
+2:  1767
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1768
+
+A:","Random number: 1768.
+Q: How many yards are in a mile?
+1:  1760
+2:  1768
+
+A:","[' 1760', ' 1768']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1768
+
+A:","Random number: 1768.
+Q: How many yards are in a mile?
+1:  1760
+2:  1768
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1769
+
+A:","Random number: 1769.
+Q: How many yards are in a mile?
+1:  1760
+2:  1769
+
+A:","[' 1760', ' 1769']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1769
+
+A:","Random number: 1769.
+Q: How many yards are in a mile?
+1:  1760
+2:  1769
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1770
+
+A:","Random number: 1770.
+Q: How many yards are in a mile?
+1:  1760
+2:  1770
+
+A:","[' 1760', ' 1770']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1770
+
+A:","Random number: 1770.
+Q: How many yards are in a mile?
+1:  1760
+2:  1770
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1771
+
+A:","Random number: 1771.
+Q: How many yards are in a mile?
+1:  1760
+2:  1771
+
+A:","[' 1760', ' 1771']",0,FALSE,1
+"Q: How many yards are in a mile?
+1:  1760
+2:  1771
+
+A:","Random number: 1771.
+Q: How many yards are in a mile?
+1:  1760
+2:  1771
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39359
+
+A:","Random number: 39359.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39359
+
+A:","[' 39370', ' 39359']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39359
+
+A:","Random number: 39359.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39359
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39360
+
+A:","Random number: 39360.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39360
+
+A:","[' 39370', ' 39360']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39360
+
+A:","Random number: 39360.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39360
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39361
+
+A:","Random number: 39361.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39361
+
+A:","[' 39370', ' 39361']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39361
+
+A:","Random number: 39361.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39361
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39362
+
+A:","Random number: 39362.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39362
+
+A:","[' 39370', ' 39362']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39362
+
+A:","Random number: 39362.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39362
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39363
+
+A:","Random number: 39363.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39363
+
+A:","[' 39370', ' 39363']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39363
+
+A:","Random number: 39363.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39363
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39364
+
+A:","Random number: 39364.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39364
+
+A:","[' 39370', ' 39364']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39364
+
+A:","Random number: 39364.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39364
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39365
+
+A:","Random number: 39365.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39365
+
+A:","[' 39370', ' 39365']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39365
+
+A:","Random number: 39365.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39365
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39366
+
+A:","Random number: 39366.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39366
+
+A:","[' 39370', ' 39366']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39366
+
+A:","Random number: 39366.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39366
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39367
+
+A:","Random number: 39367.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39367
+
+A:","[' 39370', ' 39367']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39367
+
+A:","Random number: 39367.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39367
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39368
+
+A:","Random number: 39368.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39368
+
+A:","[' 39370', ' 39368']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39368
+
+A:","Random number: 39368.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39368
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39372
+
+A:","Random number: 39372.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39372
+
+A:","[' 39370', ' 39372']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39372
+
+A:","Random number: 39372.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39372
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39373
+
+A:","Random number: 39373.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39373
+
+A:","[' 39370', ' 39373']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39373
+
+A:","Random number: 39373.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39373
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39374
+
+A:","Random number: 39374.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39374
+
+A:","[' 39370', ' 39374']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39374
+
+A:","Random number: 39374.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39374
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39375
+
+A:","Random number: 39375.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39375
+
+A:","[' 39370', ' 39375']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39375
+
+A:","Random number: 39375.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39375
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39376
+
+A:","Random number: 39376.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39376
+
+A:","[' 39370', ' 39376']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39376
+
+A:","Random number: 39376.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39376
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39377
+
+A:","Random number: 39377.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39377
+
+A:","[' 39370', ' 39377']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39377
+
+A:","Random number: 39377.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39377
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39378
+
+A:","Random number: 39378.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39378
+
+A:","[' 39370', ' 39378']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39378
+
+A:","Random number: 39378.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39378
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39379
+
+A:","Random number: 39379.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39379
+
+A:","[' 39370', ' 39379']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39379
+
+A:","Random number: 39379.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39379
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39380
+
+A:","Random number: 39380.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39380
+
+A:","[' 39370', ' 39380']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39380
+
+A:","Random number: 39380.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39380
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39381
+
+A:","Random number: 39381.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39381
+
+A:","[' 39370', ' 39381']",0,FALSE,1
+"Q: How many inches are in a kilometer?
+1:  39370
+2:  39381
+
+A:","Random number: 39381.
+Q: How many inches are in a kilometer?
+1:  39370
+2:  39381
+
+A:","[' 1', ' 2']",0,TRUE,1
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.17
+
+A:","Random number: 3.17.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.17
+
+A:","[' 3.28', ' 3.17']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.17
+
+A:","Random number: 3.17.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.17
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.1799999999999997
+
+A:","Random number: 3.1799999999999997.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.1799999999999997
+
+A:","[' 3.28', ' 3.1799999999999997']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.1799999999999997
+
+A:","Random number: 3.1799999999999997.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.1799999999999997
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.19
+
+A:","Random number: 3.19.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.19
+
+A:","[' 3.28', ' 3.19']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.19
+
+A:","Random number: 3.19.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.19
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.1999999999999997
+
+A:","Random number: 3.1999999999999997.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.1999999999999997
+
+A:","[' 3.28', ' 3.1999999999999997']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.1999999999999997
+
+A:","Random number: 3.1999999999999997.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.1999999999999997
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.21
+
+A:","Random number: 3.21.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.21
+
+A:","[' 3.28', ' 3.21']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.21
+
+A:","Random number: 3.21.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.21
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.2199999999999998
+
+A:","Random number: 3.2199999999999998.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.2199999999999998
+
+A:","[' 3.28', ' 3.2199999999999998']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.2199999999999998
+
+A:","Random number: 3.2199999999999998.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.2199999999999998
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.23
+
+A:","Random number: 3.23.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.23
+
+A:","[' 3.28', ' 3.23']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.23
+
+A:","Random number: 3.23.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.23
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.2399999999999998
+
+A:","Random number: 3.2399999999999998.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.2399999999999998
+
+A:","[' 3.28', ' 3.2399999999999998']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.2399999999999998
+
+A:","Random number: 3.2399999999999998.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.2399999999999998
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.25
+
+A:","Random number: 3.25.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.25
+
+A:","[' 3.28', ' 3.25']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.25
+
+A:","Random number: 3.25.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.25
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.26
+
+A:","Random number: 3.26.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.26
+
+A:","[' 3.28', ' 3.26']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.26
+
+A:","Random number: 3.26.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.26
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3
+
+A:","Random number: 3.3.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3
+
+A:","[' 3.28', ' 3.3']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3
+
+A:","Random number: 3.3.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3099999999999996
+
+A:","Random number: 3.3099999999999996.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3099999999999996
+
+A:","[' 3.28', ' 3.3099999999999996']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3099999999999996
+
+A:","Random number: 3.3099999999999996.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3099999999999996
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.32
+
+A:","Random number: 3.32.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.32
+
+A:","[' 3.28', ' 3.32']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.32
+
+A:","Random number: 3.32.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.32
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3299999999999996
+
+A:","Random number: 3.3299999999999996.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3299999999999996
+
+A:","[' 3.28', ' 3.3299999999999996']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3299999999999996
+
+A:","Random number: 3.3299999999999996.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3299999999999996
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.34
+
+A:","Random number: 3.34.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.34
+
+A:","[' 3.28', ' 3.34']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.34
+
+A:","Random number: 3.34.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.34
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3499999999999996
+
+A:","Random number: 3.3499999999999996.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3499999999999996
+
+A:","[' 3.28', ' 3.3499999999999996']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3499999999999996
+
+A:","Random number: 3.3499999999999996.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3499999999999996
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.36
+
+A:","Random number: 3.36.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.36
+
+A:","[' 3.28', ' 3.36']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.36
+
+A:","Random number: 3.36.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.36
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3699999999999997
+
+A:","Random number: 3.3699999999999997.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3699999999999997
+
+A:","[' 3.28', ' 3.3699999999999997']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3699999999999997
+
+A:","Random number: 3.3699999999999997.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3699999999999997
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.38
+
+A:","Random number: 3.38.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.38
+
+A:","[' 3.28', ' 3.38']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.38
+
+A:","Random number: 3.38.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.38
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3899999999999997
+
+A:","Random number: 3.3899999999999997.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3899999999999997
+
+A:","[' 3.28', ' 3.3899999999999997']",0,FALSE,0.01
+"Q: How many feet are in a meter?
+1:  3.28
+2:  3.3899999999999997
+
+A:","Random number: 3.3899999999999997.
+Q: How many feet are in a meter?
+1:  3.28
+2:  3.3899999999999997
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.49
+
+A:","Random number: 1.49.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.49
+
+A:","[' 1.6', ' 1.49']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.49
+
+A:","Random number: 1.49.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.49
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.5
+
+A:","Random number: 1.5.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.5
+
+A:","[' 1.6', ' 1.5']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.5
+
+A:","Random number: 1.5.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.5
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.51
+
+A:","Random number: 1.51.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.51
+
+A:","[' 1.6', ' 1.51']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.51
+
+A:","Random number: 1.51.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.51
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.52
+
+A:","Random number: 1.52.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.52
+
+A:","[' 1.6', ' 1.52']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.52
+
+A:","Random number: 1.52.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.52
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.53
+
+A:","Random number: 1.53.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.53
+
+A:","[' 1.6', ' 1.53']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.53
+
+A:","Random number: 1.53.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.53
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.54
+
+A:","Random number: 1.54.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.54
+
+A:","[' 1.6', ' 1.54']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.54
+
+A:","Random number: 1.54.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.54
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.55
+
+A:","Random number: 1.55.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.55
+
+A:","[' 1.6', ' 1.55']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.55
+
+A:","Random number: 1.55.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.55
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.56
+
+A:","Random number: 1.56.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.56
+
+A:","[' 1.6', ' 1.56']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.56
+
+A:","Random number: 1.56.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.56
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.57
+
+A:","Random number: 1.57.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.57
+
+A:","[' 1.6', ' 1.57']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.57
+
+A:","Random number: 1.57.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.57
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.58
+
+A:","Random number: 1.58.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.58
+
+A:","[' 1.6', ' 1.58']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.58
+
+A:","Random number: 1.58.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.58
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.62
+
+A:","Random number: 1.62.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.62
+
+A:","[' 1.6', ' 1.62']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.62
+
+A:","Random number: 1.62.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.62
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6300000000000001
+
+A:","Random number: 1.6300000000000001.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6300000000000001
+
+A:","[' 1.6', ' 1.6300000000000001']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6300000000000001
+
+A:","Random number: 1.6300000000000001.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6300000000000001
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6400000000000001
+
+A:","Random number: 1.6400000000000001.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6400000000000001
+
+A:","[' 1.6', ' 1.6400000000000001']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6400000000000001
+
+A:","Random number: 1.6400000000000001.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6400000000000001
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6500000000000001
+
+A:","Random number: 1.6500000000000001.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6500000000000001
+
+A:","[' 1.6', ' 1.6500000000000001']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6500000000000001
+
+A:","Random number: 1.6500000000000001.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6500000000000001
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6600000000000001
+
+A:","Random number: 1.6600000000000001.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6600000000000001
+
+A:","[' 1.6', ' 1.6600000000000001']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6600000000000001
+
+A:","Random number: 1.6600000000000001.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6600000000000001
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6700000000000002
+
+A:","Random number: 1.6700000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6700000000000002
+
+A:","[' 1.6', ' 1.6700000000000002']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6700000000000002
+
+A:","Random number: 1.6700000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6700000000000002
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6800000000000002
+
+A:","Random number: 1.6800000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6800000000000002
+
+A:","[' 1.6', ' 1.6800000000000002']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6800000000000002
+
+A:","Random number: 1.6800000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6800000000000002
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6900000000000002
+
+A:","Random number: 1.6900000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6900000000000002
+
+A:","[' 1.6', ' 1.6900000000000002']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6900000000000002
+
+A:","Random number: 1.6900000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.6900000000000002
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.7000000000000002
+
+A:","Random number: 1.7000000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.7000000000000002
+
+A:","[' 1.6', ' 1.7000000000000002']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.7000000000000002
+
+A:","Random number: 1.7000000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.7000000000000002
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.7100000000000002
+
+A:","Random number: 1.7100000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.7100000000000002
+
+A:","[' 1.6', ' 1.7100000000000002']",0,FALSE,0.01
+"Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.7100000000000002
+
+A:","Random number: 1.7100000000000002.
+Q: How many kilometers are in a mile?
+1:  1.6
+2:  1.7100000000000002
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.89
+
+A:","Random number: 2.89.
+Q: How many feet are in a yard?
+1:  3
+2:  2.89
+
+A:","[' 3', ' 2.89']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.89
+
+A:","Random number: 2.89.
+Q: How many feet are in a yard?
+1:  3
+2:  2.89
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.9
+
+A:","Random number: 2.9.
+Q: How many feet are in a yard?
+1:  3
+2:  2.9
+
+A:","[' 3', ' 2.9']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.9
+
+A:","Random number: 2.9.
+Q: How many feet are in a yard?
+1:  3
+2:  2.9
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.91
+
+A:","Random number: 2.91.
+Q: How many feet are in a yard?
+1:  3
+2:  2.91
+
+A:","[' 3', ' 2.91']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.91
+
+A:","Random number: 2.91.
+Q: How many feet are in a yard?
+1:  3
+2:  2.91
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.92
+
+A:","Random number: 2.92.
+Q: How many feet are in a yard?
+1:  3
+2:  2.92
+
+A:","[' 3', ' 2.92']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.92
+
+A:","Random number: 2.92.
+Q: How many feet are in a yard?
+1:  3
+2:  2.92
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.93
+
+A:","Random number: 2.93.
+Q: How many feet are in a yard?
+1:  3
+2:  2.93
+
+A:","[' 3', ' 2.93']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.93
+
+A:","Random number: 2.93.
+Q: How many feet are in a yard?
+1:  3
+2:  2.93
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.94
+
+A:","Random number: 2.94.
+Q: How many feet are in a yard?
+1:  3
+2:  2.94
+
+A:","[' 3', ' 2.94']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.94
+
+A:","Random number: 2.94.
+Q: How many feet are in a yard?
+1:  3
+2:  2.94
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.95
+
+A:","Random number: 2.95.
+Q: How many feet are in a yard?
+1:  3
+2:  2.95
+
+A:","[' 3', ' 2.95']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.95
+
+A:","Random number: 2.95.
+Q: How many feet are in a yard?
+1:  3
+2:  2.95
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.96
+
+A:","Random number: 2.96.
+Q: How many feet are in a yard?
+1:  3
+2:  2.96
+
+A:","[' 3', ' 2.96']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.96
+
+A:","Random number: 2.96.
+Q: How many feet are in a yard?
+1:  3
+2:  2.96
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.97
+
+A:","Random number: 2.97.
+Q: How many feet are in a yard?
+1:  3
+2:  2.97
+
+A:","[' 3', ' 2.97']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.97
+
+A:","Random number: 2.97.
+Q: How many feet are in a yard?
+1:  3
+2:  2.97
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.98
+
+A:","Random number: 2.98.
+Q: How many feet are in a yard?
+1:  3
+2:  2.98
+
+A:","[' 3', ' 2.98']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  2.98
+
+A:","Random number: 2.98.
+Q: How many feet are in a yard?
+1:  3
+2:  2.98
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.02
+
+A:","Random number: 3.02.
+Q: How many feet are in a yard?
+1:  3
+2:  3.02
+
+A:","[' 3', ' 3.02']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.02
+
+A:","Random number: 3.02.
+Q: How many feet are in a yard?
+1:  3
+2:  3.02
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.03
+
+A:","Random number: 3.03.
+Q: How many feet are in a yard?
+1:  3
+2:  3.03
+
+A:","[' 3', ' 3.03']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.03
+
+A:","Random number: 3.03.
+Q: How many feet are in a yard?
+1:  3
+2:  3.03
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.04
+
+A:","Random number: 3.04.
+Q: How many feet are in a yard?
+1:  3
+2:  3.04
+
+A:","[' 3', ' 3.04']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.04
+
+A:","Random number: 3.04.
+Q: How many feet are in a yard?
+1:  3
+2:  3.04
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.05
+
+A:","Random number: 3.05.
+Q: How many feet are in a yard?
+1:  3
+2:  3.05
+
+A:","[' 3', ' 3.05']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.05
+
+A:","Random number: 3.05.
+Q: How many feet are in a yard?
+1:  3
+2:  3.05
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.06
+
+A:","Random number: 3.06.
+Q: How many feet are in a yard?
+1:  3
+2:  3.06
+
+A:","[' 3', ' 3.06']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.06
+
+A:","Random number: 3.06.
+Q: How many feet are in a yard?
+1:  3
+2:  3.06
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.07
+
+A:","Random number: 3.07.
+Q: How many feet are in a yard?
+1:  3
+2:  3.07
+
+A:","[' 3', ' 3.07']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.07
+
+A:","Random number: 3.07.
+Q: How many feet are in a yard?
+1:  3
+2:  3.07
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.08
+
+A:","Random number: 3.08.
+Q: How many feet are in a yard?
+1:  3
+2:  3.08
+
+A:","[' 3', ' 3.08']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.08
+
+A:","Random number: 3.08.
+Q: How many feet are in a yard?
+1:  3
+2:  3.08
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.09
+
+A:","Random number: 3.09.
+Q: How many feet are in a yard?
+1:  3
+2:  3.09
+
+A:","[' 3', ' 3.09']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.09
+
+A:","Random number: 3.09.
+Q: How many feet are in a yard?
+1:  3
+2:  3.09
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.1
+
+A:","Random number: 3.1.
+Q: How many feet are in a yard?
+1:  3
+2:  3.1
+
+A:","[' 3', ' 3.1']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.1
+
+A:","Random number: 3.1.
+Q: How many feet are in a yard?
+1:  3
+2:  3.1
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.11
+
+A:","Random number: 3.11.
+Q: How many feet are in a yard?
+1:  3
+2:  3.11
+
+A:","[' 3', ' 3.11']",0,FALSE,0.01
+"Q: How many feet are in a yard?
+1:  3
+2:  3.11
+
+A:","Random number: 3.11.
+Q: How many feet are in a yard?
+1:  3
+2:  3.11
+
+A:","[' 1', ' 2']",0,TRUE,0.01
+"Q: How many inches are in a yard?
+1:  36
+2:  34.9
+
+A:","Random number: 34.9.
+Q: How many inches are in a yard?
+1:  36
+2:  34.9
+
+A:","[' 36', ' 34.9']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  34.9
+
+A:","Random number: 34.9.
+Q: How many inches are in a yard?
+1:  36
+2:  34.9
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.0
+
+A:","Random number: 35.0.
+Q: How many inches are in a yard?
+1:  36
+2:  35.0
+
+A:","[' 36', ' 35.0']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.0
+
+A:","Random number: 35.0.
+Q: How many inches are in a yard?
+1:  36
+2:  35.0
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.1
+
+A:","Random number: 35.1.
+Q: How many inches are in a yard?
+1:  36
+2:  35.1
+
+A:","[' 36', ' 35.1']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.1
+
+A:","Random number: 35.1.
+Q: How many inches are in a yard?
+1:  36
+2:  35.1
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.2
+
+A:","Random number: 35.2.
+Q: How many inches are in a yard?
+1:  36
+2:  35.2
+
+A:","[' 36', ' 35.2']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.2
+
+A:","Random number: 35.2.
+Q: How many inches are in a yard?
+1:  36
+2:  35.2
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.3
+
+A:","Random number: 35.3.
+Q: How many inches are in a yard?
+1:  36
+2:  35.3
+
+A:","[' 36', ' 35.3']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.3
+
+A:","Random number: 35.3.
+Q: How many inches are in a yard?
+1:  36
+2:  35.3
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.4
+
+A:","Random number: 35.4.
+Q: How many inches are in a yard?
+1:  36
+2:  35.4
+
+A:","[' 36', ' 35.4']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.4
+
+A:","Random number: 35.4.
+Q: How many inches are in a yard?
+1:  36
+2:  35.4
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.5
+
+A:","Random number: 35.5.
+Q: How many inches are in a yard?
+1:  36
+2:  35.5
+
+A:","[' 36', ' 35.5']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.5
+
+A:","Random number: 35.5.
+Q: How many inches are in a yard?
+1:  36
+2:  35.5
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.6
+
+A:","Random number: 35.6.
+Q: How many inches are in a yard?
+1:  36
+2:  35.6
+
+A:","[' 36', ' 35.6']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.6
+
+A:","Random number: 35.6.
+Q: How many inches are in a yard?
+1:  36
+2:  35.6
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.7
+
+A:","Random number: 35.7.
+Q: How many inches are in a yard?
+1:  36
+2:  35.7
+
+A:","[' 36', ' 35.7']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.7
+
+A:","Random number: 35.7.
+Q: How many inches are in a yard?
+1:  36
+2:  35.7
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.8
+
+A:","Random number: 35.8.
+Q: How many inches are in a yard?
+1:  36
+2:  35.8
+
+A:","[' 36', ' 35.8']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  35.8
+
+A:","Random number: 35.8.
+Q: How many inches are in a yard?
+1:  36
+2:  35.8
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.2
+
+A:","Random number: 36.2.
+Q: How many inches are in a yard?
+1:  36
+2:  36.2
+
+A:","[' 36', ' 36.2']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.2
+
+A:","Random number: 36.2.
+Q: How many inches are in a yard?
+1:  36
+2:  36.2
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.3
+
+A:","Random number: 36.3.
+Q: How many inches are in a yard?
+1:  36
+2:  36.3
+
+A:","[' 36', ' 36.3']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.3
+
+A:","Random number: 36.3.
+Q: How many inches are in a yard?
+1:  36
+2:  36.3
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.4
+
+A:","Random number: 36.4.
+Q: How many inches are in a yard?
+1:  36
+2:  36.4
+
+A:","[' 36', ' 36.4']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.4
+
+A:","Random number: 36.4.
+Q: How many inches are in a yard?
+1:  36
+2:  36.4
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.5
+
+A:","Random number: 36.5.
+Q: How many inches are in a yard?
+1:  36
+2:  36.5
+
+A:","[' 36', ' 36.5']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.5
+
+A:","Random number: 36.5.
+Q: How many inches are in a yard?
+1:  36
+2:  36.5
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.6
+
+A:","Random number: 36.6.
+Q: How many inches are in a yard?
+1:  36
+2:  36.6
+
+A:","[' 36', ' 36.6']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.6
+
+A:","Random number: 36.6.
+Q: How many inches are in a yard?
+1:  36
+2:  36.6
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.7
+
+A:","Random number: 36.7.
+Q: How many inches are in a yard?
+1:  36
+2:  36.7
+
+A:","[' 36', ' 36.7']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.7
+
+A:","Random number: 36.7.
+Q: How many inches are in a yard?
+1:  36
+2:  36.7
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.8
+
+A:","Random number: 36.8.
+Q: How many inches are in a yard?
+1:  36
+2:  36.8
+
+A:","[' 36', ' 36.8']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.8
+
+A:","Random number: 36.8.
+Q: How many inches are in a yard?
+1:  36
+2:  36.8
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.9
+
+A:","Random number: 36.9.
+Q: How many inches are in a yard?
+1:  36
+2:  36.9
+
+A:","[' 36', ' 36.9']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  36.9
+
+A:","Random number: 36.9.
+Q: How many inches are in a yard?
+1:  36
+2:  36.9
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  37.0
+
+A:","Random number: 37.0.
+Q: How many inches are in a yard?
+1:  36
+2:  37.0
+
+A:","[' 36', ' 37.0']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  37.0
+
+A:","Random number: 37.0.
+Q: How many inches are in a yard?
+1:  36
+2:  37.0
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  37.1
+
+A:","Random number: 37.1.
+Q: How many inches are in a yard?
+1:  36
+2:  37.1
+
+A:","[' 36', ' 37.1']",0,FALSE,0.1
+"Q: How many inches are in a yard?
+1:  36
+2:  37.1
+
+A:","Random number: 37.1.
+Q: How many inches are in a yard?
+1:  36
+2:  37.1
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  10.9
+
+A:","Random number: 10.9.
+Q: How many inches are in a foot?
+1:  12
+2:  10.9
+
+A:","[' 12', ' 10.9']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  10.9
+
+A:","Random number: 10.9.
+Q: How many inches are in a foot?
+1:  12
+2:  10.9
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.0
+
+A:","Random number: 11.0.
+Q: How many inches are in a foot?
+1:  12
+2:  11.0
+
+A:","[' 12', ' 11.0']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.0
+
+A:","Random number: 11.0.
+Q: How many inches are in a foot?
+1:  12
+2:  11.0
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.1
+
+A:","Random number: 11.1.
+Q: How many inches are in a foot?
+1:  12
+2:  11.1
+
+A:","[' 12', ' 11.1']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.1
+
+A:","Random number: 11.1.
+Q: How many inches are in a foot?
+1:  12
+2:  11.1
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.2
+
+A:","Random number: 11.2.
+Q: How many inches are in a foot?
+1:  12
+2:  11.2
+
+A:","[' 12', ' 11.2']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.2
+
+A:","Random number: 11.2.
+Q: How many inches are in a foot?
+1:  12
+2:  11.2
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.3
+
+A:","Random number: 11.3.
+Q: How many inches are in a foot?
+1:  12
+2:  11.3
+
+A:","[' 12', ' 11.3']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.3
+
+A:","Random number: 11.3.
+Q: How many inches are in a foot?
+1:  12
+2:  11.3
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.4
+
+A:","Random number: 11.4.
+Q: How many inches are in a foot?
+1:  12
+2:  11.4
+
+A:","[' 12', ' 11.4']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.4
+
+A:","Random number: 11.4.
+Q: How many inches are in a foot?
+1:  12
+2:  11.4
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.5
+
+A:","Random number: 11.5.
+Q: How many inches are in a foot?
+1:  12
+2:  11.5
+
+A:","[' 12', ' 11.5']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.5
+
+A:","Random number: 11.5.
+Q: How many inches are in a foot?
+1:  12
+2:  11.5
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.6
+
+A:","Random number: 11.6.
+Q: How many inches are in a foot?
+1:  12
+2:  11.6
+
+A:","[' 12', ' 11.6']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.6
+
+A:","Random number: 11.6.
+Q: How many inches are in a foot?
+1:  12
+2:  11.6
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.7
+
+A:","Random number: 11.7.
+Q: How many inches are in a foot?
+1:  12
+2:  11.7
+
+A:","[' 12', ' 11.7']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.7
+
+A:","Random number: 11.7.
+Q: How many inches are in a foot?
+1:  12
+2:  11.7
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.8
+
+A:","Random number: 11.8.
+Q: How many inches are in a foot?
+1:  12
+2:  11.8
+
+A:","[' 12', ' 11.8']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  11.8
+
+A:","Random number: 11.8.
+Q: How many inches are in a foot?
+1:  12
+2:  11.8
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.2
+
+A:","Random number: 12.2.
+Q: How many inches are in a foot?
+1:  12
+2:  12.2
+
+A:","[' 12', ' 12.2']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.2
+
+A:","Random number: 12.2.
+Q: How many inches are in a foot?
+1:  12
+2:  12.2
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.3
+
+A:","Random number: 12.3.
+Q: How many inches are in a foot?
+1:  12
+2:  12.3
+
+A:","[' 12', ' 12.3']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.3
+
+A:","Random number: 12.3.
+Q: How many inches are in a foot?
+1:  12
+2:  12.3
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.4
+
+A:","Random number: 12.4.
+Q: How many inches are in a foot?
+1:  12
+2:  12.4
+
+A:","[' 12', ' 12.4']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.4
+
+A:","Random number: 12.4.
+Q: How many inches are in a foot?
+1:  12
+2:  12.4
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.5
+
+A:","Random number: 12.5.
+Q: How many inches are in a foot?
+1:  12
+2:  12.5
+
+A:","[' 12', ' 12.5']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.5
+
+A:","Random number: 12.5.
+Q: How many inches are in a foot?
+1:  12
+2:  12.5
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.6
+
+A:","Random number: 12.6.
+Q: How many inches are in a foot?
+1:  12
+2:  12.6
+
+A:","[' 12', ' 12.6']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.6
+
+A:","Random number: 12.6.
+Q: How many inches are in a foot?
+1:  12
+2:  12.6
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.7
+
+A:","Random number: 12.7.
+Q: How many inches are in a foot?
+1:  12
+2:  12.7
+
+A:","[' 12', ' 12.7']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.7
+
+A:","Random number: 12.7.
+Q: How many inches are in a foot?
+1:  12
+2:  12.7
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.8
+
+A:","Random number: 12.8.
+Q: How many inches are in a foot?
+1:  12
+2:  12.8
+
+A:","[' 12', ' 12.8']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.8
+
+A:","Random number: 12.8.
+Q: How many inches are in a foot?
+1:  12
+2:  12.8
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.9
+
+A:","Random number: 12.9.
+Q: How many inches are in a foot?
+1:  12
+2:  12.9
+
+A:","[' 12', ' 12.9']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  12.9
+
+A:","Random number: 12.9.
+Q: How many inches are in a foot?
+1:  12
+2:  12.9
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  13.0
+
+A:","Random number: 13.0.
+Q: How many inches are in a foot?
+1:  12
+2:  13.0
+
+A:","[' 12', ' 13.0']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  13.0
+
+A:","Random number: 13.0.
+Q: How many inches are in a foot?
+1:  12
+2:  13.0
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  13.1
+
+A:","Random number: 13.1.
+Q: How many inches are in a foot?
+1:  12
+2:  13.1
+
+A:","[' 12', ' 13.1']",0,FALSE,0.1
+"Q: How many inches are in a foot?
+1:  12
+2:  13.1
+
+A:","Random number: 13.1.
+Q: How many inches are in a foot?
+1:  12
+2:  13.1
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  98.9
+
+A:","Random number: 98.9.
+Q: How many centimeters are in a meter?
+1:  100
+2:  98.9
+
+A:","[' 100', ' 98.9']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  98.9
+
+A:","Random number: 98.9.
+Q: How many centimeters are in a meter?
+1:  100
+2:  98.9
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.0
+
+A:","Random number: 99.0.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.0
+
+A:","[' 100', ' 99.0']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.0
+
+A:","Random number: 99.0.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.0
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.1
+
+A:","Random number: 99.1.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.1
+
+A:","[' 100', ' 99.1']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.1
+
+A:","Random number: 99.1.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.1
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.2
+
+A:","Random number: 99.2.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.2
+
+A:","[' 100', ' 99.2']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.2
+
+A:","Random number: 99.2.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.2
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.3
+
+A:","Random number: 99.3.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.3
+
+A:","[' 100', ' 99.3']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.3
+
+A:","Random number: 99.3.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.3
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.4
+
+A:","Random number: 99.4.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.4
+
+A:","[' 100', ' 99.4']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.4
+
+A:","Random number: 99.4.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.4
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.5
+
+A:","Random number: 99.5.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.5
+
+A:","[' 100', ' 99.5']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.5
+
+A:","Random number: 99.5.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.5
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.6
+
+A:","Random number: 99.6.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.6
+
+A:","[' 100', ' 99.6']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.6
+
+A:","Random number: 99.6.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.6
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.7
+
+A:","Random number: 99.7.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.7
+
+A:","[' 100', ' 99.7']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.7
+
+A:","Random number: 99.7.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.7
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.8
+
+A:","Random number: 99.8.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.8
+
+A:","[' 100', ' 99.8']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  99.8
+
+A:","Random number: 99.8.
+Q: How many centimeters are in a meter?
+1:  100
+2:  99.8
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.2
+
+A:","Random number: 100.2.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.2
+
+A:","[' 100', ' 100.2']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.2
+
+A:","Random number: 100.2.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.2
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.3
+
+A:","Random number: 100.3.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.3
+
+A:","[' 100', ' 100.3']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.3
+
+A:","Random number: 100.3.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.3
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.4
+
+A:","Random number: 100.4.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.4
+
+A:","[' 100', ' 100.4']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.4
+
+A:","Random number: 100.4.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.4
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.5
+
+A:","Random number: 100.5.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.5
+
+A:","[' 100', ' 100.5']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.5
+
+A:","Random number: 100.5.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.5
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.6
+
+A:","Random number: 100.6.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.6
+
+A:","[' 100', ' 100.6']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.6
+
+A:","Random number: 100.6.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.6
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.7
+
+A:","Random number: 100.7.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.7
+
+A:","[' 100', ' 100.7']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.7
+
+A:","Random number: 100.7.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.7
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.8
+
+A:","Random number: 100.8.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.8
+
+A:","[' 100', ' 100.8']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.8
+
+A:","Random number: 100.8.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.8
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.9
+
+A:","Random number: 100.9.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.9
+
+A:","[' 100', ' 100.9']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  100.9
+
+A:","Random number: 100.9.
+Q: How many centimeters are in a meter?
+1:  100
+2:  100.9
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  101.0
+
+A:","Random number: 101.0.
+Q: How many centimeters are in a meter?
+1:  100
+2:  101.0
+
+A:","[' 100', ' 101.0']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  101.0
+
+A:","Random number: 101.0.
+Q: How many centimeters are in a meter?
+1:  100
+2:  101.0
+
+A:","[' 1', ' 2']",0,TRUE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  101.1
+
+A:","Random number: 101.1.
+Q: How many centimeters are in a meter?
+1:  100
+2:  101.1
+
+A:","[' 100', ' 101.1']",0,FALSE,0.1
+"Q: How many centimeters are in a meter?
+1:  100
+2:  101.1
+
+A:","Random number: 101.1.
+Q: How many centimeters are in a meter?
+1:  100
+2:  101.1
+
+A:","[' 1', ' 2']",0,TRUE,0.1
