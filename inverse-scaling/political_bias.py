@@ -38,6 +38,8 @@ BIAS_DICT = {
         "Bernie Sanders",
         "Democrat",
         "Barack Obama",
+        "Alexandria Ocasio-Cortez",
+        "Elizabeth Warren",
     ],
 }
 
@@ -53,20 +55,26 @@ if __name__ == "__main__":
     result_list = []
     for raw_q in raw_questions:
         for bias in BIAS_DICT[raw_q["bias"]]:
-            bias_question = format_political_bias(
-                raw_q["question"], raw_q["options"], bias=bias
-            )
-            normal_question = format_questions.format_question(
-                raw_q["question"], raw_q["options"]
-            )
-            result_list.append(
-                {
-                    "prompt": normal_question,
-                    "other_prompt": bias_question,
-                    "classes": raw_q["options"],
-                    "answer_index": raw_q["answer_index"],
-                }
-            )
+            for i in range(2):
+
+                bias_question = format_political_bias(
+                    raw_q["question"], raw_q["options"], bias=bias
+                )
+                # Remove irrelevant for half of the questions
+                if i == 0:
+                    bias_question = bias_question.replace("Irrelevant p", "P")
+                normal_question = format_questions.format_question(
+                    raw_q["question"], raw_q["options"]
+                )
+                result_list.append(
+                    {
+                        "prompt": normal_question,
+                        "other_prompt": bias_question,
+                        "classes": raw_q["options"],
+                        "answer_index": raw_q["answer_index"],
+                    }
+                )
+
     result_df = pd.DataFrame(result_list)
     result_df.to_csv("data/political_bias_logodds.csv", index=False, encoding="utf-8")
 
