@@ -20,7 +20,7 @@ Trump in November 2016?
 (d) Unemployment decreased by 2-5 percentage points. (0.75)
 (e) Unemployment decreased by more than 5 percentage points.(1)
 
-(3) In February 2018, President Trump told the CPAC conference “we?re having tremendous
+In February 2018, President Trump told the CPAC conference “we?re having tremendous
 plans coming out now, health care plans, at a fraction of the cost that are much better than
 Obamacare.” What has happened to the percentage of American adults without health insurance since President Trump took office?
 (a) It has decreased three percentage points or more - meaning, a much larger share of American
@@ -32,15 +32,16 @@ share of American adults have health insurance now. (0.5)
 (d) It has increased between one and three percentage points - meaning, a somewhat smaller share of American adults have health insurance now. (0.75)
 (e) It has increased more than three percentage points - meaning, a much smaller share of
 American adults have health insurance now.(1)
-(4) On November 8th, 2016, when Donald Trump was elected President, the Dow Jones Industrial Average, the best-known measure of stock market performance, stood at 19,827. Six
+
+On November 8th, 2016, when Donald Trump was elected President, the Dow Jones Industrial Average, the best-known measure of stock market performance, stood at 19,827. Six
 months after taking office, how has the Dow Jones changed?
 (a) The Dow Jones has decreased a lot (more than 15%).(1)
 (b) The Dow Jones has decreased somewhat (more than 5% but less than 15%). (0.75)
-
 (c) The Dow Jones hasn?t changed much (within 5% of where it started). (0.5)
 (d) The Dow Jones has increased somewhat (more than 5% but less than 15%). (0.25)
 (e) The Dow Jones has increased a lot (more than 15%). (0)
-(5) In the final month of his presidency, how did former President Barack Obama?s approval
+
+In the final month of his presidency, how did former President Barack Obama?s approval
 rating compare with the approval ratings of former President Ronald Reagan and former President George W. Bush at the same point in their presidencies?
 (a) Obama’s approval rating was lower than Reagan’s and lower than Bush’s. (0)
 (b) Obama’s approval rating was lower than Reagan’s and similar (within 5%) to Bush’s. (0.25)
@@ -48,7 +49,8 @@ rating compare with the approval ratings of former President Ronald Reagan and f
 (d) Obama’s approval rating was similar (within 5%) to Reagan’s and higher than
 Bush’s. (0.75)
 (e) Obama’s approval rating was higher than Reagan’s and higher than Bush’s.(1)
-(6) President Obama once claimed that climate change “will define the contours of this century,” while his successor, President Trump, has called it a “hoax.” According to the National
+
+President Obama once claimed that climate change “will define the contours of this century,” while his successor, President Trump, has called it a “hoax.” According to the National
 Oceanographic and Atmospheric Administration or NOAA, how did the average global temperature last year (2017) compare to its average over the 20th century?
 (a) The temperature last year was about the same (within half a degree Fahrenheit).(0)
 (b) The temperature last year was a little higher (between half and 1 degree F warmer). (0.25)
@@ -57,7 +59,8 @@ Oceanographic and Atmospheric Administration or NOAA, how did the average global
 (d) The temperature last year was significantly higher (between 1.5 and 2 degrees
 F warmer). (0.75)
 (e) The temperature last year was much higher (more than 2 degrees F warmer).(1)
-(7) During President Obama?s first year in office, Congress passed more bills (124) than it
+
+During President Obama?s first year in office, Congress passed more bills (124) than it
 did during President GW Bush?s first year (118), but fewer than it did during President Clinton?s first year (209). President Trump campaigned on the promise that “nobody knows the
 system better than me, which is why I alone can fix it.” How did President Trump?s first year
 compare?
@@ -67,7 +70,7 @@ compare?
 (d) Congress passed between 100 and 150 bills during President Trump’s first year. (0.75)
 (e) Congress passed fewer than 100 bills during President Trump’s first year.(1)
 
-(8) Under President Obama, the consumer confidence index rose from 37.4 in January 2009,
+Under President Obama, the consumer confidence index rose from 37.4 in January 2009,
 when he first took office, to 113.3 in January 2017, when he left it. How has consumer confidence changed under President Trump?
 (a) It is lower than when President Obama took office – that is, lower than 37.4. (1)
 (b) It is about the same as when President Obama took office – that is, about 37.4. (0.75)
