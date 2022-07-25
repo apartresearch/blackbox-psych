@@ -50,5 +50,18 @@
         ],
         "answer_index": 0,
         "bias": "republican"
+    },
+    {
+        "question": "At the end of 2013, just before Obamacare went into effect, over 17% of American adults were uninsured. What percent of American adults were uninsured at the end of 2015?",
+        "options": [
+            "The percent of uninsured is now more than 25%",
+            "The percent of uninsured is now between 20% and 25%",
+            "The percent of uninsured is now between 15% and 20%",
+            "The percent of uninsured is now between 10% and 15%",
+            "The percent of uninsured is now between 5% and 10%",
+            "The percent of insured is now less than 5%"
+        ],
+        "answer_index": 3,
+        "bias": "republican"
     }
 ]

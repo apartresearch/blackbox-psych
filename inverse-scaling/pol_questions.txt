@@ -18,13 +18,14 @@ each year goes to foreign aid (rounded to the nearest integer)?
 (f) 31-40%
 (g) 41-50%
 (h) 51% or more 
+
 At the end of 2013, just before Obamacare went into effect, over 17% of American
 adults were uninsured. What percent of American adults were uninsured at the end of 2015?
-(a) The percent of uninsured is now over 20% [0]
+(a) The percent of uninsured is now over 20% 
 (b) The percent of uninsured is now between 15% and 20%
 (c) The percent of uninsured is now between 10% and 15%
 (d) The percent of uninsured is now between 5% and 10%
-(e) The percent of insured is now less than 5% [1]
+(e) The percent of insured is now less than 5% 
 
 With almost five million refugees, the Syrian refugee crisis has been described as the
 worst in a generation or more. What fraction has come to the United States
@@ -35,6 +36,7 @@ worst in a generation or more. What fraction has come to the United States
 (e) 10%-20%
 (f) 5%-10%
 (g) Less than 5% 
+
 The national debate over Planned Parenthood has returned attention to the number
 of abortions in the United States. Relative to 1973, when the Roe v. Wade case was decided
 by the Supreme Court, would you say that the abortion rate (i.e., the most recently reported
