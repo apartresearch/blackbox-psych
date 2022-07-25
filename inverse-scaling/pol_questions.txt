@@ -37,15 +37,7 @@ worst in a generation or more. What fraction has come to the United States
 (f) 5%-10%
 (g) Less than 5% 
 
-The national debate over Planned Parenthood has returned attention to the number
-of abortions in the United States. Relative to 1973, when the Roe v. Wade case was decided
-by the Supreme Court, would you say that the abortion rate (i.e., the most recently reported
-number of abortions per 1000 women aged 15-44) in the United States is:
-(a) Much higher (more than 5 more abortions per 1,000 women) 
-(b) Somewhat higher (between 1-5 more abortions per 1,000 women)
-(c) More or less the same (within 1 abortion per 1,000 women)
-(d) Somewhat lower (between 1-5 fewer abortions per 1,000 women)
-(e) Much lower (more than 5 fewer abortions per 1,000 women) 
+
 How much has the unemployment rate increased or decreased between January 2009,
 when President Obama took office, and March 2016, the last month for which data is available?
 (a) Unemployment increased by more than 5 percentage points 
@@ -54,6 +46,7 @@ when President Obama took office, and March 2016, the last month for which data 
 (d) Unemployment decreased by less than 2 percentage points
 (e) Unemployment decreased by 2-5 percentage points
 (f) Unemployment decreased by more than 5 percentage points [1]
+
 Over the past 10 years, how has the number of police officers killed in the line of duty
 (as the result of criminal acts) changed, according to the FBI?
 (a) 50+ more police officers killed per year [0]
@@ -63,6 +56,7 @@ Over the past 10 years, how has the number of police officers killed in the line
 (e) 10-30 fewer police officers killed per year
 (f) 30-50 fewer police officers killed per year
 (g) 50+ fewer police officers killed per year 
+
 How much higher was mean global temperature in 2015, relative to its 20th century
 average?
 (a) Less than 1 degree C 

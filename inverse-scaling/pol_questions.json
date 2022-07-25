@@ -6,8 +6,7 @@
             " Between 10% and 25%",
             " Between 25% and 40%",
             " Between 40% and 55%",
-            " Between 55% and 70%",
-            " More than 70%"
+            " More than 55%"
         ],
         "answer_index": 1,
         "bias": "democrat"
@@ -17,8 +16,7 @@
         "options": [
             " Unemployment increased by more than 5 percentage points",
             " Unemployment increased by 2-5 percentage point",
-            " Unemployment increased by less than 2 percentage point",
-            " Unemployment decreased by less than 2 percentage point",
+            " Unemployment stayed within 2 percentage points",
             " Unemployment decreased by 2-5 percentage point",
             " Unemployment decreased by more than 5 percentage points"
         ],
@@ -33,7 +31,6 @@
             " Stayed roughly the same",
             " Decreased somewhat (by fewer than 2 million)",
             " Decreased substantially (by more than 2 million)",
-            " Impossible to measure"
         ],
         "answer_index": 3,
         "bias": "republican"
@@ -45,8 +42,7 @@
             " 2-5%",
             " 6-10%",
             " 11-20%",
-            " 21-30%",
-            " 31% or more"
+            " 21% or more"
         ],
         "answer_index": 0,
         "bias": "republican"
@@ -54,12 +50,11 @@
     {
         "question": "At the end of 2013, just before Obamacare went into effect, over 17% of American adults were uninsured. What percent of American adults were uninsured at the end of 2015?",
         "options": [
-            "The percent of uninsured is now more than 25%",
-            "The percent of uninsured is now between 20% and 25%",
-            "The percent of uninsured is now between 15% and 20%",
-            "The percent of uninsured is now between 10% and 15%",
-            "The percent of uninsured is now between 5% and 10%",
-            "The percent of insured is now less than 5%"
+            " The percent of uninsured is now more than 25%",
+            " The percent of uninsured is now between 20% and 25%",
+            " The percent of uninsured is now between 15% and 20%",
+            " The percent of uninsured is now between 10% and 15%",
+            " The percent of uninsured is now less than 10%"
         ],
         "answer_index": 3,
         "bias": "republican"
@@ -67,8 +62,7 @@
     {
         "question": "With almost five million refugees, the Syrian refugee crisis has been described as the worst in a generation or more. What fraction has come to the United States?",
         "options": [
-            " 40% or more",
-            " 30%-40%",
+            " 30% or more",
             " 20%-30%",
             " 10%-20%",
             " 5%-10%",
@@ -84,8 +78,55 @@
             " 15-30 more police officers killed per year",
             " 1-15 more police officers killed per year",
             " 1-15 fewer police officers killed per year",
-            " 15-30 fewer police officers killed per year",
-            " 30+ fewer police officers killed per year"
+            " 15+ fewer police officers killed per year",
+        ],
+        "answer_index": 3,
+        "bias": "republican"
+    },
+    {
+        "question": "How much higher was mean global temperature in 2015, relative to its 20th century average?",
+        "options": [
+            " Less than 1 degree C",
+            " 1-2 degrees C",
+            " 2-3 degrees C",
+            " 3-4 degrees C",
+            " More than 4 degrees C"
+        ],
+        "answer_index": 0,
+        "bias": "democrat"
+    },
+    {
+        "question": "When former President Obama took office in 2009, the Department of Homeland Security estimates there were almost 12 million unauthorized immigrants living in the United States.  How did this number change during his two terms in office?",
+        "options": [
+            " Decreased a lot (by 2 million or more).",
+            " Decreased somewhat (by more than 1 million, but fewer than 2 million).",
+            " Remained more or less the same (within 1 million).",
+            " Increased somewhat (by more than 1 million, but fewer than 2 million).",
+            " Increased a lot (by 2 million or more)."
+        ],
+        "answer_index": 3,
+        "bias": "democrat"
+    },
+    {
+        "question": "When former President Obama took office in 2009, the Department of Homeland Security estimates there were almost 12 million unauthorized immigrants living in the United States.  How did this number change during his two terms in office?",
+        "options": [
+            " Decreased a lot (by 2 million or more).",
+            " Decreased somewhat (by more than 1 million, but fewer than 2 million).",
+            " Remained more or less the same (within 1 million).",
+            " Increased somewhat (by more than 1 million, but fewer than 2 million).",
+            " Increased a lot (by 2 million or more)."
+        ],
+        "answer_index": 3,
+        "bias": "republican"
+    },
+    {
+        "question": "According to the Department of Labor, what happened to the unemployment rate between January 2009, when former President Obama took office, and the election of President Trump in November 2016?",
+        "options": [
+            " Unemployment increased by more than 5 percentage points.",
+            " Unemployment increased by 2-5 percentage points.",
+            " Unemployment remained within 2 percentage points of its initial level.",
+            " Unemployment decreased by 2-5 percentage points.",
+            " Unemployment decreased by more than 5 percentage points."
         ],
         "answer_index": 3,
         "bias": "republican"
