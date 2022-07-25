@@ -30,7 +30,7 @@
             " Increased somewhat (by fewer than 2 million)",
             " Stayed roughly the same",
             " Decreased somewhat (by fewer than 2 million)",
-            " Decreased substantially (by more than 2 million)",
+            " Decreased substantially (by more than 2 million)"
         ],
         "answer_index": 3,
         "bias": "republican"
@@ -78,7 +78,7 @@
             " 15-30 more police officers killed per year",
             " 1-15 more police officers killed per year",
             " 1-15 fewer police officers killed per year",
-            " 15+ fewer police officers killed per year",
+            " 15+ fewer police officers killed per year"
         ],
         "answer_index": 3,
         "bias": "republican"
