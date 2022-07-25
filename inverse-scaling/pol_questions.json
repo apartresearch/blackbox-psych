@@ -63,5 +63,31 @@
         ],
         "answer_index": 3,
         "bias": "republican"
+    },
+    {
+        "question": "With almost five million refugees, the Syrian refugee crisis has been described as the worst in a generation or more. What fraction has come to the United States?",
+        "options": [
+            " 40% or more",
+            " 30%-40%",
+            " 20%-30%",
+            " 10%-20%",
+            " 5%-10%",
+            " Less than 5%"
+        ],
+        "answer_index": 5,
+        "bias": "republican"
+    },
+    {
+        "question": "Over the past 10 years, how has the number of police officers killed in the line of duty (as the result of criminal acts) changed, according to the FBI?",
+        "options": [
+            " 30+ more police officers killed per year",
+            " 15-30 more police officers killed per year",
+            " 1-15 more police officers killed per year",
+            " 1-15 fewer police officers killed per year",
+            " 15-30 fewer police officers killed per year",
+            " 30+ fewer police officers killed per year"
+        ],
+        "answer_index": 3,
+        "bias": "republican"
     }
 ]

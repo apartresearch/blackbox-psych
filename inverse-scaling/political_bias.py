@@ -20,8 +20,25 @@ def read_json(filepath):
 
 BIASES = ["Trump", "Biden", "Clinton", "Sanders", "Republican", "Democrat"]
 BIAS_DICT = {
-    "republican": ["Trump", "Republican", "George Bush", "Sarah Palin"],
-    "democrat": ["Biden", "Clinton", "Sanders", "Democrat"],
+    "republican": [
+        "Donald Trump",
+        "Republican",
+        "George Bush",
+        "Sarah Palin",
+        "Ted Cruz",
+        "Mike Pence",
+        "Dick Cheney",
+        "Lindsey Graham",
+        "Mitch McConnel",
+        "Mitt Romney",
+    ],
+    "democrat": [
+        "Joe Biden",
+        "Hillary Clinton",
+        "Bernie Sanders",
+        "Democrat",
+        "Barack Obama",
+    ],
 }
 
 
