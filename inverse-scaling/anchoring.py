@@ -188,7 +188,10 @@ def main():
         {
             "prompt": (PRE_PROMPT if q["preprompt"] else "")
             + "".join(SHOTS_12[: q["kshot"]] if q["indices"] else SHOTS[: q["kshot"]])
-            + PROMPT.format(q["q"], f"1: {q['correct']}\n2: {q['anchor']}"),
+            + PROMPT.format(
+                q["q"],
+                f"1: {q['anchor'] if q['reverse'] else q['correct']}\n2: {q['correct'] if q['reverse'] else q['anchor']}",
+            ),
             "other_prompt": (PRE_PROMPT if q["preprompt"] else "")
             + "".join(SHOTS_12[: q["kshot"]] if q["indices"] else SHOTS[: q["kshot"]])
             + OTHER_PROMPT.format(
