@@ -77,8 +77,27 @@ def main():
         }
         for q in all_q
     ]
+
+    formatted_questions_reversed = [
+        {
+            "prompt": PROMPT.format(q["q"], f"1: {q['anchor']}\n2: {q['correct']}"),
+            "other_prompt": OTHER_PROMPT.format(
+                q["anchor"], q["q"], f"1: {q['anchor']}\n2: {q['correct']}"
+            ),
+            "classes": [" 1", " 2"] if q["indices"] else [q["correct"], q["anchor"]],
+            "answer_index": 1,
+            "indices": q["indices"],
+            "anchor_scale": q["anchor_scale"],
+        }
+        for q in all_q
+    ]
+    formatted_questions.extend(formatted_questions_reversed)
+
     df = pd.DataFrame(formatted_questions)
     df.to_csv("inverse-scaling/data/anchoring_raw.csv", index=False)
+    df[df["indices"] == False].to_csv(
+        "inverse-scaling/data/anchoring_num.csv", index=False
+    )
 
 
 if __name__ == "__main__":
