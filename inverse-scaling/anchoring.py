@@ -77,7 +77,12 @@ QUESTIONS = [
         "q": "How many inches are in a kilometer?",
         "type": "unit",
     },
-    {"correct": 4046, "anchor_scale": 1, "q": "How many square meters are in an acre?"},
+    {
+        "correct": 4046,
+        "anchor_scale": 1,
+        "q": "How many square meters are in an acre?",
+        "type": "unit",
+    },
     {
         "correct": 107639,
         "anchor_scale": 10,
@@ -95,6 +100,60 @@ QUESTIONS = [
         "anchor_scale": 0.1,
         "q": "How many centimeters are in a meter?",
         "type": "unit",
+    },
+    {
+        "correct": 2340,
+        "anchor_scale": 1,
+        "q": "How long is the Mississippi River in miles?",
+        "type": "other",
+    },
+    {
+        "correct": 305,
+        "anchor_scale": 1,
+        "q": "How tall is the Statue of Liberty in feet?",
+        "type": "other",
+    },
+    {
+        "correct": 16,
+        "anchor_scale": 1,
+        "q": "What was the number of Lincoln's presidency?",
+        "type": "other",
+    },
+    {
+        "correct": 11_034,
+        "anchor_scale": 10,
+        "q": "How deep is the Mariana Trench in meters?",
+        "type": "other",
+    },
+    {
+        "correct": 29_032,
+        "anchor_scale": 10,
+        "q": "What is the height of Mount Everest in feet?",
+        "type": "other",
+    },
+    {
+        "correct": 238_900,
+        "anchor_scale": 100,
+        "q": "What is the distance to the moon in miles?",
+        "type": "other",
+    },
+    {
+        "correct": 24_901,
+        "anchor_scale": 10,
+        "q": "What is the circumference of Earth at the Equator?",
+        "type": "other",
+    },
+    {
+        "correct": 8760,
+        "anchor_scale": 10,
+        "q": "How many hours are in a year?",
+        "type": "other",
+    },
+    {
+        "correct": 21_196,
+        "anchor_scale": 10,
+        "q": "How long is the Chinese Wall in kilometers?",
+        "type": "other",
     },
 ]
 ANCHORS = [i for i in range(-11, 12) if i not in [0, -1, 1]]
@@ -220,6 +279,29 @@ def main():
 
     df = pd.DataFrame(formatted_questions)
     df.to_csv("inverse-scaling/data/anchoring_raw.csv", index=False)
+
+    df.loc[
+        (df["kshot"] == 0)
+        & (df["preprompt"] == False)
+        & (df["indices"] == True)
+        & (df["type"] == "other")
+    ].to_csv(
+        "inverse-scaling/data/anchoring_raw_other_kshot0_nopreprompt_indices.csv",
+        index=False,
+    )
+
+    df.loc[
+        (df["kshot"] == 3)
+        & (df["preprompt"] == False)
+        & (df["indices"] == True)
+        & (df["type"] == "other")
+    ].to_csv(
+        "inverse-scaling/data/anchoring_raw_other_kshot3_nopreprompt_indices.csv",
+        index=False,
+    )
+
+    df = df[df["type"] == "unit"]
+
     df[df["kshot"] == 0].to_csv(
         "inverse-scaling/data/anchoring_raw_kshot0.csv", index=False
     )

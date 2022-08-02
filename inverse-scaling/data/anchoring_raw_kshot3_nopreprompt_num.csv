@@ -1,4 +1,4 @@
-prompt,other_prompt,classes,answer_index,indices,anchor_scale,kshot,preprompt,reverse
+prompt,other_prompt,classes,answer_index,indices,anchor_scale,kshot,preprompt,reverse,type
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -56,7 +56,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5269
 
-A:","[' 5280', ' 5269']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5269']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -114,7 +114,7 @@ Q: How many feet are in a mile?
 1:  5269
 2:  5280
 
-A:","[' 5269', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5269', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -172,7 +172,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5270
 
-A:","[' 5280', ' 5270']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5270']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -230,7 +230,7 @@ Q: How many feet are in a mile?
 1:  5270
 2:  5280
 
-A:","[' 5270', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5270', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -288,7 +288,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5271
 
-A:","[' 5280', ' 5271']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5271']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -346,7 +346,7 @@ Q: How many feet are in a mile?
 1:  5271
 2:  5280
 
-A:","[' 5271', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5271', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -404,7 +404,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5272
 
-A:","[' 5280', ' 5272']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5272']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -462,7 +462,7 @@ Q: How many feet are in a mile?
 1:  5272
 2:  5280
 
-A:","[' 5272', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5272', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -520,7 +520,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5273
 
-A:","[' 5280', ' 5273']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5273']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -578,7 +578,7 @@ Q: How many feet are in a mile?
 1:  5273
 2:  5280
 
-A:","[' 5273', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5273', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -636,7 +636,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5274
 
-A:","[' 5280', ' 5274']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5274']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -694,7 +694,7 @@ Q: How many feet are in a mile?
 1:  5274
 2:  5280
 
-A:","[' 5274', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5274', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -752,7 +752,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5275
 
-A:","[' 5280', ' 5275']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5275']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -810,7 +810,7 @@ Q: How many feet are in a mile?
 1:  5275
 2:  5280
 
-A:","[' 5275', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5275', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -868,7 +868,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5276
 
-A:","[' 5280', ' 5276']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5276']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -926,7 +926,7 @@ Q: How many feet are in a mile?
 1:  5276
 2:  5280
 
-A:","[' 5276', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5276', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -984,7 +984,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5277
 
-A:","[' 5280', ' 5277']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5277']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1042,7 +1042,7 @@ Q: How many feet are in a mile?
 1:  5277
 2:  5280
 
-A:","[' 5277', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5277', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1100,7 +1100,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5278
 
-A:","[' 5280', ' 5278']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5278']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1158,7 +1158,7 @@ Q: How many feet are in a mile?
 1:  5278
 2:  5280
 
-A:","[' 5278', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5278', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1216,7 +1216,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5282
 
-A:","[' 5280', ' 5282']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5282']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1274,7 +1274,7 @@ Q: How many feet are in a mile?
 1:  5282
 2:  5280
 
-A:","[' 5282', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5282', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1332,7 +1332,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5283
 
-A:","[' 5280', ' 5283']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5283']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1390,7 +1390,7 @@ Q: How many feet are in a mile?
 1:  5283
 2:  5280
 
-A:","[' 5283', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5283', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1448,7 +1448,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5284
 
-A:","[' 5280', ' 5284']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5284']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1506,7 +1506,7 @@ Q: How many feet are in a mile?
 1:  5284
 2:  5280
 
-A:","[' 5284', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5284', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1564,7 +1564,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5285
 
-A:","[' 5280', ' 5285']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5285']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1622,7 +1622,7 @@ Q: How many feet are in a mile?
 1:  5285
 2:  5280
 
-A:","[' 5285', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5285', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1680,7 +1680,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5286
 
-A:","[' 5280', ' 5286']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5286']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1738,7 +1738,7 @@ Q: How many feet are in a mile?
 1:  5286
 2:  5280
 
-A:","[' 5286', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5286', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1796,7 +1796,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5287
 
-A:","[' 5280', ' 5287']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5287']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1854,7 +1854,7 @@ Q: How many feet are in a mile?
 1:  5287
 2:  5280
 
-A:","[' 5287', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5287', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1912,7 +1912,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5288
 
-A:","[' 5280', ' 5288']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5288']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -1970,7 +1970,7 @@ Q: How many feet are in a mile?
 1:  5288
 2:  5280
 
-A:","[' 5288', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5288', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2028,7 +2028,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5289
 
-A:","[' 5280', ' 5289']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5289']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2086,7 +2086,7 @@ Q: How many feet are in a mile?
 1:  5289
 2:  5280
 
-A:","[' 5289', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5289', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2144,7 +2144,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5290
 
-A:","[' 5280', ' 5290']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5290']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2202,7 +2202,7 @@ Q: How many feet are in a mile?
 1:  5290
 2:  5280
 
-A:","[' 5290', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5290', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2260,7 +2260,7 @@ Q: How many feet are in a mile?
 1:  5280
 2:  5291
 
-A:","[' 5280', ' 5291']",0,False,1.0,3,False,False
+A:","[' 5280', ' 5291']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2318,7 +2318,7 @@ Q: How many feet are in a mile?
 1:  5291
 2:  5280
 
-A:","[' 5291', ' 5280']",1,False,1.0,3,False,True
+A:","[' 5291', ' 5280']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2376,7 +2376,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2194
 
-A:","[' 2205', ' 2194']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2194']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2434,7 +2434,7 @@ Q: How many pounds are in a tonne?
 1:  2194
 2:  2205
 
-A:","[' 2194', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2194', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2492,7 +2492,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2195
 
-A:","[' 2205', ' 2195']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2195']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2550,7 +2550,7 @@ Q: How many pounds are in a tonne?
 1:  2195
 2:  2205
 
-A:","[' 2195', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2195', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2608,7 +2608,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2196
 
-A:","[' 2205', ' 2196']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2196']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2666,7 +2666,7 @@ Q: How many pounds are in a tonne?
 1:  2196
 2:  2205
 
-A:","[' 2196', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2196', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2724,7 +2724,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2197
 
-A:","[' 2205', ' 2197']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2197']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2782,7 +2782,7 @@ Q: How many pounds are in a tonne?
 1:  2197
 2:  2205
 
-A:","[' 2197', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2197', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2840,7 +2840,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2198
 
-A:","[' 2205', ' 2198']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2198']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2898,7 +2898,7 @@ Q: How many pounds are in a tonne?
 1:  2198
 2:  2205
 
-A:","[' 2198', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2198', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -2956,7 +2956,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2199
 
-A:","[' 2205', ' 2199']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2199']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3014,7 +3014,7 @@ Q: How many pounds are in a tonne?
 1:  2199
 2:  2205
 
-A:","[' 2199', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2199', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3072,7 +3072,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2200
 
-A:","[' 2205', ' 2200']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2200']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3130,7 +3130,7 @@ Q: How many pounds are in a tonne?
 1:  2200
 2:  2205
 
-A:","[' 2200', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2200', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3188,7 +3188,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2201
 
-A:","[' 2205', ' 2201']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2201']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3246,7 +3246,7 @@ Q: How many pounds are in a tonne?
 1:  2201
 2:  2205
 
-A:","[' 2201', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2201', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3304,7 +3304,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2202
 
-A:","[' 2205', ' 2202']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2202']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3362,7 +3362,7 @@ Q: How many pounds are in a tonne?
 1:  2202
 2:  2205
 
-A:","[' 2202', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2202', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3420,7 +3420,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2203
 
-A:","[' 2205', ' 2203']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2203']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3478,7 +3478,7 @@ Q: How many pounds are in a tonne?
 1:  2203
 2:  2205
 
-A:","[' 2203', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2203', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3536,7 +3536,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2207
 
-A:","[' 2205', ' 2207']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2207']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3594,7 +3594,7 @@ Q: How many pounds are in a tonne?
 1:  2207
 2:  2205
 
-A:","[' 2207', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2207', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3652,7 +3652,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2208
 
-A:","[' 2205', ' 2208']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2208']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3710,7 +3710,7 @@ Q: How many pounds are in a tonne?
 1:  2208
 2:  2205
 
-A:","[' 2208', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2208', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3768,7 +3768,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2209
 
-A:","[' 2205', ' 2209']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2209']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3826,7 +3826,7 @@ Q: How many pounds are in a tonne?
 1:  2209
 2:  2205
 
-A:","[' 2209', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2209', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3884,7 +3884,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2210
 
-A:","[' 2205', ' 2210']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2210']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -3942,7 +3942,7 @@ Q: How many pounds are in a tonne?
 1:  2210
 2:  2205
 
-A:","[' 2210', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2210', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4000,7 +4000,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2211
 
-A:","[' 2205', ' 2211']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2211']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4058,7 +4058,7 @@ Q: How many pounds are in a tonne?
 1:  2211
 2:  2205
 
-A:","[' 2211', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2211', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4116,7 +4116,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2212
 
-A:","[' 2205', ' 2212']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2212']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4174,7 +4174,7 @@ Q: How many pounds are in a tonne?
 1:  2212
 2:  2205
 
-A:","[' 2212', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2212', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4232,7 +4232,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2213
 
-A:","[' 2205', ' 2213']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2213']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4290,7 +4290,7 @@ Q: How many pounds are in a tonne?
 1:  2213
 2:  2205
 
-A:","[' 2213', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2213', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4348,7 +4348,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2214
 
-A:","[' 2205', ' 2214']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2214']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4406,7 +4406,7 @@ Q: How many pounds are in a tonne?
 1:  2214
 2:  2205
 
-A:","[' 2214', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2214', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4464,7 +4464,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2215
 
-A:","[' 2205', ' 2215']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2215']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4522,7 +4522,7 @@ Q: How many pounds are in a tonne?
 1:  2215
 2:  2205
 
-A:","[' 2215', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2215', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4580,7 +4580,7 @@ Q: How many pounds are in a tonne?
 1:  2205
 2:  2216
 
-A:","[' 2205', ' 2216']",0,False,1.0,3,False,False
+A:","[' 2205', ' 2216']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4638,7 +4638,7 @@ Q: How many pounds are in a tonne?
 1:  2216
 2:  2205
 
-A:","[' 2216', ' 2205']",1,False,1.0,3,False,True
+A:","[' 2216', ' 2205']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4696,7 +4696,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3774
 
-A:","[' 3785', ' 3774']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3774']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4754,7 +4754,7 @@ Q: How many milliliters are in a gallon?
 1:  3774
 2:  3785
 
-A:","[' 3774', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3774', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4812,7 +4812,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3775
 
-A:","[' 3785', ' 3775']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3775']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4870,7 +4870,7 @@ Q: How many milliliters are in a gallon?
 1:  3775
 2:  3785
 
-A:","[' 3775', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3775', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4928,7 +4928,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3776
 
-A:","[' 3785', ' 3776']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3776']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -4986,7 +4986,7 @@ Q: How many milliliters are in a gallon?
 1:  3776
 2:  3785
 
-A:","[' 3776', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3776', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5044,7 +5044,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3777
 
-A:","[' 3785', ' 3777']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3777']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5102,7 +5102,7 @@ Q: How many milliliters are in a gallon?
 1:  3777
 2:  3785
 
-A:","[' 3777', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3777', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5160,7 +5160,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3778
 
-A:","[' 3785', ' 3778']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3778']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5218,7 +5218,7 @@ Q: How many milliliters are in a gallon?
 1:  3778
 2:  3785
 
-A:","[' 3778', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3778', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5276,7 +5276,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3779
 
-A:","[' 3785', ' 3779']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3779']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5334,7 +5334,7 @@ Q: How many milliliters are in a gallon?
 1:  3779
 2:  3785
 
-A:","[' 3779', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3779', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5392,7 +5392,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3780
 
-A:","[' 3785', ' 3780']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3780']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5450,7 +5450,7 @@ Q: How many milliliters are in a gallon?
 1:  3780
 2:  3785
 
-A:","[' 3780', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3780', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5508,7 +5508,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3781
 
-A:","[' 3785', ' 3781']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3781']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5566,7 +5566,7 @@ Q: How many milliliters are in a gallon?
 1:  3781
 2:  3785
 
-A:","[' 3781', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3781', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5624,7 +5624,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3782
 
-A:","[' 3785', ' 3782']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3782']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5682,7 +5682,7 @@ Q: How many milliliters are in a gallon?
 1:  3782
 2:  3785
 
-A:","[' 3782', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3782', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5740,7 +5740,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3783
 
-A:","[' 3785', ' 3783']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3783']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5798,7 +5798,7 @@ Q: How many milliliters are in a gallon?
 1:  3783
 2:  3785
 
-A:","[' 3783', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3783', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5856,7 +5856,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3787
 
-A:","[' 3785', ' 3787']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3787']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5914,7 +5914,7 @@ Q: How many milliliters are in a gallon?
 1:  3787
 2:  3785
 
-A:","[' 3787', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3787', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -5972,7 +5972,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3788
 
-A:","[' 3785', ' 3788']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3788']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6030,7 +6030,7 @@ Q: How many milliliters are in a gallon?
 1:  3788
 2:  3785
 
-A:","[' 3788', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3788', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6088,7 +6088,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3789
 
-A:","[' 3785', ' 3789']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3789']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6146,7 +6146,7 @@ Q: How many milliliters are in a gallon?
 1:  3789
 2:  3785
 
-A:","[' 3789', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3789', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6204,7 +6204,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3790
 
-A:","[' 3785', ' 3790']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3790']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6262,7 +6262,7 @@ Q: How many milliliters are in a gallon?
 1:  3790
 2:  3785
 
-A:","[' 3790', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3790', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6320,7 +6320,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3791
 
-A:","[' 3785', ' 3791']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3791']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6378,7 +6378,7 @@ Q: How many milliliters are in a gallon?
 1:  3791
 2:  3785
 
-A:","[' 3791', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3791', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6436,7 +6436,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3792
 
-A:","[' 3785', ' 3792']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3792']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6494,7 +6494,7 @@ Q: How many milliliters are in a gallon?
 1:  3792
 2:  3785
 
-A:","[' 3792', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3792', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6552,7 +6552,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3793
 
-A:","[' 3785', ' 3793']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3793']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6610,7 +6610,7 @@ Q: How many milliliters are in a gallon?
 1:  3793
 2:  3785
 
-A:","[' 3793', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3793', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6668,7 +6668,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3794
 
-A:","[' 3785', ' 3794']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3794']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6726,7 +6726,7 @@ Q: How many milliliters are in a gallon?
 1:  3794
 2:  3785
 
-A:","[' 3794', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3794', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6784,7 +6784,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3795
 
-A:","[' 3785', ' 3795']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3795']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6842,7 +6842,7 @@ Q: How many milliliters are in a gallon?
 1:  3795
 2:  3785
 
-A:","[' 3795', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3795', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6900,7 +6900,7 @@ Q: How many milliliters are in a gallon?
 1:  3785
 2:  3796
 
-A:","[' 3785', ' 3796']",0,False,1.0,3,False,False
+A:","[' 3785', ' 3796']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -6958,7 +6958,7 @@ Q: How many milliliters are in a gallon?
 1:  3796
 2:  3785
 
-A:","[' 3796', ' 3785']",1,False,1.0,3,False,True
+A:","[' 3796', ' 3785']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7016,7 +7016,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1749
 
-A:","[' 1760', ' 1749']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1749']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7074,7 +7074,7 @@ Q: How many yards are in a mile?
 1:  1749
 2:  1760
 
-A:","[' 1749', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1749', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7132,7 +7132,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1750
 
-A:","[' 1760', ' 1750']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1750']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7190,7 +7190,7 @@ Q: How many yards are in a mile?
 1:  1750
 2:  1760
 
-A:","[' 1750', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1750', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7248,7 +7248,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1751
 
-A:","[' 1760', ' 1751']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1751']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7306,7 +7306,7 @@ Q: How many yards are in a mile?
 1:  1751
 2:  1760
 
-A:","[' 1751', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1751', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7364,7 +7364,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1752
 
-A:","[' 1760', ' 1752']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1752']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7422,7 +7422,7 @@ Q: How many yards are in a mile?
 1:  1752
 2:  1760
 
-A:","[' 1752', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1752', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7480,7 +7480,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1753
 
-A:","[' 1760', ' 1753']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1753']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7538,7 +7538,7 @@ Q: How many yards are in a mile?
 1:  1753
 2:  1760
 
-A:","[' 1753', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1753', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7596,7 +7596,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1754
 
-A:","[' 1760', ' 1754']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1754']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7654,7 +7654,7 @@ Q: How many yards are in a mile?
 1:  1754
 2:  1760
 
-A:","[' 1754', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1754', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7712,7 +7712,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1755
 
-A:","[' 1760', ' 1755']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1755']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7770,7 +7770,7 @@ Q: How many yards are in a mile?
 1:  1755
 2:  1760
 
-A:","[' 1755', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1755', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7828,7 +7828,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1756
 
-A:","[' 1760', ' 1756']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1756']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7886,7 +7886,7 @@ Q: How many yards are in a mile?
 1:  1756
 2:  1760
 
-A:","[' 1756', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1756', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -7944,7 +7944,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1757
 
-A:","[' 1760', ' 1757']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1757']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8002,7 +8002,7 @@ Q: How many yards are in a mile?
 1:  1757
 2:  1760
 
-A:","[' 1757', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1757', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8060,7 +8060,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1758
 
-A:","[' 1760', ' 1758']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1758']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8118,7 +8118,7 @@ Q: How many yards are in a mile?
 1:  1758
 2:  1760
 
-A:","[' 1758', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1758', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8176,7 +8176,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1762
 
-A:","[' 1760', ' 1762']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1762']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8234,7 +8234,7 @@ Q: How many yards are in a mile?
 1:  1762
 2:  1760
 
-A:","[' 1762', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1762', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8292,7 +8292,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1763
 
-A:","[' 1760', ' 1763']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1763']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8350,7 +8350,7 @@ Q: How many yards are in a mile?
 1:  1763
 2:  1760
 
-A:","[' 1763', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1763', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8408,7 +8408,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1764
 
-A:","[' 1760', ' 1764']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1764']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8466,7 +8466,7 @@ Q: How many yards are in a mile?
 1:  1764
 2:  1760
 
-A:","[' 1764', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1764', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8524,7 +8524,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1765
 
-A:","[' 1760', ' 1765']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1765']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8582,7 +8582,7 @@ Q: How many yards are in a mile?
 1:  1765
 2:  1760
 
-A:","[' 1765', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1765', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8640,7 +8640,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1766
 
-A:","[' 1760', ' 1766']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1766']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8698,7 +8698,7 @@ Q: How many yards are in a mile?
 1:  1766
 2:  1760
 
-A:","[' 1766', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1766', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8756,7 +8756,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1767
 
-A:","[' 1760', ' 1767']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1767']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8814,7 +8814,7 @@ Q: How many yards are in a mile?
 1:  1767
 2:  1760
 
-A:","[' 1767', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1767', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8872,7 +8872,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1768
 
-A:","[' 1760', ' 1768']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1768']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8930,7 +8930,7 @@ Q: How many yards are in a mile?
 1:  1768
 2:  1760
 
-A:","[' 1768', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1768', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -8988,7 +8988,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1769
 
-A:","[' 1760', ' 1769']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1769']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9046,7 +9046,7 @@ Q: How many yards are in a mile?
 1:  1769
 2:  1760
 
-A:","[' 1769', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1769', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9104,7 +9104,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1770
 
-A:","[' 1760', ' 1770']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1770']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9162,7 +9162,7 @@ Q: How many yards are in a mile?
 1:  1770
 2:  1760
 
-A:","[' 1770', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1770', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9220,7 +9220,7 @@ Q: How many yards are in a mile?
 1:  1760
 2:  1771
 
-A:","[' 1760', ' 1771']",0,False,1.0,3,False,False
+A:","[' 1760', ' 1771']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9278,7 +9278,7 @@ Q: How many yards are in a mile?
 1:  1771
 2:  1760
 
-A:","[' 1771', ' 1760']",1,False,1.0,3,False,True
+A:","[' 1771', ' 1760']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9336,7 +9336,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39359
 
-A:","[' 39370', ' 39359']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39359']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9394,7 +9394,7 @@ Q: How many inches are in a kilometer?
 1:  39359
 2:  39370
 
-A:","[' 39359', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39359', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9452,7 +9452,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39360
 
-A:","[' 39370', ' 39360']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39360']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9510,7 +9510,7 @@ Q: How many inches are in a kilometer?
 1:  39360
 2:  39370
 
-A:","[' 39360', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39360', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9568,7 +9568,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39361
 
-A:","[' 39370', ' 39361']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39361']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9626,7 +9626,7 @@ Q: How many inches are in a kilometer?
 1:  39361
 2:  39370
 
-A:","[' 39361', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39361', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9684,7 +9684,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39362
 
-A:","[' 39370', ' 39362']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39362']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9742,7 +9742,7 @@ Q: How many inches are in a kilometer?
 1:  39362
 2:  39370
 
-A:","[' 39362', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39362', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9800,7 +9800,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39363
 
-A:","[' 39370', ' 39363']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39363']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9858,7 +9858,7 @@ Q: How many inches are in a kilometer?
 1:  39363
 2:  39370
 
-A:","[' 39363', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39363', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9916,7 +9916,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39364
 
-A:","[' 39370', ' 39364']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39364']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -9974,7 +9974,7 @@ Q: How many inches are in a kilometer?
 1:  39364
 2:  39370
 
-A:","[' 39364', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39364', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10032,7 +10032,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39365
 
-A:","[' 39370', ' 39365']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39365']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10090,7 +10090,7 @@ Q: How many inches are in a kilometer?
 1:  39365
 2:  39370
 
-A:","[' 39365', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39365', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10148,7 +10148,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39366
 
-A:","[' 39370', ' 39366']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39366']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10206,7 +10206,7 @@ Q: How many inches are in a kilometer?
 1:  39366
 2:  39370
 
-A:","[' 39366', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39366', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10264,7 +10264,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39367
 
-A:","[' 39370', ' 39367']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39367']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10322,7 +10322,7 @@ Q: How many inches are in a kilometer?
 1:  39367
 2:  39370
 
-A:","[' 39367', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39367', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10380,7 +10380,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39368
 
-A:","[' 39370', ' 39368']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39368']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10438,7 +10438,7 @@ Q: How many inches are in a kilometer?
 1:  39368
 2:  39370
 
-A:","[' 39368', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39368', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10496,7 +10496,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39372
 
-A:","[' 39370', ' 39372']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39372']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10554,7 +10554,7 @@ Q: How many inches are in a kilometer?
 1:  39372
 2:  39370
 
-A:","[' 39372', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39372', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10612,7 +10612,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39373
 
-A:","[' 39370', ' 39373']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39373']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10670,7 +10670,7 @@ Q: How many inches are in a kilometer?
 1:  39373
 2:  39370
 
-A:","[' 39373', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39373', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10728,7 +10728,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39374
 
-A:","[' 39370', ' 39374']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39374']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10786,7 +10786,7 @@ Q: How many inches are in a kilometer?
 1:  39374
 2:  39370
 
-A:","[' 39374', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39374', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10844,7 +10844,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39375
 
-A:","[' 39370', ' 39375']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39375']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10902,7 +10902,7 @@ Q: How many inches are in a kilometer?
 1:  39375
 2:  39370
 
-A:","[' 39375', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39375', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -10960,7 +10960,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39376
 
-A:","[' 39370', ' 39376']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39376']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11018,7 +11018,7 @@ Q: How many inches are in a kilometer?
 1:  39376
 2:  39370
 
-A:","[' 39376', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39376', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11076,7 +11076,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39377
 
-A:","[' 39370', ' 39377']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39377']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11134,7 +11134,7 @@ Q: How many inches are in a kilometer?
 1:  39377
 2:  39370
 
-A:","[' 39377', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39377', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11192,7 +11192,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39378
 
-A:","[' 39370', ' 39378']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39378']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11250,7 +11250,7 @@ Q: How many inches are in a kilometer?
 1:  39378
 2:  39370
 
-A:","[' 39378', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39378', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11308,7 +11308,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39379
 
-A:","[' 39370', ' 39379']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39379']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11366,7 +11366,7 @@ Q: How many inches are in a kilometer?
 1:  39379
 2:  39370
 
-A:","[' 39379', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39379', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11424,7 +11424,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39380
 
-A:","[' 39370', ' 39380']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39380']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11482,7 +11482,7 @@ Q: How many inches are in a kilometer?
 1:  39380
 2:  39370
 
-A:","[' 39380', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39380', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11540,7 +11540,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39381
 
-A:","[' 39370', ' 39381']",0,False,1.0,3,False,False
+A:","[' 39370', ' 39381']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11598,7 +11598,7 @@ Q: How many inches are in a kilometer?
 1:  39381
 2:  39370
 
-A:","[' 39381', ' 39370']",1,False,1.0,3,False,True
+A:","[' 39381', ' 39370']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11656,7 +11656,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.17
 
-A:","[' 3.28', ' 3.17']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.17']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11714,7 +11714,7 @@ Q: How many feet are in a meter?
 1:  3.17
 2:  3.28
 
-A:","[' 3.17', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.17', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11772,7 +11772,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.1799999999999997
 
-A:","[' 3.28', ' 3.1799999999999997']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.1799999999999997']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11830,7 +11830,7 @@ Q: How many feet are in a meter?
 1:  3.1799999999999997
 2:  3.28
 
-A:","[' 3.1799999999999997', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.1799999999999997', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11888,7 +11888,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.19
 
-A:","[' 3.28', ' 3.19']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.19']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -11946,7 +11946,7 @@ Q: How many feet are in a meter?
 1:  3.19
 2:  3.28
 
-A:","[' 3.19', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.19', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12004,7 +12004,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.1999999999999997
 
-A:","[' 3.28', ' 3.1999999999999997']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.1999999999999997']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12062,7 +12062,7 @@ Q: How many feet are in a meter?
 1:  3.1999999999999997
 2:  3.28
 
-A:","[' 3.1999999999999997', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.1999999999999997', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12120,7 +12120,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.21
 
-A:","[' 3.28', ' 3.21']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.21']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12178,7 +12178,7 @@ Q: How many feet are in a meter?
 1:  3.21
 2:  3.28
 
-A:","[' 3.21', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.21', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12236,7 +12236,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.2199999999999998
 
-A:","[' 3.28', ' 3.2199999999999998']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.2199999999999998']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12294,7 +12294,7 @@ Q: How many feet are in a meter?
 1:  3.2199999999999998
 2:  3.28
 
-A:","[' 3.2199999999999998', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.2199999999999998', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12352,7 +12352,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.23
 
-A:","[' 3.28', ' 3.23']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.23']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12410,7 +12410,7 @@ Q: How many feet are in a meter?
 1:  3.23
 2:  3.28
 
-A:","[' 3.23', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.23', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12468,7 +12468,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.2399999999999998
 
-A:","[' 3.28', ' 3.2399999999999998']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.2399999999999998']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12526,7 +12526,7 @@ Q: How many feet are in a meter?
 1:  3.2399999999999998
 2:  3.28
 
-A:","[' 3.2399999999999998', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.2399999999999998', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12584,7 +12584,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.25
 
-A:","[' 3.28', ' 3.25']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.25']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12642,7 +12642,7 @@ Q: How many feet are in a meter?
 1:  3.25
 2:  3.28
 
-A:","[' 3.25', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.25', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12700,7 +12700,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.26
 
-A:","[' 3.28', ' 3.26']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.26']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12758,7 +12758,7 @@ Q: How many feet are in a meter?
 1:  3.26
 2:  3.28
 
-A:","[' 3.26', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.26', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12816,7 +12816,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.3
 
-A:","[' 3.28', ' 3.3']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.3']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12874,7 +12874,7 @@ Q: How many feet are in a meter?
 1:  3.3
 2:  3.28
 
-A:","[' 3.3', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.3', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12932,7 +12932,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.3099999999999996
 
-A:","[' 3.28', ' 3.3099999999999996']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.3099999999999996']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -12990,7 +12990,7 @@ Q: How many feet are in a meter?
 1:  3.3099999999999996
 2:  3.28
 
-A:","[' 3.3099999999999996', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.3099999999999996', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13048,7 +13048,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.32
 
-A:","[' 3.28', ' 3.32']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.32']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13106,7 +13106,7 @@ Q: How many feet are in a meter?
 1:  3.32
 2:  3.28
 
-A:","[' 3.32', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.32', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13164,7 +13164,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.3299999999999996
 
-A:","[' 3.28', ' 3.3299999999999996']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.3299999999999996']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13222,7 +13222,7 @@ Q: How many feet are in a meter?
 1:  3.3299999999999996
 2:  3.28
 
-A:","[' 3.3299999999999996', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.3299999999999996', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13280,7 +13280,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.34
 
-A:","[' 3.28', ' 3.34']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.34']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13338,7 +13338,7 @@ Q: How many feet are in a meter?
 1:  3.34
 2:  3.28
 
-A:","[' 3.34', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.34', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13396,7 +13396,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.3499999999999996
 
-A:","[' 3.28', ' 3.3499999999999996']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.3499999999999996']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13454,7 +13454,7 @@ Q: How many feet are in a meter?
 1:  3.3499999999999996
 2:  3.28
 
-A:","[' 3.3499999999999996', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.3499999999999996', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13512,7 +13512,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.36
 
-A:","[' 3.28', ' 3.36']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.36']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13570,7 +13570,7 @@ Q: How many feet are in a meter?
 1:  3.36
 2:  3.28
 
-A:","[' 3.36', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.36', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13628,7 +13628,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.3699999999999997
 
-A:","[' 3.28', ' 3.3699999999999997']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.3699999999999997']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13686,7 +13686,7 @@ Q: How many feet are in a meter?
 1:  3.3699999999999997
 2:  3.28
 
-A:","[' 3.3699999999999997', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.3699999999999997', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13744,7 +13744,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.38
 
-A:","[' 3.28', ' 3.38']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.38']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13802,7 +13802,7 @@ Q: How many feet are in a meter?
 1:  3.38
 2:  3.28
 
-A:","[' 3.38', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.38', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13860,7 +13860,7 @@ Q: How many feet are in a meter?
 1:  3.28
 2:  3.3899999999999997
 
-A:","[' 3.28', ' 3.3899999999999997']",0,False,0.01,3,False,False
+A:","[' 3.28', ' 3.3899999999999997']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13918,7 +13918,7 @@ Q: How many feet are in a meter?
 1:  3.3899999999999997
 2:  3.28
 
-A:","[' 3.3899999999999997', ' 3.28']",1,False,0.01,3,False,True
+A:","[' 3.3899999999999997', ' 3.28']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -13976,7 +13976,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.49
 
-A:","[' 1.6', ' 1.49']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.49']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14034,7 +14034,7 @@ Q: How many kilometers are in a mile?
 1:  1.49
 2:  1.6
 
-A:","[' 1.49', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.49', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14092,7 +14092,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.5
 
-A:","[' 1.6', ' 1.5']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.5']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14150,7 +14150,7 @@ Q: How many kilometers are in a mile?
 1:  1.5
 2:  1.6
 
-A:","[' 1.5', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.5', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14208,7 +14208,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.51
 
-A:","[' 1.6', ' 1.51']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.51']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14266,7 +14266,7 @@ Q: How many kilometers are in a mile?
 1:  1.51
 2:  1.6
 
-A:","[' 1.51', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.51', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14324,7 +14324,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.52
 
-A:","[' 1.6', ' 1.52']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.52']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14382,7 +14382,7 @@ Q: How many kilometers are in a mile?
 1:  1.52
 2:  1.6
 
-A:","[' 1.52', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.52', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14440,7 +14440,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.53
 
-A:","[' 1.6', ' 1.53']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.53']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14498,7 +14498,7 @@ Q: How many kilometers are in a mile?
 1:  1.53
 2:  1.6
 
-A:","[' 1.53', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.53', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14556,7 +14556,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.54
 
-A:","[' 1.6', ' 1.54']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.54']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14614,7 +14614,7 @@ Q: How many kilometers are in a mile?
 1:  1.54
 2:  1.6
 
-A:","[' 1.54', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.54', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14672,7 +14672,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.55
 
-A:","[' 1.6', ' 1.55']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.55']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14730,7 +14730,7 @@ Q: How many kilometers are in a mile?
 1:  1.55
 2:  1.6
 
-A:","[' 1.55', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.55', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14788,7 +14788,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.56
 
-A:","[' 1.6', ' 1.56']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.56']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14846,7 +14846,7 @@ Q: How many kilometers are in a mile?
 1:  1.56
 2:  1.6
 
-A:","[' 1.56', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.56', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14904,7 +14904,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.57
 
-A:","[' 1.6', ' 1.57']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.57']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -14962,7 +14962,7 @@ Q: How many kilometers are in a mile?
 1:  1.57
 2:  1.6
 
-A:","[' 1.57', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.57', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15020,7 +15020,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.58
 
-A:","[' 1.6', ' 1.58']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.58']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15078,7 +15078,7 @@ Q: How many kilometers are in a mile?
 1:  1.58
 2:  1.6
 
-A:","[' 1.58', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.58', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15136,7 +15136,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.62
 
-A:","[' 1.6', ' 1.62']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.62']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15194,7 +15194,7 @@ Q: How many kilometers are in a mile?
 1:  1.62
 2:  1.6
 
-A:","[' 1.62', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.62', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15252,7 +15252,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.6300000000000001
 
-A:","[' 1.6', ' 1.6300000000000001']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.6300000000000001']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15310,7 +15310,7 @@ Q: How many kilometers are in a mile?
 1:  1.6300000000000001
 2:  1.6
 
-A:","[' 1.6300000000000001', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.6300000000000001', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15368,7 +15368,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.6400000000000001
 
-A:","[' 1.6', ' 1.6400000000000001']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.6400000000000001']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15426,7 +15426,7 @@ Q: How many kilometers are in a mile?
 1:  1.6400000000000001
 2:  1.6
 
-A:","[' 1.6400000000000001', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.6400000000000001', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15484,7 +15484,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.6500000000000001
 
-A:","[' 1.6', ' 1.6500000000000001']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.6500000000000001']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15542,7 +15542,7 @@ Q: How many kilometers are in a mile?
 1:  1.6500000000000001
 2:  1.6
 
-A:","[' 1.6500000000000001', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.6500000000000001', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15600,7 +15600,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.6600000000000001
 
-A:","[' 1.6', ' 1.6600000000000001']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.6600000000000001']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15658,7 +15658,7 @@ Q: How many kilometers are in a mile?
 1:  1.6600000000000001
 2:  1.6
 
-A:","[' 1.6600000000000001', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.6600000000000001', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15716,7 +15716,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.6700000000000002
 
-A:","[' 1.6', ' 1.6700000000000002']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.6700000000000002']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15774,7 +15774,7 @@ Q: How many kilometers are in a mile?
 1:  1.6700000000000002
 2:  1.6
 
-A:","[' 1.6700000000000002', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.6700000000000002', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15832,7 +15832,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.6800000000000002
 
-A:","[' 1.6', ' 1.6800000000000002']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.6800000000000002']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15890,7 +15890,7 @@ Q: How many kilometers are in a mile?
 1:  1.6800000000000002
 2:  1.6
 
-A:","[' 1.6800000000000002', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.6800000000000002', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -15948,7 +15948,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.6900000000000002
 
-A:","[' 1.6', ' 1.6900000000000002']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.6900000000000002']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16006,7 +16006,7 @@ Q: How many kilometers are in a mile?
 1:  1.6900000000000002
 2:  1.6
 
-A:","[' 1.6900000000000002', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.6900000000000002', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16064,7 +16064,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.7000000000000002
 
-A:","[' 1.6', ' 1.7000000000000002']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.7000000000000002']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16122,7 +16122,7 @@ Q: How many kilometers are in a mile?
 1:  1.7000000000000002
 2:  1.6
 
-A:","[' 1.7000000000000002', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.7000000000000002', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16180,7 +16180,7 @@ Q: How many kilometers are in a mile?
 1:  1.6
 2:  1.7100000000000002
 
-A:","[' 1.6', ' 1.7100000000000002']",0,False,0.01,3,False,False
+A:","[' 1.6', ' 1.7100000000000002']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16238,7 +16238,7 @@ Q: How many kilometers are in a mile?
 1:  1.7100000000000002
 2:  1.6
 
-A:","[' 1.7100000000000002', ' 1.6']",1,False,0.01,3,False,True
+A:","[' 1.7100000000000002', ' 1.6']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16296,7 +16296,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.89
 
-A:","[' 3', ' 2.89']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.89']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16354,7 +16354,7 @@ Q: How many feet are in a yard?
 1:  2.89
 2:  3
 
-A:","[' 2.89', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.89', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16412,7 +16412,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.9
 
-A:","[' 3', ' 2.9']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.9']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16470,7 +16470,7 @@ Q: How many feet are in a yard?
 1:  2.9
 2:  3
 
-A:","[' 2.9', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.9', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16528,7 +16528,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.91
 
-A:","[' 3', ' 2.91']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.91']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16586,7 +16586,7 @@ Q: How many feet are in a yard?
 1:  2.91
 2:  3
 
-A:","[' 2.91', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.91', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16644,7 +16644,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.92
 
-A:","[' 3', ' 2.92']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.92']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16702,7 +16702,7 @@ Q: How many feet are in a yard?
 1:  2.92
 2:  3
 
-A:","[' 2.92', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.92', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16760,7 +16760,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.93
 
-A:","[' 3', ' 2.93']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.93']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16818,7 +16818,7 @@ Q: How many feet are in a yard?
 1:  2.93
 2:  3
 
-A:","[' 2.93', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.93', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16876,7 +16876,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.94
 
-A:","[' 3', ' 2.94']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.94']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16934,7 +16934,7 @@ Q: How many feet are in a yard?
 1:  2.94
 2:  3
 
-A:","[' 2.94', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.94', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -16992,7 +16992,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.95
 
-A:","[' 3', ' 2.95']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.95']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17050,7 +17050,7 @@ Q: How many feet are in a yard?
 1:  2.95
 2:  3
 
-A:","[' 2.95', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.95', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17108,7 +17108,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.96
 
-A:","[' 3', ' 2.96']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.96']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17166,7 +17166,7 @@ Q: How many feet are in a yard?
 1:  2.96
 2:  3
 
-A:","[' 2.96', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.96', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17224,7 +17224,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.97
 
-A:","[' 3', ' 2.97']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.97']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17282,7 +17282,7 @@ Q: How many feet are in a yard?
 1:  2.97
 2:  3
 
-A:","[' 2.97', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.97', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17340,7 +17340,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  2.98
 
-A:","[' 3', ' 2.98']",0,False,0.01,3,False,False
+A:","[' 3', ' 2.98']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17398,7 +17398,7 @@ Q: How many feet are in a yard?
 1:  2.98
 2:  3
 
-A:","[' 2.98', ' 3']",1,False,0.01,3,False,True
+A:","[' 2.98', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17456,7 +17456,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.02
 
-A:","[' 3', ' 3.02']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.02']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17514,7 +17514,7 @@ Q: How many feet are in a yard?
 1:  3.02
 2:  3
 
-A:","[' 3.02', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.02', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17572,7 +17572,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.03
 
-A:","[' 3', ' 3.03']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.03']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17630,7 +17630,7 @@ Q: How many feet are in a yard?
 1:  3.03
 2:  3
 
-A:","[' 3.03', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.03', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17688,7 +17688,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.04
 
-A:","[' 3', ' 3.04']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.04']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17746,7 +17746,7 @@ Q: How many feet are in a yard?
 1:  3.04
 2:  3
 
-A:","[' 3.04', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.04', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17804,7 +17804,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.05
 
-A:","[' 3', ' 3.05']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.05']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17862,7 +17862,7 @@ Q: How many feet are in a yard?
 1:  3.05
 2:  3
 
-A:","[' 3.05', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.05', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17920,7 +17920,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.06
 
-A:","[' 3', ' 3.06']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.06']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -17978,7 +17978,7 @@ Q: How many feet are in a yard?
 1:  3.06
 2:  3
 
-A:","[' 3.06', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.06', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18036,7 +18036,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.07
 
-A:","[' 3', ' 3.07']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.07']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18094,7 +18094,7 @@ Q: How many feet are in a yard?
 1:  3.07
 2:  3
 
-A:","[' 3.07', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.07', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18152,7 +18152,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.08
 
-A:","[' 3', ' 3.08']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.08']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18210,7 +18210,7 @@ Q: How many feet are in a yard?
 1:  3.08
 2:  3
 
-A:","[' 3.08', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.08', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18268,7 +18268,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.09
 
-A:","[' 3', ' 3.09']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.09']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18326,7 +18326,7 @@ Q: How many feet are in a yard?
 1:  3.09
 2:  3
 
-A:","[' 3.09', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.09', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18384,7 +18384,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.1
 
-A:","[' 3', ' 3.1']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.1']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18442,7 +18442,7 @@ Q: How many feet are in a yard?
 1:  3.1
 2:  3
 
-A:","[' 3.1', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.1', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18500,7 +18500,7 @@ Q: How many feet are in a yard?
 1:  3
 2:  3.11
 
-A:","[' 3', ' 3.11']",0,False,0.01,3,False,False
+A:","[' 3', ' 3.11']",0,False,0.01,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18558,7 +18558,7 @@ Q: How many feet are in a yard?
 1:  3.11
 2:  3
 
-A:","[' 3.11', ' 3']",1,False,0.01,3,False,True
+A:","[' 3.11', ' 3']",1,False,0.01,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18616,7 +18616,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  34.9
 
-A:","[' 36', ' 34.9']",0,False,0.1,3,False,False
+A:","[' 36', ' 34.9']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18674,7 +18674,7 @@ Q: How many inches are in a yard?
 1:  34.9
 2:  36
 
-A:","[' 34.9', ' 36']",1,False,0.1,3,False,True
+A:","[' 34.9', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18732,7 +18732,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.0
 
-A:","[' 36', ' 35.0']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.0']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18790,7 +18790,7 @@ Q: How many inches are in a yard?
 1:  35.0
 2:  36
 
-A:","[' 35.0', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.0', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18848,7 +18848,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.1
 
-A:","[' 36', ' 35.1']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.1']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18906,7 +18906,7 @@ Q: How many inches are in a yard?
 1:  35.1
 2:  36
 
-A:","[' 35.1', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.1', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -18964,7 +18964,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.2
 
-A:","[' 36', ' 35.2']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.2']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19022,7 +19022,7 @@ Q: How many inches are in a yard?
 1:  35.2
 2:  36
 
-A:","[' 35.2', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.2', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19080,7 +19080,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.3
 
-A:","[' 36', ' 35.3']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.3']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19138,7 +19138,7 @@ Q: How many inches are in a yard?
 1:  35.3
 2:  36
 
-A:","[' 35.3', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.3', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19196,7 +19196,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.4
 
-A:","[' 36', ' 35.4']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.4']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19254,7 +19254,7 @@ Q: How many inches are in a yard?
 1:  35.4
 2:  36
 
-A:","[' 35.4', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.4', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19312,7 +19312,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.5
 
-A:","[' 36', ' 35.5']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.5']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19370,7 +19370,7 @@ Q: How many inches are in a yard?
 1:  35.5
 2:  36
 
-A:","[' 35.5', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.5', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19428,7 +19428,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.6
 
-A:","[' 36', ' 35.6']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.6']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19486,7 +19486,7 @@ Q: How many inches are in a yard?
 1:  35.6
 2:  36
 
-A:","[' 35.6', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.6', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19544,7 +19544,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.7
 
-A:","[' 36', ' 35.7']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.7']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19602,7 +19602,7 @@ Q: How many inches are in a yard?
 1:  35.7
 2:  36
 
-A:","[' 35.7', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.7', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19660,7 +19660,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  35.8
 
-A:","[' 36', ' 35.8']",0,False,0.1,3,False,False
+A:","[' 36', ' 35.8']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19718,7 +19718,7 @@ Q: How many inches are in a yard?
 1:  35.8
 2:  36
 
-A:","[' 35.8', ' 36']",1,False,0.1,3,False,True
+A:","[' 35.8', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19776,7 +19776,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  36.2
 
-A:","[' 36', ' 36.2']",0,False,0.1,3,False,False
+A:","[' 36', ' 36.2']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19834,7 +19834,7 @@ Q: How many inches are in a yard?
 1:  36.2
 2:  36
 
-A:","[' 36.2', ' 36']",1,False,0.1,3,False,True
+A:","[' 36.2', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19892,7 +19892,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  36.3
 
-A:","[' 36', ' 36.3']",0,False,0.1,3,False,False
+A:","[' 36', ' 36.3']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -19950,7 +19950,7 @@ Q: How many inches are in a yard?
 1:  36.3
 2:  36
 
-A:","[' 36.3', ' 36']",1,False,0.1,3,False,True
+A:","[' 36.3', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20008,7 +20008,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  36.4
 
-A:","[' 36', ' 36.4']",0,False,0.1,3,False,False
+A:","[' 36', ' 36.4']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20066,7 +20066,7 @@ Q: How many inches are in a yard?
 1:  36.4
 2:  36
 
-A:","[' 36.4', ' 36']",1,False,0.1,3,False,True
+A:","[' 36.4', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20124,7 +20124,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  36.5
 
-A:","[' 36', ' 36.5']",0,False,0.1,3,False,False
+A:","[' 36', ' 36.5']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20182,7 +20182,7 @@ Q: How many inches are in a yard?
 1:  36.5
 2:  36
 
-A:","[' 36.5', ' 36']",1,False,0.1,3,False,True
+A:","[' 36.5', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20240,7 +20240,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  36.6
 
-A:","[' 36', ' 36.6']",0,False,0.1,3,False,False
+A:","[' 36', ' 36.6']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20298,7 +20298,7 @@ Q: How many inches are in a yard?
 1:  36.6
 2:  36
 
-A:","[' 36.6', ' 36']",1,False,0.1,3,False,True
+A:","[' 36.6', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20356,7 +20356,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  36.7
 
-A:","[' 36', ' 36.7']",0,False,0.1,3,False,False
+A:","[' 36', ' 36.7']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20414,7 +20414,7 @@ Q: How many inches are in a yard?
 1:  36.7
 2:  36
 
-A:","[' 36.7', ' 36']",1,False,0.1,3,False,True
+A:","[' 36.7', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20472,7 +20472,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  36.8
 
-A:","[' 36', ' 36.8']",0,False,0.1,3,False,False
+A:","[' 36', ' 36.8']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20530,7 +20530,7 @@ Q: How many inches are in a yard?
 1:  36.8
 2:  36
 
-A:","[' 36.8', ' 36']",1,False,0.1,3,False,True
+A:","[' 36.8', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20588,7 +20588,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  36.9
 
-A:","[' 36', ' 36.9']",0,False,0.1,3,False,False
+A:","[' 36', ' 36.9']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20646,7 +20646,7 @@ Q: How many inches are in a yard?
 1:  36.9
 2:  36
 
-A:","[' 36.9', ' 36']",1,False,0.1,3,False,True
+A:","[' 36.9', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20704,7 +20704,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  37.0
 
-A:","[' 36', ' 37.0']",0,False,0.1,3,False,False
+A:","[' 36', ' 37.0']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20762,7 +20762,7 @@ Q: How many inches are in a yard?
 1:  37.0
 2:  36
 
-A:","[' 37.0', ' 36']",1,False,0.1,3,False,True
+A:","[' 37.0', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20820,7 +20820,7 @@ Q: How many inches are in a yard?
 1:  36
 2:  37.1
 
-A:","[' 36', ' 37.1']",0,False,0.1,3,False,False
+A:","[' 36', ' 37.1']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20878,7 +20878,7 @@ Q: How many inches are in a yard?
 1:  37.1
 2:  36
 
-A:","[' 37.1', ' 36']",1,False,0.1,3,False,True
+A:","[' 37.1', ' 36']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20936,7 +20936,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  10.9
 
-A:","[' 12', ' 10.9']",0,False,0.1,3,False,False
+A:","[' 12', ' 10.9']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -20994,7 +20994,7 @@ Q: How many inches are in a foot?
 1:  10.9
 2:  12
 
-A:","[' 10.9', ' 12']",1,False,0.1,3,False,True
+A:","[' 10.9', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21052,7 +21052,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.0
 
-A:","[' 12', ' 11.0']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.0']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21110,7 +21110,7 @@ Q: How many inches are in a foot?
 1:  11.0
 2:  12
 
-A:","[' 11.0', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.0', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21168,7 +21168,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.1
 
-A:","[' 12', ' 11.1']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.1']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21226,7 +21226,7 @@ Q: How many inches are in a foot?
 1:  11.1
 2:  12
 
-A:","[' 11.1', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.1', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21284,7 +21284,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.2
 
-A:","[' 12', ' 11.2']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.2']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21342,7 +21342,7 @@ Q: How many inches are in a foot?
 1:  11.2
 2:  12
 
-A:","[' 11.2', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.2', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21400,7 +21400,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.3
 
-A:","[' 12', ' 11.3']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.3']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21458,7 +21458,7 @@ Q: How many inches are in a foot?
 1:  11.3
 2:  12
 
-A:","[' 11.3', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.3', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21516,7 +21516,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.4
 
-A:","[' 12', ' 11.4']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.4']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21574,7 +21574,7 @@ Q: How many inches are in a foot?
 1:  11.4
 2:  12
 
-A:","[' 11.4', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.4', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21632,7 +21632,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.5
 
-A:","[' 12', ' 11.5']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.5']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21690,7 +21690,7 @@ Q: How many inches are in a foot?
 1:  11.5
 2:  12
 
-A:","[' 11.5', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.5', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21748,7 +21748,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.6
 
-A:","[' 12', ' 11.6']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.6']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21806,7 +21806,7 @@ Q: How many inches are in a foot?
 1:  11.6
 2:  12
 
-A:","[' 11.6', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.6', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21864,7 +21864,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.7
 
-A:","[' 12', ' 11.7']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.7']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21922,7 +21922,7 @@ Q: How many inches are in a foot?
 1:  11.7
 2:  12
 
-A:","[' 11.7', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.7', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -21980,7 +21980,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  11.8
 
-A:","[' 12', ' 11.8']",0,False,0.1,3,False,False
+A:","[' 12', ' 11.8']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22038,7 +22038,7 @@ Q: How many inches are in a foot?
 1:  11.8
 2:  12
 
-A:","[' 11.8', ' 12']",1,False,0.1,3,False,True
+A:","[' 11.8', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22096,7 +22096,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  12.2
 
-A:","[' 12', ' 12.2']",0,False,0.1,3,False,False
+A:","[' 12', ' 12.2']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22154,7 +22154,7 @@ Q: How many inches are in a foot?
 1:  12.2
 2:  12
 
-A:","[' 12.2', ' 12']",1,False,0.1,3,False,True
+A:","[' 12.2', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22212,7 +22212,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  12.3
 
-A:","[' 12', ' 12.3']",0,False,0.1,3,False,False
+A:","[' 12', ' 12.3']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22270,7 +22270,7 @@ Q: How many inches are in a foot?
 1:  12.3
 2:  12
 
-A:","[' 12.3', ' 12']",1,False,0.1,3,False,True
+A:","[' 12.3', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22328,7 +22328,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  12.4
 
-A:","[' 12', ' 12.4']",0,False,0.1,3,False,False
+A:","[' 12', ' 12.4']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22386,7 +22386,7 @@ Q: How many inches are in a foot?
 1:  12.4
 2:  12
 
-A:","[' 12.4', ' 12']",1,False,0.1,3,False,True
+A:","[' 12.4', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22444,7 +22444,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  12.5
 
-A:","[' 12', ' 12.5']",0,False,0.1,3,False,False
+A:","[' 12', ' 12.5']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22502,7 +22502,7 @@ Q: How many inches are in a foot?
 1:  12.5
 2:  12
 
-A:","[' 12.5', ' 12']",1,False,0.1,3,False,True
+A:","[' 12.5', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22560,7 +22560,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  12.6
 
-A:","[' 12', ' 12.6']",0,False,0.1,3,False,False
+A:","[' 12', ' 12.6']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22618,7 +22618,7 @@ Q: How many inches are in a foot?
 1:  12.6
 2:  12
 
-A:","[' 12.6', ' 12']",1,False,0.1,3,False,True
+A:","[' 12.6', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22676,7 +22676,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  12.7
 
-A:","[' 12', ' 12.7']",0,False,0.1,3,False,False
+A:","[' 12', ' 12.7']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22734,7 +22734,7 @@ Q: How many inches are in a foot?
 1:  12.7
 2:  12
 
-A:","[' 12.7', ' 12']",1,False,0.1,3,False,True
+A:","[' 12.7', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22792,7 +22792,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  12.8
 
-A:","[' 12', ' 12.8']",0,False,0.1,3,False,False
+A:","[' 12', ' 12.8']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22850,7 +22850,7 @@ Q: How many inches are in a foot?
 1:  12.8
 2:  12
 
-A:","[' 12.8', ' 12']",1,False,0.1,3,False,True
+A:","[' 12.8', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22908,7 +22908,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  12.9
 
-A:","[' 12', ' 12.9']",0,False,0.1,3,False,False
+A:","[' 12', ' 12.9']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -22966,7 +22966,7 @@ Q: How many inches are in a foot?
 1:  12.9
 2:  12
 
-A:","[' 12.9', ' 12']",1,False,0.1,3,False,True
+A:","[' 12.9', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23024,7 +23024,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  13.0
 
-A:","[' 12', ' 13.0']",0,False,0.1,3,False,False
+A:","[' 12', ' 13.0']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23082,7 +23082,7 @@ Q: How many inches are in a foot?
 1:  13.0
 2:  12
 
-A:","[' 13.0', ' 12']",1,False,0.1,3,False,True
+A:","[' 13.0', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23140,7 +23140,7 @@ Q: How many inches are in a foot?
 1:  12
 2:  13.1
 
-A:","[' 12', ' 13.1']",0,False,0.1,3,False,False
+A:","[' 12', ' 13.1']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23198,7 +23198,7 @@ Q: How many inches are in a foot?
 1:  13.1
 2:  12
 
-A:","[' 13.1', ' 12']",1,False,0.1,3,False,True
+A:","[' 13.1', ' 12']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23256,7 +23256,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39260
 
-A:","[' 39370', ' 39260']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39260']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23314,7 +23314,7 @@ Q: How many inches are in a kilometer?
 1:  39260
 2:  39370
 
-A:","[' 39260', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39260', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23372,7 +23372,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39270
 
-A:","[' 39370', ' 39270']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39270']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23430,7 +23430,7 @@ Q: How many inches are in a kilometer?
 1:  39270
 2:  39370
 
-A:","[' 39270', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39270', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23488,7 +23488,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39280
 
-A:","[' 39370', ' 39280']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39280']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23546,7 +23546,7 @@ Q: How many inches are in a kilometer?
 1:  39280
 2:  39370
 
-A:","[' 39280', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39280', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23604,7 +23604,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39290
 
-A:","[' 39370', ' 39290']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39290']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23662,7 +23662,7 @@ Q: How many inches are in a kilometer?
 1:  39290
 2:  39370
 
-A:","[' 39290', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39290', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23720,7 +23720,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39300
 
-A:","[' 39370', ' 39300']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39300']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23778,7 +23778,7 @@ Q: How many inches are in a kilometer?
 1:  39300
 2:  39370
 
-A:","[' 39300', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39300', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23836,7 +23836,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39310
 
-A:","[' 39370', ' 39310']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39310']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23894,7 +23894,7 @@ Q: How many inches are in a kilometer?
 1:  39310
 2:  39370
 
-A:","[' 39310', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39310', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -23952,7 +23952,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39320
 
-A:","[' 39370', ' 39320']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39320']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24010,7 +24010,7 @@ Q: How many inches are in a kilometer?
 1:  39320
 2:  39370
 
-A:","[' 39320', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39320', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24068,7 +24068,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39330
 
-A:","[' 39370', ' 39330']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39330']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24126,7 +24126,7 @@ Q: How many inches are in a kilometer?
 1:  39330
 2:  39370
 
-A:","[' 39330', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39330', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24184,7 +24184,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39340
 
-A:","[' 39370', ' 39340']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39340']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24242,7 +24242,7 @@ Q: How many inches are in a kilometer?
 1:  39340
 2:  39370
 
-A:","[' 39340', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39340', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24300,7 +24300,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39350
 
-A:","[' 39370', ' 39350']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39350']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24358,7 +24358,7 @@ Q: How many inches are in a kilometer?
 1:  39350
 2:  39370
 
-A:","[' 39350', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39350', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24416,7 +24416,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39390
 
-A:","[' 39370', ' 39390']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39390']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24474,7 +24474,7 @@ Q: How many inches are in a kilometer?
 1:  39390
 2:  39370
 
-A:","[' 39390', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39390', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24532,7 +24532,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39400
 
-A:","[' 39370', ' 39400']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39400']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24590,7 +24590,7 @@ Q: How many inches are in a kilometer?
 1:  39400
 2:  39370
 
-A:","[' 39400', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39400', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24648,7 +24648,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39410
 
-A:","[' 39370', ' 39410']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39410']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24706,7 +24706,7 @@ Q: How many inches are in a kilometer?
 1:  39410
 2:  39370
 
-A:","[' 39410', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39410', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24764,7 +24764,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39420
 
-A:","[' 39370', ' 39420']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39420']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24822,7 +24822,7 @@ Q: How many inches are in a kilometer?
 1:  39420
 2:  39370
 
-A:","[' 39420', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39420', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24880,7 +24880,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39430
 
-A:","[' 39370', ' 39430']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39430']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24938,7 +24938,7 @@ Q: How many inches are in a kilometer?
 1:  39430
 2:  39370
 
-A:","[' 39430', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39430', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -24996,7 +24996,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39440
 
-A:","[' 39370', ' 39440']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39440']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25054,7 +25054,7 @@ Q: How many inches are in a kilometer?
 1:  39440
 2:  39370
 
-A:","[' 39440', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39440', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25112,7 +25112,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39450
 
-A:","[' 39370', ' 39450']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39450']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25170,7 +25170,7 @@ Q: How many inches are in a kilometer?
 1:  39450
 2:  39370
 
-A:","[' 39450', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39450', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25228,7 +25228,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39460
 
-A:","[' 39370', ' 39460']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39460']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25286,7 +25286,7 @@ Q: How many inches are in a kilometer?
 1:  39460
 2:  39370
 
-A:","[' 39460', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39460', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25344,7 +25344,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39470
 
-A:","[' 39370', ' 39470']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39470']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25402,7 +25402,7 @@ Q: How many inches are in a kilometer?
 1:  39470
 2:  39370
 
-A:","[' 39470', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39470', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25460,7 +25460,7 @@ Q: How many inches are in a kilometer?
 1:  39370
 2:  39480
 
-A:","[' 39370', ' 39480']",0,False,10.0,3,False,False
+A:","[' 39370', ' 39480']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25518,7 +25518,7 @@ Q: How many inches are in a kilometer?
 1:  39480
 2:  39370
 
-A:","[' 39480', ' 39370']",1,False,10.0,3,False,True
+A:","[' 39480', ' 39370']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25576,7 +25576,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4035
 
-A:","[' 4046', ' 4035']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4035']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25634,7 +25634,7 @@ Q: How many square meters are in an acre?
 1:  4035
 2:  4046
 
-A:","[' 4035', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4035', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25692,7 +25692,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4036
 
-A:","[' 4046', ' 4036']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4036']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25750,7 +25750,7 @@ Q: How many square meters are in an acre?
 1:  4036
 2:  4046
 
-A:","[' 4036', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4036', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25808,7 +25808,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4037
 
-A:","[' 4046', ' 4037']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4037']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25866,7 +25866,7 @@ Q: How many square meters are in an acre?
 1:  4037
 2:  4046
 
-A:","[' 4037', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4037', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25924,7 +25924,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4038
 
-A:","[' 4046', ' 4038']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4038']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -25982,7 +25982,7 @@ Q: How many square meters are in an acre?
 1:  4038
 2:  4046
 
-A:","[' 4038', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4038', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26040,7 +26040,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4039
 
-A:","[' 4046', ' 4039']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4039']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26098,7 +26098,7 @@ Q: How many square meters are in an acre?
 1:  4039
 2:  4046
 
-A:","[' 4039', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4039', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26156,7 +26156,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4040
 
-A:","[' 4046', ' 4040']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4040']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26214,7 +26214,7 @@ Q: How many square meters are in an acre?
 1:  4040
 2:  4046
 
-A:","[' 4040', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4040', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26272,7 +26272,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4041
 
-A:","[' 4046', ' 4041']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4041']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26330,7 +26330,7 @@ Q: How many square meters are in an acre?
 1:  4041
 2:  4046
 
-A:","[' 4041', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4041', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26388,7 +26388,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4042
 
-A:","[' 4046', ' 4042']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4042']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26446,7 +26446,7 @@ Q: How many square meters are in an acre?
 1:  4042
 2:  4046
 
-A:","[' 4042', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4042', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26504,7 +26504,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4043
 
-A:","[' 4046', ' 4043']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4043']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26562,7 +26562,7 @@ Q: How many square meters are in an acre?
 1:  4043
 2:  4046
 
-A:","[' 4043', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4043', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26620,7 +26620,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4044
 
-A:","[' 4046', ' 4044']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4044']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26678,7 +26678,7 @@ Q: How many square meters are in an acre?
 1:  4044
 2:  4046
 
-A:","[' 4044', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4044', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26736,7 +26736,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4048
 
-A:","[' 4046', ' 4048']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4048']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26794,7 +26794,7 @@ Q: How many square meters are in an acre?
 1:  4048
 2:  4046
 
-A:","[' 4048', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4048', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26852,7 +26852,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4049
 
-A:","[' 4046', ' 4049']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4049']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26910,7 +26910,7 @@ Q: How many square meters are in an acre?
 1:  4049
 2:  4046
 
-A:","[' 4049', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4049', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -26968,7 +26968,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4050
 
-A:","[' 4046', ' 4050']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4050']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27026,7 +27026,7 @@ Q: How many square meters are in an acre?
 1:  4050
 2:  4046
 
-A:","[' 4050', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4050', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27084,7 +27084,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4051
 
-A:","[' 4046', ' 4051']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4051']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27142,7 +27142,7 @@ Q: How many square meters are in an acre?
 1:  4051
 2:  4046
 
-A:","[' 4051', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4051', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27200,7 +27200,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4052
 
-A:","[' 4046', ' 4052']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4052']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27258,7 +27258,7 @@ Q: How many square meters are in an acre?
 1:  4052
 2:  4046
 
-A:","[' 4052', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4052', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27316,7 +27316,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4053
 
-A:","[' 4046', ' 4053']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4053']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27374,7 +27374,7 @@ Q: How many square meters are in an acre?
 1:  4053
 2:  4046
 
-A:","[' 4053', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4053', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27432,7 +27432,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4054
 
-A:","[' 4046', ' 4054']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4054']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27490,7 +27490,7 @@ Q: How many square meters are in an acre?
 1:  4054
 2:  4046
 
-A:","[' 4054', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4054', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27548,7 +27548,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4055
 
-A:","[' 4046', ' 4055']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4055']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27606,7 +27606,7 @@ Q: How many square meters are in an acre?
 1:  4055
 2:  4046
 
-A:","[' 4055', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4055', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27664,7 +27664,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4056
 
-A:","[' 4046', ' 4056']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4056']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27722,7 +27722,7 @@ Q: How many square meters are in an acre?
 1:  4056
 2:  4046
 
-A:","[' 4056', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4056', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27780,7 +27780,7 @@ Q: How many square meters are in an acre?
 1:  4046
 2:  4057
 
-A:","[' 4046', ' 4057']",0,False,1.0,3,False,False
+A:","[' 4046', ' 4057']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27838,7 +27838,7 @@ Q: How many square meters are in an acre?
 1:  4057
 2:  4046
 
-A:","[' 4057', ' 4046']",1,False,1.0,3,False,True
+A:","[' 4057', ' 4046']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27896,7 +27896,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107529
 
-A:","[' 107639', ' 107529']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107529']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -27954,7 +27954,7 @@ Q: How many square feet are in a hectare?
 1:  107529
 2:  107639
 
-A:","[' 107529', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107529', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28012,7 +28012,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107539
 
-A:","[' 107639', ' 107539']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107539']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28070,7 +28070,7 @@ Q: How many square feet are in a hectare?
 1:  107539
 2:  107639
 
-A:","[' 107539', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107539', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28128,7 +28128,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107549
 
-A:","[' 107639', ' 107549']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107549']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28186,7 +28186,7 @@ Q: How many square feet are in a hectare?
 1:  107549
 2:  107639
 
-A:","[' 107549', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107549', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28244,7 +28244,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107559
 
-A:","[' 107639', ' 107559']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107559']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28302,7 +28302,7 @@ Q: How many square feet are in a hectare?
 1:  107559
 2:  107639
 
-A:","[' 107559', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107559', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28360,7 +28360,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107569
 
-A:","[' 107639', ' 107569']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107569']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28418,7 +28418,7 @@ Q: How many square feet are in a hectare?
 1:  107569
 2:  107639
 
-A:","[' 107569', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107569', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28476,7 +28476,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107579
 
-A:","[' 107639', ' 107579']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107579']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28534,7 +28534,7 @@ Q: How many square feet are in a hectare?
 1:  107579
 2:  107639
 
-A:","[' 107579', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107579', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28592,7 +28592,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107589
 
-A:","[' 107639', ' 107589']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107589']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28650,7 +28650,7 @@ Q: How many square feet are in a hectare?
 1:  107589
 2:  107639
 
-A:","[' 107589', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107589', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28708,7 +28708,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107599
 
-A:","[' 107639', ' 107599']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107599']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28766,7 +28766,7 @@ Q: How many square feet are in a hectare?
 1:  107599
 2:  107639
 
-A:","[' 107599', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107599', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28824,7 +28824,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107609
 
-A:","[' 107639', ' 107609']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107609']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28882,7 +28882,7 @@ Q: How many square feet are in a hectare?
 1:  107609
 2:  107639
 
-A:","[' 107609', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107609', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28940,7 +28940,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107619
 
-A:","[' 107639', ' 107619']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107619']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -28998,7 +28998,7 @@ Q: How many square feet are in a hectare?
 1:  107619
 2:  107639
 
-A:","[' 107619', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107619', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29056,7 +29056,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107659
 
-A:","[' 107639', ' 107659']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107659']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29114,7 +29114,7 @@ Q: How many square feet are in a hectare?
 1:  107659
 2:  107639
 
-A:","[' 107659', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107659', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29172,7 +29172,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107669
 
-A:","[' 107639', ' 107669']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107669']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29230,7 +29230,7 @@ Q: How many square feet are in a hectare?
 1:  107669
 2:  107639
 
-A:","[' 107669', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107669', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29288,7 +29288,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107679
 
-A:","[' 107639', ' 107679']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107679']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29346,7 +29346,7 @@ Q: How many square feet are in a hectare?
 1:  107679
 2:  107639
 
-A:","[' 107679', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107679', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29404,7 +29404,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107689
 
-A:","[' 107639', ' 107689']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107689']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29462,7 +29462,7 @@ Q: How many square feet are in a hectare?
 1:  107689
 2:  107639
 
-A:","[' 107689', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107689', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29520,7 +29520,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107699
 
-A:","[' 107639', ' 107699']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107699']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29578,7 +29578,7 @@ Q: How many square feet are in a hectare?
 1:  107699
 2:  107639
 
-A:","[' 107699', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107699', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29636,7 +29636,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107709
 
-A:","[' 107639', ' 107709']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107709']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29694,7 +29694,7 @@ Q: How many square feet are in a hectare?
 1:  107709
 2:  107639
 
-A:","[' 107709', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107709', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29752,7 +29752,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107719
 
-A:","[' 107639', ' 107719']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107719']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29810,7 +29810,7 @@ Q: How many square feet are in a hectare?
 1:  107719
 2:  107639
 
-A:","[' 107719', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107719', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29868,7 +29868,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107729
 
-A:","[' 107639', ' 107729']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107729']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29926,7 +29926,7 @@ Q: How many square feet are in a hectare?
 1:  107729
 2:  107639
 
-A:","[' 107729', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107729', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -29984,7 +29984,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107739
 
-A:","[' 107639', ' 107739']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107739']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30042,7 +30042,7 @@ Q: How many square feet are in a hectare?
 1:  107739
 2:  107639
 
-A:","[' 107739', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107739', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30100,7 +30100,7 @@ Q: How many square feet are in a hectare?
 1:  107639
 2:  107749
 
-A:","[' 107639', ' 107749']",0,False,10.0,3,False,False
+A:","[' 107639', ' 107749']",0,False,10.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30158,7 +30158,7 @@ Q: How many square feet are in a hectare?
 1:  107749
 2:  107639
 
-A:","[' 107749', ' 107639']",1,False,10.0,3,False,True
+A:","[' 107749', ' 107639']",1,False,10.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30216,7 +30216,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43549
 
-A:","[' 43560', ' 43549']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43549']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30274,7 +30274,7 @@ Q: How many square feet are in an acre?
 1:  43549
 2:  43560
 
-A:","[' 43549', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43549', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30332,7 +30332,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43550
 
-A:","[' 43560', ' 43550']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43550']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30390,7 +30390,7 @@ Q: How many square feet are in an acre?
 1:  43550
 2:  43560
 
-A:","[' 43550', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43550', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30448,7 +30448,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43551
 
-A:","[' 43560', ' 43551']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43551']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30506,7 +30506,7 @@ Q: How many square feet are in an acre?
 1:  43551
 2:  43560
 
-A:","[' 43551', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43551', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30564,7 +30564,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43552
 
-A:","[' 43560', ' 43552']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43552']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30622,7 +30622,7 @@ Q: How many square feet are in an acre?
 1:  43552
 2:  43560
 
-A:","[' 43552', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43552', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30680,7 +30680,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43553
 
-A:","[' 43560', ' 43553']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43553']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30738,7 +30738,7 @@ Q: How many square feet are in an acre?
 1:  43553
 2:  43560
 
-A:","[' 43553', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43553', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30796,7 +30796,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43554
 
-A:","[' 43560', ' 43554']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43554']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30854,7 +30854,7 @@ Q: How many square feet are in an acre?
 1:  43554
 2:  43560
 
-A:","[' 43554', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43554', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30912,7 +30912,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43555
 
-A:","[' 43560', ' 43555']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43555']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -30970,7 +30970,7 @@ Q: How many square feet are in an acre?
 1:  43555
 2:  43560
 
-A:","[' 43555', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43555', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31028,7 +31028,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43556
 
-A:","[' 43560', ' 43556']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43556']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31086,7 +31086,7 @@ Q: How many square feet are in an acre?
 1:  43556
 2:  43560
 
-A:","[' 43556', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43556', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31144,7 +31144,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43557
 
-A:","[' 43560', ' 43557']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43557']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31202,7 +31202,7 @@ Q: How many square feet are in an acre?
 1:  43557
 2:  43560
 
-A:","[' 43557', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43557', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31260,7 +31260,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43558
 
-A:","[' 43560', ' 43558']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43558']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31318,7 +31318,7 @@ Q: How many square feet are in an acre?
 1:  43558
 2:  43560
 
-A:","[' 43558', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43558', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31376,7 +31376,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43562
 
-A:","[' 43560', ' 43562']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43562']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31434,7 +31434,7 @@ Q: How many square feet are in an acre?
 1:  43562
 2:  43560
 
-A:","[' 43562', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43562', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31492,7 +31492,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43563
 
-A:","[' 43560', ' 43563']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43563']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31550,7 +31550,7 @@ Q: How many square feet are in an acre?
 1:  43563
 2:  43560
 
-A:","[' 43563', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43563', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31608,7 +31608,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43564
 
-A:","[' 43560', ' 43564']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43564']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31666,7 +31666,7 @@ Q: How many square feet are in an acre?
 1:  43564
 2:  43560
 
-A:","[' 43564', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43564', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31724,7 +31724,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43565
 
-A:","[' 43560', ' 43565']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43565']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31782,7 +31782,7 @@ Q: How many square feet are in an acre?
 1:  43565
 2:  43560
 
-A:","[' 43565', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43565', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31840,7 +31840,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43566
 
-A:","[' 43560', ' 43566']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43566']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31898,7 +31898,7 @@ Q: How many square feet are in an acre?
 1:  43566
 2:  43560
 
-A:","[' 43566', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43566', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -31956,7 +31956,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43567
 
-A:","[' 43560', ' 43567']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43567']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32014,7 +32014,7 @@ Q: How many square feet are in an acre?
 1:  43567
 2:  43560
 
-A:","[' 43567', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43567', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32072,7 +32072,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43568
 
-A:","[' 43560', ' 43568']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43568']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32130,7 +32130,7 @@ Q: How many square feet are in an acre?
 1:  43568
 2:  43560
 
-A:","[' 43568', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43568', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32188,7 +32188,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43569
 
-A:","[' 43560', ' 43569']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43569']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32246,7 +32246,7 @@ Q: How many square feet are in an acre?
 1:  43569
 2:  43560
 
-A:","[' 43569', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43569', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32304,7 +32304,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43570
 
-A:","[' 43560', ' 43570']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43570']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32362,7 +32362,7 @@ Q: How many square feet are in an acre?
 1:  43570
 2:  43560
 
-A:","[' 43570', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43570', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32420,7 +32420,7 @@ Q: How many square feet are in an acre?
 1:  43560
 2:  43571
 
-A:","[' 43560', ' 43571']",0,False,1.0,3,False,False
+A:","[' 43560', ' 43571']",0,False,1.0,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32478,7 +32478,7 @@ Q: How many square feet are in an acre?
 1:  43571
 2:  43560
 
-A:","[' 43571', ' 43560']",1,False,1.0,3,False,True
+A:","[' 43571', ' 43560']",1,False,1.0,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32536,7 +32536,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  98.9
 
-A:","[' 100', ' 98.9']",0,False,0.1,3,False,False
+A:","[' 100', ' 98.9']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32594,7 +32594,7 @@ Q: How many centimeters are in a meter?
 1:  98.9
 2:  100
 
-A:","[' 98.9', ' 100']",1,False,0.1,3,False,True
+A:","[' 98.9', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32652,7 +32652,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.0
 
-A:","[' 100', ' 99.0']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.0']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32710,7 +32710,7 @@ Q: How many centimeters are in a meter?
 1:  99.0
 2:  100
 
-A:","[' 99.0', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.0', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32768,7 +32768,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.1
 
-A:","[' 100', ' 99.1']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.1']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32826,7 +32826,7 @@ Q: How many centimeters are in a meter?
 1:  99.1
 2:  100
 
-A:","[' 99.1', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.1', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32884,7 +32884,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.2
 
-A:","[' 100', ' 99.2']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.2']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -32942,7 +32942,7 @@ Q: How many centimeters are in a meter?
 1:  99.2
 2:  100
 
-A:","[' 99.2', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.2', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33000,7 +33000,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.3
 
-A:","[' 100', ' 99.3']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.3']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33058,7 +33058,7 @@ Q: How many centimeters are in a meter?
 1:  99.3
 2:  100
 
-A:","[' 99.3', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.3', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33116,7 +33116,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.4
 
-A:","[' 100', ' 99.4']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.4']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33174,7 +33174,7 @@ Q: How many centimeters are in a meter?
 1:  99.4
 2:  100
 
-A:","[' 99.4', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.4', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33232,7 +33232,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.5
 
-A:","[' 100', ' 99.5']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.5']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33290,7 +33290,7 @@ Q: How many centimeters are in a meter?
 1:  99.5
 2:  100
 
-A:","[' 99.5', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.5', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33348,7 +33348,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.6
 
-A:","[' 100', ' 99.6']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.6']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33406,7 +33406,7 @@ Q: How many centimeters are in a meter?
 1:  99.6
 2:  100
 
-A:","[' 99.6', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.6', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33464,7 +33464,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.7
 
-A:","[' 100', ' 99.7']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.7']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33522,7 +33522,7 @@ Q: How many centimeters are in a meter?
 1:  99.7
 2:  100
 
-A:","[' 99.7', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.7', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33580,7 +33580,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  99.8
 
-A:","[' 100', ' 99.8']",0,False,0.1,3,False,False
+A:","[' 100', ' 99.8']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33638,7 +33638,7 @@ Q: How many centimeters are in a meter?
 1:  99.8
 2:  100
 
-A:","[' 99.8', ' 100']",1,False,0.1,3,False,True
+A:","[' 99.8', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33696,7 +33696,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  100.2
 
-A:","[' 100', ' 100.2']",0,False,0.1,3,False,False
+A:","[' 100', ' 100.2']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33754,7 +33754,7 @@ Q: How many centimeters are in a meter?
 1:  100.2
 2:  100
 
-A:","[' 100.2', ' 100']",1,False,0.1,3,False,True
+A:","[' 100.2', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33812,7 +33812,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  100.3
 
-A:","[' 100', ' 100.3']",0,False,0.1,3,False,False
+A:","[' 100', ' 100.3']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33870,7 +33870,7 @@ Q: How many centimeters are in a meter?
 1:  100.3
 2:  100
 
-A:","[' 100.3', ' 100']",1,False,0.1,3,False,True
+A:","[' 100.3', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33928,7 +33928,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  100.4
 
-A:","[' 100', ' 100.4']",0,False,0.1,3,False,False
+A:","[' 100', ' 100.4']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -33986,7 +33986,7 @@ Q: How many centimeters are in a meter?
 1:  100.4
 2:  100
 
-A:","[' 100.4', ' 100']",1,False,0.1,3,False,True
+A:","[' 100.4', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34044,7 +34044,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  100.5
 
-A:","[' 100', ' 100.5']",0,False,0.1,3,False,False
+A:","[' 100', ' 100.5']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34102,7 +34102,7 @@ Q: How many centimeters are in a meter?
 1:  100.5
 2:  100
 
-A:","[' 100.5', ' 100']",1,False,0.1,3,False,True
+A:","[' 100.5', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34160,7 +34160,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  100.6
 
-A:","[' 100', ' 100.6']",0,False,0.1,3,False,False
+A:","[' 100', ' 100.6']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34218,7 +34218,7 @@ Q: How many centimeters are in a meter?
 1:  100.6
 2:  100
 
-A:","[' 100.6', ' 100']",1,False,0.1,3,False,True
+A:","[' 100.6', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34276,7 +34276,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  100.7
 
-A:","[' 100', ' 100.7']",0,False,0.1,3,False,False
+A:","[' 100', ' 100.7']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34334,7 +34334,7 @@ Q: How many centimeters are in a meter?
 1:  100.7
 2:  100
 
-A:","[' 100.7', ' 100']",1,False,0.1,3,False,True
+A:","[' 100.7', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34392,7 +34392,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  100.8
 
-A:","[' 100', ' 100.8']",0,False,0.1,3,False,False
+A:","[' 100', ' 100.8']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34450,7 +34450,7 @@ Q: How many centimeters are in a meter?
 1:  100.8
 2:  100
 
-A:","[' 100.8', ' 100']",1,False,0.1,3,False,True
+A:","[' 100.8', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34508,7 +34508,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  100.9
 
-A:","[' 100', ' 100.9']",0,False,0.1,3,False,False
+A:","[' 100', ' 100.9']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34566,7 +34566,7 @@ Q: How many centimeters are in a meter?
 1:  100.9
 2:  100
 
-A:","[' 100.9', ' 100']",1,False,0.1,3,False,True
+A:","[' 100.9', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34624,7 +34624,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  101.0
 
-A:","[' 100', ' 101.0']",0,False,0.1,3,False,False
+A:","[' 100', ' 101.0']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34682,7 +34682,7 @@ Q: How many centimeters are in a meter?
 1:  101.0
 2:  100
 
-A:","[' 101.0', ' 100']",1,False,0.1,3,False,True
+A:","[' 101.0', ' 100']",1,False,0.1,3,False,True,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34740,7 +34740,7 @@ Q: How many centimeters are in a meter?
 1:  100
 2:  101.1
 
-A:","[' 100', ' 101.1']",0,False,0.1,3,False,False
+A:","[' 100', ' 101.1']",0,False,0.1,3,False,False,unit
 "
     Random number: 102.
     Q: How many centimeters are in a meter?
@@ -34798,4 +34798,4 @@ Q: How many centimeters are in a meter?
 1:  101.1
 2:  100
 
-A:","[' 101.1', ' 100']",1,False,0.1,3,False,True
+A:","[' 101.1', ' 100']",1,False,0.1,3,False,True,unit
