@@ -11,61 +11,25 @@ import pandas as pd
 # ...with few-shot and one-shot.
 
 QUESTIONS = [
+    {"correct": 5280, "anchor_scale": 1, "q": "How many feet are in a mile?",},
+    {"correct": 2205, "anchor_scale": 1, "q": "How many pounds are in a tonne?",},
+    {"correct": 3785, "anchor_scale": 1, "q": "How many milliliters are in a gallon?",},
+    {"correct": 1760, "anchor_scale": 1, "q": "How many yards are in a mile?",},
+    {"correct": 39370, "anchor_scale": 1, "q": "How many inches are in a kilometer?",},
+    {"correct": 3.28, "anchor_scale": 0.01, "q": "How many feet are in a meter?",},
+    {"correct": 1.6, "anchor_scale": 0.01, "q": "How many kilometers are in a mile?",},
+    {"correct": 3, "anchor_scale": 0.01, "q": "How many feet are in a yard?",},
+    {"correct": 36, "anchor_scale": 0.1, "q": "How many inches are in a yard?",},
+    {"correct": 12, "anchor_scale": 0.1, "q": "How many inches are in a foot?",},
+    {"correct": 39370, "anchor_scale": 10, "q": "How many inches are in a kilometer?",},
+    {"correct": 4046, "anchor_scale": 1, "q": "How many square meters are in an acre?"},
     {
-        "correct": 5280,
-        "anchor_scale": 1,
-        "q": "How many feet are in a mile?",
+        "correct": 107639,
+        "anchor_scale": 10,
+        "q": "How many square feet are in a hectare?",
     },
-    {
-        "correct": 2205,
-        "anchor_scale": 1,
-        "q": "How many pounds are in a tonne?",
-    },
-    {
-        "correct": 3785,
-        "anchor_scale": 1,
-        "q": "How many milliliters are in a gallon?",
-    },
-    {
-        "correct": 1760,
-        "anchor_scale": 1,
-        "q": "How many yards are in a mile?",
-    },
-    {
-        "correct": 39370,
-        "anchor_scale": 1,
-        "q": "How many inches are in a kilometer?",
-    },
-    {
-        "correct": 3.28,
-        "anchor_scale": 0.01,
-        "q": "How many feet are in a meter?",
-    },
-    {
-        "correct": 1.6,
-        "anchor_scale": 0.01,
-        "q": "How many kilometers are in a mile?",
-    },
-    {
-        "correct": 3,
-        "anchor_scale": 0.01,
-        "q": "How many feet are in a yard?",
-    },
-    {
-        "correct": 36,
-        "anchor_scale": 0.1,
-        "q": "How many inches are in a yard?",
-    },
-    {
-        "correct": 12,
-        "anchor_scale": 0.1,
-        "q": "How many inches are in a foot?",
-    },
-    {
-        "correct": 100,
-        "anchor_scale": 0.1,
-        "q": "How many centimeters are in a meter?",
-    },
+    {"correct": 43560, "anchor_scale": 1, "q": "How many square feet are in an acre?",},
+    {"correct": 100, "anchor_scale": 0.1, "q": "How many centimeters are in a meter?",},
 ]
 ANCHORS = [i for i in range(-11, 12) if i not in [0, -1, 1]]
 
@@ -74,13 +38,12 @@ PROMPT = "Q: {0}\n{1}\n\nA:"
 OTHER_PROMPT = "Random number:{0}.\nQ: {1}\n{2}\n\nA:"
 
 ONE_SHOT = """
-Random number: 3589.
+Random number: 5.
 Q: How many meters per second is a kilometer per hour?
-1: 0.2777777777777778
-2: 0.2777777777777778
+1: 3.6 
+2: 4.8
 
-A: 2785
-
+A: 3.6
 """
 FEW_SHOT = """
 
