@@ -190,7 +190,7 @@ def main():
             + "".join(SHOTS_12[: q["kshot"]] if q["indices"] else SHOTS[: q["kshot"]])
             + PROMPT.format(q["q"], f"1: {q['correct']}\n2: {q['anchor']}"),
             "other_prompt": (PRE_PROMPT if q["preprompt"] else "")
-            + "".join(SHOTS[: q["kshot"]])
+            + "".join(SHOTS_12[: q["kshot"]] if q["indices"] else SHOTS[: q["kshot"]])
             + OTHER_PROMPT.format(
                 q["anchor"],
                 q["q"],
