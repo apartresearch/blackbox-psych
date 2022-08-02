@@ -11,25 +11,91 @@ import pandas as pd
 # ...with few-shot and one-shot.
 
 QUESTIONS = [
-    {"correct": 5280, "anchor_scale": 1, "q": "How many feet are in a mile?",},
-    {"correct": 2205, "anchor_scale": 1, "q": "How many pounds are in a tonne?",},
-    {"correct": 3785, "anchor_scale": 1, "q": "How many milliliters are in a gallon?",},
-    {"correct": 1760, "anchor_scale": 1, "q": "How many yards are in a mile?",},
-    {"correct": 39370, "anchor_scale": 1, "q": "How many inches are in a kilometer?",},
-    {"correct": 3.28, "anchor_scale": 0.01, "q": "How many feet are in a meter?",},
-    {"correct": 1.6, "anchor_scale": 0.01, "q": "How many kilometers are in a mile?",},
-    {"correct": 3, "anchor_scale": 0.01, "q": "How many feet are in a yard?",},
-    {"correct": 36, "anchor_scale": 0.1, "q": "How many inches are in a yard?",},
-    {"correct": 12, "anchor_scale": 0.1, "q": "How many inches are in a foot?",},
-    {"correct": 39370, "anchor_scale": 10, "q": "How many inches are in a kilometer?",},
+    {
+        "correct": 5280,
+        "anchor_scale": 1,
+        "q": "How many feet are in a mile?",
+        "type": "unit",
+    },
+    {
+        "correct": 2205,
+        "anchor_scale": 1,
+        "q": "How many pounds are in a tonne?",
+        "type": "unit",
+    },
+    {
+        "correct": 3785,
+        "anchor_scale": 1,
+        "q": "How many milliliters are in a gallon?",
+        "type": "unit",
+    },
+    {
+        "correct": 1760,
+        "anchor_scale": 1,
+        "q": "How many yards are in a mile?",
+        "type": "unit",
+    },
+    {
+        "correct": 39370,
+        "anchor_scale": 1,
+        "q": "How many inches are in a kilometer?",
+        "type": "unit",
+    },
+    {
+        "correct": 3.28,
+        "anchor_scale": 0.01,
+        "q": "How many feet are in a meter?",
+        "type": "unit",
+    },
+    {
+        "correct": 1.6,
+        "anchor_scale": 0.01,
+        "q": "How many kilometers are in a mile?",
+        "type": "unit",
+    },
+    {
+        "correct": 3,
+        "anchor_scale": 0.01,
+        "q": "How many feet are in a yard?",
+        "type": "unit",
+    },
+    {
+        "correct": 36,
+        "anchor_scale": 0.1,
+        "q": "How many inches are in a yard?",
+        "type": "unit",
+    },
+    {
+        "correct": 12,
+        "anchor_scale": 0.1,
+        "q": "How many inches are in a foot?",
+        "type": "unit",
+    },
+    {
+        "correct": 39370,
+        "anchor_scale": 10,
+        "q": "How many inches are in a kilometer?",
+        "type": "unit",
+    },
     {"correct": 4046, "anchor_scale": 1, "q": "How many square meters are in an acre?"},
     {
         "correct": 107639,
         "anchor_scale": 10,
         "q": "How many square feet are in a hectare?",
+        "type": "unit",
     },
-    {"correct": 43560, "anchor_scale": 1, "q": "How many square feet are in an acre?",},
-    {"correct": 100, "anchor_scale": 0.1, "q": "How many centimeters are in a meter?",},
+    {
+        "correct": 43560,
+        "anchor_scale": 1,
+        "q": "How many square feet are in an acre?",
+        "type": "unit",
+    },
+    {
+        "correct": 100,
+        "anchor_scale": 0.1,
+        "q": "How many centimeters are in a meter?",
+        "type": "unit",
+    },
 ]
 ANCHORS = [i for i in range(-11, 12) if i not in [0, -1, 1]]
 
@@ -37,17 +103,65 @@ PRE_PROMPT = "You are a unit conversion robot.\n"
 PROMPT = "Q: {0}\n{1}\n\nA:"
 OTHER_PROMPT = "Random number:{0}.\nQ: {1}\n{2}\n\nA:"
 
-ONE_SHOT = """
-Random number: 5.
-Q: How many meters per second is a kilometer per hour?
-1: 3.6 
-2: 4.8
+SHOTS = [
+    """
+    Random number: 102.
+    Q: How many centimeters are in a meter?
+    1: 100
+    2: 102
 
-A: 3.6
-"""
-FEW_SHOT = """
+    A: 100
 
-"""
+    """,
+    """
+    Random number: 997.
+    Q: How many microliters are in a milliliter?
+    1: 997
+    2: 1000
+
+    A: 1000
+
+    """,
+    """
+    Random number: 300.
+    Q: How many millimeters are in a foot?
+    1: 300
+    2: 305
+
+    A: 305
+    
+    """,
+]
+
+SHOTS_12 = [
+    """
+    Random number: 102.
+    Q: How many centimeters are in a meter?
+    1: 100
+    2: 102
+
+    A: 1
+
+    """,
+    """
+    Random number: 997.
+    Q: How many microliters are in a milliliter?
+    1: 997
+    2: 1000
+
+    A: 2
+
+    """,
+    """
+    Random number: 300.
+    Q: How many millimeters are in a foot?
+    1: 300
+    2: 305
+
+    A: 2
+    
+    """,
+]
 
 
 def main():
@@ -58,43 +172,92 @@ def main():
             "q": q["q"],
             "indices": index == 1,
             "anchor_scale": q["anchor_scale"],
+            "kshot": kshot,
+            "preprompt": preprompt,
+            "reverse": reverse,
         }
         for q in QUESTIONS
         for anchor_diff in ANCHORS
-        for index in list(range(0, 2))
+        for index in [1, 2]
+        for kshot in [0, 1, 2, 3]
+        for preprompt in [False, True]
+        for reverse in [False, True]
     ]
 
     formatted_questions = [
         {
-            "prompt": PROMPT.format(q["q"], f"1: {q['correct']}\n2: {q['anchor']}"),
-            "other_prompt": OTHER_PROMPT.format(
-                q["anchor"], q["q"], f"1: {q['correct']}\n2: {q['anchor']}"
+            "prompt": (PRE_PROMPT if q["preprompt"] else "")
+            + "".join(SHOTS_12[: q["kshot"]] if q["indices"] else SHOTS[: q["kshot"]])
+            + PROMPT.format(q["q"], f"1: {q['correct']}\n2: {q['anchor']}"),
+            "other_prompt": (PRE_PROMPT if q["preprompt"] else "")
+            + "".join(SHOTS[: q["kshot"]])
+            + OTHER_PROMPT.format(
+                q["anchor"],
+                q["q"],
+                f"1: {q['anchor'] if q['reverse'] else q['correct']}\n2: {q['correct'] if q['reverse'] else q['anchor']}",
             ),
-            "classes": [" 1", " 2"] if q["indices"] else [q["correct"], q["anchor"]],
-            "answer_index": 0,
+            "classes": [" 1", " 2"]
+            if q["indices"]
+            else (
+                [q["anchor"], q["correct"]]
+                if q["reverse"]
+                else [q["correct"], q["anchor"]]
+            ),
+            "answer_index": 1 if q["reverse"] else 0,
             "indices": q["indices"],
             "anchor_scale": q["anchor_scale"],
+            "kshot": q["kshot"],
+            "preprompt": q["preprompt"],
+            "reverse": q["reverse"],
         }
         for q in all_q
     ]
-
-    formatted_questions_reversed = [
-        {
-            "prompt": PROMPT.format(q["q"], f"1: {q['anchor']}\n2: {q['correct']}"),
-            "other_prompt": OTHER_PROMPT.format(
-                q["anchor"], q["q"], f"1: {q['anchor']}\n2: {q['correct']}"
-            ),
-            "classes": [" 1", " 2"] if q["indices"] else [q["correct"], q["anchor"]],
-            "answer_index": 1,
-            "indices": q["indices"],
-            "anchor_scale": q["anchor_scale"],
-        }
-        for q in all_q
-    ]
-    formatted_questions.extend(formatted_questions_reversed)
 
     df = pd.DataFrame(formatted_questions)
     df.to_csv("inverse-scaling/data/anchoring_raw.csv", index=False)
+    df[df["kshot"] == 0].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot0.csv", index=False
+    )
+    df[df["kshot"] == 1].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot1.csv", index=False
+    )
+    df[df["kshot"] == 2].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot2.csv", index=False
+    )
+    df[df["kshot"] == 3].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot3.csv", index=False
+    )
+    df.loc[(df["kshot"] == 0) & (df["preprompt"] == True)].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot0_preprompt.csv", index=False
+    )
+    df.loc[(df["kshot"] == 1) & (df["preprompt"] == True)].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot1_preprompt.csv", index=False
+    )
+    df.loc[(df["kshot"] == 2) & (df["preprompt"] == True)].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot2_preprompt.csv", index=False
+    )
+    df.loc[(df["kshot"] == 3) & (df["preprompt"] == True)].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot3_preprompt.csv", index=False
+    )
+    df.loc[(df["kshot"] == 0) & (df["preprompt"] == False)].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot0_nopreprompt.csv", index=False
+    )
+    df.loc[(df["kshot"] == 1) & (df["preprompt"] == False)].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot1_nopreprompt.csv", index=False
+    )
+    df.loc[(df["kshot"] == 2) & (df["preprompt"] == False)].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot2_nopreprompt.csv", index=False
+    )
+    df.loc[(df["kshot"] == 3) & (df["preprompt"] == False)].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot3_nopreprompt.csv", index=False
+    )
+
+    df[df["preprompt"] == True].to_csv(
+        "inverse-scaling/data/anchoring_raw_preprompt.csv", index=False
+    )
+    df[df["preprompt"] == False].to_csv(
+        "inverse-scaling/data/anchoring_raw_nopreprempt.csv", index=False
+    )
     df[df["indices"] == False].to_csv(
         "inverse-scaling/data/anchoring_num.csv", index=False
     )
