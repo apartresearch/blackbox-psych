@@ -252,6 +252,29 @@ def main():
         "inverse-scaling/data/anchoring_raw_kshot3_nopreprompt.csv", index=False
     )
 
+    df.loc[
+        (df["kshot"] == 0) & (df["preprompt"] == False) & (df["indices"] == True)
+    ].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot0_nopreprompt_indices.csv", index=False
+    )
+    df.loc[
+        (df["kshot"] == 0) & (df["preprompt"] == False) & (df["indices"] == False)
+    ].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot0_nopreprompt_num.csv", index=False
+    )
+
+    df.loc[
+        (df["kshot"] == 3) & (df["preprompt"] == False) & (df["indices"] == True)
+    ].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot3_nopreprompt_indices.csv", index=False
+    )
+
+    df.loc[
+        (df["kshot"] == 3) & (df["preprompt"] == False) & (df["indices"] == False)
+    ].to_csv(
+        "inverse-scaling/data/anchoring_raw_kshot3_nopreprompt_num.csv", index=False
+    )
+
     df[df["preprompt"] == True].to_csv(
         "inverse-scaling/data/anchoring_raw_preprompt.csv", index=False
     )
