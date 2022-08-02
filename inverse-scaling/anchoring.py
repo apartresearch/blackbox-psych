@@ -283,20 +283,20 @@ def main():
     df.loc[
         (df["kshot"] == 0)
         & (df["preprompt"] == False)
-        & (df["indices"] == True)
+        & (df["indices"] == False)
         & (df["type"] == "other")
     ].to_csv(
-        "inverse-scaling/data/anchoring_raw_other_kshot0_nopreprompt_indices.csv",
+        "inverse-scaling/data/anchoring_raw_other_kshot0_nopreprompt_num.csv",
         index=False,
     )
 
     df.loc[
         (df["kshot"] == 3)
         & (df["preprompt"] == False)
-        & (df["indices"] == True)
+        & (df["indices"] == False)
         & (df["type"] == "other")
     ].to_csv(
-        "inverse-scaling/data/anchoring_raw_other_kshot3_nopreprompt_indices.csv",
+        "inverse-scaling/data/anchoring_raw_other_kshot3_nopreprompt_num.csv",
         index=False,
     )
 
