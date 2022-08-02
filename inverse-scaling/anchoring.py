@@ -175,6 +175,7 @@ def main():
             "kshot": kshot,
             "preprompt": preprompt,
             "reverse": reverse,
+            "type": q["type"],
         }
         for q in QUESTIONS
         for anchor_diff in ANCHORS
@@ -212,6 +213,7 @@ def main():
             "kshot": q["kshot"],
             "preprompt": q["preprompt"],
             "reverse": q["reverse"],
+            "type": q["type"],
         }
         for q in all_q
     ]
