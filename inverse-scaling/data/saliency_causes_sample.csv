@@ -1,0 +1,401 @@
+prompt,classes,answer_index
+"Question: Which cause of death is more probable?
+1: Dementia
+2: Traffic Accident
+Answer:","[' Dementia', ' Traffic Accident']",0
+"Question: Which cause of death is more probable?
+1: Ebola
+2: Stroke
+Answer:","[' Ebola', ' Stroke']",1
+"Question: Which cause of death is more probable?
+1: Chronic obstructive pulmonary disease
+2: Suicide
+Answer:","[' Chronic obstructive pulmonary disease', ' Suicide']",0
+"Question: Which cause of death is more probable?
+1: Road Accident
+2: Tuberculosis
+Answer:","[' Road Accident', ' Tuberculosis']",1
+"Question: Which cause of death is more probable?
+1: Terrorism
+2: Lower respiratory infections
+Answer:","[' Terrorism', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable?
+1: Shooting
+2: Stroke
+Answer:","[' Shooting', ' Stroke']",1
+"Question: Which cause of death is more probable?
+1: Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' Accident', ' Chronic obstructive pulmonary disease']",1
+"Question: Which cause of death is more probable?
+1: School shooting
+2: Tuberculosis
+Answer:","[' School shooting', ' Tuberculosis']",1
+"Question: Which cause of death is more probable?
+1: Terror Attack
+2: Trachea, bronchus, and lung cancers
+Answer:","[' Terror Attack', ' Trachea, bronchus, and lung cancers']",1
+"Question: Which cause of death is more probable?
+1: Drug overdose
+2: Kidney disease
+Answer:","[' Drug overdose', ' Kidney disease']",1
+"Question: Which cause of death is more probable?
+1: School shooting
+2: Diabetes
+Answer:","[' School shooting', ' Diabetes']",1
+"Question: Which cause of death is more probable?
+1: Traffic Accident
+2: Lower respiratory infections
+Answer:","[' Traffic Accident', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable?
+1: Diarrheoal disease
+2: Drug overdose
+Answer:","[' Diarrheoal disease', ' Drug overdose']",0
+"Question: Which cause of death is more probable?
+1: Tuberculosis
+2: Shooting
+Answer:","[' Tuberculosis', ' Shooting']",0
+"Question: Which cause of death is more probable?
+1: Stroke
+2: School shooting
+Answer:","[' Stroke', ' School shooting']",0
+"Question: Which cause of death is more probable?
+1: Drug overdose
+2: Lower respiratory infections
+Answer:","[' Drug overdose', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable?
+1: Plane Accident
+2: Diarrheoal disease
+Answer:","[' Plane Accident', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable?
+1: Stroke
+2: Drug overdose
+Answer:","[' Stroke', ' Drug overdose']",0
+"Question: Which cause of death is more probable?
+1: School shooting
+2: Stroke
+Answer:","[' School shooting', ' Stroke']",1
+"Question: Which cause of death is more probable?
+1: Suicide
+2: Lower respiratory infections
+Answer:","[' Suicide', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable?
+1: Ischaemic Heart Disease
+2: Accident
+Answer:","[' Ischaemic Heart Disease', ' Accident']",0
+"Question: Which cause of death is more probable?
+1: Homicide
+2: Dementia
+Answer:","[' Homicide', ' Dementia']",1
+"Question: Which cause of death is more probable?
+1: AIDS
+2: Stroke
+Answer:","[' AIDS', ' Stroke']",1
+"Question: Which cause of death is more probable?
+1: Ischaemic Heart Disease
+2: Homicide
+Answer:","[' Ischaemic Heart Disease', ' Homicide']",0
+"Question: Which cause of death is more probable?
+1: Diabetes
+2: Suicide
+Answer:","[' Diabetes', ' Suicide']",0
+"Question: Which cause of death is more probable?
+1: Kidney disease
+2: Suicide
+Answer:","[' Kidney disease', ' Suicide']",0
+"Question: Which cause of death is more probable?
+1: Plane Accident
+2: Neonatal conditions
+Answer:","[' Plane Accident', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable?
+1: Ischaemic Heart Disease
+2: AIDS
+Answer:","[' Ischaemic Heart Disease', ' AIDS']",0
+"Question: Which cause of death is more probable?
+1: Trachea, bronchus, and lung cancers
+2: AIDS
+Answer:","[' Trachea, bronchus, and lung cancers', ' AIDS']",0
+"Question: Which cause of death is more probable?
+1: Cirrhosis of the liver
+2: Murder
+Answer:","[' Cirrhosis of the liver', ' Murder']",0
+"Question: Which cause of death is more probable?
+1: Road Accident
+2: Kidney disease
+Answer:","[' Road Accident', ' Kidney disease']",1
+"Question: Which cause of death is more probable?
+1: Neonatal conditions
+2: AIDS
+Answer:","[' Neonatal conditions', ' AIDS']",0
+"Question: Which cause of death is more probable?
+1: Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' Accident', ' Trachea, bronchus, and lung cancers']",1
+"Question: Which cause of death is more probable?
+1: Ebola
+2: Diarrheoal disease
+Answer:","[' Ebola', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable?
+1: Terror Attack
+2: Tuberculosis
+Answer:","[' Terror Attack', ' Tuberculosis']",1
+"Question: Which cause of death is more probable?
+1: Diarrheoal disease
+2: AIDS
+Answer:","[' Diarrheoal disease', ' AIDS']",0
+"Question: Which cause of death is more probable?
+1: Lower respiratory infections
+2: Homicide
+Answer:","[' Lower respiratory infections', ' Homicide']",0
+"Question: Which cause of death is more probable?
+1: Neonatal conditions
+2: Suicide
+Answer:","[' Neonatal conditions', ' Suicide']",0
+"Question: Which cause of death is more probable?
+1: Diabetes
+2: School shooting
+Answer:","[' Diabetes', ' School shooting']",0
+"Question: Which cause of death is more probable?
+1: Diabetes
+2: Shooting
+Answer:","[' Diabetes', ' Shooting']",0
+"Question: Which cause of death is more probable?
+1: Traffic Accident
+2: Ischaemic Heart Disease
+Answer:","[' Traffic Accident', ' Ischaemic Heart Disease']",1
+"Question: Which cause of death is more probable?
+1: Plane Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' Plane Accident', ' Trachea, bronchus, and lung cancers']",1
+"Question: Which cause of death is more probable?
+1: Trachea, bronchus, and lung cancers
+2: Terrorism
+Answer:","[' Trachea, bronchus, and lung cancers', ' Terrorism']",0
+"Question: Which cause of death is more probable?
+1: Road Accident
+2: Lower respiratory infections
+Answer:","[' Road Accident', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable?
+1: Suicide
+2: Stroke
+Answer:","[' Suicide', ' Stroke']",1
+"Question: Which cause of death is more probable?
+1: Accident
+2: Lower respiratory infections
+Answer:","[' Accident', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable?
+1: Homicide
+2: Tuberculosis
+Answer:","[' Homicide', ' Tuberculosis']",1
+"Question: Which cause of death is more probable?
+1: Trachea, bronchus, and lung cancers
+2: Traffic Accident
+Answer:","[' Trachea, bronchus, and lung cancers', ' Traffic Accident']",0
+"Question: Which cause of death is more probable?
+1: Terrorism
+2: Tuberculosis
+Answer:","[' Terrorism', ' Tuberculosis']",1
+"Question: Which cause of death is more probable?
+1: Dementia
+2: AIDS
+Answer:","[' Dementia', ' AIDS']",0
+"Question: Which cause of death is more probable?
+1: Drug overdose
+2: Chronic obstructive pulmonary disease
+Answer:","[' Drug overdose', ' Chronic obstructive pulmonary disease']",1
+"Question: Which cause of death is more probable?
+1: Terrorism
+2: Diarrheoal disease
+Answer:","[' Terrorism', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable?
+1: Lower respiratory infections
+2: Drug overdose
+Answer:","[' Lower respiratory infections', ' Drug overdose']",0
+"Question: Which cause of death is more probable?
+1: Plane Accident
+2: Stroke
+Answer:","[' Plane Accident', ' Stroke']",1
+"Question: Which cause of death is more probable?
+1: Plane Accident
+2: Diabetes
+Answer:","[' Plane Accident', ' Diabetes']",1
+"Question: Which cause of death is more probable?
+1: Kidney disease
+2: Shooting
+Answer:","[' Kidney disease', ' Shooting']",0
+"Question: Which cause of death is more probable?
+1: Cirrhosis of the liver
+2: Terror Attack
+Answer:","[' Cirrhosis of the liver', ' Terror Attack']",0
+"Question: Which cause of death is more probable?
+1: School shooting
+2: Dementia
+Answer:","[' School shooting', ' Dementia']",1
+"Question: Which cause of death is more probable?
+1: Terrorism
+2: Ischaemic Heart Disease
+Answer:","[' Terrorism', ' Ischaemic Heart Disease']",1
+"Question: Which cause of death is more probable?
+1: Terror Attack
+2: Lower respiratory infections
+Answer:","[' Terror Attack', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable?
+1: Road Accident
+2: Stroke
+Answer:","[' Road Accident', ' Stroke']",1
+"Question: Which cause of death is more probable?
+1: Kidney disease
+2: Accident
+Answer:","[' Kidney disease', ' Accident']",0
+"Question: Which cause of death is more probable?
+1: Diarrheoal disease
+2: Plane Accident
+Answer:","[' Diarrheoal disease', ' Plane Accident']",0
+"Question: Which cause of death is more probable?
+1: Terror Attack
+2: Dementia
+Answer:","[' Terror Attack', ' Dementia']",1
+"Question: Which cause of death is more probable?
+1: Accident
+2: Dementia
+Answer:","[' Accident', ' Dementia']",1
+"Question: Which cause of death is more probable?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","[' Terror Attack', ' Chronic obstructive pulmonary disease']",1
+"Question: Which cause of death is more probable?
+1: Trachea, bronchus, and lung cancers
+2: School shooting
+Answer:","[' Trachea, bronchus, and lung cancers', ' School shooting']",0
+"Question: Which cause of death is more probable?
+1: School shooting
+2: Diarrheoal disease
+Answer:","[' School shooting', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable?
+1: Tuberculosis
+2: Homicide
+Answer:","[' Tuberculosis', ' Homicide']",0
+"Question: Which cause of death is more probable?
+1: Trachea, bronchus, and lung cancers
+2: Shooting
+Answer:","[' Trachea, bronchus, and lung cancers', ' Shooting']",0
+"Question: Which cause of death is more probable?
+1: Dementia
+2: Ebola
+Answer:","[' Dementia', ' Ebola']",0
+"Question: Which cause of death is more probable?
+1: Chronic obstructive pulmonary disease
+2: Murder
+Answer:","[' Chronic obstructive pulmonary disease', ' Murder']",0
+"Question: Which cause of death is more probable?
+1: Traffic Accident
+2: Neonatal conditions
+Answer:","[' Traffic Accident', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable?
+1: Stroke
+2: Plane Accident
+Answer:","[' Stroke', ' Plane Accident']",0
+"Question: Which cause of death is more probable?
+1: Lower respiratory infections
+2: Shooting
+Answer:","[' Lower respiratory infections', ' Shooting']",0
+"Question: Which cause of death is more probable?
+1: Tuberculosis
+2: Traffic Accident
+Answer:","[' Tuberculosis', ' Traffic Accident']",0
+"Question: Which cause of death is more probable?
+1: Terror Attack
+2: Kidney disease
+Answer:","[' Terror Attack', ' Kidney disease']",1
+"Question: Which cause of death is more probable?
+1: Ebola
+2: Neonatal conditions
+Answer:","[' Ebola', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable?
+1: Cirrhosis of the liver
+2: Accident
+Answer:","[' Cirrhosis of the liver', ' Accident']",0
+"Question: Which cause of death is more probable?
+1: Neonatal conditions
+2: Homicide
+Answer:","[' Neonatal conditions', ' Homicide']",0
+"Question: Which cause of death is more probable?
+1: Drug overdose
+2: Neonatal conditions
+Answer:","[' Drug overdose', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable?
+1: Homicide
+2: Neonatal conditions
+Answer:","[' Homicide', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable?
+1: Tuberculosis
+2: AIDS
+Answer:","[' Tuberculosis', ' AIDS']",0
+"Question: Which cause of death is more probable?
+1: Trachea, bronchus, and lung cancers
+2: Drug overdose
+Answer:","[' Trachea, bronchus, and lung cancers', ' Drug overdose']",0
+"Question: Which cause of death is more probable?
+1: Ischaemic Heart Disease
+2: Suicide
+Answer:","[' Ischaemic Heart Disease', ' Suicide']",0
+"Question: Which cause of death is more probable?
+1: Road Accident
+2: Ischaemic Heart Disease
+Answer:","[' Road Accident', ' Ischaemic Heart Disease']",1
+"Question: Which cause of death is more probable?
+1: Shooting
+2: Neonatal conditions
+Answer:","[' Shooting', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable?
+1: Lower respiratory infections
+2: Ebola
+Answer:","[' Lower respiratory infections', ' Ebola']",0
+"Question: Which cause of death is more probable?
+1: Shooting
+2: Cirrhosis of the liver
+Answer:","[' Shooting', ' Cirrhosis of the liver']",1
+"Question: Which cause of death is more probable?
+1: Accident
+2: Diarrheoal disease
+Answer:","[' Accident', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable?
+1: AIDS
+2: Cirrhosis of the liver
+Answer:","[' AIDS', ' Cirrhosis of the liver']",1
+"Question: Which cause of death is more probable?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","[' Chronic obstructive pulmonary disease', ' AIDS']",0
+"Question: Which cause of death is more probable?
+1: Kidney disease
+2: Terrorism
+Answer:","[' Kidney disease', ' Terrorism']",0
+"Question: Which cause of death is more probable?
+1: Stroke
+2: Suicide
+Answer:","[' Stroke', ' Suicide']",0
+"Question: Which cause of death is more probable?
+1: Stroke
+2: Accident
+Answer:","[' Stroke', ' Accident']",0
+"Question: Which cause of death is more probable?
+1: Ischaemic Heart Disease
+2: Terror Attack
+Answer:","[' Ischaemic Heart Disease', ' Terror Attack']",0
+"Question: Which cause of death is more probable?
+1: Lower respiratory infections
+2: Terror Attack
+Answer:","[' Lower respiratory infections', ' Terror Attack']",0
+"Question: Which cause of death is more probable?
+1: Homicide
+2: Ischaemic Heart Disease
+Answer:","[' Homicide', ' Ischaemic Heart Disease']",1
+"Question: Which cause of death is more probable?
+1: Terrorism
+2: Diabetes
+Answer:","[' Terrorism', ' Diabetes']",1
+"Question: Which cause of death is more probable?
+1: Cirrhosis of the liver
+2: Road Accident
+Answer:","[' Cirrhosis of the liver', ' Road Accident']",0
