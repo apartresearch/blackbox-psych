@@ -65,9 +65,11 @@ def main():
         news_story = f"BREAKING NEWS: 10 people just killed by{combi[not answer_index]}"
         new_q = "\n".join([news_story, base_q])
         formatted_question = fq.format_question(new_q, combi)
+        basic_formatted = fq.format_question(base_q, combi)
         result_list.append(
             {
-                "prompt": formatted_question,
+                "prompt": basic_formatted,
+                "other_prompt": formatted_question,
                 "classes": list(combi),
                 "answer_index": answer_index,
             }
