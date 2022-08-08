@@ -61,9 +61,10 @@ def main():
     all_combinations = get_cause_combinations(PROBABLE_CAUSES, SALIENT_CAUSES)
     result_list = []
     for combi, answer_index in all_combinations.items():
-        formatted_question = fq.format_question(
-            "Which cause of death is more probable?", combi
-        )
+        base_q = "Which cause of death is more probable in the general population?"
+        news_story = f"BREAKING NEWS: 10 people just killed by{combi[not answer_index]}"
+        new_q = "\n".join([news_story, base_q])
+        formatted_question = fq.format_question(new_q, combi)
         result_list.append(
             {
                 "prompt": formatted_question,
