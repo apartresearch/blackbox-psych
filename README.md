@@ -1,17 +1,40 @@
-# blackbox-psych
-Conducting psychology experiments on black box language models
+# 🤖 Black Box Psych Experiments
+
+🤯 Conducting psychology experiments on black box language models. **Warning**: Unstructured repo.
 
 ## What we have tested (so far)
-- [ ] [Anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias))
 
-## Datasheet Anchoring
-Format of the output. The ones with filename = "yes" can also be stored in the filename (e.g. `gpt-j-6b_chicago.csv`)
-Column Name | Description| Example | In filename
---- | --- | --- | ---
-`id` | Unique identifier per row | 1 | No
-`model_name` | The model used | "gpt-j-6b" | Yes 
-`temperature` | Temperature | 0.9| No
-`anchor` | One of "Control", "Low", "High" | "High" | No
-`anchor_val` | Value of the anchor | 20000 | No
-`question_group` | Identifier for the question | "Chicago" (or "everest") | Yes
-`output` | The numeric value of the model | 8489 | No
+- [x] [Anchoring](<https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)>) ([directory](anchoring/))
+
+We originally replicated the anchoring paper with the format `"Is Z higher or lower than X? {answer_1}\nWhat is the height of Z?"`. Initially, we see no consistent, replicable anchoring effect that corresponds to the original, i.e. your estimate is pushed in the direction of the anchor. Then we observe an effect where it anchors to numbers that are close to the right answer. A prompt can e.g. look like this:
+
+```
+Random number: 1002.
+Q: How many meters are in a kilometer?
+1: 1000
+2: 1002
+A:
+```
+
+...and the models will consistently respond with 1002 despite its usually correct responses. We also test this in for [inverse scaling](inverse-scaling/anchoring.py) and see that large models are more susceptible to this effect. This is inherently very interesting and we have several hypotheses for why this might be.
+
+- [x] Describing Black Swan events outside of its training time
+
+In [black-swan-future](black-swan-future/BlackSwan.ipynb), we test how the language models describe long tail probability events within its dataset bounds versus outside. An example might be `"What happened on January 3rd 2018"` vs. `"What happened on January 3rd 2022"`. Since Jan 3rd 2022 is not within its training dataset's bounds, it predicts wildly inaccurate things with very high certainty.
+
+- [x] Political bias
+- [x] Saliency effect
+
+## Project results
+
+We hope to **release a paper** detailing cognitive biases in large language models and what it means for generalization of human features. Additionally, we **participate in the [inverse scaling prize](https://github.com/inverse-scaling/prize)** with some of our results from this project and hope to release results in association with their team.
+
+As an added way of sharing the work, we will release videos about our results on our YouTube channel about the safe development of AI. Check out our website at **[Apart Research](https://apartresearch.com)**.
+
+## How to join the project
+
+1. Create a pull request to this repository
+2. Join [our Discord](https://apartresearch.com/join)
+3. Join [our hackathons](https://apartresearch.com/jam)
+4. Check out [aisafetyideas](https://aisafetyideas.com)
+5. Read up at [RWWC](https://readingwhatwecan.com) or on Jacob Hilton's opinionated deep learning reading list
