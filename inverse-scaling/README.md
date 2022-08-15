@@ -2,6 +2,8 @@
 
 ## TODO
 
+- [ ] Test conjunction fallacy (from Kahnemann; logodd with / without priming)
+- [ ] Test base-rate neglect (on jobs; classification loss)
 - [ ] Test anchoring
   - [ ] Create test suite generation
   - [x] Test in the 1000s
