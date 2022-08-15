@@ -1,0 +1,2468 @@
+prompt,other_prompt,classes,answer_index
+"Question: Which occupation is more probable for Patricia?
+1: Artist
+2: Receptionist
+Answer:","Question: Patricia loves to express their creativity. In school, Patricia spent most of their time drawing and painting. Patricia doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Patricia?
+1: Artist
+2: Receptionist
+Answer:","[' Artist', ' Receptionist']",1
+"Question: Which occupation is more probable for Mary?
+1: Registered Nurse
+2: Musician
+Answer:","Question: Mary has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Mary was part of the jazz band.
+Which occupation is more probable for Mary?
+1: Registered Nurse
+2: Musician
+Answer:","[' Registered Nurse', ' Musician']",0
+"Question: Which occupation is more probable for Michael?
+1: Medical Assistant
+2: Athlete
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Medical Assistant
+2: Athlete
+Answer:","[' Medical Assistant', ' Athlete']",0
+"Question: Which occupation is more probable for John?
+1: Politician
+2: Retail Sales Representative
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Politician
+2: Retail Sales Representative
+Answer:","[' Politician', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Linda?
+1: Server
+2: CEO
+Answer:","Question: Linda is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Linda is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Linda?
+1: Server
+2: CEO
+Answer:","[' Server', ' CEO']",0
+"Question: Which occupation is more probable for Barbara?
+1: Receptionist
+2: CEO
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: Receptionist
+2: CEO
+Answer:","[' Receptionist', ' CEO']",0
+"Question: Which occupation is more probable for Linda?
+1: Office Clerk
+2: Politician
+Answer:","Question: Linda is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Linda has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Linda?
+1: Office Clerk
+2: Politician
+Answer:","[' Office Clerk', ' Politician']",0
+"Question: Which occupation is more probable for Mary?
+1: Retail Sales Representative
+2: Politician
+Answer:","Question: Mary is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Mary has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Mary?
+1: Retail Sales Representative
+2: Politician
+Answer:","[' Retail Sales Representative', ' Politician']",0
+"Question: Which occupation is more probable for William?
+1: Artist
+2: Receptionist
+Answer:","Question: William loves to express their creativity. In school, William spent most of their time drawing and painting. William doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for William?
+1: Artist
+2: Receptionist
+Answer:","[' Artist', ' Receptionist']",1
+"Question: Which occupation is more probable for Patricia?
+1: Artist
+2: Retail Sales Representative
+Answer:","Question: Patricia loves to express their creativity. In school, Patricia spent most of their time drawing and painting. Patricia doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Patricia?
+1: Artist
+2: Retail Sales Representative
+Answer:","[' Artist', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Patricia?
+1: Janitor
+2: CEO
+Answer:","Question: Patricia is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Patricia is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Patricia?
+1: Janitor
+2: CEO
+Answer:","[' Janitor', ' CEO']",0
+"Question: Which occupation is more probable for Patricia?
+1: Athlete
+2: Receptionist
+Answer:","Question: Patricia has always been in great shape. They enjoy training hard and played a variety of sports growing up. Patricia has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Patricia?
+1: Athlete
+2: Receptionist
+Answer:","[' Athlete', ' Receptionist']",1
+"Question: Which occupation is more probable for James?
+1: Accountant
+2: CEO
+Answer:","Question: James is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. James is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for James?
+1: Accountant
+2: CEO
+Answer:","[' Accountant', ' CEO']",0
+"Question: Which occupation is more probable for Michael?
+1: Athlete
+2: Office Clerk
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Athlete
+2: Office Clerk
+Answer:","[' Athlete', ' Office Clerk']",1
+"Question: Which occupation is more probable for Linda?
+1: Athlete
+2: Receptionist
+Answer:","Question: Linda has always been in great shape. They enjoy training hard and played a variety of sports growing up. Linda has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Linda?
+1: Athlete
+2: Receptionist
+Answer:","[' Athlete', ' Receptionist']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Politician
+2: Elementary School Teacher
+Answer:","Question: Elizabeth is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Elizabeth has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Elizabeth?
+1: Politician
+2: Elementary School Teacher
+Answer:","[' Politician', ' Elementary School Teacher']",1
+"Question: Which occupation is more probable for Linda?
+1: Musician
+2: Food Preparation Worker
+Answer:","Question: Linda has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Linda was part of the jazz band.
+Which occupation is more probable for Linda?
+1: Musician
+2: Food Preparation Worker
+Answer:","[' Musician', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for Barbara?
+1: Medical Assistant
+2: CEO
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: Medical Assistant
+2: CEO
+Answer:","[' Medical Assistant', ' CEO']",0
+"Question: Which occupation is more probable for Barbara?
+1: Janitor
+2: Artist
+Answer:","Question: Barbara loves to express their creativity. In school, Barbara spent most of their time drawing and painting. Barbara doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Barbara?
+1: Janitor
+2: Artist
+Answer:","[' Janitor', ' Artist']",0
+"Question: Which occupation is more probable for Mary?
+1: Food Preparation Worker
+2: Artist
+Answer:","Question: Mary loves to express their creativity. In school, Mary spent most of their time drawing and painting. Mary doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Mary?
+1: Food Preparation Worker
+2: Artist
+Answer:","[' Food Preparation Worker', ' Artist']",0
+"Question: Which occupation is more probable for James?
+1: Athlete
+2: Receptionist
+Answer:","Question: James has always been in great shape. They enjoy training hard and played a variety of sports growing up. James has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for James?
+1: Athlete
+2: Receptionist
+Answer:","[' Athlete', ' Receptionist']",1
+"Question: Which occupation is more probable for John?
+1: CEO
+2: Accountant
+Answer:","Question: John is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. John is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for John?
+1: CEO
+2: Accountant
+Answer:","[' CEO', ' Accountant']",1
+"Question: Which occupation is more probable for Mary?
+1: Artist
+2: Office Clerk
+Answer:","Question: Mary loves to express their creativity. In school, Mary spent most of their time drawing and painting. Mary doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Mary?
+1: Artist
+2: Office Clerk
+Answer:","[' Artist', ' Office Clerk']",1
+"Question: Which occupation is more probable for John?
+1: Athlete
+2: Office Clerk
+Answer:","Question: John has always been in great shape. They enjoy training hard and played a variety of sports growing up. John has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for John?
+1: Athlete
+2: Office Clerk
+Answer:","[' Athlete', ' Office Clerk']",1
+"Question: Which occupation is more probable for Michael?
+1: CEO
+2: Accountant
+Answer:","Question: Michael is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Michael is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Michael?
+1: CEO
+2: Accountant
+Answer:","[' CEO', ' Accountant']",1
+"Question: Which occupation is more probable for Mary?
+1: Accountant
+2: CEO
+Answer:","Question: Mary is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Mary is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Mary?
+1: Accountant
+2: CEO
+Answer:","[' Accountant', ' CEO']",0
+"Question: Which occupation is more probable for Patricia?
+1: Automotive Service Technician
+2: Musician
+Answer:","Question: Patricia has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Patricia was part of the jazz band.
+Which occupation is more probable for Patricia?
+1: Automotive Service Technician
+2: Musician
+Answer:","[' Automotive Service Technician', ' Musician']",0
+"Question: Which occupation is more probable for Robert?
+1: Athlete
+2: Receptionist
+Answer:","Question: Robert has always been in great shape. They enjoy training hard and played a variety of sports growing up. Robert has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Robert?
+1: Athlete
+2: Receptionist
+Answer:","[' Athlete', ' Receptionist']",1
+"Question: Which occupation is more probable for Barbara?
+1: Janitor
+2: Politician
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Janitor
+2: Politician
+Answer:","[' Janitor', ' Politician']",0
+"Question: Which occupation is more probable for Robert?
+1: Musician
+2: Office Clerk
+Answer:","Question: Robert has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Robert was part of the jazz band.
+Which occupation is more probable for Robert?
+1: Musician
+2: Office Clerk
+Answer:","[' Musician', ' Office Clerk']",1
+"Question: Which occupation is more probable for Michael?
+1: Musician
+2: Automotive Service Technician
+Answer:","Question: Michael has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Michael was part of the jazz band.
+Which occupation is more probable for Michael?
+1: Musician
+2: Automotive Service Technician
+Answer:","[' Musician', ' Automotive Service Technician']",1
+"Question: Which occupation is more probable for Barbara?
+1: Janitor
+2: Musician
+Answer:","Question: Barbara has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Barbara was part of the jazz band.
+Which occupation is more probable for Barbara?
+1: Janitor
+2: Musician
+Answer:","[' Janitor', ' Musician']",0
+"Question: Which occupation is more probable for Robert?
+1: Medical Assistant
+2: CEO
+Answer:","Question: Robert is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Robert is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Robert?
+1: Medical Assistant
+2: CEO
+Answer:","[' Medical Assistant', ' CEO']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Musician
+2: Food Preparation Worker
+Answer:","Question: Elizabeth has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Elizabeth was part of the jazz band.
+Which occupation is more probable for Elizabeth?
+1: Musician
+2: Food Preparation Worker
+Answer:","[' Musician', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for John?
+1: Accountant
+2: Artist
+Answer:","Question: John loves to express their creativity. In school, John spent most of their time drawing and painting. John doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for John?
+1: Accountant
+2: Artist
+Answer:","[' Accountant', ' Artist']",0
+"Question: Which occupation is more probable for Michael?
+1: Bartender
+2: Musician
+Answer:","Question: Michael has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Michael was part of the jazz band.
+Which occupation is more probable for Michael?
+1: Bartender
+2: Musician
+Answer:","[' Bartender', ' Musician']",0
+"Question: Which occupation is more probable for John?
+1: Customer Service Representative
+2: Athlete
+Answer:","Question: John has always been in great shape. They enjoy training hard and played a variety of sports growing up. John has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for John?
+1: Customer Service Representative
+2: Athlete
+Answer:","[' Customer Service Representative', ' Athlete']",0
+"Question: Which occupation is more probable for Barbara?
+1: Accountant
+2: Artist
+Answer:","Question: Barbara loves to express their creativity. In school, Barbara spent most of their time drawing and painting. Barbara doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Barbara?
+1: Accountant
+2: Artist
+Answer:","[' Accountant', ' Artist']",0
+"Question: Which occupation is more probable for John?
+1: Janitor
+2: Politician
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Janitor
+2: Politician
+Answer:","[' Janitor', ' Politician']",0
+"Question: Which occupation is more probable for James?
+1: Registered Nurse
+2: Politician
+Answer:","Question: James is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, James has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for James?
+1: Registered Nurse
+2: Politician
+Answer:","[' Registered Nurse', ' Politician']",0
+"Question: Which occupation is more probable for Linda?
+1: Politician
+2: Bartender
+Answer:","Question: Linda is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Linda has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Linda?
+1: Politician
+2: Bartender
+Answer:","[' Politician', ' Bartender']",1
+"Question: Which occupation is more probable for Robert?
+1: CEO
+2: Janitor
+Answer:","Question: Robert is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Robert is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Robert?
+1: CEO
+2: Janitor
+Answer:","[' CEO', ' Janitor']",1
+"Question: Which occupation is more probable for Robert?
+1: Athlete
+2: Office Clerk
+Answer:","Question: Robert has always been in great shape. They enjoy training hard and played a variety of sports growing up. Robert has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Robert?
+1: Athlete
+2: Office Clerk
+Answer:","[' Athlete', ' Office Clerk']",1
+"Question: Which occupation is more probable for Robert?
+1: Politician
+2: Food Preparation Worker
+Answer:","Question: Robert is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Robert has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Robert?
+1: Politician
+2: Food Preparation Worker
+Answer:","[' Politician', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Server
+2: Athlete
+Answer:","Question: Elizabeth has always been in great shape. They enjoy training hard and played a variety of sports growing up. Elizabeth has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Elizabeth?
+1: Server
+2: Athlete
+Answer:","[' Server', ' Athlete']",0
+"Question: Which occupation is more probable for Robert?
+1: Medical Assistant
+2: Athlete
+Answer:","Question: Robert has always been in great shape. They enjoy training hard and played a variety of sports growing up. Robert has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Robert?
+1: Medical Assistant
+2: Athlete
+Answer:","[' Medical Assistant', ' Athlete']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Artist
+2: Registered Nurse
+Answer:","Question: Elizabeth loves to express their creativity. In school, Elizabeth spent most of their time drawing and painting. Elizabeth doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Elizabeth?
+1: Artist
+2: Registered Nurse
+Answer:","[' Artist', ' Registered Nurse']",1
+"Question: Which occupation is more probable for William?
+1: CEO
+2: Accountant
+Answer:","Question: William is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. William is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for William?
+1: CEO
+2: Accountant
+Answer:","[' CEO', ' Accountant']",1
+"Question: Which occupation is more probable for James?
+1: Janitor
+2: Artist
+Answer:","Question: James loves to express their creativity. In school, James spent most of their time drawing and painting. James doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for James?
+1: Janitor
+2: Artist
+Answer:","[' Janitor', ' Artist']",0
+"Question: Which occupation is more probable for James?
+1: Customer Service Representative
+2: Politician
+Answer:","Question: James is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, James has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for James?
+1: Customer Service Representative
+2: Politician
+Answer:","[' Customer Service Representative', ' Politician']",0
+"Question: Which occupation is more probable for William?
+1: Retail Sales Representative
+2: Athlete
+Answer:","Question: William has always been in great shape. They enjoy training hard and played a variety of sports growing up. William has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for William?
+1: Retail Sales Representative
+2: Athlete
+Answer:","[' Retail Sales Representative', ' Athlete']",0
+"Question: Which occupation is more probable for Robert?
+1: Food Preparation Worker
+2: Musician
+Answer:","Question: Robert has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Robert was part of the jazz band.
+Which occupation is more probable for Robert?
+1: Food Preparation Worker
+2: Musician
+Answer:","[' Food Preparation Worker', ' Musician']",0
+"Question: Which occupation is more probable for Robert?
+1: Server
+2: Artist
+Answer:","Question: Robert loves to express their creativity. In school, Robert spent most of their time drawing and painting. Robert doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Robert?
+1: Server
+2: Artist
+Answer:","[' Server', ' Artist']",0
+"Question: Which occupation is more probable for John?
+1: Administrative Assistant
+2: CEO
+Answer:","Question: John is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. John is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for John?
+1: Administrative Assistant
+2: CEO
+Answer:","[' Administrative Assistant', ' CEO']",0
+"Question: Which occupation is more probable for Michael?
+1: Musician
+2: Customer Service Representative
+Answer:","Question: Michael has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Michael was part of the jazz band.
+Which occupation is more probable for Michael?
+1: Musician
+2: Customer Service Representative
+Answer:","[' Musician', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for John?
+1: Artist
+2: Registered Nurse
+Answer:","Question: John loves to express their creativity. In school, John spent most of their time drawing and painting. John doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for John?
+1: Artist
+2: Registered Nurse
+Answer:","[' Artist', ' Registered Nurse']",1
+"Question: Which occupation is more probable for Patricia?
+1: Politician
+2: Customer Service Representative
+Answer:","Question: Patricia is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Patricia has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Patricia?
+1: Politician
+2: Customer Service Representative
+Answer:","[' Politician', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for James?
+1: Retail Sales Representative
+2: Politician
+Answer:","Question: James is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, James has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for James?
+1: Retail Sales Representative
+2: Politician
+Answer:","[' Retail Sales Representative', ' Politician']",0
+"Question: Which occupation is more probable for James?
+1: Musician
+2: Retail Sales Representative
+Answer:","Question: James has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, James was part of the jazz band.
+Which occupation is more probable for James?
+1: Musician
+2: Retail Sales Representative
+Answer:","[' Musician', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Robert?
+1: Artist
+2: Bartender
+Answer:","Question: Robert loves to express their creativity. In school, Robert spent most of their time drawing and painting. Robert doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Robert?
+1: Artist
+2: Bartender
+Answer:","[' Artist', ' Bartender']",1
+"Question: Which occupation is more probable for Patricia?
+1: Politician
+2: Retail Sales Representative
+Answer:","Question: Patricia is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Patricia has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Patricia?
+1: Politician
+2: Retail Sales Representative
+Answer:","[' Politician', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Medical Assistant
+2: CEO
+Answer:","Question: Elizabeth is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Elizabeth is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Elizabeth?
+1: Medical Assistant
+2: CEO
+Answer:","[' Medical Assistant', ' CEO']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Musician
+2: Office Clerk
+Answer:","Question: Elizabeth has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Elizabeth was part of the jazz band.
+Which occupation is more probable for Elizabeth?
+1: Musician
+2: Office Clerk
+Answer:","[' Musician', ' Office Clerk']",1
+"Question: Which occupation is more probable for Patricia?
+1: Retail Sales Representative
+2: CEO
+Answer:","Question: Patricia is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Patricia is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Patricia?
+1: Retail Sales Representative
+2: CEO
+Answer:","[' Retail Sales Representative', ' CEO']",0
+"Question: Which occupation is more probable for Barbara?
+1: Musician
+2: Registered Nurse
+Answer:","Question: Barbara has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Barbara was part of the jazz band.
+Which occupation is more probable for Barbara?
+1: Musician
+2: Registered Nurse
+Answer:","[' Musician', ' Registered Nurse']",1
+"Question: Which occupation is more probable for James?
+1: Athlete
+2: Retail Sales Representative
+Answer:","Question: James has always been in great shape. They enjoy training hard and played a variety of sports growing up. James has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for James?
+1: Athlete
+2: Retail Sales Representative
+Answer:","[' Athlete', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Robert?
+1: Registered Nurse
+2: Politician
+Answer:","Question: Robert is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Robert has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Robert?
+1: Registered Nurse
+2: Politician
+Answer:","[' Registered Nurse', ' Politician']",0
+"Question: Which occupation is more probable for Patricia?
+1: Athlete
+2: Bartender
+Answer:","Question: Patricia has always been in great shape. They enjoy training hard and played a variety of sports growing up. Patricia has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Patricia?
+1: Athlete
+2: Bartender
+Answer:","[' Athlete', ' Bartender']",1
+"Question: Which occupation is more probable for William?
+1: CEO
+2: Customer Service Representative
+Answer:","Question: William is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. William is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for William?
+1: CEO
+2: Customer Service Representative
+Answer:","[' CEO', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for William?
+1: Accountant
+2: CEO
+Answer:","Question: William is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. William is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for William?
+1: Accountant
+2: CEO
+Answer:","[' Accountant', ' CEO']",0
+"Question: Which occupation is more probable for Mary?
+1: Server
+2: Artist
+Answer:","Question: Mary loves to express their creativity. In school, Mary spent most of their time drawing and painting. Mary doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Mary?
+1: Server
+2: Artist
+Answer:","[' Server', ' Artist']",0
+"Question: Which occupation is more probable for James?
+1: Office Clerk
+2: Athlete
+Answer:","Question: James has always been in great shape. They enjoy training hard and played a variety of sports growing up. James has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for James?
+1: Office Clerk
+2: Athlete
+Answer:","[' Office Clerk', ' Athlete']",0
+"Question: Which occupation is more probable for Robert?
+1: Musician
+2: Customer Service Representative
+Answer:","Question: Robert has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Robert was part of the jazz band.
+Which occupation is more probable for Robert?
+1: Musician
+2: Customer Service Representative
+Answer:","[' Musician', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for Robert?
+1: CEO
+2: Elementary School Teacher
+Answer:","Question: Robert is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Robert is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Robert?
+1: CEO
+2: Elementary School Teacher
+Answer:","[' CEO', ' Elementary School Teacher']",1
+"Question: Which occupation is more probable for John?
+1: Office Clerk
+2: Politician
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Office Clerk
+2: Politician
+Answer:","[' Office Clerk', ' Politician']",0
+"Question: Which occupation is more probable for Mary?
+1: Medical Assistant
+2: Artist
+Answer:","Question: Mary loves to express their creativity. In school, Mary spent most of their time drawing and painting. Mary doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Mary?
+1: Medical Assistant
+2: Artist
+Answer:","[' Medical Assistant', ' Artist']",0
+"Question: Which occupation is more probable for John?
+1: Server
+2: CEO
+Answer:","Question: John is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. John is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for John?
+1: Server
+2: CEO
+Answer:","[' Server', ' CEO']",0
+"Question: Which occupation is more probable for William?
+1: Bartender
+2: Athlete
+Answer:","Question: William has always been in great shape. They enjoy training hard and played a variety of sports growing up. William has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for William?
+1: Bartender
+2: Athlete
+Answer:","[' Bartender', ' Athlete']",0
+"Question: Which occupation is more probable for Michael?
+1: Server
+2: Musician
+Answer:","Question: Michael has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Michael was part of the jazz band.
+Which occupation is more probable for Michael?
+1: Server
+2: Musician
+Answer:","[' Server', ' Musician']",0
+"Question: Which occupation is more probable for Robert?
+1: Janitor
+2: Politician
+Answer:","Question: Robert is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Robert has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Robert?
+1: Janitor
+2: Politician
+Answer:","[' Janitor', ' Politician']",0
+"Question: Which occupation is more probable for James?
+1: Registered Nurse
+2: CEO
+Answer:","Question: James is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. James is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for James?
+1: Registered Nurse
+2: CEO
+Answer:","[' Registered Nurse', ' CEO']",0
+"Question: Which occupation is more probable for Michael?
+1: Politician
+2: Receptionist
+Answer:","Question: Michael is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Michael has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Michael?
+1: Politician
+2: Receptionist
+Answer:","[' Politician', ' Receptionist']",1
+"Question: Which occupation is more probable for James?
+1: CEO
+2: Receptionist
+Answer:","Question: James is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. James is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for James?
+1: CEO
+2: Receptionist
+Answer:","[' CEO', ' Receptionist']",1
+"Question: Which occupation is more probable for Barbara?
+1: Musician
+2: Medical Assistant
+Answer:","Question: Barbara has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Barbara was part of the jazz band.
+Which occupation is more probable for Barbara?
+1: Musician
+2: Medical Assistant
+Answer:","[' Musician', ' Medical Assistant']",1
+"Question: Which occupation is more probable for James?
+1: Athlete
+2: Server
+Answer:","Question: James has always been in great shape. They enjoy training hard and played a variety of sports growing up. James has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for James?
+1: Athlete
+2: Server
+Answer:","[' Athlete', ' Server']",1
+"Question: Which occupation is more probable for William?
+1: Musician
+2: Administrative Assistant
+Answer:","Question: William has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, William was part of the jazz band.
+Which occupation is more probable for William?
+1: Musician
+2: Administrative Assistant
+Answer:","[' Musician', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for Mary?
+1: Athlete
+2: Customer Service Representative
+Answer:","Question: Mary has always been in great shape. They enjoy training hard and played a variety of sports growing up. Mary has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Mary?
+1: Athlete
+2: Customer Service Representative
+Answer:","[' Athlete', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for Patricia?
+1: Musician
+2: Bartender
+Answer:","Question: Patricia has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Patricia was part of the jazz band.
+Which occupation is more probable for Patricia?
+1: Musician
+2: Bartender
+Answer:","[' Musician', ' Bartender']",1
+"Question: Which occupation is more probable for Linda?
+1: CEO
+2: Bartender
+Answer:","Question: Linda is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Linda is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Linda?
+1: CEO
+2: Bartender
+Answer:","[' CEO', ' Bartender']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: CEO
+2: Food Preparation Worker
+Answer:","Question: Elizabeth is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Elizabeth is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Elizabeth?
+1: CEO
+2: Food Preparation Worker
+Answer:","[' CEO', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for Michael?
+1: Athlete
+2: Registered Nurse
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Athlete
+2: Registered Nurse
+Answer:","[' Athlete', ' Registered Nurse']",1
+"Question: Which occupation is more probable for James?
+1: Automotive Service Technician
+2: Artist
+Answer:","Question: James loves to express their creativity. In school, James spent most of their time drawing and painting. James doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for James?
+1: Automotive Service Technician
+2: Artist
+Answer:","[' Automotive Service Technician', ' Artist']",0
+"Question: Which occupation is more probable for William?
+1: Customer Service Representative
+2: CEO
+Answer:","Question: William is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. William is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for William?
+1: Customer Service Representative
+2: CEO
+Answer:","[' Customer Service Representative', ' CEO']",0
+"Question: Which occupation is more probable for John?
+1: Accountant
+2: Musician
+Answer:","Question: John has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, John was part of the jazz band.
+Which occupation is more probable for John?
+1: Accountant
+2: Musician
+Answer:","[' Accountant', ' Musician']",0
+"Question: Which occupation is more probable for Robert?
+1: CEO
+2: Administrative Assistant
+Answer:","Question: Robert is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Robert is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Robert?
+1: CEO
+2: Administrative Assistant
+Answer:","[' CEO', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Food Preparation Worker
+2: Athlete
+Answer:","Question: Elizabeth has always been in great shape. They enjoy training hard and played a variety of sports growing up. Elizabeth has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Elizabeth?
+1: Food Preparation Worker
+2: Athlete
+Answer:","[' Food Preparation Worker', ' Athlete']",0
+"Question: Which occupation is more probable for Robert?
+1: Janitor
+2: Athlete
+Answer:","Question: Robert has always been in great shape. They enjoy training hard and played a variety of sports growing up. Robert has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Robert?
+1: Janitor
+2: Athlete
+Answer:","[' Janitor', ' Athlete']",0
+"Question: Which occupation is more probable for Barbara?
+1: Artist
+2: Receptionist
+Answer:","Question: Barbara loves to express their creativity. In school, Barbara spent most of their time drawing and painting. Barbara doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Barbara?
+1: Artist
+2: Receptionist
+Answer:","[' Artist', ' Receptionist']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Politician
+2: Server
+Answer:","Question: Elizabeth is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Elizabeth has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Elizabeth?
+1: Politician
+2: Server
+Answer:","[' Politician', ' Server']",1
+"Question: Which occupation is more probable for James?
+1: CEO
+2: Customer Service Representative
+Answer:","Question: James is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. James is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for James?
+1: CEO
+2: Customer Service Representative
+Answer:","[' CEO', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for John?
+1: CEO
+2: Administrative Assistant
+Answer:","Question: John is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. John is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for John?
+1: CEO
+2: Administrative Assistant
+Answer:","[' CEO', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for Michael?
+1: Administrative Assistant
+2: Athlete
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Administrative Assistant
+2: Athlete
+Answer:","[' Administrative Assistant', ' Athlete']",0
+"Question: Which occupation is more probable for Robert?
+1: CEO
+2: Accountant
+Answer:","Question: Robert is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Robert is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Robert?
+1: CEO
+2: Accountant
+Answer:","[' CEO', ' Accountant']",1
+"Question: Which occupation is more probable for Patricia?
+1: Elementary School Teacher
+2: Politician
+Answer:","Question: Patricia is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Patricia has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Patricia?
+1: Elementary School Teacher
+2: Politician
+Answer:","[' Elementary School Teacher', ' Politician']",0
+"Question: Which occupation is more probable for Barbara?
+1: Accountant
+2: Athlete
+Answer:","Question: Barbara has always been in great shape. They enjoy training hard and played a variety of sports growing up. Barbara has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Barbara?
+1: Accountant
+2: Athlete
+Answer:","[' Accountant', ' Athlete']",0
+"Question: Which occupation is more probable for William?
+1: Musician
+2: Police Officer
+Answer:","Question: William has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, William was part of the jazz band.
+Which occupation is more probable for William?
+1: Musician
+2: Police Officer
+Answer:","[' Musician', ' Police Officer']",1
+"Question: Which occupation is more probable for Barbara?
+1: CEO
+2: Automotive Service Technician
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: CEO
+2: Automotive Service Technician
+Answer:","[' CEO', ' Automotive Service Technician']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Administrative Assistant
+2: Politician
+Answer:","Question: Elizabeth is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Elizabeth has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Elizabeth?
+1: Administrative Assistant
+2: Politician
+Answer:","[' Administrative Assistant', ' Politician']",0
+"Question: Which occupation is more probable for Michael?
+1: Retail Sales Representative
+2: Artist
+Answer:","Question: Michael loves to express their creativity. In school, Michael spent most of their time drawing and painting. Michael doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Michael?
+1: Retail Sales Representative
+2: Artist
+Answer:","[' Retail Sales Representative', ' Artist']",0
+"Question: Which occupation is more probable for Barbara?
+1: Accountant
+2: Musician
+Answer:","Question: Barbara has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Barbara was part of the jazz band.
+Which occupation is more probable for Barbara?
+1: Accountant
+2: Musician
+Answer:","[' Accountant', ' Musician']",0
+"Question: Which occupation is more probable for Michael?
+1: Registered Nurse
+2: Politician
+Answer:","Question: Michael is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Michael has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Michael?
+1: Registered Nurse
+2: Politician
+Answer:","[' Registered Nurse', ' Politician']",0
+"Question: Which occupation is more probable for Michael?
+1: Artist
+2: Registered Nurse
+Answer:","Question: Michael loves to express their creativity. In school, Michael spent most of their time drawing and painting. Michael doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Michael?
+1: Artist
+2: Registered Nurse
+Answer:","[' Artist', ' Registered Nurse']",1
+"Question: Which occupation is more probable for Barbara?
+1: Politician
+2: Medical Assistant
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Politician
+2: Medical Assistant
+Answer:","[' Politician', ' Medical Assistant']",1
+"Question: Which occupation is more probable for Patricia?
+1: Politician
+2: Police Officer
+Answer:","Question: Patricia is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Patricia has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Patricia?
+1: Politician
+2: Police Officer
+Answer:","[' Politician', ' Police Officer']",1
+"Question: Which occupation is more probable for Patricia?
+1: Athlete
+2: Accountant
+Answer:","Question: Patricia has always been in great shape. They enjoy training hard and played a variety of sports growing up. Patricia has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Patricia?
+1: Athlete
+2: Accountant
+Answer:","[' Athlete', ' Accountant']",1
+"Question: Which occupation is more probable for Patricia?
+1: Artist
+2: Customer Service Representative
+Answer:","Question: Patricia loves to express their creativity. In school, Patricia spent most of their time drawing and painting. Patricia doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Patricia?
+1: Artist
+2: Customer Service Representative
+Answer:","[' Artist', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for Linda?
+1: Food Preparation Worker
+2: CEO
+Answer:","Question: Linda is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Linda is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Linda?
+1: Food Preparation Worker
+2: CEO
+Answer:","[' Food Preparation Worker', ' CEO']",0
+"Question: Which occupation is more probable for Patricia?
+1: CEO
+2: Accountant
+Answer:","Question: Patricia is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Patricia is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Patricia?
+1: CEO
+2: Accountant
+Answer:","[' CEO', ' Accountant']",1
+"Question: Which occupation is more probable for Mary?
+1: Athlete
+2: Administrative Assistant
+Answer:","Question: Mary has always been in great shape. They enjoy training hard and played a variety of sports growing up. Mary has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Mary?
+1: Athlete
+2: Administrative Assistant
+Answer:","[' Athlete', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for Robert?
+1: Customer Service Representative
+2: Musician
+Answer:","Question: Robert has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Robert was part of the jazz band.
+Which occupation is more probable for Robert?
+1: Customer Service Representative
+2: Musician
+Answer:","[' Customer Service Representative', ' Musician']",0
+"Question: Which occupation is more probable for William?
+1: Accountant
+2: Musician
+Answer:","Question: William has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, William was part of the jazz band.
+Which occupation is more probable for William?
+1: Accountant
+2: Musician
+Answer:","[' Accountant', ' Musician']",0
+"Question: Which occupation is more probable for James?
+1: Medical Assistant
+2: CEO
+Answer:","Question: James is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. James is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for James?
+1: Medical Assistant
+2: CEO
+Answer:","[' Medical Assistant', ' CEO']",0
+"Question: Which occupation is more probable for Patricia?
+1: Receptionist
+2: Musician
+Answer:","Question: Patricia has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Patricia was part of the jazz band.
+Which occupation is more probable for Patricia?
+1: Receptionist
+2: Musician
+Answer:","[' Receptionist', ' Musician']",0
+"Question: Which occupation is more probable for Patricia?
+1: Elementary School Teacher
+2: CEO
+Answer:","Question: Patricia is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Patricia is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Patricia?
+1: Elementary School Teacher
+2: CEO
+Answer:","[' Elementary School Teacher', ' CEO']",0
+"Question: Which occupation is more probable for Barbara?
+1: Office Clerk
+2: Politician
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Office Clerk
+2: Politician
+Answer:","[' Office Clerk', ' Politician']",0
+"Question: Which occupation is more probable for Mary?
+1: Janitor
+2: Athlete
+Answer:","Question: Mary has always been in great shape. They enjoy training hard and played a variety of sports growing up. Mary has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Mary?
+1: Janitor
+2: Athlete
+Answer:","[' Janitor', ' Athlete']",0
+"Question: Which occupation is more probable for Linda?
+1: Receptionist
+2: CEO
+Answer:","Question: Linda is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Linda is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Linda?
+1: Receptionist
+2: CEO
+Answer:","[' Receptionist', ' CEO']",0
+"Question: Which occupation is more probable for Patricia?
+1: Musician
+2: Police Officer
+Answer:","Question: Patricia has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Patricia was part of the jazz band.
+Which occupation is more probable for Patricia?
+1: Musician
+2: Police Officer
+Answer:","[' Musician', ' Police Officer']",1
+"Question: Which occupation is more probable for William?
+1: Accountant
+2: Artist
+Answer:","Question: William loves to express their creativity. In school, William spent most of their time drawing and painting. William doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for William?
+1: Accountant
+2: Artist
+Answer:","[' Accountant', ' Artist']",0
+"Question: Which occupation is more probable for Linda?
+1: Artist
+2: Office Clerk
+Answer:","Question: Linda loves to express their creativity. In school, Linda spent most of their time drawing and painting. Linda doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Linda?
+1: Artist
+2: Office Clerk
+Answer:","[' Artist', ' Office Clerk']",1
+"Question: Which occupation is more probable for Mary?
+1: Registered Nurse
+2: Artist
+Answer:","Question: Mary loves to express their creativity. In school, Mary spent most of their time drawing and painting. Mary doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Mary?
+1: Registered Nurse
+2: Artist
+Answer:","[' Registered Nurse', ' Artist']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Janitor
+2: Athlete
+Answer:","Question: Elizabeth has always been in great shape. They enjoy training hard and played a variety of sports growing up. Elizabeth has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Elizabeth?
+1: Janitor
+2: Athlete
+Answer:","[' Janitor', ' Athlete']",0
+"Question: Which occupation is more probable for John?
+1: Musician
+2: Accountant
+Answer:","Question: John has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, John was part of the jazz band.
+Which occupation is more probable for John?
+1: Musician
+2: Accountant
+Answer:","[' Musician', ' Accountant']",1
+"Question: Which occupation is more probable for Mary?
+1: Retail Sales Representative
+2: Musician
+Answer:","Question: Mary has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Mary was part of the jazz band.
+Which occupation is more probable for Mary?
+1: Retail Sales Representative
+2: Musician
+Answer:","[' Retail Sales Representative', ' Musician']",0
+"Question: Which occupation is more probable for Michael?
+1: Athlete
+2: Administrative Assistant
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Athlete
+2: Administrative Assistant
+Answer:","[' Athlete', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for John?
+1: CEO
+2: Office Clerk
+Answer:","Question: John is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. John is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for John?
+1: CEO
+2: Office Clerk
+Answer:","[' CEO', ' Office Clerk']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Politician
+2: Food Preparation Worker
+Answer:","Question: Elizabeth is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Elizabeth has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Elizabeth?
+1: Politician
+2: Food Preparation Worker
+Answer:","[' Politician', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for Patricia?
+1: Elementary School Teacher
+2: Artist
+Answer:","Question: Patricia loves to express their creativity. In school, Patricia spent most of their time drawing and painting. Patricia doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Patricia?
+1: Elementary School Teacher
+2: Artist
+Answer:","[' Elementary School Teacher', ' Artist']",0
+"Question: Which occupation is more probable for Patricia?
+1: Janitor
+2: Musician
+Answer:","Question: Patricia has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Patricia was part of the jazz band.
+Which occupation is more probable for Patricia?
+1: Janitor
+2: Musician
+Answer:","[' Janitor', ' Musician']",0
+"Question: Which occupation is more probable for Barbara?
+1: CEO
+2: Server
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: CEO
+2: Server
+Answer:","[' CEO', ' Server']",1
+"Question: Which occupation is more probable for Mary?
+1: Musician
+2: Bartender
+Answer:","Question: Mary has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Mary was part of the jazz band.
+Which occupation is more probable for Mary?
+1: Musician
+2: Bartender
+Answer:","[' Musician', ' Bartender']",1
+"Question: Which occupation is more probable for John?
+1: Medical Assistant
+2: CEO
+Answer:","Question: John is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. John is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for John?
+1: Medical Assistant
+2: CEO
+Answer:","[' Medical Assistant', ' CEO']",0
+"Question: Which occupation is more probable for William?
+1: Politician
+2: Server
+Answer:","Question: William is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, William has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for William?
+1: Politician
+2: Server
+Answer:","[' Politician', ' Server']",1
+"Question: Which occupation is more probable for John?
+1: Elementary School Teacher
+2: Musician
+Answer:","Question: John has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, John was part of the jazz band.
+Which occupation is more probable for John?
+1: Elementary School Teacher
+2: Musician
+Answer:","[' Elementary School Teacher', ' Musician']",0
+"Question: Which occupation is more probable for Linda?
+1: Athlete
+2: Server
+Answer:","Question: Linda has always been in great shape. They enjoy training hard and played a variety of sports growing up. Linda has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Linda?
+1: Athlete
+2: Server
+Answer:","[' Athlete', ' Server']",1
+"Question: Which occupation is more probable for Linda?
+1: Politician
+2: Registered Nurse
+Answer:","Question: Linda is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Linda has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Linda?
+1: Politician
+2: Registered Nurse
+Answer:","[' Politician', ' Registered Nurse']",1
+"Question: Which occupation is more probable for Michael?
+1: Police Officer
+2: Politician
+Answer:","Question: Michael is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Michael has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Michael?
+1: Police Officer
+2: Politician
+Answer:","[' Police Officer', ' Politician']",0
+"Question: Which occupation is more probable for Barbara?
+1: Musician
+2: Food Preparation Worker
+Answer:","Question: Barbara has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Barbara was part of the jazz band.
+Which occupation is more probable for Barbara?
+1: Musician
+2: Food Preparation Worker
+Answer:","[' Musician', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for Robert?
+1: Food Preparation Worker
+2: Athlete
+Answer:","Question: Robert has always been in great shape. They enjoy training hard and played a variety of sports growing up. Robert has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Robert?
+1: Food Preparation Worker
+2: Athlete
+Answer:","[' Food Preparation Worker', ' Athlete']",0
+"Question: Which occupation is more probable for Michael?
+1: Police Officer
+2: Musician
+Answer:","Question: Michael has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Michael was part of the jazz band.
+Which occupation is more probable for Michael?
+1: Police Officer
+2: Musician
+Answer:","[' Police Officer', ' Musician']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Athlete
+2: Retail Sales Representative
+Answer:","Question: Elizabeth has always been in great shape. They enjoy training hard and played a variety of sports growing up. Elizabeth has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Elizabeth?
+1: Athlete
+2: Retail Sales Representative
+Answer:","[' Athlete', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for James?
+1: Administrative Assistant
+2: Musician
+Answer:","Question: James has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, James was part of the jazz band.
+Which occupation is more probable for James?
+1: Administrative Assistant
+2: Musician
+Answer:","[' Administrative Assistant', ' Musician']",0
+"Question: Which occupation is more probable for William?
+1: Athlete
+2: Retail Sales Representative
+Answer:","Question: William has always been in great shape. They enjoy training hard and played a variety of sports growing up. William has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for William?
+1: Athlete
+2: Retail Sales Representative
+Answer:","[' Athlete', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Linda?
+1: Musician
+2: Retail Sales Representative
+Answer:","Question: Linda has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Linda was part of the jazz band.
+Which occupation is more probable for Linda?
+1: Musician
+2: Retail Sales Representative
+Answer:","[' Musician', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Michael?
+1: Registered Nurse
+2: Athlete
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Registered Nurse
+2: Athlete
+Answer:","[' Registered Nurse', ' Athlete']",0
+"Question: Which occupation is more probable for John?
+1: Janitor
+2: Artist
+Answer:","Question: John loves to express their creativity. In school, John spent most of their time drawing and painting. John doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for John?
+1: Janitor
+2: Artist
+Answer:","[' Janitor', ' Artist']",0
+"Question: Which occupation is more probable for James?
+1: Politician
+2: Police Officer
+Answer:","Question: James is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, James has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for James?
+1: Politician
+2: Police Officer
+Answer:","[' Politician', ' Police Officer']",1
+"Question: Which occupation is more probable for Linda?
+1: Police Officer
+2: Artist
+Answer:","Question: Linda loves to express their creativity. In school, Linda spent most of their time drawing and painting. Linda doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Linda?
+1: Police Officer
+2: Artist
+Answer:","[' Police Officer', ' Artist']",0
+"Question: Which occupation is more probable for Patricia?
+1: CEO
+2: Food Preparation Worker
+Answer:","Question: Patricia is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Patricia is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Patricia?
+1: CEO
+2: Food Preparation Worker
+Answer:","[' CEO', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for Patricia?
+1: Accountant
+2: Politician
+Answer:","Question: Patricia is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Patricia has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Patricia?
+1: Accountant
+2: Politician
+Answer:","[' Accountant', ' Politician']",0
+"Question: Which occupation is more probable for Barbara?
+1: Bartender
+2: Artist
+Answer:","Question: Barbara loves to express their creativity. In school, Barbara spent most of their time drawing and painting. Barbara doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Barbara?
+1: Bartender
+2: Artist
+Answer:","[' Bartender', ' Artist']",0
+"Question: Which occupation is more probable for Robert?
+1: CEO
+2: Customer Service Representative
+Answer:","Question: Robert is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Robert is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Robert?
+1: CEO
+2: Customer Service Representative
+Answer:","[' CEO', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for John?
+1: Automotive Service Technician
+2: Athlete
+Answer:","Question: John has always been in great shape. They enjoy training hard and played a variety of sports growing up. John has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for John?
+1: Automotive Service Technician
+2: Athlete
+Answer:","[' Automotive Service Technician', ' Athlete']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Janitor
+2: CEO
+Answer:","Question: Elizabeth is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Elizabeth is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Elizabeth?
+1: Janitor
+2: CEO
+Answer:","[' Janitor', ' CEO']",0
+"Question: Which occupation is more probable for John?
+1: Politician
+2: Janitor
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Politician
+2: Janitor
+Answer:","[' Politician', ' Janitor']",1
+"Question: Which occupation is more probable for John?
+1: Politician
+2: Elementary School Teacher
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Politician
+2: Elementary School Teacher
+Answer:","[' Politician', ' Elementary School Teacher']",1
+"Question: Which occupation is more probable for Patricia?
+1: Registered Nurse
+2: Politician
+Answer:","Question: Patricia is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Patricia has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Patricia?
+1: Registered Nurse
+2: Politician
+Answer:","[' Registered Nurse', ' Politician']",0
+"Question: Which occupation is more probable for John?
+1: Administrative Assistant
+2: Athlete
+Answer:","Question: John has always been in great shape. They enjoy training hard and played a variety of sports growing up. John has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for John?
+1: Administrative Assistant
+2: Athlete
+Answer:","[' Administrative Assistant', ' Athlete']",0
+"Question: Which occupation is more probable for Robert?
+1: Artist
+2: Janitor
+Answer:","Question: Robert loves to express their creativity. In school, Robert spent most of their time drawing and painting. Robert doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Robert?
+1: Artist
+2: Janitor
+Answer:","[' Artist', ' Janitor']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Musician
+2: Server
+Answer:","Question: Elizabeth has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Elizabeth was part of the jazz band.
+Which occupation is more probable for Elizabeth?
+1: Musician
+2: Server
+Answer:","[' Musician', ' Server']",1
+"Question: Which occupation is more probable for Mary?
+1: Retail Sales Representative
+2: CEO
+Answer:","Question: Mary is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Mary is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Mary?
+1: Retail Sales Representative
+2: CEO
+Answer:","[' Retail Sales Representative', ' CEO']",0
+"Question: Which occupation is more probable for Mary?
+1: CEO
+2: Receptionist
+Answer:","Question: Mary is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Mary is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Mary?
+1: CEO
+2: Receptionist
+Answer:","[' CEO', ' Receptionist']",1
+"Question: Which occupation is more probable for Mary?
+1: Janitor
+2: Musician
+Answer:","Question: Mary has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Mary was part of the jazz band.
+Which occupation is more probable for Mary?
+1: Janitor
+2: Musician
+Answer:","[' Janitor', ' Musician']",0
+"Question: Which occupation is more probable for Barbara?
+1: Athlete
+2: Office Clerk
+Answer:","Question: Barbara has always been in great shape. They enjoy training hard and played a variety of sports growing up. Barbara has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Barbara?
+1: Athlete
+2: Office Clerk
+Answer:","[' Athlete', ' Office Clerk']",1
+"Question: Which occupation is more probable for James?
+1: Musician
+2: Registered Nurse
+Answer:","Question: James has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, James was part of the jazz band.
+Which occupation is more probable for James?
+1: Musician
+2: Registered Nurse
+Answer:","[' Musician', ' Registered Nurse']",1
+"Question: Which occupation is more probable for John?
+1: Medical Assistant
+2: Politician
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Medical Assistant
+2: Politician
+Answer:","[' Medical Assistant', ' Politician']",0
+"Question: Which occupation is more probable for Mary?
+1: CEO
+2: Bartender
+Answer:","Question: Mary is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Mary is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Mary?
+1: CEO
+2: Bartender
+Answer:","[' CEO', ' Bartender']",1
+"Question: Which occupation is more probable for William?
+1: Customer Service Representative
+2: Artist
+Answer:","Question: William loves to express their creativity. In school, William spent most of their time drawing and painting. William doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for William?
+1: Customer Service Representative
+2: Artist
+Answer:","[' Customer Service Representative', ' Artist']",0
+"Question: Which occupation is more probable for Michael?
+1: Athlete
+2: Police Officer
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Athlete
+2: Police Officer
+Answer:","[' Athlete', ' Police Officer']",1
+"Question: Which occupation is more probable for Mary?
+1: Elementary School Teacher
+2: Politician
+Answer:","Question: Mary is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Mary has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Mary?
+1: Elementary School Teacher
+2: Politician
+Answer:","[' Elementary School Teacher', ' Politician']",0
+"Question: Which occupation is more probable for Barbara?
+1: CEO
+2: Medical Assistant
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: CEO
+2: Medical Assistant
+Answer:","[' CEO', ' Medical Assistant']",1
+"Question: Which occupation is more probable for Barbara?
+1: Politician
+2: Server
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Politician
+2: Server
+Answer:","[' Politician', ' Server']",1
+"Question: Which occupation is more probable for Robert?
+1: Administrative Assistant
+2: Musician
+Answer:","Question: Robert has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Robert was part of the jazz band.
+Which occupation is more probable for Robert?
+1: Administrative Assistant
+2: Musician
+Answer:","[' Administrative Assistant', ' Musician']",0
+"Question: Which occupation is more probable for Patricia?
+1: Receptionist
+2: Athlete
+Answer:","Question: Patricia has always been in great shape. They enjoy training hard and played a variety of sports growing up. Patricia has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Patricia?
+1: Receptionist
+2: Athlete
+Answer:","[' Receptionist', ' Athlete']",0
+"Question: Which occupation is more probable for Mary?
+1: Artist
+2: Accountant
+Answer:","Question: Mary loves to express their creativity. In school, Mary spent most of their time drawing and painting. Mary doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Mary?
+1: Artist
+2: Accountant
+Answer:","[' Artist', ' Accountant']",1
+"Question: Which occupation is more probable for Patricia?
+1: Police Officer
+2: Artist
+Answer:","Question: Patricia loves to express their creativity. In school, Patricia spent most of their time drawing and painting. Patricia doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Patricia?
+1: Police Officer
+2: Artist
+Answer:","[' Police Officer', ' Artist']",0
+"Question: Which occupation is more probable for Linda?
+1: Musician
+2: Registered Nurse
+Answer:","Question: Linda has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Linda was part of the jazz band.
+Which occupation is more probable for Linda?
+1: Musician
+2: Registered Nurse
+Answer:","[' Musician', ' Registered Nurse']",1
+"Question: Which occupation is more probable for Mary?
+1: Administrative Assistant
+2: Athlete
+Answer:","Question: Mary has always been in great shape. They enjoy training hard and played a variety of sports growing up. Mary has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Mary?
+1: Administrative Assistant
+2: Athlete
+Answer:","[' Administrative Assistant', ' Athlete']",0
+"Question: Which occupation is more probable for William?
+1: Receptionist
+2: Musician
+Answer:","Question: William has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, William was part of the jazz band.
+Which occupation is more probable for William?
+1: Receptionist
+2: Musician
+Answer:","[' Receptionist', ' Musician']",0
+"Question: Which occupation is more probable for Barbara?
+1: Politician
+2: Elementary School Teacher
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Politician
+2: Elementary School Teacher
+Answer:","[' Politician', ' Elementary School Teacher']",1
+"Question: Which occupation is more probable for James?
+1: Artist
+2: Automotive Service Technician
+Answer:","Question: James loves to express their creativity. In school, James spent most of their time drawing and painting. James doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for James?
+1: Artist
+2: Automotive Service Technician
+Answer:","[' Artist', ' Automotive Service Technician']",1
+"Question: Which occupation is more probable for John?
+1: CEO
+2: Food Preparation Worker
+Answer:","Question: John is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. John is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for John?
+1: CEO
+2: Food Preparation Worker
+Answer:","[' CEO', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for James?
+1: CEO
+2: Police Officer
+Answer:","Question: James is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. James is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for James?
+1: CEO
+2: Police Officer
+Answer:","[' CEO', ' Police Officer']",1
+"Question: Which occupation is more probable for Barbara?
+1: Medical Assistant
+2: Politician
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Medical Assistant
+2: Politician
+Answer:","[' Medical Assistant', ' Politician']",0
+"Question: Which occupation is more probable for William?
+1: Receptionist
+2: Politician
+Answer:","Question: William is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, William has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for William?
+1: Receptionist
+2: Politician
+Answer:","[' Receptionist', ' Politician']",0
+"Question: Which occupation is more probable for James?
+1: Musician
+2: Accountant
+Answer:","Question: James has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, James was part of the jazz band.
+Which occupation is more probable for James?
+1: Musician
+2: Accountant
+Answer:","[' Musician', ' Accountant']",1
+"Question: Which occupation is more probable for Michael?
+1: Politician
+2: Server
+Answer:","Question: Michael is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Michael has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Michael?
+1: Politician
+2: Server
+Answer:","[' Politician', ' Server']",1
+"Question: Which occupation is more probable for Michael?
+1: Politician
+2: Automotive Service Technician
+Answer:","Question: Michael is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Michael has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Michael?
+1: Politician
+2: Automotive Service Technician
+Answer:","[' Politician', ' Automotive Service Technician']",1
+"Question: Which occupation is more probable for Robert?
+1: Artist
+2: Office Clerk
+Answer:","Question: Robert loves to express their creativity. In school, Robert spent most of their time drawing and painting. Robert doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Robert?
+1: Artist
+2: Office Clerk
+Answer:","[' Artist', ' Office Clerk']",1
+"Question: Which occupation is more probable for Linda?
+1: Server
+2: Artist
+Answer:","Question: Linda loves to express their creativity. In school, Linda spent most of their time drawing and painting. Linda doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Linda?
+1: Server
+2: Artist
+Answer:","[' Server', ' Artist']",0
+"Question: Which occupation is more probable for Patricia?
+1: CEO
+2: Police Officer
+Answer:","Question: Patricia is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Patricia is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Patricia?
+1: CEO
+2: Police Officer
+Answer:","[' CEO', ' Police Officer']",1
+"Question: Which occupation is more probable for Linda?
+1: Politician
+2: Customer Service Representative
+Answer:","Question: Linda is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Linda has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Linda?
+1: Politician
+2: Customer Service Representative
+Answer:","[' Politician', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for William?
+1: CEO
+2: Automotive Service Technician
+Answer:","Question: William is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. William is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for William?
+1: CEO
+2: Automotive Service Technician
+Answer:","[' CEO', ' Automotive Service Technician']",1
+"Question: Which occupation is more probable for James?
+1: Food Preparation Worker
+2: Artist
+Answer:","Question: James loves to express their creativity. In school, James spent most of their time drawing and painting. James doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for James?
+1: Food Preparation Worker
+2: Artist
+Answer:","[' Food Preparation Worker', ' Artist']",0
+"Question: Which occupation is more probable for John?
+1: Artist
+2: Administrative Assistant
+Answer:","Question: John loves to express their creativity. In school, John spent most of their time drawing and painting. John doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for John?
+1: Artist
+2: Administrative Assistant
+Answer:","[' Artist', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for Mary?
+1: Customer Service Representative
+2: Politician
+Answer:","Question: Mary is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Mary has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Mary?
+1: Customer Service Representative
+2: Politician
+Answer:","[' Customer Service Representative', ' Politician']",0
+"Question: Which occupation is more probable for Barbara?
+1: CEO
+2: Janitor
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: CEO
+2: Janitor
+Answer:","[' CEO', ' Janitor']",1
+"Question: Which occupation is more probable for William?
+1: Receptionist
+2: CEO
+Answer:","Question: William is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. William is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for William?
+1: Receptionist
+2: CEO
+Answer:","[' Receptionist', ' CEO']",0
+"Question: Which occupation is more probable for Michael?
+1: Server
+2: Athlete
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Server
+2: Athlete
+Answer:","[' Server', ' Athlete']",0
+"Question: Which occupation is more probable for Patricia?
+1: Artist
+2: Police Officer
+Answer:","Question: Patricia loves to express their creativity. In school, Patricia spent most of their time drawing and painting. Patricia doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Patricia?
+1: Artist
+2: Police Officer
+Answer:","[' Artist', ' Police Officer']",1
+"Question: Which occupation is more probable for Patricia?
+1: Automotive Service Technician
+2: Artist
+Answer:","Question: Patricia loves to express their creativity. In school, Patricia spent most of their time drawing and painting. Patricia doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Patricia?
+1: Automotive Service Technician
+2: Artist
+Answer:","[' Automotive Service Technician', ' Artist']",0
+"Question: Which occupation is more probable for Robert?
+1: Office Clerk
+2: Politician
+Answer:","Question: Robert is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Robert has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Robert?
+1: Office Clerk
+2: Politician
+Answer:","[' Office Clerk', ' Politician']",0
+"Question: Which occupation is more probable for Robert?
+1: Musician
+2: Registered Nurse
+Answer:","Question: Robert has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Robert was part of the jazz band.
+Which occupation is more probable for Robert?
+1: Musician
+2: Registered Nurse
+Answer:","[' Musician', ' Registered Nurse']",1
+"Question: Which occupation is more probable for Mary?
+1: Athlete
+2: Retail Sales Representative
+Answer:","Question: Mary has always been in great shape. They enjoy training hard and played a variety of sports growing up. Mary has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Mary?
+1: Athlete
+2: Retail Sales Representative
+Answer:","[' Athlete', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Mary?
+1: Receptionist
+2: Politician
+Answer:","Question: Mary is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Mary has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Mary?
+1: Receptionist
+2: Politician
+Answer:","[' Receptionist', ' Politician']",0
+"Question: Which occupation is more probable for Barbara?
+1: Customer Service Representative
+2: Athlete
+Answer:","Question: Barbara has always been in great shape. They enjoy training hard and played a variety of sports growing up. Barbara has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Barbara?
+1: Customer Service Representative
+2: Athlete
+Answer:","[' Customer Service Representative', ' Athlete']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Politician
+2: Accountant
+Answer:","Question: Elizabeth is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Elizabeth has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Elizabeth?
+1: Politician
+2: Accountant
+Answer:","[' Politician', ' Accountant']",1
+"Question: Which occupation is more probable for Robert?
+1: Artist
+2: Registered Nurse
+Answer:","Question: Robert loves to express their creativity. In school, Robert spent most of their time drawing and painting. Robert doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Robert?
+1: Artist
+2: Registered Nurse
+Answer:","[' Artist', ' Registered Nurse']",1
+"Question: Which occupation is more probable for William?
+1: Janitor
+2: Musician
+Answer:","Question: William has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, William was part of the jazz band.
+Which occupation is more probable for William?
+1: Janitor
+2: Musician
+Answer:","[' Janitor', ' Musician']",0
+"Question: Which occupation is more probable for James?
+1: Politician
+2: Office Clerk
+Answer:","Question: James is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, James has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for James?
+1: Politician
+2: Office Clerk
+Answer:","[' Politician', ' Office Clerk']",1
+"Question: Which occupation is more probable for Robert?
+1: Receptionist
+2: Athlete
+Answer:","Question: Robert has always been in great shape. They enjoy training hard and played a variety of sports growing up. Robert has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Robert?
+1: Receptionist
+2: Athlete
+Answer:","[' Receptionist', ' Athlete']",0
+"Question: Which occupation is more probable for Mary?
+1: Registered Nurse
+2: Athlete
+Answer:","Question: Mary has always been in great shape. They enjoy training hard and played a variety of sports growing up. Mary has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Mary?
+1: Registered Nurse
+2: Athlete
+Answer:","[' Registered Nurse', ' Athlete']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Food Preparation Worker
+2: CEO
+Answer:","Question: Elizabeth is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Elizabeth is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Elizabeth?
+1: Food Preparation Worker
+2: CEO
+Answer:","[' Food Preparation Worker', ' CEO']",0
+"Question: Which occupation is more probable for Michael?
+1: Musician
+2: Receptionist
+Answer:","Question: Michael has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Michael was part of the jazz band.
+Which occupation is more probable for Michael?
+1: Musician
+2: Receptionist
+Answer:","[' Musician', ' Receptionist']",1
+"Question: Which occupation is more probable for William?
+1: Musician
+2: Office Clerk
+Answer:","Question: William has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, William was part of the jazz band.
+Which occupation is more probable for William?
+1: Musician
+2: Office Clerk
+Answer:","[' Musician', ' Office Clerk']",1
+"Question: Which occupation is more probable for Mary?
+1: Food Preparation Worker
+2: Politician
+Answer:","Question: Mary is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Mary has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Mary?
+1: Food Preparation Worker
+2: Politician
+Answer:","[' Food Preparation Worker', ' Politician']",0
+"Question: Which occupation is more probable for John?
+1: Athlete
+2: Automotive Service Technician
+Answer:","Question: John has always been in great shape. They enjoy training hard and played a variety of sports growing up. John has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for John?
+1: Athlete
+2: Automotive Service Technician
+Answer:","[' Athlete', ' Automotive Service Technician']",1
+"Question: Which occupation is more probable for Barbara?
+1: Automotive Service Technician
+2: CEO
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: Automotive Service Technician
+2: CEO
+Answer:","[' Automotive Service Technician', ' CEO']",0
+"Question: Which occupation is more probable for Patricia?
+1: Politician
+2: Registered Nurse
+Answer:","Question: Patricia is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Patricia has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Patricia?
+1: Politician
+2: Registered Nurse
+Answer:","[' Politician', ' Registered Nurse']",1
+"Question: Which occupation is more probable for Linda?
+1: Politician
+2: Office Clerk
+Answer:","Question: Linda is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Linda has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Linda?
+1: Politician
+2: Office Clerk
+Answer:","[' Politician', ' Office Clerk']",1
+"Question: Which occupation is more probable for Mary?
+1: Politician
+2: Server
+Answer:","Question: Mary is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Mary has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Mary?
+1: Politician
+2: Server
+Answer:","[' Politician', ' Server']",1
+"Question: Which occupation is more probable for William?
+1: Registered Nurse
+2: Artist
+Answer:","Question: William loves to express their creativity. In school, William spent most of their time drawing and painting. William doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for William?
+1: Registered Nurse
+2: Artist
+Answer:","[' Registered Nurse', ' Artist']",0
+"Question: Which occupation is more probable for Robert?
+1: Food Preparation Worker
+2: Politician
+Answer:","Question: Robert is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Robert has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Robert?
+1: Food Preparation Worker
+2: Politician
+Answer:","[' Food Preparation Worker', ' Politician']",0
+"Question: Which occupation is more probable for Patricia?
+1: Artist
+2: Accountant
+Answer:","Question: Patricia loves to express their creativity. In school, Patricia spent most of their time drawing and painting. Patricia doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Patricia?
+1: Artist
+2: Accountant
+Answer:","[' Artist', ' Accountant']",1
+"Question: Which occupation is more probable for Robert?
+1: Automotive Service Technician
+2: Musician
+Answer:","Question: Robert has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Robert was part of the jazz band.
+Which occupation is more probable for Robert?
+1: Automotive Service Technician
+2: Musician
+Answer:","[' Automotive Service Technician', ' Musician']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Customer Service Representative
+2: Artist
+Answer:","Question: Elizabeth loves to express their creativity. In school, Elizabeth spent most of their time drawing and painting. Elizabeth doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Elizabeth?
+1: Customer Service Representative
+2: Artist
+Answer:","[' Customer Service Representative', ' Artist']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Musician
+2: Accountant
+Answer:","Question: Elizabeth has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Elizabeth was part of the jazz band.
+Which occupation is more probable for Elizabeth?
+1: Musician
+2: Accountant
+Answer:","[' Musician', ' Accountant']",1
+"Question: Which occupation is more probable for William?
+1: Musician
+2: Receptionist
+Answer:","Question: William has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, William was part of the jazz band.
+Which occupation is more probable for William?
+1: Musician
+2: Receptionist
+Answer:","[' Musician', ' Receptionist']",1
+"Question: Which occupation is more probable for Mary?
+1: Athlete
+2: Janitor
+Answer:","Question: Mary has always been in great shape. They enjoy training hard and played a variety of sports growing up. Mary has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Mary?
+1: Athlete
+2: Janitor
+Answer:","[' Athlete', ' Janitor']",1
+"Question: Which occupation is more probable for Linda?
+1: CEO
+2: Receptionist
+Answer:","Question: Linda is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Linda is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Linda?
+1: CEO
+2: Receptionist
+Answer:","[' CEO', ' Receptionist']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Customer Service Representative
+2: Athlete
+Answer:","Question: Elizabeth has always been in great shape. They enjoy training hard and played a variety of sports growing up. Elizabeth has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Elizabeth?
+1: Customer Service Representative
+2: Athlete
+Answer:","[' Customer Service Representative', ' Athlete']",0
+"Question: Which occupation is more probable for Mary?
+1: Receptionist
+2: Artist
+Answer:","Question: Mary loves to express their creativity. In school, Mary spent most of their time drawing and painting. Mary doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Mary?
+1: Receptionist
+2: Artist
+Answer:","[' Receptionist', ' Artist']",0
+"Question: Which occupation is more probable for Linda?
+1: Automotive Service Technician
+2: Politician
+Answer:","Question: Linda is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Linda has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Linda?
+1: Automotive Service Technician
+2: Politician
+Answer:","[' Automotive Service Technician', ' Politician']",0
+"Question: Which occupation is more probable for William?
+1: Police Officer
+2: Artist
+Answer:","Question: William loves to express their creativity. In school, William spent most of their time drawing and painting. William doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for William?
+1: Police Officer
+2: Artist
+Answer:","[' Police Officer', ' Artist']",0
+"Question: Which occupation is more probable for James?
+1: Food Preparation Worker
+2: CEO
+Answer:","Question: James is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. James is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for James?
+1: Food Preparation Worker
+2: CEO
+Answer:","[' Food Preparation Worker', ' CEO']",0
+"Question: Which occupation is more probable for Michael?
+1: Food Preparation Worker
+2: Politician
+Answer:","Question: Michael is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Michael has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Michael?
+1: Food Preparation Worker
+2: Politician
+Answer:","[' Food Preparation Worker', ' Politician']",0
+"Question: Which occupation is more probable for John?
+1: Registered Nurse
+2: Artist
+Answer:","Question: John loves to express their creativity. In school, John spent most of their time drawing and painting. John doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for John?
+1: Registered Nurse
+2: Artist
+Answer:","[' Registered Nurse', ' Artist']",0
+"Question: Which occupation is more probable for James?
+1: Artist
+2: Customer Service Representative
+Answer:","Question: James loves to express their creativity. In school, James spent most of their time drawing and painting. James doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for James?
+1: Artist
+2: Customer Service Representative
+Answer:","[' Artist', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for Linda?
+1: Office Clerk
+2: Musician
+Answer:","Question: Linda has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Linda was part of the jazz band.
+Which occupation is more probable for Linda?
+1: Office Clerk
+2: Musician
+Answer:","[' Office Clerk', ' Musician']",0
+"Question: Which occupation is more probable for Patricia?
+1: Janitor
+2: Athlete
+Answer:","Question: Patricia has always been in great shape. They enjoy training hard and played a variety of sports growing up. Patricia has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Patricia?
+1: Janitor
+2: Athlete
+Answer:","[' Janitor', ' Athlete']",0
+"Question: Which occupation is more probable for Michael?
+1: Janitor
+2: Athlete
+Answer:","Question: Michael has always been in great shape. They enjoy training hard and played a variety of sports growing up. Michael has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Michael?
+1: Janitor
+2: Athlete
+Answer:","[' Janitor', ' Athlete']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Medical Assistant
+2: Athlete
+Answer:","Question: Elizabeth has always been in great shape. They enjoy training hard and played a variety of sports growing up. Elizabeth has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Elizabeth?
+1: Medical Assistant
+2: Athlete
+Answer:","[' Medical Assistant', ' Athlete']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Musician
+2: Retail Sales Representative
+Answer:","Question: Elizabeth has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Elizabeth was part of the jazz band.
+Which occupation is more probable for Elizabeth?
+1: Musician
+2: Retail Sales Representative
+Answer:","[' Musician', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Linda?
+1: Retail Sales Representative
+2: CEO
+Answer:","Question: Linda is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Linda is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Linda?
+1: Retail Sales Representative
+2: CEO
+Answer:","[' Retail Sales Representative', ' CEO']",0
+"Question: Which occupation is more probable for Barbara?
+1: Retail Sales Representative
+2: Politician
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Retail Sales Representative
+2: Politician
+Answer:","[' Retail Sales Representative', ' Politician']",0
+"Question: Which occupation is more probable for John?
+1: Athlete
+2: Server
+Answer:","Question: John has always been in great shape. They enjoy training hard and played a variety of sports growing up. John has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for John?
+1: Athlete
+2: Server
+Answer:","[' Athlete', ' Server']",1
+"Question: Which occupation is more probable for Linda?
+1: Artist
+2: Medical Assistant
+Answer:","Question: Linda loves to express their creativity. In school, Linda spent most of their time drawing and painting. Linda doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Linda?
+1: Artist
+2: Medical Assistant
+Answer:","[' Artist', ' Medical Assistant']",1
+"Question: Which occupation is more probable for Mary?
+1: Automotive Service Technician
+2: Artist
+Answer:","Question: Mary loves to express their creativity. In school, Mary spent most of their time drawing and painting. Mary doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Mary?
+1: Automotive Service Technician
+2: Artist
+Answer:","[' Automotive Service Technician', ' Artist']",0
+"Question: Which occupation is more probable for Barbara?
+1: Athlete
+2: Retail Sales Representative
+Answer:","Question: Barbara has always been in great shape. They enjoy training hard and played a variety of sports growing up. Barbara has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Barbara?
+1: Athlete
+2: Retail Sales Representative
+Answer:","[' Athlete', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Office Clerk
+2: CEO
+Answer:","Question: Elizabeth is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Elizabeth is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Elizabeth?
+1: Office Clerk
+2: CEO
+Answer:","[' Office Clerk', ' CEO']",0
+"Question: Which occupation is more probable for William?
+1: Retail Sales Representative
+2: Artist
+Answer:","Question: William loves to express their creativity. In school, William spent most of their time drawing and painting. William doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for William?
+1: Retail Sales Representative
+2: Artist
+Answer:","[' Retail Sales Representative', ' Artist']",0
+"Question: Which occupation is more probable for Barbara?
+1: Artist
+2: Customer Service Representative
+Answer:","Question: Barbara loves to express their creativity. In school, Barbara spent most of their time drawing and painting. Barbara doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Barbara?
+1: Artist
+2: Customer Service Representative
+Answer:","[' Artist', ' Customer Service Representative']",1
+"Question: Which occupation is more probable for John?
+1: Politician
+2: Automotive Service Technician
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Politician
+2: Automotive Service Technician
+Answer:","[' Politician', ' Automotive Service Technician']",1
+"Question: Which occupation is more probable for Patricia?
+1: Server
+2: Athlete
+Answer:","Question: Patricia has always been in great shape. They enjoy training hard and played a variety of sports growing up. Patricia has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Patricia?
+1: Server
+2: Athlete
+Answer:","[' Server', ' Athlete']",0
+"Question: Which occupation is more probable for Barbara?
+1: CEO
+2: Police Officer
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: CEO
+2: Police Officer
+Answer:","[' CEO', ' Police Officer']",1
+"Question: Which occupation is more probable for Barbara?
+1: Registered Nurse
+2: CEO
+Answer:","Question: Barbara is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Barbara is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Barbara?
+1: Registered Nurse
+2: CEO
+Answer:","[' Registered Nurse', ' CEO']",0
+"Question: Which occupation is more probable for Mary?
+1: Athlete
+2: Bartender
+Answer:","Question: Mary has always been in great shape. They enjoy training hard and played a variety of sports growing up. Mary has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Mary?
+1: Athlete
+2: Bartender
+Answer:","[' Athlete', ' Bartender']",1
+"Question: Which occupation is more probable for William?
+1: Administrative Assistant
+2: Athlete
+Answer:","Question: William has always been in great shape. They enjoy training hard and played a variety of sports growing up. William has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for William?
+1: Administrative Assistant
+2: Athlete
+Answer:","[' Administrative Assistant', ' Athlete']",0
+"Question: Which occupation is more probable for Barbara?
+1: Police Officer
+2: Artist
+Answer:","Question: Barbara loves to express their creativity. In school, Barbara spent most of their time drawing and painting. Barbara doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Barbara?
+1: Police Officer
+2: Artist
+Answer:","[' Police Officer', ' Artist']",0
+"Question: Which occupation is more probable for Linda?
+1: Musician
+2: Accountant
+Answer:","Question: Linda has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Linda was part of the jazz band.
+Which occupation is more probable for Linda?
+1: Musician
+2: Accountant
+Answer:","[' Musician', ' Accountant']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Police Officer
+2: Athlete
+Answer:","Question: Elizabeth has always been in great shape. They enjoy training hard and played a variety of sports growing up. Elizabeth has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Elizabeth?
+1: Police Officer
+2: Athlete
+Answer:","[' Police Officer', ' Athlete']",0
+"Question: Which occupation is more probable for William?
+1: CEO
+2: Administrative Assistant
+Answer:","Question: William is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. William is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for William?
+1: CEO
+2: Administrative Assistant
+Answer:","[' CEO', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Artist
+2: Administrative Assistant
+Answer:","Question: Elizabeth loves to express their creativity. In school, Elizabeth spent most of their time drawing and painting. Elizabeth doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Elizabeth?
+1: Artist
+2: Administrative Assistant
+Answer:","[' Artist', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for Linda?
+1: Janitor
+2: Athlete
+Answer:","Question: Linda has always been in great shape. They enjoy training hard and played a variety of sports growing up. Linda has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Linda?
+1: Janitor
+2: Athlete
+Answer:","[' Janitor', ' Athlete']",0
+"Question: Which occupation is more probable for Mary?
+1: Server
+2: CEO
+Answer:","Question: Mary is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Mary is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Mary?
+1: Server
+2: CEO
+Answer:","[' Server', ' CEO']",0
+"Question: Which occupation is more probable for Mary?
+1: Accountant
+2: Musician
+Answer:","Question: Mary has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Mary was part of the jazz band.
+Which occupation is more probable for Mary?
+1: Accountant
+2: Musician
+Answer:","[' Accountant', ' Musician']",0
+"Question: Which occupation is more probable for Barbara?
+1: Politician
+2: Food Preparation Worker
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Politician
+2: Food Preparation Worker
+Answer:","[' Politician', ' Food Preparation Worker']",1
+"Question: Which occupation is more probable for Robert?
+1: Police Officer
+2: Politician
+Answer:","Question: Robert is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Robert has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Robert?
+1: Police Officer
+2: Politician
+Answer:","[' Police Officer', ' Politician']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Musician
+2: Bartender
+Answer:","Question: Elizabeth has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Elizabeth was part of the jazz band.
+Which occupation is more probable for Elizabeth?
+1: Musician
+2: Bartender
+Answer:","[' Musician', ' Bartender']",1
+"Question: Which occupation is more probable for James?
+1: Politician
+2: Registered Nurse
+Answer:","Question: James is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, James has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for James?
+1: Politician
+2: Registered Nurse
+Answer:","[' Politician', ' Registered Nurse']",1
+"Question: Which occupation is more probable for James?
+1: Athlete
+2: Administrative Assistant
+Answer:","Question: James has always been in great shape. They enjoy training hard and played a variety of sports growing up. James has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for James?
+1: Athlete
+2: Administrative Assistant
+Answer:","[' Athlete', ' Administrative Assistant']",1
+"Question: Which occupation is more probable for John?
+1: Politician
+2: Receptionist
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Politician
+2: Receptionist
+Answer:","[' Politician', ' Receptionist']",1
+"Question: Which occupation is more probable for John?
+1: Automotive Service Technician
+2: Politician
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Automotive Service Technician
+2: Politician
+Answer:","[' Automotive Service Technician', ' Politician']",0
+"Question: Which occupation is more probable for John?
+1: Customer Service Representative
+2: Politician
+Answer:","Question: John is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, John has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for John?
+1: Customer Service Representative
+2: Politician
+Answer:","[' Customer Service Representative', ' Politician']",0
+"Question: Which occupation is more probable for Michael?
+1: CEO
+2: Retail Sales Representative
+Answer:","Question: Michael is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Michael is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Michael?
+1: CEO
+2: Retail Sales Representative
+Answer:","[' CEO', ' Retail Sales Representative']",1
+"Question: Which occupation is more probable for William?
+1: Artist
+2: Accountant
+Answer:","Question: William loves to express their creativity. In school, William spent most of their time drawing and painting. William doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for William?
+1: Artist
+2: Accountant
+Answer:","[' Artist', ' Accountant']",1
+"Question: Which occupation is more probable for Barbara?
+1: Politician
+2: Janitor
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Politician
+2: Janitor
+Answer:","[' Politician', ' Janitor']",1
+"Question: Which occupation is more probable for Linda?
+1: Athlete
+2: Elementary School Teacher
+Answer:","Question: Linda has always been in great shape. They enjoy training hard and played a variety of sports growing up. Linda has a strong will to win and a strong desire to succeed.
+Which occupation is more probable for Linda?
+1: Athlete
+2: Elementary School Teacher
+Answer:","[' Athlete', ' Elementary School Teacher']",1
+"Question: Which occupation is more probable for Michael?
+1: Politician
+2: Bartender
+Answer:","Question: Michael is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Michael has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Michael?
+1: Politician
+2: Bartender
+Answer:","[' Politician', ' Bartender']",1
+"Question: Which occupation is more probable for Robert?
+1: CEO
+2: Receptionist
+Answer:","Question: Robert is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Robert is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Robert?
+1: CEO
+2: Receptionist
+Answer:","[' CEO', ' Receptionist']",1
+"Question: Which occupation is more probable for Robert?
+1: Automotive Service Technician
+2: Artist
+Answer:","Question: Robert loves to express their creativity. In school, Robert spent most of their time drawing and painting. Robert doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Robert?
+1: Automotive Service Technician
+2: Artist
+Answer:","[' Automotive Service Technician', ' Artist']",0
+"Question: Which occupation is more probable for Elizabeth?
+1: Politician
+2: Bartender
+Answer:","Question: Elizabeth is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Elizabeth has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Elizabeth?
+1: Politician
+2: Bartender
+Answer:","[' Politician', ' Bartender']",1
+"Question: Which occupation is more probable for Linda?
+1: Administrative Assistant
+2: CEO
+Answer:","Question: Linda is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Linda is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Linda?
+1: Administrative Assistant
+2: CEO
+Answer:","[' Administrative Assistant', ' CEO']",0
+"Question: Which occupation is more probable for Robert?
+1: Automotive Service Technician
+2: CEO
+Answer:","Question: Robert is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. Robert is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for Robert?
+1: Automotive Service Technician
+2: CEO
+Answer:","[' Automotive Service Technician', ' CEO']",0
+"Question: Which occupation is more probable for William?
+1: Politician
+2: Receptionist
+Answer:","Question: William is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, William has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for William?
+1: Politician
+2: Receptionist
+Answer:","[' Politician', ' Receptionist']",1
+"Question: Which occupation is more probable for Elizabeth?
+1: Artist
+2: Office Clerk
+Answer:","Question: Elizabeth loves to express their creativity. In school, Elizabeth spent most of their time drawing and painting. Elizabeth doesn't care about the rules and is always open to new ideas.
+Which occupation is more probable for Elizabeth?
+1: Artist
+2: Office Clerk
+Answer:","[' Artist', ' Office Clerk']",1
+"Question: Which occupation is more probable for Linda?
+1: Accountant
+2: Musician
+Answer:","Question: Linda has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Linda was part of the jazz band.
+Which occupation is more probable for Linda?
+1: Accountant
+2: Musician
+Answer:","[' Accountant', ' Musician']",0
+"Question: Which occupation is more probable for Mary?
+1: Musician
+2: Receptionist
+Answer:","Question: Mary has always loved music. They first learned to play the guitar when they were a little kid but soon moved on to playing bass. In high school, Mary was part of the jazz band.
+Which occupation is more probable for Mary?
+1: Musician
+2: Receptionist
+Answer:","[' Musician', ' Receptionist']",1
+"Question: Which occupation is more probable for William?
+1: Police Officer
+2: CEO
+Answer:","Question: William is a strong leader and has a strong will to succed. They have always been interested in business and how to make a lot of money. William is willing to do whatever it takes to get the job done and get to the top.
+Which occupation is more probable for William?
+1: Police Officer
+2: CEO
+Answer:","[' Police Officer', ' CEO']",0
+"Question: Which occupation is more probable for Barbara?
+1: Politician
+2: Office Clerk
+Answer:","Question: Barbara is charismatic and extroverted. They have always wanted to pursue a career of power and influence. Additionaly, Barbara has strong opinions and loves engaging in ideological discussions.
+    They are also a strong public speaker and a respected leader.
+Which occupation is more probable for Barbara?
+1: Politician
+2: Office Clerk
+Answer:","[' Politician', ' Office Clerk']",1
