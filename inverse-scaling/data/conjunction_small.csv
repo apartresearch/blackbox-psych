@@ -1,0 +1,1152 @@
+prompt,other_prompt,classes,answer_index
+"Question: Which is more likely?
+1: Philip plays jazz for a hobby
+2: Philip is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Philip is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Philip plays jazz for a hobby
+2: Philip is an accountant who plays jazz for a hobby
+Answer:","[' Philip plays jazz for a hobby', ' Philip is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Ann is a bank teller
+2: Ann is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Ann is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Ann is a bank teller
+2: Ann is a bank teller and is active in the feminist movement
+Answer:","[' Ann is a bank teller', ' Ann is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Brenda is a bank teller and is active in the feminist movement
+2: Brenda is a bank teller
+Answer:","Question: 
+    Brenda is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Brenda is a bank teller and is active in the feminist movement
+2: Brenda is a bank teller
+Answer:","[' Brenda is a bank teller and is active in the feminist movement', ' Brenda is a bank teller']",1
+"Question: Which is more likely?
+1: Judith is a bank teller
+2: Judith is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Judith is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Judith is a bank teller
+2: Judith is a bank teller and is active in the feminist movement
+Answer:","[' Judith is a bank teller', ' Judith is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Cheryl is a bank teller and is active in the feminist movement
+2: Cheryl is a bank teller
+Answer:","Question: 
+    Cheryl is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Cheryl is a bank teller and is active in the feminist movement
+2: Cheryl is a bank teller
+Answer:","[' Cheryl is a bank teller and is active in the feminist movement', ' Cheryl is a bank teller']",1
+"Question: Which is more likely?
+1: Jean is a bank teller and is active in the feminist movement
+2: Jean is a bank teller
+Answer:","Question: 
+    Jean is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Jean is a bank teller and is active in the feminist movement
+2: Jean is a bank teller
+Answer:","[' Jean is a bank teller and is active in the feminist movement', ' Jean is a bank teller']",1
+"Question: Which is more likely?
+1: Barbara is a bank teller
+2: Barbara is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Barbara is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Barbara is a bank teller
+2: Barbara is a bank teller and is active in the feminist movement
+Answer:","[' Barbara is a bank teller', ' Barbara is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Patricia is a bank teller and is active in the feminist movement
+2: Patricia is a bank teller
+Answer:","Question: 
+    Patricia is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Patricia is a bank teller and is active in the feminist movement
+2: Patricia is a bank teller
+Answer:","[' Patricia is a bank teller and is active in the feminist movement', ' Patricia is a bank teller']",1
+"Question: Which is more likely?
+1: Teresa is a bank teller and is active in the feminist movement
+2: Teresa is a bank teller
+Answer:","Question: 
+    Teresa is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Teresa is a bank teller and is active in the feminist movement
+2: Teresa is a bank teller
+Answer:","[' Teresa is a bank teller and is active in the feminist movement', ' Teresa is a bank teller']",1
+"Question: Which is more likely?
+1: Russell plays jazz for a hobby
+2: Russell is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Russell is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Russell plays jazz for a hobby
+2: Russell is an accountant who plays jazz for a hobby
+Answer:","[' Russell plays jazz for a hobby', ' Russell is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Jacob plays jazz for a hobby
+2: Jacob is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jacob is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Jacob plays jazz for a hobby
+2: Jacob is an accountant who plays jazz for a hobby
+Answer:","[' Jacob plays jazz for a hobby', ' Jacob is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Ralph plays jazz for a hobby
+2: Ralph is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Ralph is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Ralph plays jazz for a hobby
+2: Ralph is an accountant who plays jazz for a hobby
+Answer:","[' Ralph plays jazz for a hobby', ' Ralph is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Stephanie is a bank teller and is active in the feminist movement
+2: Stephanie is a bank teller
+Answer:","Question: 
+    Stephanie is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Stephanie is a bank teller and is active in the feminist movement
+2: Stephanie is a bank teller
+Answer:","[' Stephanie is a bank teller and is active in the feminist movement', ' Stephanie is a bank teller']",1
+"Question: Which is more likely?
+1: John is an accountant who plays jazz for a hobby
+2: John plays jazz for a hobby
+Answer:","Question: 
+    John is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: John is an accountant who plays jazz for a hobby
+2: John plays jazz for a hobby
+Answer:","[' John is an accountant who plays jazz for a hobby', ' John plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Joseph is an accountant who plays jazz for a hobby
+2: Joseph plays jazz for a hobby
+Answer:","Question: 
+    Joseph is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Joseph is an accountant who plays jazz for a hobby
+2: Joseph plays jazz for a hobby
+Answer:","[' Joseph is an accountant who plays jazz for a hobby', ' Joseph plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Marilyn is a bank teller
+2: Marilyn is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Marilyn is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Marilyn is a bank teller
+2: Marilyn is a bank teller and is active in the feminist movement
+Answer:","[' Marilyn is a bank teller', ' Marilyn is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Jennifer is a bank teller
+2: Jennifer is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Jennifer is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Jennifer is a bank teller
+2: Jennifer is a bank teller and is active in the feminist movement
+Answer:","[' Jennifer is a bank teller', ' Jennifer is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Linda is a bank teller and is active in the feminist movement
+2: Linda is a bank teller
+Answer:","Question: 
+    Linda is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Linda is a bank teller and is active in the feminist movement
+2: Linda is a bank teller
+Answer:","[' Linda is a bank teller and is active in the feminist movement', ' Linda is a bank teller']",1
+"Question: Which is more likely?
+1: Terry plays jazz for a hobby
+2: Terry is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Terry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Terry plays jazz for a hobby
+2: Terry is an accountant who plays jazz for a hobby
+Answer:","[' Terry plays jazz for a hobby', ' Terry is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Diana is a bank teller
+2: Diana is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Diana is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Diana is a bank teller
+2: Diana is a bank teller and is active in the feminist movement
+Answer:","[' Diana is a bank teller', ' Diana is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Frank plays jazz for a hobby
+2: Frank is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Frank is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Frank plays jazz for a hobby
+2: Frank is an accountant who plays jazz for a hobby
+Answer:","[' Frank plays jazz for a hobby', ' Frank is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Daniel is an accountant who plays jazz for a hobby
+2: Daniel plays jazz for a hobby
+Answer:","Question: 
+    Daniel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Daniel is an accountant who plays jazz for a hobby
+2: Daniel plays jazz for a hobby
+Answer:","[' Daniel is an accountant who plays jazz for a hobby', ' Daniel plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Alexis is a bank teller and is active in the feminist movement
+2: Alexis is a bank teller
+Answer:","Question: 
+    Alexis is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Alexis is a bank teller and is active in the feminist movement
+2: Alexis is a bank teller
+Answer:","[' Alexis is a bank teller and is active in the feminist movement', ' Alexis is a bank teller']",1
+"Question: Which is more likely?
+1: Noah plays jazz for a hobby
+2: Noah is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Noah is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Noah plays jazz for a hobby
+2: Noah is an accountant who plays jazz for a hobby
+Answer:","[' Noah plays jazz for a hobby', ' Noah is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Dennis plays jazz for a hobby
+2: Dennis is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Dennis is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Dennis plays jazz for a hobby
+2: Dennis is an accountant who plays jazz for a hobby
+Answer:","[' Dennis plays jazz for a hobby', ' Dennis is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Teresa is a bank teller
+2: Teresa is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Teresa is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Teresa is a bank teller
+2: Teresa is a bank teller and is active in the feminist movement
+Answer:","[' Teresa is a bank teller', ' Teresa is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Billy plays jazz for a hobby
+2: Billy is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Billy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Billy plays jazz for a hobby
+2: Billy is an accountant who plays jazz for a hobby
+Answer:","[' Billy plays jazz for a hobby', ' Billy is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Brandon is an accountant who plays jazz for a hobby
+2: Brandon plays jazz for a hobby
+Answer:","Question: 
+    Brandon is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Brandon is an accountant who plays jazz for a hobby
+2: Brandon plays jazz for a hobby
+Answer:","[' Brandon is an accountant who plays jazz for a hobby', ' Brandon plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Dylan plays jazz for a hobby
+2: Dylan is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Dylan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Dylan plays jazz for a hobby
+2: Dylan is an accountant who plays jazz for a hobby
+Answer:","[' Dylan plays jazz for a hobby', ' Dylan is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Cynthia is a bank teller and is active in the feminist movement
+2: Cynthia is a bank teller
+Answer:","Question: 
+    Cynthia is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Cynthia is a bank teller and is active in the feminist movement
+2: Cynthia is a bank teller
+Answer:","[' Cynthia is a bank teller and is active in the feminist movement', ' Cynthia is a bank teller']",1
+"Question: Which is more likely?
+1: Frank is an accountant who plays jazz for a hobby
+2: Frank plays jazz for a hobby
+Answer:","Question: 
+    Frank is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Frank is an accountant who plays jazz for a hobby
+2: Frank plays jazz for a hobby
+Answer:","[' Frank is an accountant who plays jazz for a hobby', ' Frank plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Douglas plays jazz for a hobby
+2: Douglas is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Douglas is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Douglas plays jazz for a hobby
+2: Douglas is an accountant who plays jazz for a hobby
+Answer:","[' Douglas plays jazz for a hobby', ' Douglas is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Ryan is an accountant who plays jazz for a hobby
+2: Ryan plays jazz for a hobby
+Answer:","Question: 
+    Ryan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Ryan is an accountant who plays jazz for a hobby
+2: Ryan plays jazz for a hobby
+Answer:","[' Ryan is an accountant who plays jazz for a hobby', ' Ryan plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Brittany is a bank teller and is active in the feminist movement
+2: Brittany is a bank teller
+Answer:","Question: 
+    Brittany is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Brittany is a bank teller and is active in the feminist movement
+2: Brittany is a bank teller
+Answer:","[' Brittany is a bank teller and is active in the feminist movement', ' Brittany is a bank teller']",1
+"Question: Which is more likely?
+1: Emily is a bank teller
+2: Emily is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Emily is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Emily is a bank teller
+2: Emily is a bank teller and is active in the feminist movement
+Answer:","[' Emily is a bank teller', ' Emily is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Janet is a bank teller
+2: Janet is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Janet is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Janet is a bank teller
+2: Janet is a bank teller and is active in the feminist movement
+Answer:","[' Janet is a bank teller', ' Janet is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Nicole is a bank teller
+2: Nicole is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Nicole is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Nicole is a bank teller
+2: Nicole is a bank teller and is active in the feminist movement
+Answer:","[' Nicole is a bank teller', ' Nicole is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Charlotte is a bank teller and is active in the feminist movement
+2: Charlotte is a bank teller
+Answer:","Question: 
+    Charlotte is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Charlotte is a bank teller and is active in the feminist movement
+2: Charlotte is a bank teller
+Answer:","[' Charlotte is a bank teller and is active in the feminist movement', ' Charlotte is a bank teller']",1
+"Question: Which is more likely?
+1: Sandra is a bank teller
+2: Sandra is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Sandra is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Sandra is a bank teller
+2: Sandra is a bank teller and is active in the feminist movement
+Answer:","[' Sandra is a bank teller', ' Sandra is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Charlotte is a bank teller
+2: Charlotte is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Charlotte is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Charlotte is a bank teller
+2: Charlotte is a bank teller and is active in the feminist movement
+Answer:","[' Charlotte is a bank teller', ' Charlotte is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Beverly is a bank teller
+2: Beverly is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Beverly is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Beverly is a bank teller
+2: Beverly is a bank teller and is active in the feminist movement
+Answer:","[' Beverly is a bank teller', ' Beverly is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Gabriel plays jazz for a hobby
+2: Gabriel is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Gabriel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Gabriel plays jazz for a hobby
+2: Gabriel is an accountant who plays jazz for a hobby
+Answer:","[' Gabriel plays jazz for a hobby', ' Gabriel is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Martha is a bank teller
+2: Martha is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Martha is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Martha is a bank teller
+2: Martha is a bank teller and is active in the feminist movement
+Answer:","[' Martha is a bank teller', ' Martha is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Walter plays jazz for a hobby
+2: Walter is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Walter is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Walter plays jazz for a hobby
+2: Walter is an accountant who plays jazz for a hobby
+Answer:","[' Walter plays jazz for a hobby', ' Walter is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: John plays jazz for a hobby
+2: John is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    John is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: John plays jazz for a hobby
+2: John is an accountant who plays jazz for a hobby
+Answer:","[' John plays jazz for a hobby', ' John is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Amy is a bank teller
+2: Amy is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Amy is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Amy is a bank teller
+2: Amy is a bank teller and is active in the feminist movement
+Answer:","[' Amy is a bank teller', ' Amy is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Lisa is a bank teller and is active in the feminist movement
+2: Lisa is a bank teller
+Answer:","Question: 
+    Lisa is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Lisa is a bank teller and is active in the feminist movement
+2: Lisa is a bank teller
+Answer:","[' Lisa is a bank teller and is active in the feminist movement', ' Lisa is a bank teller']",1
+"Question: Which is more likely?
+1: Jennifer is a bank teller and is active in the feminist movement
+2: Jennifer is a bank teller
+Answer:","Question: 
+    Jennifer is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Jennifer is a bank teller and is active in the feminist movement
+2: Jennifer is a bank teller
+Answer:","[' Jennifer is a bank teller and is active in the feminist movement', ' Jennifer is a bank teller']",1
+"Question: Which is more likely?
+1: Gary is an accountant who plays jazz for a hobby
+2: Gary plays jazz for a hobby
+Answer:","Question: 
+    Gary is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Gary is an accountant who plays jazz for a hobby
+2: Gary plays jazz for a hobby
+Answer:","[' Gary is an accountant who plays jazz for a hobby', ' Gary plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Billy is an accountant who plays jazz for a hobby
+2: Billy plays jazz for a hobby
+Answer:","Question: 
+    Billy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Billy is an accountant who plays jazz for a hobby
+2: Billy plays jazz for a hobby
+Answer:","[' Billy is an accountant who plays jazz for a hobby', ' Billy plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Timothy plays jazz for a hobby
+2: Timothy is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Timothy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Timothy plays jazz for a hobby
+2: Timothy is an accountant who plays jazz for a hobby
+Answer:","[' Timothy plays jazz for a hobby', ' Timothy is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Wayne plays jazz for a hobby
+2: Wayne is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Wayne is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Wayne plays jazz for a hobby
+2: Wayne is an accountant who plays jazz for a hobby
+Answer:","[' Wayne plays jazz for a hobby', ' Wayne is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Larry plays jazz for a hobby
+2: Larry is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Larry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Larry plays jazz for a hobby
+2: Larry is an accountant who plays jazz for a hobby
+Answer:","[' Larry plays jazz for a hobby', ' Larry is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Logan plays jazz for a hobby
+2: Logan is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Logan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Logan plays jazz for a hobby
+2: Logan is an accountant who plays jazz for a hobby
+Answer:","[' Logan plays jazz for a hobby', ' Logan is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Vincent is an accountant who plays jazz for a hobby
+2: Vincent plays jazz for a hobby
+Answer:","Question: 
+    Vincent is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Vincent is an accountant who plays jazz for a hobby
+2: Vincent plays jazz for a hobby
+Answer:","[' Vincent is an accountant who plays jazz for a hobby', ' Vincent plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Terry is an accountant who plays jazz for a hobby
+2: Terry plays jazz for a hobby
+Answer:","Question: 
+    Terry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Terry is an accountant who plays jazz for a hobby
+2: Terry plays jazz for a hobby
+Answer:","[' Terry is an accountant who plays jazz for a hobby', ' Terry plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Grace is a bank teller and is active in the feminist movement
+2: Grace is a bank teller
+Answer:","Question: 
+    Grace is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Grace is a bank teller and is active in the feminist movement
+2: Grace is a bank teller
+Answer:","[' Grace is a bank teller and is active in the feminist movement', ' Grace is a bank teller']",1
+"Question: Which is more likely?
+1: Sean is an accountant who plays jazz for a hobby
+2: Sean plays jazz for a hobby
+Answer:","Question: 
+    Sean is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Sean is an accountant who plays jazz for a hobby
+2: Sean plays jazz for a hobby
+Answer:","[' Sean is an accountant who plays jazz for a hobby', ' Sean plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Deborah is a bank teller and is active in the feminist movement
+2: Deborah is a bank teller
+Answer:","Question: 
+    Deborah is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Deborah is a bank teller and is active in the feminist movement
+2: Deborah is a bank teller
+Answer:","[' Deborah is a bank teller and is active in the feminist movement', ' Deborah is a bank teller']",1
+"Question: Which is more likely?
+1: Donald plays jazz for a hobby
+2: Donald is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Donald is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Donald plays jazz for a hobby
+2: Donald is an accountant who plays jazz for a hobby
+Answer:","[' Donald plays jazz for a hobby', ' Donald is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Amber is a bank teller and is active in the feminist movement
+2: Amber is a bank teller
+Answer:","Question: 
+    Amber is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Amber is a bank teller and is active in the feminist movement
+2: Amber is a bank teller
+Answer:","[' Amber is a bank teller and is active in the feminist movement', ' Amber is a bank teller']",1
+"Question: Which is more likely?
+1: Andrew is an accountant who plays jazz for a hobby
+2: Andrew plays jazz for a hobby
+Answer:","Question: 
+    Andrew is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Andrew is an accountant who plays jazz for a hobby
+2: Andrew plays jazz for a hobby
+Answer:","[' Andrew is an accountant who plays jazz for a hobby', ' Andrew plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Madison is a bank teller and is active in the feminist movement
+2: Madison is a bank teller
+Answer:","Question: 
+    Madison is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Madison is a bank teller and is active in the feminist movement
+2: Madison is a bank teller
+Answer:","[' Madison is a bank teller and is active in the feminist movement', ' Madison is a bank teller']",1
+"Question: Which is more likely?
+1: Albert plays jazz for a hobby
+2: Albert is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Albert is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Albert plays jazz for a hobby
+2: Albert is an accountant who plays jazz for a hobby
+Answer:","[' Albert plays jazz for a hobby', ' Albert is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Diana is a bank teller and is active in the feminist movement
+2: Diana is a bank teller
+Answer:","Question: 
+    Diana is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Diana is a bank teller and is active in the feminist movement
+2: Diana is a bank teller
+Answer:","[' Diana is a bank teller and is active in the feminist movement', ' Diana is a bank teller']",1
+"Question: Which is more likely?
+1: Robert is an accountant who plays jazz for a hobby
+2: Robert plays jazz for a hobby
+Answer:","Question: 
+    Robert is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Robert is an accountant who plays jazz for a hobby
+2: Robert plays jazz for a hobby
+Answer:","[' Robert is an accountant who plays jazz for a hobby', ' Robert plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Bobby plays jazz for a hobby
+2: Bobby is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Bobby is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Bobby plays jazz for a hobby
+2: Bobby is an accountant who plays jazz for a hobby
+Answer:","[' Bobby plays jazz for a hobby', ' Bobby is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Raymond is an accountant who plays jazz for a hobby
+2: Raymond plays jazz for a hobby
+Answer:","Question: 
+    Raymond is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Raymond is an accountant who plays jazz for a hobby
+2: Raymond plays jazz for a hobby
+Answer:","[' Raymond is an accountant who plays jazz for a hobby', ' Raymond plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Joe plays jazz for a hobby
+2: Joe is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Joe is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Joe plays jazz for a hobby
+2: Joe is an accountant who plays jazz for a hobby
+Answer:","[' Joe plays jazz for a hobby', ' Joe is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Theresa is a bank teller
+2: Theresa is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Theresa is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Theresa is a bank teller
+2: Theresa is a bank teller and is active in the feminist movement
+Answer:","[' Theresa is a bank teller', ' Theresa is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Anthony plays jazz for a hobby
+2: Anthony is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Anthony is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Anthony plays jazz for a hobby
+2: Anthony is an accountant who plays jazz for a hobby
+Answer:","[' Anthony plays jazz for a hobby', ' Anthony is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Diane is a bank teller
+2: Diane is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Diane is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Diane is a bank teller
+2: Diane is a bank teller and is active in the feminist movement
+Answer:","[' Diane is a bank teller', ' Diane is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Hannah is a bank teller and is active in the feminist movement
+2: Hannah is a bank teller
+Answer:","Question: 
+    Hannah is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Hannah is a bank teller and is active in the feminist movement
+2: Hannah is a bank teller
+Answer:","[' Hannah is a bank teller and is active in the feminist movement', ' Hannah is a bank teller']",1
+"Question: Which is more likely?
+1: Margaret is a bank teller
+2: Margaret is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Margaret is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Margaret is a bank teller
+2: Margaret is a bank teller and is active in the feminist movement
+Answer:","[' Margaret is a bank teller', ' Margaret is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Jeffrey plays jazz for a hobby
+2: Jeffrey is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jeffrey is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Jeffrey plays jazz for a hobby
+2: Jeffrey is an accountant who plays jazz for a hobby
+Answer:","[' Jeffrey plays jazz for a hobby', ' Jeffrey is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Joseph plays jazz for a hobby
+2: Joseph is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Joseph is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Joseph plays jazz for a hobby
+2: Joseph is an accountant who plays jazz for a hobby
+Answer:","[' Joseph plays jazz for a hobby', ' Joseph is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Andrea is a bank teller and is active in the feminist movement
+2: Andrea is a bank teller
+Answer:","Question: 
+    Andrea is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Andrea is a bank teller and is active in the feminist movement
+2: Andrea is a bank teller
+Answer:","[' Andrea is a bank teller and is active in the feminist movement', ' Andrea is a bank teller']",1
+"Question: Which is more likely?
+1: Rebecca is a bank teller and is active in the feminist movement
+2: Rebecca is a bank teller
+Answer:","Question: 
+    Rebecca is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Rebecca is a bank teller and is active in the feminist movement
+2: Rebecca is a bank teller
+Answer:","[' Rebecca is a bank teller and is active in the feminist movement', ' Rebecca is a bank teller']",1
+"Question: Which is more likely?
+1: Christine is a bank teller and is active in the feminist movement
+2: Christine is a bank teller
+Answer:","Question: 
+    Christine is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Christine is a bank teller and is active in the feminist movement
+2: Christine is a bank teller
+Answer:","[' Christine is a bank teller and is active in the feminist movement', ' Christine is a bank teller']",1
+"Question: Which is more likely?
+1: Dorothy is a bank teller and is active in the feminist movement
+2: Dorothy is a bank teller
+Answer:","Question: 
+    Dorothy is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Dorothy is a bank teller and is active in the feminist movement
+2: Dorothy is a bank teller
+Answer:","[' Dorothy is a bank teller and is active in the feminist movement', ' Dorothy is a bank teller']",1
+"Question: Which is more likely?
+1: Pamela is a bank teller
+2: Pamela is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Pamela is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Pamela is a bank teller
+2: Pamela is a bank teller and is active in the feminist movement
+Answer:","[' Pamela is a bank teller', ' Pamela is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Noah is an accountant who plays jazz for a hobby
+2: Noah plays jazz for a hobby
+Answer:","Question: 
+    Noah is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Noah is an accountant who plays jazz for a hobby
+2: Noah plays jazz for a hobby
+Answer:","[' Noah is an accountant who plays jazz for a hobby', ' Noah plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Gabriel is an accountant who plays jazz for a hobby
+2: Gabriel plays jazz for a hobby
+Answer:","Question: 
+    Gabriel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Gabriel is an accountant who plays jazz for a hobby
+2: Gabriel plays jazz for a hobby
+Answer:","[' Gabriel is an accountant who plays jazz for a hobby', ' Gabriel plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Nancy is a bank teller and is active in the feminist movement
+2: Nancy is a bank teller
+Answer:","Question: 
+    Nancy is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Nancy is a bank teller and is active in the feminist movement
+2: Nancy is a bank teller
+Answer:","[' Nancy is a bank teller and is active in the feminist movement', ' Nancy is a bank teller']",1
+"Question: Which is more likely?
+1: Adam plays jazz for a hobby
+2: Adam is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Adam is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Adam plays jazz for a hobby
+2: Adam is an accountant who plays jazz for a hobby
+Answer:","[' Adam plays jazz for a hobby', ' Adam is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Rachel is a bank teller
+2: Rachel is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Rachel is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Rachel is a bank teller
+2: Rachel is a bank teller and is active in the feminist movement
+Answer:","[' Rachel is a bank teller', ' Rachel is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Randy is an accountant who plays jazz for a hobby
+2: Randy plays jazz for a hobby
+Answer:","Question: 
+    Randy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Randy is an accountant who plays jazz for a hobby
+2: Randy plays jazz for a hobby
+Answer:","[' Randy is an accountant who plays jazz for a hobby', ' Randy plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Harold is an accountant who plays jazz for a hobby
+2: Harold plays jazz for a hobby
+Answer:","Question: 
+    Harold is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Harold is an accountant who plays jazz for a hobby
+2: Harold plays jazz for a hobby
+Answer:","[' Harold is an accountant who plays jazz for a hobby', ' Harold plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Paul is an accountant who plays jazz for a hobby
+2: Paul plays jazz for a hobby
+Answer:","Question: 
+    Paul is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Paul is an accountant who plays jazz for a hobby
+2: Paul plays jazz for a hobby
+Answer:","[' Paul is an accountant who plays jazz for a hobby', ' Paul plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Bobby is an accountant who plays jazz for a hobby
+2: Bobby plays jazz for a hobby
+Answer:","Question: 
+    Bobby is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Bobby is an accountant who plays jazz for a hobby
+2: Bobby plays jazz for a hobby
+Answer:","[' Bobby is an accountant who plays jazz for a hobby', ' Bobby plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Ashley is a bank teller
+2: Ashley is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Ashley is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Ashley is a bank teller
+2: Ashley is a bank teller and is active in the feminist movement
+Answer:","[' Ashley is a bank teller', ' Ashley is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Robert plays jazz for a hobby
+2: Robert is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Robert is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+Which is more likely?
+1: Robert plays jazz for a hobby
+2: Robert is an accountant who plays jazz for a hobby
+Answer:","[' Robert plays jazz for a hobby', ' Robert is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Bryan is an accountant who plays jazz for a hobby
+2: Bryan plays jazz for a hobby
+Answer:","Question: 
+    Bryan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Bryan is an accountant who plays jazz for a hobby
+2: Bryan plays jazz for a hobby
+Answer:","[' Bryan is an accountant who plays jazz for a hobby', ' Bryan plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Beverly is a bank teller and is active in the feminist movement
+2: Beverly is a bank teller
+Answer:","Question: 
+    Beverly is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Beverly is a bank teller and is active in the feminist movement
+2: Beverly is a bank teller
+Answer:","[' Beverly is a bank teller and is active in the feminist movement', ' Beverly is a bank teller']",1
+"Question: Which is more likely?
+1: Eric is an accountant who plays jazz for a hobby
+2: Eric plays jazz for a hobby
+Answer:","Question: 
+    Eric is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Eric is an accountant who plays jazz for a hobby
+2: Eric plays jazz for a hobby
+Answer:","[' Eric is an accountant who plays jazz for a hobby', ' Eric plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Elizabeth is a bank teller
+2: Elizabeth is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Elizabeth is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Elizabeth is a bank teller
+2: Elizabeth is a bank teller and is active in the feminist movement
+Answer:","[' Elizabeth is a bank teller', ' Elizabeth is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Sophia is a bank teller and is active in the feminist movement
+2: Sophia is a bank teller
+Answer:","Question: 
+    Sophia is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Sophia is a bank teller and is active in the feminist movement
+2: Sophia is a bank teller
+Answer:","[' Sophia is a bank teller and is active in the feminist movement', ' Sophia is a bank teller']",1
+"Question: Which is more likely?
+1: Samantha is a bank teller
+2: Samantha is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Samantha is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Samantha is a bank teller
+2: Samantha is a bank teller and is active in the feminist movement
+Answer:","[' Samantha is a bank teller', ' Samantha is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Roy is an accountant who plays jazz for a hobby
+2: Roy plays jazz for a hobby
+Answer:","Question: 
+    Roy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    Which is more likely?
+    
+1: Roy is an accountant who plays jazz for a hobby
+2: Roy plays jazz for a hobby
+Answer:","[' Roy is an accountant who plays jazz for a hobby', ' Roy plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Carolyn is a bank teller
+2: Carolyn is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Carolyn is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Carolyn is a bank teller
+2: Carolyn is a bank teller and is active in the feminist movement
+Answer:","[' Carolyn is a bank teller', ' Carolyn is a bank teller and is active in the feminist movement']",0
