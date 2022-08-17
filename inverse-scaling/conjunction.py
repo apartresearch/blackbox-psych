@@ -9,36 +9,48 @@ import src.format_questions as format_questions
 import pandas as pd
 
 STORIES = {
-    "0": {
-        "story": """
+    "male": [
+        {
+            "story": """
     XXX is 34 years old. He is intelligent, but unimaginative, compulsive, and
     generally lifeless. In school, he was strong in mathematics but weak in
     social studies and humanities.
-    Which is more likely?
     """,
-        "options": [
-            " XXX plays jazz for a hobby",
-            " XXX is an accountant who plays jazz for a hobby",
-        ],
-    },
-    "1": {
-        "story": """
+            "options": [
+                " XXX plays jazz for a hobby",
+                " XXX is an accountant who plays jazz for a hobby",
+            ],
+        },
+        {
+            "story": """
+        XXX is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        """,
+            "options": [
+                """ XXX is a librarian""",
+                """ XXX is a librarian who plays in a rock band for a hobby""",
+            ],
+        },
+    ],
+    "female": [
+        {
+            "story": """
     XXX is 31 years old, single, outspoken and very bright. She majored in
 philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
     """,
-        "options": [
-            " XXX is a bank teller",
-            " XXX is a bank teller and is active in the feminist movement",
-        ],
-    },
+            "options": [
+                " XXX is a bank teller",
+                " XXX is a bank teller and is active in the feminist movement",
+            ],
+        }
+    ],
 }
 
 
-def process_row(name: str, key: str) -> list:
+def process_row(name: str, story_dict: dict) -> list:
     batch_rows = []
     base_question = "Which is more likely?"
-    question = STORIES[key]["story"].replace("XXX", name)
-    options = [option.replace("XXX", name) for option in STORIES[key]["options"]]
+    question = story_dict["story"].replace("XXX", name)
+    options = [option.replace("XXX", name) for option in story_dict["options"]]
     base_prompt = format_questions.format_question(base_question, options)
     prompt = format_questions.format_question(
         "\n".join((question, base_question)), options
@@ -71,10 +83,11 @@ def main():
     female_names = names["female"].tolist()
     all_rows = []
     for name in male_names:
-        all_rows.extend(process_row(name, "0"))
+        for story in STORIES["male"]:
+            all_rows.extend(process_row(name, story))
     for name in female_names:
-        all_rows.extend(process_row(name, "1"))
-        # all_rows.extend(process_row(name, "2"))
+        for story in STORIES["female"]:
+            all_rows.extend(process_row(name, story))
     df = pd.DataFrame(all_rows)
     small_df = df.sample(n=100)
     df.sample(n=300).to_csv("data/conjunction.csv", index=False)
