@@ -27,7 +27,7 @@ STORIES = {
         """,
             "options": [
                 """ XXX is a librarian""",
-                """ XXX is a librarian who plays in a rock band for a hobby""",
+                """ XXX is a librarian who plays in a rock band""",
             ],
         },
     ],
@@ -41,7 +41,16 @@ philosophy. As a student, she was deeply concerned with issues of discrimination
                 " XXX is a bank teller",
                 " XXX is a bank teller and is active in the feminist movement",
             ],
-        }
+        },
+        {
+            "story": """
+            XXX is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            """,
+            "options": [
+                " XXX is a constuction worker",
+                " XXX is a constuction worker and is active in the environmental movement",
+            ],
+        },
     ],
 }
 
@@ -90,6 +99,11 @@ def main():
             all_rows.extend(process_row(name, story))
     df = pd.DataFrame(all_rows)
     small_df = df.sample(n=100)
+    df_original = df[
+        df["prompt"].str.contains("bank teller")
+        | df["prompt"].str.contains("accountant")
+    ]
+    df_original.sample(n=300).to_csv("data/conjunction_original.csv", index=False)
     df.sample(n=300).to_csv("data/conjunction.csv", index=False)
     small_df.to_csv("data/conjunction_small.csv", index=False)
 
