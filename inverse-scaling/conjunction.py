@@ -1,7 +1,6 @@
 """
 This script creates data for testing whether conjunction fallacy applies to LLMs in an inverse-scaling experiment.
 """
-from concurrent.futures import process
 import sys
 
 sys.path.append("../")
@@ -47,8 +46,8 @@ philosophy. As a student, she was deeply concerned with issues of discrimination
             XXX is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
             """,
             "options": [
-                " XXX is a constuction worker",
-                " XXX is a constuction worker and is active in the environmental movement",
+                " XXX works on an oil rig",
+                " XXX works on an oil rig and is active in the environmental movement",
             ],
         },
     ],
@@ -103,6 +102,9 @@ def main():
         df["prompt"].str.contains("bank teller")
         | df["prompt"].str.contains("accountant")
     ]
+    df[df["prompt"].str.contains("accountant")].to_csv(
+        "data/conjunction_accountant.csv"
+    )
     df_original.sample(n=300).to_csv("data/conjunction_original.csv", index=False)
     df.sample(n=300).to_csv("data/conjunction.csv", index=False)
     small_df.to_csv("data/conjunction_small.csv", index=False)
