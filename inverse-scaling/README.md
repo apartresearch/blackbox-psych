@@ -1,9 +1,9 @@
 # 📉 Inverse scaling challenge
 
-Participating in the [inverse scaling challenge](https://github.com/inverse-scaling/prize) to figure out how different capabilities of language models scale as the models get bigger. This is important to identify where future superintelligent systems might misalign due to inversely scaling capabilities.
-
 ![Badge](https://img.shields.io/static/v1?label=type&message=research&color=blue)
 ![Badge](https://img.shields.io/static/v1?label=status&message=in%20progress&color=orange)
+
+Participating in the [inverse scaling challenge](https://github.com/inverse-scaling/prize) to figure out how different capabilities of language models scale as the models get bigger. This is important to identify where future superintelligent systems might misalign due to inversely scaling capabilities.
 
 ## TODO
 
