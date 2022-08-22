@@ -10,11 +10,11 @@ def add_options(question: str, options: list) -> str:
     return "\n".join([question] + options)
 
 
-def format_question(question: str, options: list) -> str:
+def format_question(question: str, options: list, q: bool = True) -> str:
     """
     Formats a question with options
     """
-    return "Question: " + add_options(question, options) + "\nAnswer:"
+    return ("Question: " if q else "") + add_options(question, options) + "\nAnswer:"
 
 
 def create_df(

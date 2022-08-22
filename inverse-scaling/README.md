@@ -2,20 +2,21 @@
 
 ## TODO
 
-- [ ] Test conjunction fallacy (from Kahnemann; logodd with / without priming)
-- [ ] Test base-rate neglect (on jobs; classification loss)
-- [ ] Test anchoring
-  - [ ] Create test suite generation
+- [x] Test anchoring
+  - [x] Create test suite generation
   - [x] Test in the 1000s
-  - [ ] Test in the 1s
-  - [ ] Test in the 10s
-  - [ ] Test in the 100s
-  - [ ] Test in the 1000000s
-  - [ ] Test one-shot
-  - [ ] Test few-shot
+  - [x] Test in the 1s
+  - [x] Test in the 10s
+  - [x] Test in the 100s
+  - [x] Test one-shot
+  - [x] Test few-shot
+- [ ] Saliency bias
+  - [ ]
+- [ ] Conjunction fallacy
+  - [ ]
 - [ ] Test prediction certainty
   - [x] How certainly does the model predict wrongly outside its training data range
   - [ ] Test past / future framing
 - [x] Test political bias
-- [ ] Write up results
-  - [ ] Get an inverse scaling law down on paper
+- [x] Write up results
+  - [x] Get an inverse scaling law down on paper
