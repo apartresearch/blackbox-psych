@@ -1,0 +1,182 @@
+---
+title: "Conjunction Error Analysis"
+author: "Jonathan Rystrøm"
+date: '2022-08-18'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+pacman::p_load(tidyverse, fs, broom)
+```
+
+```{r}
+read_with_name <- function(f, raw_dat) {
+  read_csv(f) %>% 
+    mutate(fname = f,
+           prompt = raw_dat$other_prompt) 
+}
+extract_model <- function(text) {
+  str_extract(text, "ada|babbage|curie|davinci")
+}
+read_results <- function(raw_name, result_dir, glob_pattern="*.csv") {
+  raw_data <- read_csv(paste0("data/", raw_name))
+  result_files <- fs::dir_ls(paste0("results/", result_dir), glob=glob_pattern)
+  results <- map_dfr(result_files, ~read_with_name(.x, raw_data)) %>% 
+    mutate(model = extract_model(fname))
+  return(results)
+}
+
+vec_to_regex <- function(txt) {
+  paste(str_trim(txt), collapse="|")
+}
+```
+
+```{r}
+raw_data <- read_csv("data/conjunction.csv")
+result_files <- fs::dir_ls("results/conjunction", glob="*.csv")
+results <- map_dfr(result_files, ~read_with_name(.x, raw_data))
+results
+
+results <- read_results("conjunction.csv", "conjunction")
+
+```
+## Error analysis 
+Now I'll plot the loss curve for each of the different questions
+
+```{r}
+plot_results <- results %>% 
+  mutate(prompt_type = str_extract(prompt, "oil rig|bank teller|accountant|librarian"), 
+         model = extract_model(fname))
+
+plot_results %>% 
+  ggplot(aes(x=model, y=logodds_difference)) + 
+  geom_violin() + 
+  facet_wrap(~prompt_type) + 
+  theme_minimal() + 
+  labs(title = "Error analysis of different conjunction prompts")
+```
+```{r}
+saldat <- read_csv("data/saliency_causes.csv")
+salresfiles <- fs::dir_ls("results/saliency", glob="*1_*.csv")
+salresult <- map_dfr(salresfiles, ~read_with_name(.x, saldat))
+```
+```{r}
+
+SAL_DEATHS <- c(
+   " Plane Accident",
+    " Road Accident",
+    " Homicide",
+    " AIDS",
+    " Suicide",
+    " Terrorism",
+    " Ebola",
+    " Drug overdose",
+    " Shooting",
+    " Terror Attack",
+    " Murder",
+    " Accident",
+    " School shooting",
+    " Traffic Accident"
+)
+saldeaths_regex <- paste(str_trim(SAL_DEATHS), collapse="|")
+salresult %>% 
+  mutate(saldeath = str_extract(prompt, saldeaths_regex), 
+         model=extract_model(fname)) %>% 
+  ggplot(aes(x=model, y=logodds_difference)) + 
+  geom_line() + 
+  facet_wrap(~saldeath)
+
+
+```
+
+```{r}
+NORMAL_DEATHS <- c(
+  " Ischaemic Heart Disease",
+    " Stroke",
+    " Chronic obstructive pulmonary disease",
+    " Lower respiratory infections",
+    " Neonatal conditions",
+    " Trachea, bronchus, and lung cancers",
+    " Dementia",
+    " Diarrheoal disease",
+    " Diabetes",
+    " Kidney disease",
+    " Tuberculosis",
+    " Cirrhosis of the liver"
+)
+
+
+
+salnormal_regex <- paste(str_trim(NORMAL_DEATHS), collapse="|")
+salresult %>% 
+  mutate(saldeath = str_extract(prompt, saldeaths_regex), 
+         model=extract_model(fname)) %>% 
+  ggplot(aes(x=model, y=logodds_difference)) + 
+  geom_line() + 
+  facet_wrap(~saldeath)
+
+```
+
+### Create lil model
+```{r}
+modeldat <- salresult %>% 
+  mutate(
+    normal_death = str_extract(prompt, salnormal_regex),
+    sal_death = str_extract(prompt, saldeaths_regex), 
+    model=extract_model(fname),
+    model_size = as.integer(factor(model, levels = c("ada", "babbage", "curie", "davinci")))
+  )
+
+simple_model = lm(logodds_difference ~ model_size:sal_death, data=modeldat)
+
+summary(simple_model)
+
+```
+### Political Bias
+```{r}
+pol_prompts <- c(
+  "Joe Biden",
+  "Hillary Clinton",
+  "Bernie Sanders",
+  "Democrat",
+  "Barack Obama",
+  "Alexandria Ocasio-Cortez",
+  "Elizabeth Warren",
+  "Donald Trump",
+  "Republican",
+  "George Bush",
+  "Sarah Palin",
+  "Ted Cruz",
+  "Mike Pence",
+  "Dick Cheney",
+  "Lindsey Graham",
+  "Mitch McConnel",
+  "Mitt Romney"
+)
+pol_regex <- vec_to_regex(pol_prompts)
+
+pol_results <- read_results("political_bias_logodds.csv", "political_bias", glob_pattern = "*1_*.csv")
+
+pol <- pol_results %>% 
+  mutate(bias = str_extract(prompt, pol_regex),
+         model_num = as.integer(as.factor(model)),
+         bias_type = str_detect(prompt, "Irrelevant")
+           )
+
+
+pol %>% 
+  ggplot(aes(x=model, y=logodds_difference)) + 
+  geom_line() + 
+  facet_wrap(~bias)
+
+pol_model <- lm(logodds_difference ~ model_num:bias + bias_type, data=pol)
+summary(pol_model)
+
+broom::tidy(pol_model) %>% 
+  filter(estimate < 0)
+```
+
