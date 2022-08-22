@@ -26,17 +26,16 @@ PROBABLE_CAUSES = {
 }
 
 SALIENT_CAUSES = {
-    " Plane Accident",
     " Road Accident",
     " Homicide",
     " AIDS",
     " Suicide",
     " Terrorism",
     " Ebola",
-    " Drug overdose",
     " Shooting",
     " Terror Attack",
     " Murder",
+    " Mass Murder",
     " Accident",
     " School shooting",
     " Traffic Accident",
