@@ -35,7 +35,8 @@ SALIENT_CAUSES = {
     " Shooting",
     " Terror Attack",
     " Murder",
-    " Mass Murder" " Accident",
+    " Mass Murder",
+    " Accident",
     " School shooting",
     " Traffic Accident",
 }
