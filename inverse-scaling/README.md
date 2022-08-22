@@ -25,5 +25,9 @@
   - [x] Test past / future framing
   - [ ] Possibly interesting: Rerun with new, _more probable_, questions
 - [x] Test political bias
-- [x] Write up results
-  - [x] Get an inverse scaling law down on paper
+- [ ] Write up results
+  - [x] Submit and get an inverse scaling law down on paper: **Anchoring**
+  - [ ] Submit: Saliency bias
+  - [ ] Submit: Conjunction fallacy
+  - [ ] Submit: Political bias
+  - [ ] Submit: Future bias
