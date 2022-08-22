@@ -72,9 +72,13 @@ if __name__ == "__main__":
                         "other_prompt": bias_question,
                         "classes": raw_q["options"],
                         "answer_index": raw_q["answer_index"],
+                        "bias": raw_q["bias"],
                     }
                 )
 
     result_df = pd.DataFrame(result_list)
     result_df.to_csv("data/political_bias_logodds.csv", index=False, encoding="utf-8")
+    result_df[result_df["bias"] == "republican"].to_csv(
+        "data/political_bias_republican.csv", index=False, encoding="utf-8"
+    )
 
