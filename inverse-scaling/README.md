@@ -2,20 +2,32 @@
 
 ## TODO
 
-- [ ] Test conjunction fallacy (from Kahnemann; logodd with / without priming)
-- [ ] Test base-rate neglect (on jobs; classification loss)
-- [ ] Test anchoring
-  - [ ] Create test suite generation
+- [x] Test anchoring
+  - [x] Create test suite generation
   - [x] Test in the 1000s
-  - [ ] Test in the 1s
-  - [ ] Test in the 10s
-  - [ ] Test in the 100s
-  - [ ] Test in the 1000000s
-  - [ ] Test one-shot
-  - [ ] Test few-shot
+  - [x] Test in the 1s
+  - [x] Test in the 10s
+  - [x] Test in the 100s
+  - [x] Test one-shot
+  - [x] Test few-shot
+- [ ] Saliency bias
+  - [x] Test inverse scaling: **Success**
+  - [x] Bug fix
+  - [x] Test bug fix
+  - [ ] Investigate why
+  - [ ] Rerun updated dataset
+- [ ] Conjunction fallacy
+  - [x] Test for inverse scaling
+  - [x] See why "accountant" seems to be the only good inverse scaler --> no obvious reason, another version has no inverse scaling
+  - [ ] Rewrite some prompts and rerun the models
 - [ ] Test prediction certainty
   - [x] How certainly does the model predict wrongly outside its training data range
-  - [ ] Test past / future framing
+  - [x] Test past / future framing
+  - [ ] Possibly interesting: Rerun with new, _more probable_, questions
 - [x] Test political bias
 - [ ] Write up results
-  - [ ] Get an inverse scaling law down on paper
+  - [x] Submit and get an inverse scaling law down on paper: **Anchoring**
+  - [ ] Submit: Saliency bias
+  - [ ] Submit: Conjunction fallacy
+  - [ ] Submit: Political bias
+  - [ ] Submit: Future bias
