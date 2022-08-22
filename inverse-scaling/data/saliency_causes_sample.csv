@@ -1,292 +1,12 @@
 prompt,other_prompt,classes,answer_index
 "Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Traffic Accident
-Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Traffic Accident
-Answer:","[' Stroke', ' Traffic Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: 10 people just killed by Murder
-Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Cirrhosis of the liver
-Answer:","[' Murder', ' Cirrhosis of the liver']",1
-"Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Road Accident
-Answer:","BREAKING NEWS: 10 people just killed by Road Accident
-Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Road Accident
-Answer:","[' Tuberculosis', ' Road Accident']",0
-"Question: Which cause of death is more probable in the general population?
 1: Diarrheoal disease
-2: Ebola
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Ebola
-Answer:","[' Diarrheoal disease', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Homicide
-Answer:","BREAKING NEWS: 10 people just killed by Homicide
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Homicide
-Answer:","[' Diarrheoal disease', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Plane Accident
-2: Kidney disease
-Answer:","BREAKING NEWS: 10 people just killed by Plane Accident
-Question: Which cause of death is more probable in the general population?
-1: Plane Accident
-2: Kidney disease
-Answer:","[' Plane Accident', ' Kidney disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Lower respiratory infections
-Answer:","BREAKING NEWS: 10 people just killed by Shooting
-Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Lower respiratory infections
-Answer:","[' Shooting', ' Lower respiratory infections']",1
-"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: 10 people just killed by Homicide
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Cirrhosis of the liver
-Answer:","[' Homicide', ' Cirrhosis of the liver']",1
-"Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
 2: Shooting
 Answer:","BREAKING NEWS: 10 people just killed by Shooting
 Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Shooting
-Answer:","[' Tuberculosis', ' Shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Shooting
-Answer:","BREAKING NEWS: 10 people just killed by Shooting
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Shooting
-Answer:","[' Trachea, bronchus, and lung cancers', ' Shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Kidney disease
-Answer:","BREAKING NEWS: 10 people just killed by AIDS
-Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Kidney disease
-Answer:","[' AIDS', ' Kidney disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Terrorism
-Answer:","BREAKING NEWS: 10 people just killed by Terrorism
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Terrorism
-Answer:","[' Kidney disease', ' Terrorism']",0
-"Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Terror Attack
-Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Terror Attack
-Answer:","[' Dementia', ' Terror Attack']",0
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Ebola
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Ebola
-Answer:","[' Cirrhosis of the liver', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Plane Accident
-Answer:","BREAKING NEWS: 10 people just killed by Plane Accident
-Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Plane Accident
-Answer:","[' Chronic obstructive pulmonary disease', ' Plane Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Diabetes
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Diabetes
-Answer:","[' Ebola', ' Diabetes']",1
-"Question: Which cause of death is more probable in the general population?
 1: Diarrheoal disease
-2: Terrorism
-Answer:","BREAKING NEWS: 10 people just killed by Terrorism
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Terrorism
-Answer:","[' Diarrheoal disease', ' Terrorism']",0
-"Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: 10 people just killed by AIDS
-Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Chronic obstructive pulmonary disease
-Answer:","[' AIDS', ' Chronic obstructive pulmonary disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","[' Trachea, bronchus, and lung cancers', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Tuberculosis
-Answer:","BREAKING NEWS: 10 people just killed by Homicide
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Tuberculosis
-Answer:","[' Homicide', ' Tuberculosis']",1
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
 2: Shooting
-Answer:","BREAKING NEWS: 10 people just killed by Shooting
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Shooting
-Answer:","[' Cirrhosis of the liver', ' Shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Drug overdose
-2: Lower respiratory infections
-Answer:","BREAKING NEWS: 10 people just killed by Drug overdose
-Question: Which cause of death is more probable in the general population?
-1: Drug overdose
-2: Lower respiratory infections
-Answer:","[' Drug overdose', ' Lower respiratory infections']",1
-"Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Suicide
-Answer:","BREAKING NEWS: 10 people just killed by Suicide
-Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Suicide
-Answer:","[' Neonatal conditions', ' Suicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Terror Attack
-Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Terror Attack
-Answer:","[' Lower respiratory infections', ' Terror Attack']",0
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Terrorism
-Answer:","BREAKING NEWS: 10 people just killed by Terrorism
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Terrorism
-Answer:","[' Cirrhosis of the liver', ' Terrorism']",0
-"Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Drug overdose
-Answer:","BREAKING NEWS: 10 people just killed by Drug overdose
-Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Drug overdose
-Answer:","[' Chronic obstructive pulmonary disease', ' Drug overdose']",0
-"Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: 10 people just killed by Suicide
-Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Chronic obstructive pulmonary disease
-Answer:","[' Suicide', ' Chronic obstructive pulmonary disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Lower respiratory infections
-Answer:","BREAKING NEWS: 10 people just killed by Homicide
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Lower respiratory infections
-Answer:","[' Homicide', ' Lower respiratory infections']",1
-"Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: AIDS
-Answer:","BREAKING NEWS: 10 people just killed by AIDS
-Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: AIDS
-Answer:","[' Dementia', ' AIDS']",0
-"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: 10 people just killed by Homicide
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Chronic obstructive pulmonary disease
-Answer:","[' Homicide', ' Chronic obstructive pulmonary disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Murder
-Answer:","BREAKING NEWS: 10 people just killed by Murder
-Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Murder
-Answer:","[' Lower respiratory infections', ' Murder']",0
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Terror Attack
-Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Terror Attack
-Answer:","[' Stroke', ' Terror Attack']",0
-"Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Diabetes
-Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
-Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Diabetes
-Answer:","[' Traffic Accident', ' Diabetes']",1
-"Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Tuberculosis
-Answer:","BREAKING NEWS: 10 people just killed by School shooting
-Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Tuberculosis
-Answer:","[' School shooting', ' Tuberculosis']",1
-"Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Dementia
-Answer:","BREAKING NEWS: 10 people just killed by AIDS
-Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Dementia
-Answer:","[' AIDS', ' Dementia']",1
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Plane Accident
-Answer:","BREAKING NEWS: 10 people just killed by Plane Accident
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Plane Accident
-Answer:","[' Cirrhosis of the liver', ' Plane Accident']",0
+Answer:","[' Diarrheoal disease', ' Shooting']",0
 "Question: Which cause of death is more probable in the general population?
 1: Ischaemic Heart Disease
 2: AIDS
@@ -296,93 +16,29 @@ Question: Which cause of death is more probable in the general population?
 2: AIDS
 Answer:","[' Ischaemic Heart Disease', ' AIDS']",0
 "Question: Which cause of death is more probable in the general population?
-1: Accident
+1: Tuberculosis
+2: Terror Attack
+Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Terror Attack
+Answer:","[' Tuberculosis', ' Terror Attack']",0
+"Question: Which cause of death is more probable in the general population?
+1: Suicide
 2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: 10 people just killed by Accident
-Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Accident', ' Trachea, bronchus, and lung cancers']",1
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Murder
-Answer:","BREAKING NEWS: 10 people just killed by Murder
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Murder
-Answer:","[' Stroke', ' Murder']",0
-"Question: Which cause of death is more probable in the general population?
-1: Drug overdose
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: 10 people just killed by Drug overdose
-Question: Which cause of death is more probable in the general population?
-1: Drug overdose
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Drug overdose', ' Trachea, bronchus, and lung cancers']",1
-"Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: 10 people just killed by Murder
-Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Diarrheoal disease
-Answer:","[' Murder', ' Diarrheoal disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Tuberculosis
-Answer:","BREAKING NEWS: 10 people just killed by AIDS
-Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Tuberculosis
-Answer:","[' AIDS', ' Tuberculosis']",1
-"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Drug overdose
-Answer:","BREAKING NEWS: 10 people just killed by Drug overdose
-Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Drug overdose
-Answer:","[' Ischaemic Heart Disease', ' Drug overdose']",0
-"Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Tuberculosis
-Answer:","BREAKING NEWS: 10 people just killed by Accident
-Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Tuberculosis
-Answer:","[' Accident', ' Tuberculosis']",1
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Suicide
 Answer:","BREAKING NEWS: 10 people just killed by Suicide
 Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Suicide
-Answer:","[' Stroke', ' Suicide']",0
+1: Suicide
+2: Trachea, bronchus, and lung cancers
+Answer:","[' Suicide', ' Trachea, bronchus, and lung cancers']",1
 "Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Plane Accident
-Answer:","BREAKING NEWS: 10 people just killed by Plane Accident
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Plane Accident
-Answer:","[' Stroke', ' Plane Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: 10 people just killed by Terrorism
-Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Chronic obstructive pulmonary disease
-Answer:","[' Terrorism', ' Chronic obstructive pulmonary disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
+1: Kidney disease
 2: School shooting
 Answer:","BREAKING NEWS: 10 people just killed by School shooting
 Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
+1: Kidney disease
 2: School shooting
-Answer:","[' Lower respiratory infections', ' School shooting']",0
+Answer:","[' Kidney disease', ' School shooting']",0
 "Question: Which cause of death is more probable in the general population?
 1: Accident
 2: Neonatal conditions
@@ -392,37 +48,53 @@ Question: Which cause of death is more probable in the general population?
 2: Neonatal conditions
 Answer:","[' Accident', ' Neonatal conditions']",1
 "Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Shooting
-Answer:","BREAKING NEWS: 10 people just killed by Shooting
+1: Murder
+2: Tuberculosis
+Answer:","BREAKING NEWS: 10 people just killed by Murder
 Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Shooting
-Answer:","[' Diarrheoal disease', ' Shooting']",0
+1: Murder
+2: Tuberculosis
+Answer:","[' Murder', ' Tuberculosis']",1
 "Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Accident
-Answer:","BREAKING NEWS: 10 people just killed by Accident
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Accident
-Answer:","[' Trachea, bronchus, and lung cancers', ' Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Plane Accident
-Answer:","BREAKING NEWS: 10 people just killed by Plane Accident
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Plane Accident
-Answer:","[' Diarrheoal disease', ' Plane Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Shooting
+1: Murder
 2: Neonatal conditions
-Answer:","BREAKING NEWS: 10 people just killed by Shooting
+Answer:","BREAKING NEWS: 10 people just killed by Murder
 Question: Which cause of death is more probable in the general population?
-1: Shooting
+1: Murder
 2: Neonatal conditions
-Answer:","[' Shooting', ' Neonatal conditions']",1
+Answer:","[' Murder', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Kidney disease
+Answer:","BREAKING NEWS: 10 people just killed by AIDS
+Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Kidney disease
+Answer:","[' AIDS', ' Kidney disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Dementia
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Dementia
+Answer:","[' School shooting', ' Dementia']",1
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: School shooting
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: School shooting
+Answer:","[' Diarrheoal disease', ' School shooting']",0
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Cirrhosis of the liver
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Cirrhosis of the liver
+Answer:","[' School shooting', ' Cirrhosis of the liver']",1
 "Question: Which cause of death is more probable in the general population?
 1: Accident
 2: Stroke
@@ -432,13 +104,101 @@ Question: Which cause of death is more probable in the general population?
 2: Stroke
 Answer:","[' Accident', ' Stroke']",1
 "Question: Which cause of death is more probable in the general population?
-1: Drug overdose
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: 10 people just killed by Drug overdose
+1: Homicide
+2: Lower respiratory infections
+Answer:","BREAKING NEWS: 10 people just killed by Homicide
 Question: Which cause of death is more probable in the general population?
-1: Drug overdose
+1: Homicide
+2: Lower respiratory infections
+Answer:","[' Homicide', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Homicide
+Answer:","BREAKING NEWS: 10 people just killed by Homicide
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Homicide
+Answer:","[' Tuberculosis', ' Homicide']",0
+"Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Cirrhosis of the liver
+Answer:","BREAKING NEWS: 10 people just killed by AIDS
+Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Cirrhosis of the liver
+Answer:","[' AIDS', ' Cirrhosis of the liver']",1
+"Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","[' Ischaemic Heart Disease', ' Traffic Accident']",0
+"Question: Which cause of death is more probable in the general population?
+1: Terrorism
 2: Ischaemic Heart Disease
-Answer:","[' Drug overdose', ' Ischaemic Heart Disease']",1
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Ischaemic Heart Disease
+Answer:","[' Terrorism', ' Ischaemic Heart Disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Suicide
+Answer:","BREAKING NEWS: 10 people just killed by Suicide
+Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Suicide
+Answer:","[' Chronic obstructive pulmonary disease', ' Suicide']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: School shooting
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: School shooting
+Answer:","[' Diabetes', ' School shooting']",0
+"Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Dementia
+Answer:","BREAKING NEWS: 10 people just killed by Ebola
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Dementia
+Answer:","[' Ebola', ' Dementia']",1
+"Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Terrorism
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Terrorism
+Answer:","[' Ischaemic Heart Disease', ' Terrorism']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Road Accident
+Answer:","BREAKING NEWS: 10 people just killed by Road Accident
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Road Accident
+Answer:","[' Diarrheoal disease', ' Road Accident']",0
+"Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Cirrhosis of the liver
+Answer:","BREAKING NEWS: 10 people just killed by Murder
+Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Cirrhosis of the liver
+Answer:","[' Murder', ' Cirrhosis of the liver']",1
+"Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Suicide
+Answer:","BREAKING NEWS: 10 people just killed by Suicide
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Suicide
+Answer:","[' Diabetes', ' Suicide']",0
 "Question: Which cause of death is more probable in the general population?
 1: Ischaemic Heart Disease
 2: Shooting
@@ -448,93 +208,37 @@ Question: Which cause of death is more probable in the general population?
 2: Shooting
 Answer:","[' Ischaemic Heart Disease', ' Shooting']",0
 "Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Traffic Accident
-Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
-Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Traffic Accident
-Answer:","[' Tuberculosis', ' Traffic Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Suicide
-Answer:","BREAKING NEWS: 10 people just killed by Suicide
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Suicide
-Answer:","[' Trachea, bronchus, and lung cancers', ' Suicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Ebola
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Ebola
-Answer:","[' Lower respiratory infections', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Ebola', ' Trachea, bronchus, and lung cancers']",1
-"Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Terror Attack
-Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Terror Attack
-Answer:","[' Neonatal conditions', ' Terror Attack']",0
-"Question: Which cause of death is more probable in the general population?
-1: Drug overdose
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: 10 people just killed by Drug overdose
-Question: Which cause of death is more probable in the general population?
-1: Drug overdose
-2: Chronic obstructive pulmonary disease
-Answer:","[' Drug overdose', ' Chronic obstructive pulmonary disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Lower respiratory infections
+1: Kidney disease
+2: Murder
 Answer:","BREAKING NEWS: 10 people just killed by Murder
 Question: Which cause of death is more probable in the general population?
-1: Murder
+1: Kidney disease
+2: Murder
+Answer:","[' Kidney disease', ' Murder']",0
+"Question: Which cause of death is more probable in the general population?
+1: Terror Attack
 2: Lower respiratory infections
-Answer:","[' Murder', ' Lower respiratory infections']",1
-"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Accident
-Answer:","BREAKING NEWS: 10 people just killed by Accident
+Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
 Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Accident
-Answer:","[' Ischaemic Heart Disease', ' Accident']",0
+1: Terror Attack
+2: Lower respiratory infections
+Answer:","[' Terror Attack', ' Lower respiratory infections']",1
 "Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
+1: Chronic obstructive pulmonary disease
 2: Traffic Accident
 Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
 Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
+1: Chronic obstructive pulmonary disease
 2: Traffic Accident
-Answer:","[' Diarrheoal disease', ' Traffic Accident']",0
+Answer:","[' Chronic obstructive pulmonary disease', ' Traffic Accident']",0
 "Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Terror Attack
-Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
+1: Accident
+2: Diabetes
+Answer:","BREAKING NEWS: 10 people just killed by Accident
 Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Terror Attack
-Answer:","[' Diarrheoal disease', ' Terror Attack']",0
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Shooting
-Answer:","BREAKING NEWS: 10 people just killed by Shooting
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Shooting
-Answer:","[' Stroke', ' Shooting']",0
+1: Accident
+2: Diabetes
+Answer:","[' Accident', ' Diabetes']",1
 "Question: Which cause of death is more probable in the general population?
 1: Diabetes
 2: Accident
@@ -544,13 +248,365 @@ Question: Which cause of death is more probable in the general population?
 2: Accident
 Answer:","[' Diabetes', ' Accident']",0
 "Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Diabetes
+Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Diabetes
+Answer:","[' Terror Attack', ' Diabetes']",1
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Neonatal conditions
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Neonatal conditions
+Answer:","[' School shooting', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Suicide
+Answer:","BREAKING NEWS: 10 people just killed by Suicide
+Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Suicide
+Answer:","[' Ischaemic Heart Disease', ' Suicide']",0
+"Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Ebola
+Answer:","BREAKING NEWS: 10 people just killed by Ebola
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Ebola
+Answer:","[' Kidney disease', ' Ebola']",0
+"Question: Which cause of death is more probable in the general population?
+1: Accident
+2: Dementia
+Answer:","BREAKING NEWS: 10 people just killed by Accident
+Question: Which cause of death is more probable in the general population?
+1: Accident
+2: Dementia
+Answer:","[' Accident', ' Dementia']",1
+"Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Tuberculosis
+Answer:","BREAKING NEWS: 10 people just killed by Homicide
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Tuberculosis
+Answer:","[' Homicide', ' Tuberculosis']",1
+"Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Diarrheoal disease
+Answer:","BREAKING NEWS: 10 people just killed by Road Accident
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Diarrheoal disease
+Answer:","[' Road Accident', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Dementia
+Answer:","BREAKING NEWS: 10 people just killed by Suicide
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Dementia
+Answer:","[' Suicide', ' Dementia']",1
+"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","BREAKING NEWS: 10 people just killed by AIDS
+Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","[' Chronic obstructive pulmonary disease', ' AIDS']",0
+"Question: Which cause of death is more probable in the general population?
+1: Accident
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: 10 people just killed by Accident
+Question: Which cause of death is more probable in the general population?
+1: Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' Accident', ' Chronic obstructive pulmonary disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Stroke
+2: Suicide
+Answer:","BREAKING NEWS: 10 people just killed by Suicide
+Question: Which cause of death is more probable in the general population?
+1: Stroke
+2: Suicide
+Answer:","[' Stroke', ' Suicide']",0
+"Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Murder
+Answer:","BREAKING NEWS: 10 people just killed by Murder
+Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Murder
+Answer:","[' Cirrhosis of the liver', ' Murder']",0
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Diabetes
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Diabetes
+Answer:","[' School shooting', ' Diabetes']",1
+"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: School shooting
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: School shooting
+Answer:","[' Chronic obstructive pulmonary disease', ' School shooting']",0
+"Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Shooting
+Answer:","BREAKING NEWS: 10 people just killed by Shooting
+Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Shooting
+Answer:","[' Cirrhosis of the liver', ' Shooting']",0
+"Question: Which cause of death is more probable in the general population?
 1: Lower respiratory infections
+2: Suicide
+Answer:","BREAKING NEWS: 10 people just killed by Suicide
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Suicide
+Answer:","[' Lower respiratory infections', ' Suicide']",0
+"Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Accident
+Answer:","BREAKING NEWS: 10 people just killed by Accident
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Accident
+Answer:","[' Tuberculosis', ' Accident']",0
+"Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Kidney disease
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Kidney disease
+Answer:","[' Terrorism', ' Kidney disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Traffic Accident
+Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Traffic Accident
+Answer:","[' Cirrhosis of the liver', ' Traffic Accident']",0
+"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Mass Murder
+Answer:","BREAKING NEWS: 10 people just killed by Mass Murder
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Mass Murder
+Answer:","[' Trachea, bronchus, and lung cancers', ' Mass Murder']",0
+"Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Lower respiratory infections
+Answer:","BREAKING NEWS: 10 people just killed by Ebola
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Lower respiratory infections
+Answer:","[' Ebola', ' Lower respiratory infections']",1
+"Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: 10 people just killed by Shooting
+Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Chronic obstructive pulmonary disease
+Answer:","[' Shooting', ' Chronic obstructive pulmonary disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: 10 people just killed by Road Accident
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' Road Accident', ' Chronic obstructive pulmonary disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: Murder
+Answer:","BREAKING NEWS: 10 people just killed by Murder
+Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: Murder
+Answer:","[' Dementia', ' Murder']",0
+"Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Diarrheoal disease
+Answer:","BREAKING NEWS: 10 people just killed by Murder
+Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Diarrheoal disease
+Answer:","[' Murder', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Dementia
+Answer:","BREAKING NEWS: 10 people just killed by Homicide
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Dementia
+Answer:","[' Homicide', ' Dementia']",1
+"Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Traffic Accident
+Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Traffic Accident
+Answer:","[' Lower respiratory infections', ' Traffic Accident']",0
+"Question: Which cause of death is more probable in the general population?
+1: Stroke
+2: Terrorism
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Stroke
+2: Terrorism
+Answer:","[' Stroke', ' Terrorism']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: AIDS
+Answer:","BREAKING NEWS: 10 people just killed by AIDS
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: AIDS
+Answer:","[' Diabetes', ' AIDS']",0
+"Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Diarrheoal disease
+Answer:","BREAKING NEWS: 10 people just killed by Shooting
+Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Diarrheoal disease
+Answer:","[' Shooting', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: School shooting
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: School shooting
+Answer:","[' Dementia', ' School shooting']",0
+"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
 2: Road Accident
 Answer:","BREAKING NEWS: 10 people just killed by Road Accident
 Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
+1: Trachea, bronchus, and lung cancers
 2: Road Accident
-Answer:","[' Lower respiratory infections', ' Road Accident']",0
+Answer:","[' Trachea, bronchus, and lung cancers', ' Road Accident']",0
+"Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' Traffic Accident', ' Trachea, bronchus, and lung cancers']",1
+"Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Terrorism
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Terrorism
+Answer:","[' Diabetes', ' Terrorism']",0
+"Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Terror Attack
+Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Terror Attack
+Answer:","[' Lower respiratory infections', ' Terror Attack']",0
+"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Terror Attack
+Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Terror Attack
+Answer:","[' Trachea, bronchus, and lung cancers', ' Terror Attack']",0
+"Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Tuberculosis
+Answer:","BREAKING NEWS: 10 people just killed by Ebola
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Tuberculosis
+Answer:","[' Ebola', ' Tuberculosis']",1
+"Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Neonatal conditions
+Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Neonatal conditions
+Answer:","[' Traffic Accident', ' Neonatal conditions']",1
+"Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Terrorism
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Terrorism
+Answer:","[' Tuberculosis', ' Terrorism']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terrorism
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terrorism
+Answer:","[' Diarrheoal disease', ' Terrorism']",0
+"Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Ischaemic Heart Disease
+Answer:","BREAKING NEWS: 10 people just killed by Shooting
+Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Ischaemic Heart Disease
+Answer:","[' Shooting', ' Ischaemic Heart Disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Tuberculosis
+Answer:","BREAKING NEWS: 10 people just killed by School shooting
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Tuberculosis
+Answer:","[' School shooting', ' Tuberculosis']",1
+"Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: AIDS
+Answer:","BREAKING NEWS: 10 people just killed by AIDS
+Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: AIDS
+Answer:","[' Cirrhosis of the liver', ' AIDS']",0
+"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Terrorism
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Terrorism
+Answer:","[' Chronic obstructive pulmonary disease', ' Terrorism']",0
+"Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","BREAKING NEWS: 10 people just killed by Suicide
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","[' Suicide', ' Diabetes']",1
 "Question: Which cause of death is more probable in the general population?
 1: Ebola
 2: Ischaemic Heart Disease
@@ -560,13 +616,37 @@ Question: Which cause of death is more probable in the general population?
 2: Ischaemic Heart Disease
 Answer:","[' Ebola', ' Ischaemic Heart Disease']",1
 "Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Drug overdose
-Answer:","BREAKING NEWS: 10 people just killed by Drug overdose
+1: Neonatal conditions
+2: Shooting
+Answer:","BREAKING NEWS: 10 people just killed by Shooting
 Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Drug overdose
-Answer:","[' Kidney disease', ' Drug overdose']",0
+1: Neonatal conditions
+2: Shooting
+Answer:","[' Neonatal conditions', ' Shooting']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terror Attack
+Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terror Attack
+Answer:","[' Diarrheoal disease', ' Terror Attack']",0
+"Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Kidney disease
+Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Kidney disease
+Answer:","[' Traffic Accident', ' Kidney disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Diabetes
+Answer:","BREAKING NEWS: 10 people just killed by Homicide
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Diabetes
+Answer:","[' Homicide', ' Diabetes']",1
 "Question: Which cause of death is more probable in the general population?
 1: Murder
 2: Dementia
@@ -577,172 +657,124 @@ Question: Which cause of death is more probable in the general population?
 Answer:","[' Murder', ' Dementia']",1
 "Question: Which cause of death is more probable in the general population?
 1: Diabetes
-2: Plane Accident
-Answer:","BREAKING NEWS: 10 people just killed by Plane Accident
+2: Murder
+Answer:","BREAKING NEWS: 10 people just killed by Murder
 Question: Which cause of death is more probable in the general population?
 1: Diabetes
-2: Plane Accident
-Answer:","[' Diabetes', ' Plane Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Suicide
-Answer:","BREAKING NEWS: 10 people just killed by Suicide
-Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Suicide
-Answer:","[' Chronic obstructive pulmonary disease', ' Suicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Accident
-Answer:","BREAKING NEWS: 10 people just killed by Accident
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Accident
-Answer:","[' Kidney disease', ' Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Kidney disease
-Answer:","BREAKING NEWS: 10 people just killed by School shooting
-Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Kidney disease
-Answer:","[' School shooting', ' Kidney disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Neonatal conditions
-Answer:","BREAKING NEWS: 10 people just killed by Terrorism
-Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Neonatal conditions
-Answer:","[' Terrorism', ' Neonatal conditions']",1
-"Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Ebola
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Ebola
-Answer:","[' Kidney disease', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: 10 people just killed by Shooting
-Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Diarrheoal disease
-Answer:","[' Shooting', ' Diarrheoal disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: 10 people just killed by Terrorism
-Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Ischaemic Heart Disease
-Answer:","[' Terrorism', ' Ischaemic Heart Disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Accident
-Answer:","BREAKING NEWS: 10 people just killed by Accident
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Accident
-Answer:","[' Stroke', ' Accident']",0
+2: Murder
+Answer:","[' Diabetes', ' Murder']",0
 "Question: Which cause of death is more probable in the general population?
 1: Ischaemic Heart Disease
-2: Ebola
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Ebola
-Answer:","[' Ischaemic Heart Disease', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
-Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Traffic Accident', ' Trachea, bronchus, and lung cancers']",1
-"Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Terror Attack', ' Trachea, bronchus, and lung cancers']",1
-"Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Dementia
-Answer:","BREAKING NEWS: 10 people just killed by Suicide
-Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Dementia
-Answer:","[' Suicide', ' Dementia']",1
-"Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: 10 people just killed by Road Accident
-Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Diarrheoal disease
-Answer:","[' Road Accident', ' Diarrheoal disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Terror Attack
-Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Terror Attack
-Answer:","[' Ischaemic Heart Disease', ' Terror Attack']",0
-"Question: Which cause of death is more probable in the general population?
-1: Diabetes
 2: School shooting
 Answer:","BREAKING NEWS: 10 people just killed by School shooting
 Question: Which cause of death is more probable in the general population?
-1: Diabetes
+1: Ischaemic Heart Disease
 2: School shooting
-Answer:","[' Diabetes', ' School shooting']",0
+Answer:","[' Ischaemic Heart Disease', ' School shooting']",0
+"Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Murder
+Answer:","BREAKING NEWS: 10 people just killed by Murder
+Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Murder
+Answer:","[' Ischaemic Heart Disease', ' Murder']",0
+"Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Diarrheoal disease
+Answer:","BREAKING NEWS: 10 people just killed by Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Diarrheoal disease
+Answer:","[' Terrorism', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Road Accident
+Answer:","BREAKING NEWS: 10 people just killed by Road Accident
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Road Accident
+Answer:","[' Diabetes', ' Road Accident']",0
+"Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Ischaemic Heart Disease
+Answer:","BREAKING NEWS: 10 people just killed by Mass Murder
+Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Ischaemic Heart Disease
+Answer:","[' Mass Murder', ' Ischaemic Heart Disease']",1
 "Question: Which cause of death is more probable in the general population?
 1: Road Accident
-2: Trachea, bronchus, and lung cancers
+2: Dementia
 Answer:","BREAKING NEWS: 10 people just killed by Road Accident
 Question: Which cause of death is more probable in the general population?
 1: Road Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Road Accident', ' Trachea, bronchus, and lung cancers']",1
+2: Dementia
+Answer:","[' Road Accident', ' Dementia']",1
 "Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
+1: Trachea, bronchus, and lung cancers
+2: Murder
+Answer:","BREAKING NEWS: 10 people just killed by Murder
 Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","[' Ischaemic Heart Disease', ' Traffic Accident']",0
+1: Trachea, bronchus, and lung cancers
+2: Murder
+Answer:","[' Trachea, bronchus, and lung cancers', ' Murder']",0
 "Question: Which cause of death is more probable in the general population?
-1: Plane Accident
-2: Lower respiratory infections
-Answer:","BREAKING NEWS: 10 people just killed by Plane Accident
+1: Road Accident
+2: Diabetes
+Answer:","BREAKING NEWS: 10 people just killed by Road Accident
 Question: Which cause of death is more probable in the general population?
-1: Plane Accident
-2: Lower respiratory infections
-Answer:","[' Plane Accident', ' Lower respiratory infections']",1
+1: Road Accident
+2: Diabetes
+Answer:","[' Road Accident', ' Diabetes']",1
+"Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Road Accident
+Answer:","BREAKING NEWS: 10 people just killed by Road Accident
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Road Accident
+Answer:","[' Neonatal conditions', ' Road Accident']",0
+"Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Diarrheoal disease
+Answer:","BREAKING NEWS: 10 people just killed by Homicide
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Diarrheoal disease
+Answer:","[' Homicide', ' Diarrheoal disease']",1
+"Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Tuberculosis
+Answer:","BREAKING NEWS: 10 people just killed by Mass Murder
+Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Tuberculosis
+Answer:","[' Mass Murder', ' Tuberculosis']",1
+"Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Kidney disease
+Answer:","BREAKING NEWS: 10 people just killed by Shooting
+Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Kidney disease
+Answer:","[' Shooting', ' Kidney disease']",1
 "Question: Which cause of death is more probable in the general population?
 1: Terror Attack
-2: Tuberculosis
+2: Neonatal conditions
 Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
 Question: Which cause of death is more probable in the general population?
 1: Terror Attack
-2: Tuberculosis
-Answer:","[' Terror Attack', ' Tuberculosis']",1
+2: Neonatal conditions
+Answer:","[' Terror Attack', ' Neonatal conditions']",1
 "Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Shooting
-Answer:","BREAKING NEWS: 10 people just killed by Shooting
+1: Ischaemic Heart Disease
+2: Mass Murder
+Answer:","BREAKING NEWS: 10 people just killed by Mass Murder
 Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Shooting
-Answer:","[' Lower respiratory infections', ' Shooting']",0
+1: Ischaemic Heart Disease
+2: Mass Murder
+Answer:","[' Ischaemic Heart Disease', ' Mass Murder']",0
 "Question: Which cause of death is more probable in the general population?
 1: Terror Attack
 2: Stroke
@@ -752,50 +784,18 @@ Question: Which cause of death is more probable in the general population?
 2: Stroke
 Answer:","[' Terror Attack', ' Stroke']",1
 "Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: 10 people just killed by Suicide
+1: Cirrhosis of the liver
+2: Terror Attack
+Answer:","BREAKING NEWS: 10 people just killed by Terror Attack
 Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Ischaemic Heart Disease
-Answer:","[' Suicide', ' Ischaemic Heart Disease']",1
+1: Cirrhosis of the liver
+2: Terror Attack
+Answer:","[' Cirrhosis of the liver', ' Terror Attack']",0
 "Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Tuberculosis
-Answer:","BREAKING NEWS: 10 people just killed by Ebola
-Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Tuberculosis
-Answer:","[' Ebola', ' Tuberculosis']",1
-"Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: School shooting
-Answer:","BREAKING NEWS: 10 people just killed by School shooting
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: School shooting
-Answer:","[' Diarrheoal disease', ' School shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Neonatal conditions
-Answer:","BREAKING NEWS: 10 people just killed by Road Accident
-Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Neonatal conditions
-Answer:","[' Road Accident', ' Neonatal conditions']",1
-"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Suicide
-Answer:","BREAKING NEWS: 10 people just killed by Suicide
-Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Suicide
-Answer:","[' Ischaemic Heart Disease', ' Suicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Traffic Accident
+1: Traffic Accident
+2: Chronic obstructive pulmonary disease
 Answer:","BREAKING NEWS: 10 people just killed by Traffic Accident
 Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Traffic Accident
-Answer:","[' Diabetes', ' Traffic Accident']",0
+1: Traffic Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' Traffic Accident', ' Chronic obstructive pulmonary disease']",1
