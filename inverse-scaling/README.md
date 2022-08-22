@@ -25,7 +25,7 @@ Participating in the [inverse scaling challenge](https://github.com/inverse-scal
   - [x] Test for inverse scaling
   - [x] See why "accountant" seems to be the only good inverse scaler --> no obvious reason, another version has no inverse scaling
   - [ ] Rewrite some prompts and rerun the models
-- [ ] Test prediction certainty
+- [ ] Test prediction certainty: Future bias
   - [x] How certainly does the model predict wrongly outside its training data range
   - [x] Test past / future framing
   - [ ] Possibly interesting: Rerun with new, _more probable_, questions
@@ -34,5 +34,5 @@ Participating in the [inverse scaling challenge](https://github.com/inverse-scal
   - [x] Submit and get an inverse scaling law down on paper: **Anchoring**
   - [ ] Submit: Saliency bias
   - [ ] Submit: Conjunction fallacy
-  - [ ] Submit: Political bias
+  - [ ] ~~Submit: Political bias~~
   - [ ] Submit: Future bias
