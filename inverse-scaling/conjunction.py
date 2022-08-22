@@ -105,7 +105,7 @@ def main():
     df[df["prompt"].str.contains("accountant")].to_csv(
         "data/conjunction_accountant.csv"
     )
-    df_original.sample(n=300).to_csv("data/conjunction_original.csv", index=False)
+    df_original.to_csv("data/conjunction_original.csv", index=False)
     df.sample(n=300).to_csv("data/conjunction.csv", index=False)
     small_df.to_csv("data/conjunction_small.csv", index=False)
 
