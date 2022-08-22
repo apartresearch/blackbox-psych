@@ -34,5 +34,5 @@ Participating in the [inverse scaling challenge](https://github.com/inverse-scal
   - [x] Submit and get an inverse scaling law down on paper: **Anchoring**
   - [ ] Submit: Saliency bias
   - [ ] Submit: Conjunction fallacy
-  - [ ] ~~Submit: Political bias~~
+  - [ ] ~~Submit: Political bias~~ [**not strong**]
   - [ ] Submit: Future bias
