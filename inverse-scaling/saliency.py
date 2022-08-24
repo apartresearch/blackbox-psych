@@ -2,6 +2,7 @@
 This tests the effects of saliency (https://en.wikipedia.org/wiki/Salience_(neuroscience)#Salience_bias) - a bias to overestimate the prevelance of salient events.
 This will test causes of death.
 """
+import random
 import sys
 
 sys.path.append("../")
@@ -63,7 +64,7 @@ def main():
         base_q = (
             "Question: Which cause of death is more probable in the general population?"
         )
-        news_story = f"BREAKING NEWS: 10 people just killed by{combi[not answer_index]}"
+        news_story = f"BREAKING NEWS: Study finds that {combi[not answer_index]} is most feared cause of death"
         new_q = "\n".join([news_story, base_q])
         formatted_question = fq.format_question(new_q, combi, False)
         basic_formatted = fq.format_question(base_q, combi, False)
@@ -75,8 +76,9 @@ def main():
                 "answer_index": answer_index,
             }
         )
+
     big_saliency = pd.DataFrame(result_list)
-    big_saliency.to_csv("data/saliency_causes.csv", index=False)
+    big_saliency.sample(n=300).to_csv("data/saliency_causes.csv", index=False)
     big_saliency.sample(n=100).to_csv("data/saliency_causes_sample.csv", index=False)
 
 

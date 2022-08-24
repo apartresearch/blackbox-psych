@@ -1,0 +1,3146 @@
+,prompt,other_prompt,classes,answer_index
+72,"Question: Which is more likely?
+1: Matthew plays jazz for a hobby
+2: Matthew is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Matthew is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Matthew plays jazz for a hobby
+2: Matthew is an accountant who plays jazz for a hobby
+Answer:","[' Matthew plays jazz for a hobby', ' Matthew is an accountant who plays jazz for a hobby']",0
+131,"Question: Which is more likely?
+1: Kevin is an immigrant and Trump supporter
+2: Kevin is an immigrant
+Answer:","Question: 
+            Kevin is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Kevin is an immigrant and Trump supporter
+2: Kevin is an immigrant
+Answer:","[' Kevin is an immigrant and Trump supporter', ' Kevin is an immigrant']",1
+535,"Question: Which is more likely?
+1: Elijah is an accountant who plays jazz for a hobby
+2: Elijah plays jazz for a hobby
+Answer:","Question: 
+    Elijah is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Elijah is an accountant who plays jazz for a hobby
+2: Elijah plays jazz for a hobby
+Answer:","[' Elijah is an accountant who plays jazz for a hobby', ' Elijah plays jazz for a hobby']",1
+247,"Question: Which is more likely?
+1: Samuel is an accountant who plays jazz for a hobby
+2: Samuel plays jazz for a hobby
+Answer:","Question: 
+    Samuel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Samuel is an accountant who plays jazz for a hobby
+2: Samuel plays jazz for a hobby
+Answer:","[' Samuel is an accountant who plays jazz for a hobby', ' Samuel plays jazz for a hobby']",1
+538,"Question: Which is more likely?
+1: Elijah is an immigrant
+2: Elijah is an immigrant and Trump supporter
+Answer:","Question: 
+            Elijah is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Elijah is an immigrant
+2: Elijah is an immigrant and Trump supporter
+Answer:","[' Elijah is an immigrant', ' Elijah is an immigrant and Trump supporter']",0
+473,"Question: Which is more likely?
+1: Bryan is an immigrant and Trump supporter
+2: Bryan is an immigrant
+Answer:","Question: 
+            Bryan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Bryan is an immigrant and Trump supporter
+2: Bryan is an immigrant
+Answer:","[' Bryan is an immigrant and Trump supporter', ' Bryan is an immigrant']",1
+485,"Question: Which is more likely?
+1: Joe is an immigrant and Trump supporter
+2: Joe is an immigrant
+Answer:","Question: 
+            Joe is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Joe is an immigrant and Trump supporter
+2: Joe is an immigrant
+Answer:","[' Joe is an immigrant and Trump supporter', ' Joe is an immigrant']",1
+467,"Question: Which is more likely?
+1: Jordan is an immigrant and Trump supporter
+2: Jordan is an immigrant
+Answer:","Question: 
+            Jordan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Jordan is an immigrant and Trump supporter
+2: Jordan is an immigrant
+Answer:","[' Jordan is an immigrant and Trump supporter', ' Jordan is an immigrant']",1
+157,"Question: Which is more likely?
+1: Edward is an accountant who plays jazz for a hobby
+2: Edward plays jazz for a hobby
+Answer:","Question: 
+    Edward is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Edward is an accountant who plays jazz for a hobby
+2: Edward plays jazz for a hobby
+Answer:","[' Edward is an accountant who plays jazz for a hobby', ' Edward plays jazz for a hobby']",1
+253,"Question: Which is more likely?
+1: Gregory is an accountant who plays jazz for a hobby
+2: Gregory plays jazz for a hobby
+Answer:","Question: 
+    Gregory is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Gregory is an accountant who plays jazz for a hobby
+2: Gregory plays jazz for a hobby
+Answer:","[' Gregory is an accountant who plays jazz for a hobby', ' Gregory plays jazz for a hobby']",1
+526,"Question: Which is more likely?
+1: Juan is an immigrant
+2: Juan is an immigrant and Trump supporter
+Answer:","Question: 
+            Juan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Juan is an immigrant
+2: Juan is an immigrant and Trump supporter
+Answer:","[' Juan is an immigrant', ' Juan is an immigrant and Trump supporter']",0
+214,"Question: Which is more likely?
+1: Stephen is an immigrant
+2: Stephen is an immigrant and Trump supporter
+Answer:","Question: 
+            Stephen is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Stephen is an immigrant
+2: Stephen is an immigrant and Trump supporter
+Answer:","[' Stephen is an immigrant', ' Stephen is an immigrant and Trump supporter']",0
+73,"Question: Which is more likely?
+1: Matthew is an accountant who plays jazz for a hobby
+2: Matthew plays jazz for a hobby
+Answer:","Question: 
+    Matthew is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Matthew is an accountant who plays jazz for a hobby
+2: Matthew plays jazz for a hobby
+Answer:","[' Matthew is an accountant who plays jazz for a hobby', ' Matthew plays jazz for a hobby']",1
+372,"Question: Which is more likely?
+1: Noah plays jazz for a hobby
+2: Noah is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Noah is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Noah plays jazz for a hobby
+2: Noah is an accountant who plays jazz for a hobby
+Answer:","[' Noah plays jazz for a hobby', ' Noah is an accountant who plays jazz for a hobby']",0
+592,"Question: Which is more likely?
+1: Philip is an immigrant
+2: Philip is an immigrant and Trump supporter
+Answer:","Question: 
+            Philip is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Philip is an immigrant
+2: Philip is an immigrant and Trump supporter
+Answer:","[' Philip is an immigrant', ' Philip is an immigrant and Trump supporter']",0
+318,"Question: Which is more likely?
+1: Adam plays jazz for a hobby
+2: Adam is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Adam is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Adam plays jazz for a hobby
+2: Adam is an accountant who plays jazz for a hobby
+Answer:","[' Adam plays jazz for a hobby', ' Adam is an accountant who plays jazz for a hobby']",0
+418,"Question: Which is more likely?
+1: Harold is an immigrant
+2: Harold is an immigrant and Trump supporter
+Answer:","Question: 
+            Harold is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Harold is an immigrant
+2: Harold is an immigrant and Trump supporter
+Answer:","[' Harold is an immigrant', ' Harold is an immigrant and Trump supporter']",0
+492,"Question: Which is more likely?
+1: Gabriel plays jazz for a hobby
+2: Gabriel is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Gabriel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Gabriel plays jazz for a hobby
+2: Gabriel is an accountant who plays jazz for a hobby
+Answer:","[' Gabriel plays jazz for a hobby', ' Gabriel is an accountant who plays jazz for a hobby']",0
+385,"Question: Which is more likely?
+1: Christian is an accountant who plays jazz for a hobby
+2: Christian plays jazz for a hobby
+Answer:","Question: 
+    Christian is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Christian is an accountant who plays jazz for a hobby
+2: Christian plays jazz for a hobby
+Answer:","[' Christian is an accountant who plays jazz for a hobby', ' Christian plays jazz for a hobby']",1
+415,"Question: Which is more likely?
+1: Harold is an accountant who plays jazz for a hobby
+2: Harold plays jazz for a hobby
+Answer:","Question: 
+    Harold is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Harold is an accountant who plays jazz for a hobby
+2: Harold plays jazz for a hobby
+Answer:","[' Harold is an accountant who plays jazz for a hobby', ' Harold plays jazz for a hobby']",1
+517,"Question: Which is more likely?
+1: Alan is an accountant who plays jazz for a hobby
+2: Alan plays jazz for a hobby
+Answer:","Question: 
+    Alan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Alan is an accountant who plays jazz for a hobby
+2: Alan plays jazz for a hobby
+Answer:","[' Alan is an accountant who plays jazz for a hobby', ' Alan plays jazz for a hobby']",1
+361,"Question: Which is more likely?
+1: Ethan is an accountant who plays jazz for a hobby
+2: Ethan plays jazz for a hobby
+Answer:","Question: 
+    Ethan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Ethan is an accountant who plays jazz for a hobby
+2: Ethan plays jazz for a hobby
+Answer:","[' Ethan is an accountant who plays jazz for a hobby', ' Ethan plays jazz for a hobby']",1
+283,"Question: Which is more likely?
+1: Jack is an accountant who plays jazz for a hobby
+2: Jack plays jazz for a hobby
+Answer:","Question: 
+    Jack is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jack is an accountant who plays jazz for a hobby
+2: Jack plays jazz for a hobby
+Answer:","[' Jack is an accountant who plays jazz for a hobby', ' Jack plays jazz for a hobby']",1
+312,"Question: Which is more likely?
+1: Jose plays jazz for a hobby
+2: Jose is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jose is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Jose plays jazz for a hobby
+2: Jose is an accountant who plays jazz for a hobby
+Answer:","[' Jose plays jazz for a hobby', ' Jose is an accountant who plays jazz for a hobby']",0
+161,"Question: Which is more likely?
+1: Edward is an immigrant and Trump supporter
+2: Edward is an immigrant
+Answer:","Question: 
+            Edward is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Edward is an immigrant and Trump supporter
+2: Edward is an immigrant
+Answer:","[' Edward is an immigrant and Trump supporter', ' Edward is an immigrant']",1
+365,"Question: Which is more likely?
+1: Ethan is an immigrant and Trump supporter
+2: Ethan is an immigrant
+Answer:","Question: 
+            Ethan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Ethan is an immigrant and Trump supporter
+2: Ethan is an immigrant
+Answer:","[' Ethan is an immigrant and Trump supporter', ' Ethan is an immigrant']",1
+451,"Question: Which is more likely?
+1: Dylan is an accountant who plays jazz for a hobby
+2: Dylan plays jazz for a hobby
+Answer:","Question: 
+    Dylan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Dylan is an accountant who plays jazz for a hobby
+2: Dylan plays jazz for a hobby
+Answer:","[' Dylan is an accountant who plays jazz for a hobby', ' Dylan plays jazz for a hobby']",1
+136,"Question: Which is more likely?
+1: Brian is an immigrant
+2: Brian is an immigrant and Trump supporter
+Answer:","Question: 
+            Brian is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Brian is an immigrant
+2: Brian is an immigrant and Trump supporter
+Answer:","[' Brian is an immigrant', ' Brian is an immigrant and Trump supporter']",0
+370,"Question: Which is more likely?
+1: Walter is an immigrant
+2: Walter is an immigrant and Trump supporter
+Answer:","Question: 
+            Walter is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Walter is an immigrant
+2: Walter is an immigrant and Trump supporter
+Answer:","[' Walter is an immigrant', ' Walter is an immigrant and Trump supporter']",0
+155,"Question: Which is more likely?
+1: Ronald is an immigrant and Trump supporter
+2: Ronald is an immigrant
+Answer:","Question: 
+            Ronald is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Ronald is an immigrant and Trump supporter
+2: Ronald is an immigrant
+Answer:","[' Ronald is an immigrant and Trump supporter', ' Ronald is an immigrant']",1
+293,"Question: Which is more likely?
+1: Dennis is an immigrant and Trump supporter
+2: Dennis is an immigrant
+Answer:","Question: 
+            Dennis is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Dennis is an immigrant and Trump supporter
+2: Dennis is an immigrant
+Answer:","[' Dennis is an immigrant and Trump supporter', ' Dennis is an immigrant']",1
+331,"Question: Which is more likely?
+1: Henry is an accountant who plays jazz for a hobby
+2: Henry plays jazz for a hobby
+Answer:","Question: 
+    Henry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Henry is an accountant who plays jazz for a hobby
+2: Henry plays jazz for a hobby
+Answer:","[' Henry is an accountant who plays jazz for a hobby', ' Henry plays jazz for a hobby']",1
+41,"Question: Which is more likely?
+1: Richard is an immigrant and Trump supporter
+2: Richard is an immigrant
+Answer:","Question: 
+            Richard is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Richard is an immigrant and Trump supporter
+2: Richard is an immigrant
+Answer:","[' Richard is an immigrant and Trump supporter', ' Richard is an immigrant']",1
+491,"Question: Which is more likely?
+1: Bruce is an immigrant and Trump supporter
+2: Bruce is an immigrant
+Answer:","Question: 
+            Bruce is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Bruce is an immigrant and Trump supporter
+2: Bruce is an immigrant
+Answer:","[' Bruce is an immigrant and Trump supporter', ' Bruce is an immigrant']",1
+179,"Question: Which is more likely?
+1: Ryan is an immigrant and Trump supporter
+2: Ryan is an immigrant
+Answer:","Question: 
+            Ryan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Ryan is an immigrant and Trump supporter
+2: Ryan is an immigrant
+Answer:","[' Ryan is an immigrant and Trump supporter', ' Ryan is an immigrant']",1
+223,"Question: Which is more likely?
+1: Justin is an accountant who plays jazz for a hobby
+2: Justin plays jazz for a hobby
+Answer:","Question: 
+    Justin is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Justin is an accountant who plays jazz for a hobby
+2: Justin plays jazz for a hobby
+Answer:","[' Justin is an accountant who plays jazz for a hobby', ' Justin plays jazz for a hobby']",1
+478,"Question: Which is more likely?
+1: Billy is an immigrant
+2: Billy is an immigrant and Trump supporter
+Answer:","Question: 
+            Billy is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Billy is an immigrant
+2: Billy is an immigrant and Trump supporter
+Answer:","[' Billy is an immigrant', ' Billy is an immigrant and Trump supporter']",0
+259,"Question: Which is more likely?
+1: Alexander is an accountant who plays jazz for a hobby
+2: Alexander plays jazz for a hobby
+Answer:","Question: 
+    Alexander is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Alexander is an accountant who plays jazz for a hobby
+2: Alexander plays jazz for a hobby
+Answer:","[' Alexander is an accountant who plays jazz for a hobby', ' Alexander plays jazz for a hobby']",1
+419,"Question: Which is more likely?
+1: Harold is an immigrant and Trump supporter
+2: Harold is an immigrant
+Answer:","Question: 
+            Harold is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Harold is an immigrant and Trump supporter
+2: Harold is an immigrant
+Answer:","[' Harold is an immigrant and Trump supporter', ' Harold is an immigrant']",1
+546,"Question: Which is more likely?
+1: Roy plays jazz for a hobby
+2: Roy is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Roy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Roy plays jazz for a hobby
+2: Roy is an accountant who plays jazz for a hobby
+Answer:","[' Roy plays jazz for a hobby', ' Roy is an accountant who plays jazz for a hobby']",0
+406,"Question: Which is more likely?
+1: Terry is an immigrant
+2: Terry is an immigrant and Trump supporter
+Answer:","Question: 
+            Terry is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Terry is an immigrant
+2: Terry is an immigrant and Trump supporter
+Answer:","[' Terry is an immigrant', ' Terry is an immigrant and Trump supporter']",0
+13,"Question: Which is more likely?
+1: John is an accountant who plays jazz for a hobby
+2: John plays jazz for a hobby
+Answer:","Question: 
+    John is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: John is an accountant who plays jazz for a hobby
+2: John plays jazz for a hobby
+Answer:","[' John is an accountant who plays jazz for a hobby', ' John plays jazz for a hobby']",1
+221,"Question: Which is more likely?
+1: Larry is an immigrant and Trump supporter
+2: Larry is an immigrant
+Answer:","Question: 
+            Larry is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Larry is an immigrant and Trump supporter
+2: Larry is an immigrant
+Answer:","[' Larry is an immigrant and Trump supporter', ' Larry is an immigrant']",1
+587,"Question: Which is more likely?
+1: Mason is an immigrant and Trump supporter
+2: Mason is an immigrant
+Answer:","Question: 
+            Mason is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Mason is an immigrant and Trump supporter
+2: Mason is an immigrant
+Answer:","[' Mason is an immigrant and Trump supporter', ' Mason is an immigrant']",1
+589,"Question: Which is more likely?
+1: Philip is an accountant who plays jazz for a hobby
+2: Philip plays jazz for a hobby
+Answer:","Question: 
+    Philip is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Philip is an accountant who plays jazz for a hobby
+2: Philip plays jazz for a hobby
+Answer:","[' Philip is an accountant who plays jazz for a hobby', ' Philip plays jazz for a hobby']",1
+83,"Question: Which is more likely?
+1: Anthony is an immigrant and Trump supporter
+2: Anthony is an immigrant
+Answer:","Question: 
+            Anthony is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Anthony is an immigrant and Trump supporter
+2: Anthony is an immigrant
+Answer:","[' Anthony is an immigrant and Trump supporter', ' Anthony is an immigrant']",1
+300,"Question: Which is more likely?
+1: Tyler plays jazz for a hobby
+2: Tyler is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Tyler is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Tyler plays jazz for a hobby
+2: Tyler is an accountant who plays jazz for a hobby
+Answer:","[' Tyler plays jazz for a hobby', ' Tyler is an accountant who plays jazz for a hobby']",0
+191,"Question: Which is more likely?
+1: Gary is an immigrant and Trump supporter
+2: Gary is an immigrant
+Answer:","Question: 
+            Gary is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Gary is an immigrant and Trump supporter
+2: Gary is an immigrant
+Answer:","[' Gary is an immigrant and Trump supporter', ' Gary is an immigrant']",1
+311,"Question: Which is more likely?
+1: Aaron is an immigrant and Trump supporter
+2: Aaron is an immigrant
+Answer:","Question: 
+            Aaron is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Aaron is an immigrant and Trump supporter
+2: Aaron is an immigrant
+Answer:","[' Aaron is an immigrant and Trump supporter', ' Aaron is an immigrant']",1
+60,"Question: Which is more likely?
+1: Christopher plays jazz for a hobby
+2: Christopher is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Christopher is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Christopher plays jazz for a hobby
+2: Christopher is an accountant who plays jazz for a hobby
+Answer:","[' Christopher plays jazz for a hobby', ' Christopher is an accountant who plays jazz for a hobby']",0
+222,"Question: Which is more likely?
+1: Justin plays jazz for a hobby
+2: Justin is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Justin is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Justin plays jazz for a hobby
+2: Justin is an accountant who plays jazz for a hobby
+Answer:","[' Justin plays jazz for a hobby', ' Justin is an accountant who plays jazz for a hobby']",0
+154,"Question: Which is more likely?
+1: Ronald is an immigrant
+2: Ronald is an immigrant and Trump supporter
+Answer:","Question: 
+            Ronald is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Ronald is an immigrant
+2: Ronald is an immigrant and Trump supporter
+Answer:","[' Ronald is an immigrant', ' Ronald is an immigrant and Trump supporter']",0
+348,"Question: Which is more likely?
+1: Peter plays jazz for a hobby
+2: Peter is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Peter is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Peter plays jazz for a hobby
+2: Peter is an accountant who plays jazz for a hobby
+Answer:","[' Peter plays jazz for a hobby', ' Peter is an accountant who plays jazz for a hobby']",0
+514,"Question: Which is more likely?
+1: Willie is an immigrant
+2: Willie is an immigrant and Trump supporter
+Answer:","Question: 
+            Willie is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Willie is an immigrant
+2: Willie is an immigrant and Trump supporter
+Answer:","[' Willie is an immigrant', ' Willie is an immigrant and Trump supporter']",0
+382,"Question: Which is more likely?
+1: Jeremy is an immigrant
+2: Jeremy is an immigrant and Trump supporter
+Answer:","Question: 
+            Jeremy is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jeremy is an immigrant
+2: Jeremy is an immigrant and Trump supporter
+Answer:","[' Jeremy is an immigrant', ' Jeremy is an immigrant and Trump supporter']",0
+527,"Question: Which is more likely?
+1: Juan is an immigrant and Trump supporter
+2: Juan is an immigrant
+Answer:","Question: 
+            Juan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Juan is an immigrant and Trump supporter
+2: Juan is an immigrant
+Answer:","[' Juan is an immigrant and Trump supporter', ' Juan is an immigrant']",1
+534,"Question: Which is more likely?
+1: Elijah plays jazz for a hobby
+2: Elijah is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Elijah is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Elijah plays jazz for a hobby
+2: Elijah is an accountant who plays jazz for a hobby
+Answer:","[' Elijah plays jazz for a hobby', ' Elijah is an accountant who plays jazz for a hobby']",0
+91,"Question: Which is more likely?
+1: Donald is an accountant who plays jazz for a hobby
+2: Donald plays jazz for a hobby
+Answer:","Question: 
+    Donald is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Donald is an accountant who plays jazz for a hobby
+2: Donald plays jazz for a hobby
+Answer:","[' Donald is an accountant who plays jazz for a hobby', ' Donald plays jazz for a hobby']",1
+216,"Question: Which is more likely?
+1: Larry plays jazz for a hobby
+2: Larry is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Larry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Larry plays jazz for a hobby
+2: Larry is an accountant who plays jazz for a hobby
+Answer:","[' Larry plays jazz for a hobby', ' Larry is an accountant who plays jazz for a hobby']",0
+156,"Question: Which is more likely?
+1: Edward plays jazz for a hobby
+2: Edward is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Edward is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Edward plays jazz for a hobby
+2: Edward is an accountant who plays jazz for a hobby
+Answer:","[' Edward plays jazz for a hobby', ' Edward is an accountant who plays jazz for a hobby']",0
+433,"Question: Which is more likely?
+1: Carl is an accountant who plays jazz for a hobby
+2: Carl plays jazz for a hobby
+Answer:","Question: 
+    Carl is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Carl is an accountant who plays jazz for a hobby
+2: Carl plays jazz for a hobby
+Answer:","[' Carl is an accountant who plays jazz for a hobby', ' Carl plays jazz for a hobby']",1
+238,"Question: Which is more likely?
+1: Brandon is an immigrant
+2: Brandon is an immigrant and Trump supporter
+Answer:","Question: 
+            Brandon is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Brandon is an immigrant
+2: Brandon is an immigrant and Trump supporter
+Answer:","[' Brandon is an immigrant', ' Brandon is an immigrant and Trump supporter']",0
+533,"Question: Which is more likely?
+1: Wayne is an immigrant and Trump supporter
+2: Wayne is an immigrant
+Answer:","Question: 
+            Wayne is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Wayne is an immigrant and Trump supporter
+2: Wayne is an immigrant
+Answer:","[' Wayne is an immigrant and Trump supporter', ' Wayne is an immigrant']",1
+235,"Question: Which is more likely?
+1: Brandon is an accountant who plays jazz for a hobby
+2: Brandon plays jazz for a hobby
+Answer:","Question: 
+    Brandon is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Brandon is an accountant who plays jazz for a hobby
+2: Brandon plays jazz for a hobby
+Answer:","[' Brandon is an accountant who plays jazz for a hobby', ' Brandon plays jazz for a hobby']",1
+403,"Question: Which is more likely?
+1: Terry is an accountant who plays jazz for a hobby
+2: Terry plays jazz for a hobby
+Answer:","Question: 
+    Terry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Terry is an accountant who plays jazz for a hobby
+2: Terry plays jazz for a hobby
+Answer:","[' Terry is an accountant who plays jazz for a hobby', ' Terry plays jazz for a hobby']",1
+583,"Question: Which is more likely?
+1: Mason is an accountant who plays jazz for a hobby
+2: Mason plays jazz for a hobby
+Answer:","Question: 
+    Mason is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Mason is an accountant who plays jazz for a hobby
+2: Mason plays jazz for a hobby
+Answer:","[' Mason is an accountant who plays jazz for a hobby', ' Mason plays jazz for a hobby']",1
+294,"Question: Which is more likely?
+1: Jerry plays jazz for a hobby
+2: Jerry is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jerry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Jerry plays jazz for a hobby
+2: Jerry is an accountant who plays jazz for a hobby
+Answer:","[' Jerry plays jazz for a hobby', ' Jerry is an accountant who plays jazz for a hobby']",0
+271,"Question: Which is more likely?
+1: Patrick is an accountant who plays jazz for a hobby
+2: Patrick plays jazz for a hobby
+Answer:","Question: 
+    Patrick is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Patrick is an accountant who plays jazz for a hobby
+2: Patrick plays jazz for a hobby
+Answer:","[' Patrick is an accountant who plays jazz for a hobby', ' Patrick plays jazz for a hobby']",1
+504,"Question: Which is more likely?
+1: Albert plays jazz for a hobby
+2: Albert is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Albert is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Albert plays jazz for a hobby
+2: Albert is an accountant who plays jazz for a hobby
+Answer:","[' Albert plays jazz for a hobby', ' Albert is an accountant who plays jazz for a hobby']",0
+61,"Question: Which is more likely?
+1: Christopher is an accountant who plays jazz for a hobby
+2: Christopher plays jazz for a hobby
+Answer:","Question: 
+    Christopher is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Christopher is an accountant who plays jazz for a hobby
+2: Christopher plays jazz for a hobby
+Answer:","[' Christopher is an accountant who plays jazz for a hobby', ' Christopher plays jazz for a hobby']",1
+377,"Question: Which is more likely?
+1: Noah is an immigrant and Trump supporter
+2: Noah is an immigrant
+Answer:","Question: 
+            Noah is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Noah is an immigrant and Trump supporter
+2: Noah is an immigrant
+Answer:","[' Noah is an immigrant and Trump supporter', ' Noah is an immigrant']",1
+310,"Question: Which is more likely?
+1: Aaron is an immigrant
+2: Aaron is an immigrant and Trump supporter
+Answer:","Question: 
+            Aaron is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Aaron is an immigrant
+2: Aaron is an immigrant and Trump supporter
+Answer:","[' Aaron is an immigrant', ' Aaron is an immigrant and Trump supporter']",0
+49,"Question: Which is more likely?
+1: Thomas is an accountant who plays jazz for a hobby
+2: Thomas plays jazz for a hobby
+Answer:","Question: 
+    Thomas is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Thomas is an accountant who plays jazz for a hobby
+2: Thomas plays jazz for a hobby
+Answer:","[' Thomas is an accountant who plays jazz for a hobby', ' Thomas plays jazz for a hobby']",1
+19,"Question: Which is more likely?
+1: Michael is an accountant who plays jazz for a hobby
+2: Michael plays jazz for a hobby
+Answer:","Question: 
+    Michael is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Michael is an accountant who plays jazz for a hobby
+2: Michael plays jazz for a hobby
+Answer:","[' Michael is an accountant who plays jazz for a hobby', ' Michael plays jazz for a hobby']",1
+582,"Question: Which is more likely?
+1: Mason plays jazz for a hobby
+2: Mason is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Mason is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Mason plays jazz for a hobby
+2: Mason is an accountant who plays jazz for a hobby
+Answer:","[' Mason plays jazz for a hobby', ' Mason is an accountant who plays jazz for a hobby']",0
+150,"Question: Which is more likely?
+1: Ronald plays jazz for a hobby
+2: Ronald is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Ronald is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Ronald plays jazz for a hobby
+2: Ronald is an accountant who plays jazz for a hobby
+Answer:","[' Ronald plays jazz for a hobby', ' Ronald is an accountant who plays jazz for a hobby']",0
+11,"Question: Which is more likely?
+1: Robert is an immigrant and Trump supporter
+2: Robert is an immigrant
+Answer:","Question: 
+            Robert is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Robert is an immigrant and Trump supporter
+2: Robert is an immigrant
+Answer:","[' Robert is an immigrant and Trump supporter', ' Robert is an immigrant']",1
+322,"Question: Which is more likely?
+1: Adam is an immigrant
+2: Adam is an immigrant and Trump supporter
+Answer:","Question: 
+            Adam is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Adam is an immigrant
+2: Adam is an immigrant and Trump supporter
+Answer:","[' Adam is an immigrant', ' Adam is an immigrant and Trump supporter']",0
+286,"Question: Which is more likely?
+1: Jack is an immigrant
+2: Jack is an immigrant and Trump supporter
+Answer:","Question: 
+            Jack is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jack is an immigrant
+2: Jack is an immigrant and Trump supporter
+Answer:","[' Jack is an immigrant', ' Jack is an immigrant and Trump supporter']",0
+299,"Question: Which is more likely?
+1: Jerry is an immigrant and Trump supporter
+2: Jerry is an immigrant
+Answer:","Question: 
+            Jerry is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Jerry is an immigrant and Trump supporter
+2: Jerry is an immigrant
+Answer:","[' Jerry is an immigrant and Trump supporter', ' Jerry is an immigrant']",1
+282,"Question: Which is more likely?
+1: Jack plays jazz for a hobby
+2: Jack is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jack is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Jack plays jazz for a hobby
+2: Jack is an accountant who plays jazz for a hobby
+Answer:","[' Jack plays jazz for a hobby', ' Jack is an accountant who plays jazz for a hobby']",0
+337,"Question: Which is more likely?
+1: Douglas is an accountant who plays jazz for a hobby
+2: Douglas plays jazz for a hobby
+Answer:","Question: 
+    Douglas is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Douglas is an accountant who plays jazz for a hobby
+2: Douglas plays jazz for a hobby
+Answer:","[' Douglas is an accountant who plays jazz for a hobby', ' Douglas plays jazz for a hobby']",1
+281,"Question: Which is more likely?
+1: Raymond is an immigrant and Trump supporter
+2: Raymond is an immigrant
+Answer:","Question: 
+            Raymond is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Raymond is an immigrant and Trump supporter
+2: Raymond is an immigrant
+Answer:","[' Raymond is an immigrant and Trump supporter', ' Raymond is an immigrant']",1
+205,"Question: Which is more likely?
+1: Jonathan is an accountant who plays jazz for a hobby
+2: Jonathan plays jazz for a hobby
+Answer:","Question: 
+    Jonathan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jonathan is an accountant who plays jazz for a hobby
+2: Jonathan plays jazz for a hobby
+Answer:","[' Jonathan is an accountant who plays jazz for a hobby', ' Jonathan plays jazz for a hobby']",1
+240,"Question: Which is more likely?
+1: Benjamin plays jazz for a hobby
+2: Benjamin is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Benjamin is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Benjamin plays jazz for a hobby
+2: Benjamin is an accountant who plays jazz for a hobby
+Answer:","[' Benjamin plays jazz for a hobby', ' Benjamin is an accountant who plays jazz for a hobby']",0
+250,"Question: Which is more likely?
+1: Samuel is an immigrant
+2: Samuel is an immigrant and Trump supporter
+Answer:","Question: 
+            Samuel is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Samuel is an immigrant
+2: Samuel is an immigrant and Trump supporter
+Answer:","[' Samuel is an immigrant', ' Samuel is an immigrant and Trump supporter']",0
+169,"Question: Which is more likely?
+1: Jeffrey is an accountant who plays jazz for a hobby
+2: Jeffrey plays jazz for a hobby
+Answer:","Question: 
+    Jeffrey is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jeffrey is an accountant who plays jazz for a hobby
+2: Jeffrey plays jazz for a hobby
+Answer:","[' Jeffrey is an accountant who plays jazz for a hobby', ' Jeffrey plays jazz for a hobby']",1
+65,"Question: Which is more likely?
+1: Christopher is an immigrant and Trump supporter
+2: Christopher is an immigrant
+Answer:","Question: 
+            Christopher is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Christopher is an immigrant and Trump supporter
+2: Christopher is an immigrant
+Answer:","[' Christopher is an immigrant and Trump supporter', ' Christopher is an immigrant']",1
+529,"Question: Which is more likely?
+1: Wayne is an accountant who plays jazz for a hobby
+2: Wayne plays jazz for a hobby
+Answer:","Question: 
+    Wayne is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Wayne is an accountant who plays jazz for a hobby
+2: Wayne plays jazz for a hobby
+Answer:","[' Wayne is an accountant who plays jazz for a hobby', ' Wayne plays jazz for a hobby']",1
+47,"Question: Which is more likely?
+1: Joseph is an immigrant and Trump supporter
+2: Joseph is an immigrant
+Answer:","Question: 
+            Joseph is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Joseph is an immigrant and Trump supporter
+2: Joseph is an immigrant
+Answer:","[' Joseph is an immigrant and Trump supporter', ' Joseph is an immigrant']",1
+341,"Question: Which is more likely?
+1: Douglas is an immigrant and Trump supporter
+2: Douglas is an immigrant
+Answer:","Question: 
+            Douglas is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Douglas is an immigrant and Trump supporter
+2: Douglas is an immigrant
+Answer:","[' Douglas is an immigrant and Trump supporter', ' Douglas is an immigrant']",1
+301,"Question: Which is more likely?
+1: Tyler is an accountant who plays jazz for a hobby
+2: Tyler plays jazz for a hobby
+Answer:","Question: 
+    Tyler is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Tyler is an accountant who plays jazz for a hobby
+2: Tyler plays jazz for a hobby
+Answer:","[' Tyler is an accountant who plays jazz for a hobby', ' Tyler plays jazz for a hobby']",1
+306,"Question: Which is more likely?
+1: Aaron plays jazz for a hobby
+2: Aaron is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Aaron is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Aaron plays jazz for a hobby
+2: Aaron is an accountant who plays jazz for a hobby
+Answer:","[' Aaron plays jazz for a hobby', ' Aaron is an accountant who plays jazz for a hobby']",0
+394,"Question: Which is more likely?
+1: Keith is an immigrant
+2: Keith is an immigrant and Trump supporter
+Answer:","Question: 
+            Keith is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Keith is an immigrant
+2: Keith is an immigrant and Trump supporter
+Answer:","[' Keith is an immigrant', ' Keith is an immigrant and Trump supporter']",0
+481,"Question: Which is more likely?
+1: Joe is an accountant who plays jazz for a hobby
+2: Joe plays jazz for a hobby
+Answer:","Question: 
+    Joe is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Joe is an accountant who plays jazz for a hobby
+2: Joe plays jazz for a hobby
+Answer:","[' Joe is an accountant who plays jazz for a hobby', ' Joe plays jazz for a hobby']",1
+508,"Question: Which is more likely?
+1: Albert is an immigrant
+2: Albert is an immigrant and Trump supporter
+Answer:","Question: 
+            Albert is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Albert is an immigrant
+2: Albert is an immigrant and Trump supporter
+Answer:","[' Albert is an immigrant', ' Albert is an immigrant and Trump supporter']",0
+402,"Question: Which is more likely?
+1: Terry plays jazz for a hobby
+2: Terry is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Terry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Terry plays jazz for a hobby
+2: Terry is an accountant who plays jazz for a hobby
+Answer:","[' Terry plays jazz for a hobby', ' Terry is an accountant who plays jazz for a hobby']",0
+88,"Question: Which is more likely?
+1: Mark is an immigrant
+2: Mark is an immigrant and Trump supporter
+Answer:","Question: 
+            Mark is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Mark is an immigrant
+2: Mark is an immigrant and Trump supporter
+Answer:","[' Mark is an immigrant', ' Mark is an immigrant and Trump supporter']",0
+352,"Question: Which is more likely?
+1: Peter is an immigrant
+2: Peter is an immigrant and Trump supporter
+Answer:","Question: 
+            Peter is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Peter is an immigrant
+2: Peter is an immigrant and Trump supporter
+Answer:","[' Peter is an immigrant', ' Peter is an immigrant and Trump supporter']",0
+466,"Question: Which is more likely?
+1: Jordan is an immigrant
+2: Jordan is an immigrant and Trump supporter
+Answer:","Question: 
+            Jordan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jordan is an immigrant
+2: Jordan is an immigrant and Trump supporter
+Answer:","[' Jordan is an immigrant', ' Jordan is an immigrant and Trump supporter']",0
+439,"Question: Which is more likely?
+1: Arthur is an accountant who plays jazz for a hobby
+2: Arthur plays jazz for a hobby
+Answer:","Question: 
+    Arthur is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Arthur is an accountant who plays jazz for a hobby
+2: Arthur plays jazz for a hobby
+Answer:","[' Arthur is an accountant who plays jazz for a hobby', ' Arthur plays jazz for a hobby']",1
+461,"Question: Which is more likely?
+1: Jesse is an immigrant and Trump supporter
+2: Jesse is an immigrant
+Answer:","Question: 
+            Jesse is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Jesse is an immigrant and Trump supporter
+2: Jesse is an immigrant
+Answer:","[' Jesse is an immigrant and Trump supporter', ' Jesse is an immigrant']",1
+113,"Question: Which is more likely?
+1: Andrew is an immigrant and Trump supporter
+2: Andrew is an immigrant
+Answer:","Question: 
+            Andrew is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Andrew is an immigrant and Trump supporter
+2: Andrew is an immigrant
+Answer:","[' Andrew is an immigrant and Trump supporter', ' Andrew is an immigrant']",1
+173,"Question: Which is more likely?
+1: Jeffrey is an immigrant and Trump supporter
+2: Jeffrey is an immigrant
+Answer:","Question: 
+            Jeffrey is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Jeffrey is an immigrant and Trump supporter
+2: Jeffrey is an immigrant
+Answer:","[' Jeffrey is an immigrant and Trump supporter', ' Jeffrey is an immigrant']",1
+196,"Question: Which is more likely?
+1: Nicholas is an immigrant
+2: Nicholas is an immigrant and Trump supporter
+Answer:","Question: 
+            Nicholas is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Nicholas is an immigrant
+2: Nicholas is an immigrant and Trump supporter
+Answer:","[' Nicholas is an immigrant', ' Nicholas is an immigrant and Trump supporter']",0
+401,"Question: Which is more likely?
+1: Roger is an immigrant and Trump supporter
+2: Roger is an immigrant
+Answer:","Question: 
+            Roger is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Roger is an immigrant and Trump supporter
+2: Roger is an immigrant
+Answer:","[' Roger is an immigrant and Trump supporter', ' Roger is an immigrant']",1
+378,"Question: Which is more likely?
+1: Jeremy plays jazz for a hobby
+2: Jeremy is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jeremy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Jeremy plays jazz for a hobby
+2: Jeremy is an accountant who plays jazz for a hobby
+Answer:","[' Jeremy plays jazz for a hobby', ' Jeremy is an accountant who plays jazz for a hobby']",0
+409,"Question: Which is more likely?
+1: Gerald is an accountant who plays jazz for a hobby
+2: Gerald plays jazz for a hobby
+Answer:","Question: 
+    Gerald is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Gerald is an accountant who plays jazz for a hobby
+2: Gerald plays jazz for a hobby
+Answer:","[' Gerald is an accountant who plays jazz for a hobby', ' Gerald plays jazz for a hobby']",1
+252,"Question: Which is more likely?
+1: Gregory plays jazz for a hobby
+2: Gregory is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Gregory is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Gregory plays jazz for a hobby
+2: Gregory is an accountant who plays jazz for a hobby
+Answer:","[' Gregory plays jazz for a hobby', ' Gregory is an accountant who plays jazz for a hobby']",0
+241,"Question: Which is more likely?
+1: Benjamin is an accountant who plays jazz for a hobby
+2: Benjamin plays jazz for a hobby
+Answer:","Question: 
+    Benjamin is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Benjamin is an accountant who plays jazz for a hobby
+2: Benjamin plays jazz for a hobby
+Answer:","[' Benjamin is an accountant who plays jazz for a hobby', ' Benjamin plays jazz for a hobby']",1
+288,"Question: Which is more likely?
+1: Dennis plays jazz for a hobby
+2: Dennis is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Dennis is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Dennis plays jazz for a hobby
+2: Dennis is an accountant who plays jazz for a hobby
+Answer:","[' Dennis plays jazz for a hobby', ' Dennis is an accountant who plays jazz for a hobby']",0
+522,"Question: Which is more likely?
+1: Juan plays jazz for a hobby
+2: Juan is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Juan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Juan plays jazz for a hobby
+2: Juan is an accountant who plays jazz for a hobby
+Answer:","[' Juan plays jazz for a hobby', ' Juan is an accountant who plays jazz for a hobby']",0
+258,"Question: Which is more likely?
+1: Alexander plays jazz for a hobby
+2: Alexander is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Alexander is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Alexander plays jazz for a hobby
+2: Alexander is an accountant who plays jazz for a hobby
+Answer:","[' Alexander plays jazz for a hobby', ' Alexander is an accountant who plays jazz for a hobby']",0
+246,"Question: Which is more likely?
+1: Samuel plays jazz for a hobby
+2: Samuel is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Samuel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Samuel plays jazz for a hobby
+2: Samuel is an accountant who plays jazz for a hobby
+Answer:","[' Samuel plays jazz for a hobby', ' Samuel is an accountant who plays jazz for a hobby']",0
+277,"Question: Which is more likely?
+1: Raymond is an accountant who plays jazz for a hobby
+2: Raymond plays jazz for a hobby
+Answer:","Question: 
+    Raymond is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Raymond is an accountant who plays jazz for a hobby
+2: Raymond plays jazz for a hobby
+Answer:","[' Raymond is an accountant who plays jazz for a hobby', ' Raymond plays jazz for a hobby']",1
+85,"Question: Which is more likely?
+1: Mark is an accountant who plays jazz for a hobby
+2: Mark plays jazz for a hobby
+Answer:","Question: 
+    Mark is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Mark is an accountant who plays jazz for a hobby
+2: Mark plays jazz for a hobby
+Answer:","[' Mark is an accountant who plays jazz for a hobby', ' Mark plays jazz for a hobby']",1
+412,"Question: Which is more likely?
+1: Gerald is an immigrant
+2: Gerald is an immigrant and Trump supporter
+Answer:","Question: 
+            Gerald is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Gerald is an immigrant
+2: Gerald is an immigrant and Trump supporter
+Answer:","[' Gerald is an immigrant', ' Gerald is an immigrant and Trump supporter']",0
+355,"Question: Which is more likely?
+1: Kyle is an accountant who plays jazz for a hobby
+2: Kyle plays jazz for a hobby
+Answer:","Question: 
+    Kyle is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Kyle is an accountant who plays jazz for a hobby
+2: Kyle plays jazz for a hobby
+Answer:","[' Kyle is an accountant who plays jazz for a hobby', ' Kyle plays jazz for a hobby']",1
+112,"Question: Which is more likely?
+1: Andrew is an immigrant
+2: Andrew is an immigrant and Trump supporter
+Answer:","Question: 
+            Andrew is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Andrew is an immigrant
+2: Andrew is an immigrant and Trump supporter
+Answer:","[' Andrew is an immigrant', ' Andrew is an immigrant and Trump supporter']",0
+106,"Question: Which is more likely?
+1: Paul is an immigrant
+2: Paul is an immigrant and Trump supporter
+Answer:","Question: 
+            Paul is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Paul is an immigrant
+2: Paul is an immigrant and Trump supporter
+Answer:","[' Paul is an immigrant', ' Paul is an immigrant and Trump supporter']",0
+426,"Question: Which is more likely?
+1: Austin plays jazz for a hobby
+2: Austin is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Austin is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Austin plays jazz for a hobby
+2: Austin is an accountant who plays jazz for a hobby
+Answer:","[' Austin plays jazz for a hobby', ' Austin is an accountant who plays jazz for a hobby']",0
+335,"Question: Which is more likely?
+1: Henry is an immigrant and Trump supporter
+2: Henry is an immigrant
+Answer:","Question: 
+            Henry is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Henry is an immigrant and Trump supporter
+2: Henry is an immigrant
+Answer:","[' Henry is an immigrant and Trump supporter', ' Henry is an immigrant']",1
+55,"Question: Which is more likely?
+1: Charles is an accountant who plays jazz for a hobby
+2: Charles plays jazz for a hobby
+Answer:","Question: 
+    Charles is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Charles is an accountant who plays jazz for a hobby
+2: Charles plays jazz for a hobby
+Answer:","[' Charles is an accountant who plays jazz for a hobby', ' Charles plays jazz for a hobby']",1
+67,"Question: Which is more likely?
+1: Daniel is an accountant who plays jazz for a hobby
+2: Daniel plays jazz for a hobby
+Answer:","Question: 
+    Daniel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Daniel is an accountant who plays jazz for a hobby
+2: Daniel plays jazz for a hobby
+Answer:","[' Daniel is an accountant who plays jazz for a hobby', ' Daniel plays jazz for a hobby']",1
+550,"Question: Which is more likely?
+1: Roy is an immigrant
+2: Roy is an immigrant and Trump supporter
+Answer:","Question: 
+            Roy is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Roy is an immigrant
+2: Roy is an immigrant and Trump supporter
+Answer:","[' Roy is an immigrant', ' Roy is an immigrant and Trump supporter']",0
+280,"Question: Which is more likely?
+1: Raymond is an immigrant
+2: Raymond is an immigrant and Trump supporter
+Answer:","Question: 
+            Raymond is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Raymond is an immigrant
+2: Raymond is an immigrant and Trump supporter
+Answer:","[' Raymond is an immigrant', ' Raymond is an immigrant and Trump supporter']",0
+42,"Question: Which is more likely?
+1: Joseph plays jazz for a hobby
+2: Joseph is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Joseph is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Joseph plays jazz for a hobby
+2: Joseph is an accountant who plays jazz for a hobby
+Answer:","[' Joseph plays jazz for a hobby', ' Joseph is an accountant who plays jazz for a hobby']",0
+547,"Question: Which is more likely?
+1: Roy is an accountant who plays jazz for a hobby
+2: Roy plays jazz for a hobby
+Answer:","Question: 
+    Roy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Roy is an accountant who plays jazz for a hobby
+2: Roy plays jazz for a hobby
+Answer:","[' Roy is an accountant who plays jazz for a hobby', ' Roy plays jazz for a hobby']",1
+360,"Question: Which is more likely?
+1: Ethan plays jazz for a hobby
+2: Ethan is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Ethan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Ethan plays jazz for a hobby
+2: Ethan is an accountant who plays jazz for a hobby
+Answer:","[' Ethan plays jazz for a hobby', ' Ethan is an accountant who plays jazz for a hobby']",0
+125,"Question: Which is more likely?
+1: Kenneth is an immigrant and Trump supporter
+2: Kenneth is an immigrant
+Answer:","Question: 
+            Kenneth is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Kenneth is an immigrant and Trump supporter
+2: Kenneth is an immigrant
+Answer:","[' Kenneth is an immigrant and Trump supporter', ' Kenneth is an immigrant']",1
+460,"Question: Which is more likely?
+1: Jesse is an immigrant
+2: Jesse is an immigrant and Trump supporter
+Answer:","Question: 
+            Jesse is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jesse is an immigrant
+2: Jesse is an immigrant and Trump supporter
+Answer:","[' Jesse is an immigrant', ' Jesse is an immigrant and Trump supporter']",0
+334,"Question: Which is more likely?
+1: Henry is an immigrant
+2: Henry is an immigrant and Trump supporter
+Answer:","Question: 
+            Henry is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Henry is an immigrant
+2: Henry is an immigrant and Trump supporter
+Answer:","[' Henry is an immigrant', ' Henry is an immigrant and Trump supporter']",0
+511,"Question: Which is more likely?
+1: Willie is an accountant who plays jazz for a hobby
+2: Willie plays jazz for a hobby
+Answer:","Question: 
+    Willie is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Willie is an accountant who plays jazz for a hobby
+2: Willie plays jazz for a hobby
+Answer:","[' Willie is an accountant who plays jazz for a hobby', ' Willie plays jazz for a hobby']",1
+5,"Question: Which is more likely?
+1: James is an immigrant and Trump supporter
+2: James is an immigrant
+Answer:","Question: 
+            James is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: James is an immigrant and Trump supporter
+2: James is an immigrant
+Answer:","[' James is an immigrant and Trump supporter', ' James is an immigrant']",1
+346,"Question: Which is more likely?
+1: Zachary is an immigrant
+2: Zachary is an immigrant and Trump supporter
+Answer:","Question: 
+            Zachary is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Zachary is an immigrant
+2: Zachary is an immigrant and Trump supporter
+Answer:","[' Zachary is an immigrant', ' Zachary is an immigrant and Trump supporter']",0
+233,"Question: Which is more likely?
+1: Scott is an immigrant and Trump supporter
+2: Scott is an immigrant
+Answer:","Question: 
+            Scott is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Scott is an immigrant and Trump supporter
+2: Scott is an immigrant
+Answer:","[' Scott is an immigrant and Trump supporter', ' Scott is an immigrant']",1
+217,"Question: Which is more likely?
+1: Larry is an accountant who plays jazz for a hobby
+2: Larry plays jazz for a hobby
+Answer:","Question: 
+    Larry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Larry is an accountant who plays jazz for a hobby
+2: Larry plays jazz for a hobby
+Answer:","[' Larry is an accountant who plays jazz for a hobby', ' Larry plays jazz for a hobby']",1
+265,"Question: Which is more likely?
+1: Frank is an accountant who plays jazz for a hobby
+2: Frank plays jazz for a hobby
+Answer:","Question: 
+    Frank is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Frank is an accountant who plays jazz for a hobby
+2: Frank plays jazz for a hobby
+Answer:","[' Frank is an accountant who plays jazz for a hobby', ' Frank plays jazz for a hobby']",1
+275,"Question: Which is more likely?
+1: Patrick is an immigrant and Trump supporter
+2: Patrick is an immigrant
+Answer:","Question: 
+            Patrick is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Patrick is an immigrant and Trump supporter
+2: Patrick is an immigrant
+Answer:","[' Patrick is an immigrant and Trump supporter', ' Patrick is an immigrant']",1
+120,"Question: Which is more likely?
+1: Kenneth plays jazz for a hobby
+2: Kenneth is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Kenneth is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Kenneth plays jazz for a hobby
+2: Kenneth is an accountant who plays jazz for a hobby
+Answer:","[' Kenneth plays jazz for a hobby', ' Kenneth is an accountant who plays jazz for a hobby']",0
+40,"Question: Which is more likely?
+1: Richard is an immigrant
+2: Richard is an immigrant and Trump supporter
+Answer:","Question: 
+            Richard is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Richard is an immigrant
+2: Richard is an immigrant and Trump supporter
+Answer:","[' Richard is an immigrant', ' Richard is an immigrant and Trump supporter']",0
+24,"Question: Which is more likely?
+1: David plays jazz for a hobby
+2: David is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    David is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: David plays jazz for a hobby
+2: David is an accountant who plays jazz for a hobby
+Answer:","[' David plays jazz for a hobby', ' David is an accountant who plays jazz for a hobby']",0
+563,"Question: Which is more likely?
+1: Ralph is an immigrant and Trump supporter
+2: Ralph is an immigrant
+Answer:","Question: 
+            Ralph is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Ralph is an immigrant and Trump supporter
+2: Ralph is an immigrant
+Answer:","[' Ralph is an immigrant and Trump supporter', ' Ralph is an immigrant']",1
+520,"Question: Which is more likely?
+1: Alan is an immigrant
+2: Alan is an immigrant and Trump supporter
+Answer:","Question: 
+            Alan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Alan is an immigrant
+2: Alan is an immigrant and Trump supporter
+Answer:","[' Alan is an immigrant', ' Alan is an immigrant and Trump supporter']",0
+427,"Question: Which is more likely?
+1: Austin is an accountant who plays jazz for a hobby
+2: Austin plays jazz for a hobby
+Answer:","Question: 
+    Austin is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Austin is an accountant who plays jazz for a hobby
+2: Austin plays jazz for a hobby
+Answer:","[' Austin is an accountant who plays jazz for a hobby', ' Austin plays jazz for a hobby']",1
+472,"Question: Which is more likely?
+1: Bryan is an immigrant
+2: Bryan is an immigrant and Trump supporter
+Answer:","Question: 
+            Bryan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Bryan is an immigrant
+2: Bryan is an immigrant and Trump supporter
+Answer:","[' Bryan is an immigrant', ' Bryan is an immigrant and Trump supporter']",0
+270,"Question: Which is more likely?
+1: Patrick plays jazz for a hobby
+2: Patrick is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Patrick is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Patrick plays jazz for a hobby
+2: Patrick is an accountant who plays jazz for a hobby
+Answer:","[' Patrick plays jazz for a hobby', ' Patrick is an accountant who plays jazz for a hobby']",0
+575,"Question: Which is more likely?
+1: Russell is an immigrant and Trump supporter
+2: Russell is an immigrant
+Answer:","Question: 
+            Russell is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Russell is an immigrant and Trump supporter
+2: Russell is an immigrant
+Answer:","[' Russell is an immigrant and Trump supporter', ' Russell is an immigrant']",1
+400,"Question: Which is more likely?
+1: Roger is an immigrant
+2: Roger is an immigrant and Trump supporter
+Answer:","Question: 
+            Roger is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Roger is an immigrant
+2: Roger is an immigrant and Trump supporter
+Answer:","[' Roger is an immigrant', ' Roger is an immigrant and Trump supporter']",0
+328,"Question: Which is more likely?
+1: Nathan is an immigrant
+2: Nathan is an immigrant and Trump supporter
+Answer:","Question: 
+            Nathan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Nathan is an immigrant
+2: Nathan is an immigrant and Trump supporter
+Answer:","[' Nathan is an immigrant', ' Nathan is an immigrant and Trump supporter']",0
+316,"Question: Which is more likely?
+1: Jose is an immigrant
+2: Jose is an immigrant and Trump supporter
+Answer:","Question: 
+            Jose is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jose is an immigrant
+2: Jose is an immigrant and Trump supporter
+Answer:","[' Jose is an immigrant', ' Jose is an immigrant and Trump supporter']",0
+137,"Question: Which is more likely?
+1: Brian is an immigrant and Trump supporter
+2: Brian is an immigrant
+Answer:","Question: 
+            Brian is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Brian is an immigrant and Trump supporter
+2: Brian is an immigrant
+Answer:","[' Brian is an immigrant and Trump supporter', ' Brian is an immigrant']",1
+102,"Question: Which is more likely?
+1: Paul plays jazz for a hobby
+2: Paul is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Paul is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Paul plays jazz for a hobby
+2: Paul is an accountant who plays jazz for a hobby
+Answer:","[' Paul plays jazz for a hobby', ' Paul is an accountant who plays jazz for a hobby']",0
+565,"Question: Which is more likely?
+1: Eugene is an accountant who plays jazz for a hobby
+2: Eugene plays jazz for a hobby
+Answer:","Question: 
+    Eugene is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Eugene is an accountant who plays jazz for a hobby
+2: Eugene plays jazz for a hobby
+Answer:","[' Eugene is an accountant who plays jazz for a hobby', ' Eugene plays jazz for a hobby']",1
+551,"Question: Which is more likely?
+1: Roy is an immigrant and Trump supporter
+2: Roy is an immigrant
+Answer:","Question: 
+            Roy is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Roy is an immigrant and Trump supporter
+2: Roy is an immigrant
+Answer:","[' Roy is an immigrant and Trump supporter', ' Roy is an immigrant']",1
+540,"Question: Which is more likely?
+1: Randy plays jazz for a hobby
+2: Randy is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Randy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Randy plays jazz for a hobby
+2: Randy is an accountant who plays jazz for a hobby
+Answer:","[' Randy plays jazz for a hobby', ' Randy is an accountant who plays jazz for a hobby']",0
+469,"Question: Which is more likely?
+1: Bryan is an accountant who plays jazz for a hobby
+2: Bryan plays jazz for a hobby
+Answer:","Question: 
+    Bryan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Bryan is an accountant who plays jazz for a hobby
+2: Bryan plays jazz for a hobby
+Answer:","[' Bryan is an accountant who plays jazz for a hobby', ' Bryan plays jazz for a hobby']",1
+349,"Question: Which is more likely?
+1: Peter is an accountant who plays jazz for a hobby
+2: Peter plays jazz for a hobby
+Answer:","Question: 
+    Peter is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Peter is an accountant who plays jazz for a hobby
+2: Peter plays jazz for a hobby
+Answer:","[' Peter is an accountant who plays jazz for a hobby', ' Peter plays jazz for a hobby']",1
+178,"Question: Which is more likely?
+1: Ryan is an immigrant
+2: Ryan is an immigrant and Trump supporter
+Answer:","Question: 
+            Ryan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Ryan is an immigrant
+2: Ryan is an immigrant and Trump supporter
+Answer:","[' Ryan is an immigrant', ' Ryan is an immigrant and Trump supporter']",0
+317,"Question: Which is more likely?
+1: Jose is an immigrant and Trump supporter
+2: Jose is an immigrant
+Answer:","Question: 
+            Jose is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Jose is an immigrant and Trump supporter
+2: Jose is an immigrant
+Answer:","[' Jose is an immigrant and Trump supporter', ' Jose is an immigrant']",1
+130,"Question: Which is more likely?
+1: Kevin is an immigrant
+2: Kevin is an immigrant and Trump supporter
+Answer:","Question: 
+            Kevin is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Kevin is an immigrant
+2: Kevin is an immigrant and Trump supporter
+Answer:","[' Kevin is an immigrant', ' Kevin is an immigrant and Trump supporter']",0
+145,"Question: Which is more likely?
+1: Timothy is an accountant who plays jazz for a hobby
+2: Timothy plays jazz for a hobby
+Answer:","Question: 
+    Timothy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Timothy is an accountant who plays jazz for a hobby
+2: Timothy plays jazz for a hobby
+Answer:","[' Timothy is an accountant who plays jazz for a hobby', ' Timothy plays jazz for a hobby']",1
+557,"Question: Which is more likely?
+1: Vincent is an immigrant and Trump supporter
+2: Vincent is an immigrant
+Answer:","Question: 
+            Vincent is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Vincent is an immigrant and Trump supporter
+2: Vincent is an immigrant
+Answer:","[' Vincent is an immigrant and Trump supporter', ' Vincent is an immigrant']",1
+396,"Question: Which is more likely?
+1: Roger plays jazz for a hobby
+2: Roger is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Roger is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Roger plays jazz for a hobby
+2: Roger is an accountant who plays jazz for a hobby
+Answer:","[' Roger plays jazz for a hobby', ' Roger is an accountant who plays jazz for a hobby']",0
+163,"Question: Which is more likely?
+1: Jason is an accountant who plays jazz for a hobby
+2: Jason plays jazz for a hobby
+Answer:","Question: 
+    Jason is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jason is an accountant who plays jazz for a hobby
+2: Jason plays jazz for a hobby
+Answer:","[' Jason is an accountant who plays jazz for a hobby', ' Jason plays jazz for a hobby']",1
+539,"Question: Which is more likely?
+1: Elijah is an immigrant and Trump supporter
+2: Elijah is an immigrant
+Answer:","Question: 
+            Elijah is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Elijah is an immigrant and Trump supporter
+2: Elijah is an immigrant
+Answer:","[' Elijah is an immigrant and Trump supporter', ' Elijah is an immigrant']",1
+186,"Question: Which is more likely?
+1: Gary plays jazz for a hobby
+2: Gary is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Gary is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Gary plays jazz for a hobby
+2: Gary is an accountant who plays jazz for a hobby
+Answer:","[' Gary plays jazz for a hobby', ' Gary is an accountant who plays jazz for a hobby']",0
+559,"Question: Which is more likely?
+1: Ralph is an accountant who plays jazz for a hobby
+2: Ralph plays jazz for a hobby
+Answer:","Question: 
+    Ralph is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Ralph is an accountant who plays jazz for a hobby
+2: Ralph plays jazz for a hobby
+Answer:","[' Ralph is an accountant who plays jazz for a hobby', ' Ralph plays jazz for a hobby']",1
+384,"Question: Which is more likely?
+1: Christian plays jazz for a hobby
+2: Christian is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Christian is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Christian plays jazz for a hobby
+2: Christian is an accountant who plays jazz for a hobby
+Answer:","[' Christian plays jazz for a hobby', ' Christian is an accountant who plays jazz for a hobby']",0
+107,"Question: Which is more likely?
+1: Paul is an immigrant and Trump supporter
+2: Paul is an immigrant
+Answer:","Question: 
+            Paul is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Paul is an immigrant and Trump supporter
+2: Paul is an immigrant
+Answer:","[' Paul is an immigrant and Trump supporter', ' Paul is an immigrant']",1
+148,"Question: Which is more likely?
+1: Timothy is an immigrant
+2: Timothy is an immigrant and Trump supporter
+Answer:","Question: 
+            Timothy is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Timothy is an immigrant
+2: Timothy is an immigrant and Trump supporter
+Answer:","[' Timothy is an immigrant', ' Timothy is an immigrant and Trump supporter']",0
+373,"Question: Which is more likely?
+1: Noah is an accountant who plays jazz for a hobby
+2: Noah plays jazz for a hobby
+Answer:","Question: 
+    Noah is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Noah is an accountant who plays jazz for a hobby
+2: Noah plays jazz for a hobby
+Answer:","[' Noah is an accountant who plays jazz for a hobby', ' Noah plays jazz for a hobby']",1
+138,"Question: Which is more likely?
+1: George plays jazz for a hobby
+2: George is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    George is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: George plays jazz for a hobby
+2: George is an accountant who plays jazz for a hobby
+Answer:","[' George plays jazz for a hobby', ' George is an accountant who plays jazz for a hobby']",0
+376,"Question: Which is more likely?
+1: Noah is an immigrant
+2: Noah is an immigrant and Trump supporter
+Answer:","Question: 
+            Noah is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Noah is an immigrant
+2: Noah is an immigrant and Trump supporter
+Answer:","[' Noah is an immigrant', ' Noah is an immigrant and Trump supporter']",0
+323,"Question: Which is more likely?
+1: Adam is an immigrant and Trump supporter
+2: Adam is an immigrant
+Answer:","Question: 
+            Adam is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Adam is an immigrant and Trump supporter
+2: Adam is an immigrant
+Answer:","[' Adam is an immigrant and Trump supporter', ' Adam is an immigrant']",1
+586,"Question: Which is more likely?
+1: Mason is an immigrant
+2: Mason is an immigrant and Trump supporter
+Answer:","Question: 
+            Mason is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Mason is an immigrant
+2: Mason is an immigrant and Trump supporter
+Answer:","[' Mason is an immigrant', ' Mason is an immigrant and Trump supporter']",0
+190,"Question: Which is more likely?
+1: Gary is an immigrant
+2: Gary is an immigrant and Trump supporter
+Answer:","Question: 
+            Gary is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Gary is an immigrant
+2: Gary is an immigrant and Trump supporter
+Answer:","[' Gary is an immigrant', ' Gary is an immigrant and Trump supporter']",0
+210,"Question: Which is more likely?
+1: Stephen plays jazz for a hobby
+2: Stephen is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Stephen is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Stephen plays jazz for a hobby
+2: Stephen is an accountant who plays jazz for a hobby
+Answer:","[' Stephen plays jazz for a hobby', ' Stephen is an accountant who plays jazz for a hobby']",0
+7,"Question: Which is more likely?
+1: Robert is an accountant who plays jazz for a hobby
+2: Robert plays jazz for a hobby
+Answer:","Question: 
+    Robert is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Robert is an accountant who plays jazz for a hobby
+2: Robert plays jazz for a hobby
+Answer:","[' Robert is an accountant who plays jazz for a hobby', ' Robert plays jazz for a hobby']",1
+450,"Question: Which is more likely?
+1: Dylan plays jazz for a hobby
+2: Dylan is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Dylan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Dylan plays jazz for a hobby
+2: Dylan is an accountant who plays jazz for a hobby
+Answer:","[' Dylan plays jazz for a hobby', ' Dylan is an accountant who plays jazz for a hobby']",0
+456,"Question: Which is more likely?
+1: Jesse plays jazz for a hobby
+2: Jesse is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jesse is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Jesse plays jazz for a hobby
+2: Jesse is an accountant who plays jazz for a hobby
+Answer:","[' Jesse plays jazz for a hobby', ' Jesse is an accountant who plays jazz for a hobby']",0
+71,"Question: Which is more likely?
+1: Daniel is an immigrant and Trump supporter
+2: Daniel is an immigrant
+Answer:","Question: 
+            Daniel is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Daniel is an immigrant and Trump supporter
+2: Daniel is an immigrant
+Answer:","[' Daniel is an immigrant and Trump supporter', ' Daniel is an immigrant']",1
+425,"Question: Which is more likely?
+1: Sean is an immigrant and Trump supporter
+2: Sean is an immigrant
+Answer:","Question: 
+            Sean is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Sean is an immigrant and Trump supporter
+2: Sean is an immigrant
+Answer:","[' Sean is an immigrant and Trump supporter', ' Sean is an immigrant']",1
+34,"Question: Which is more likely?
+1: William is an immigrant
+2: William is an immigrant and Trump supporter
+Answer:","Question: 
+            William is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: William is an immigrant
+2: William is an immigrant and Trump supporter
+Answer:","[' William is an immigrant', ' William is an immigrant and Trump supporter']",0
+366,"Question: Which is more likely?
+1: Walter plays jazz for a hobby
+2: Walter is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Walter is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Walter plays jazz for a hobby
+2: Walter is an accountant who plays jazz for a hobby
+Answer:","[' Walter plays jazz for a hobby', ' Walter is an accountant who plays jazz for a hobby']",0
+18,"Question: Which is more likely?
+1: Michael plays jazz for a hobby
+2: Michael is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Michael is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Michael plays jazz for a hobby
+2: Michael is an accountant who plays jazz for a hobby
+Answer:","[' Michael plays jazz for a hobby', ' Michael is an accountant who plays jazz for a hobby']",0
+143,"Question: Which is more likely?
+1: George is an immigrant and Trump supporter
+2: George is an immigrant
+Answer:","Question: 
+            George is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: George is an immigrant and Trump supporter
+2: George is an immigrant
+Answer:","[' George is an immigrant and Trump supporter', ' George is an immigrant']",1
+166,"Question: Which is more likely?
+1: Jason is an immigrant
+2: Jason is an immigrant and Trump supporter
+Answer:","Question: 
+            Jason is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jason is an immigrant
+2: Jason is an immigrant and Trump supporter
+Answer:","[' Jason is an immigrant', ' Jason is an immigrant and Trump supporter']",0
+209,"Question: Which is more likely?
+1: Jonathan is an immigrant and Trump supporter
+2: Jonathan is an immigrant
+Answer:","Question: 
+            Jonathan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Jonathan is an immigrant and Trump supporter
+2: Jonathan is an immigrant
+Answer:","[' Jonathan is an immigrant and Trump supporter', ' Jonathan is an immigrant']",1
+220,"Question: Which is more likely?
+1: Larry is an immigrant
+2: Larry is an immigrant and Trump supporter
+Answer:","Question: 
+            Larry is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Larry is an immigrant
+2: Larry is an immigrant and Trump supporter
+Answer:","[' Larry is an immigrant', ' Larry is an immigrant and Trump supporter']",0
+541,"Question: Which is more likely?
+1: Randy is an accountant who plays jazz for a hobby
+2: Randy plays jazz for a hobby
+Answer:","Question: 
+    Randy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Randy is an accountant who plays jazz for a hobby
+2: Randy plays jazz for a hobby
+Answer:","[' Randy is an accountant who plays jazz for a hobby', ' Randy plays jazz for a hobby']",1
+493,"Question: Which is more likely?
+1: Gabriel is an accountant who plays jazz for a hobby
+2: Gabriel plays jazz for a hobby
+Answer:","Question: 
+    Gabriel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Gabriel is an accountant who plays jazz for a hobby
+2: Gabriel plays jazz for a hobby
+Answer:","[' Gabriel is an accountant who plays jazz for a hobby', ' Gabriel plays jazz for a hobby']",1
+438,"Question: Which is more likely?
+1: Arthur plays jazz for a hobby
+2: Arthur is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Arthur is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Arthur plays jazz for a hobby
+2: Arthur is an accountant who plays jazz for a hobby
+Answer:","[' Arthur plays jazz for a hobby', ' Arthur is an accountant who plays jazz for a hobby']",0
+76,"Question: Which is more likely?
+1: Matthew is an immigrant
+2: Matthew is an immigrant and Trump supporter
+Answer:","Question: 
+            Matthew is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Matthew is an immigrant
+2: Matthew is an immigrant and Trump supporter
+Answer:","[' Matthew is an immigrant', ' Matthew is an immigrant and Trump supporter']",0
+424,"Question: Which is more likely?
+1: Sean is an immigrant
+2: Sean is an immigrant and Trump supporter
+Answer:","Question: 
+            Sean is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Sean is an immigrant
+2: Sean is an immigrant and Trump supporter
+Answer:","[' Sean is an immigrant', ' Sean is an immigrant and Trump supporter']",0
+226,"Question: Which is more likely?
+1: Justin is an immigrant
+2: Justin is an immigrant and Trump supporter
+Answer:","Question: 
+            Justin is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Justin is an immigrant
+2: Justin is an immigrant and Trump supporter
+Answer:","[' Justin is an immigrant', ' Justin is an immigrant and Trump supporter']",0
+185,"Question: Which is more likely?
+1: Jacob is an immigrant and Trump supporter
+2: Jacob is an immigrant
+Answer:","Question: 
+            Jacob is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Jacob is an immigrant and Trump supporter
+2: Jacob is an immigrant
+Answer:","[' Jacob is an immigrant and Trump supporter', ' Jacob is an immigrant']",1
+395,"Question: Which is more likely?
+1: Keith is an immigrant and Trump supporter
+2: Keith is an immigrant
+Answer:","Question: 
+            Keith is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Keith is an immigrant and Trump supporter
+2: Keith is an immigrant
+Answer:","[' Keith is an immigrant and Trump supporter', ' Keith is an immigrant']",1
+4,"Question: Which is more likely?
+1: James is an immigrant
+2: James is an immigrant and Trump supporter
+Answer:","Question: 
+            James is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: James is an immigrant
+2: James is an immigrant and Trump supporter
+Answer:","[' James is an immigrant', ' James is an immigrant and Trump supporter']",0
+510,"Question: Which is more likely?
+1: Willie plays jazz for a hobby
+2: Willie is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Willie is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Willie plays jazz for a hobby
+2: Willie is an accountant who plays jazz for a hobby
+Answer:","[' Willie plays jazz for a hobby', ' Willie is an accountant who plays jazz for a hobby']",0
+599,"Question: Which is more likely?
+1: Louis is an immigrant and Trump supporter
+2: Louis is an immigrant
+Answer:","Question: 
+            Louis is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Louis is an immigrant and Trump supporter
+2: Louis is an immigrant
+Answer:","[' Louis is an immigrant and Trump supporter', ' Louis is an immigrant']",1
+263,"Question: Which is more likely?
+1: Alexander is an immigrant and Trump supporter
+2: Alexander is an immigrant
+Answer:","Question: 
+            Alexander is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Alexander is an immigrant and Trump supporter
+2: Alexander is an immigrant
+Answer:","[' Alexander is an immigrant and Trump supporter', ' Alexander is an immigrant']",1
+313,"Question: Which is more likely?
+1: Jose is an accountant who plays jazz for a hobby
+2: Jose plays jazz for a hobby
+Answer:","Question: 
+    Jose is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jose is an accountant who plays jazz for a hobby
+2: Jose plays jazz for a hobby
+Answer:","[' Jose is an accountant who plays jazz for a hobby', ' Jose plays jazz for a hobby']",1
+421,"Question: Which is more likely?
+1: Sean is an accountant who plays jazz for a hobby
+2: Sean plays jazz for a hobby
+Answer:","Question: 
+    Sean is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Sean is an accountant who plays jazz for a hobby
+2: Sean plays jazz for a hobby
+Answer:","[' Sean is an accountant who plays jazz for a hobby', ' Sean plays jazz for a hobby']",1
+180,"Question: Which is more likely?
+1: Jacob plays jazz for a hobby
+2: Jacob is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jacob is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Jacob plays jazz for a hobby
+2: Jacob is an accountant who plays jazz for a hobby
+Answer:","[' Jacob plays jazz for a hobby', ' Jacob is an accountant who plays jazz for a hobby']",0
+29,"Question: Which is more likely?
+1: David is an immigrant and Trump supporter
+2: David is an immigrant
+Answer:","Question: 
+            David is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: David is an immigrant and Trump supporter
+2: David is an immigrant
+Answer:","[' David is an immigrant and Trump supporter', ' David is an immigrant']",1
+144,"Question: Which is more likely?
+1: Timothy plays jazz for a hobby
+2: Timothy is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Timothy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Timothy plays jazz for a hobby
+2: Timothy is an accountant who plays jazz for a hobby
+Answer:","[' Timothy plays jazz for a hobby', ' Timothy is an accountant who plays jazz for a hobby']",0
+119,"Question: Which is more likely?
+1: Joshua is an immigrant and Trump supporter
+2: Joshua is an immigrant
+Answer:","Question: 
+            Joshua is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Joshua is an immigrant and Trump supporter
+2: Joshua is an immigrant
+Answer:","[' Joshua is an immigrant and Trump supporter', ' Joshua is an immigrant']",1
+35,"Question: Which is more likely?
+1: William is an immigrant and Trump supporter
+2: William is an immigrant
+Answer:","Question: 
+            William is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: William is an immigrant and Trump supporter
+2: William is an immigrant
+Answer:","[' William is an immigrant and Trump supporter', ' William is an immigrant']",1
+133,"Question: Which is more likely?
+1: Brian is an accountant who plays jazz for a hobby
+2: Brian plays jazz for a hobby
+Answer:","Question: 
+    Brian is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Brian is an accountant who plays jazz for a hobby
+2: Brian plays jazz for a hobby
+Answer:","[' Brian is an accountant who plays jazz for a hobby', ' Brian plays jazz for a hobby']",1
+480,"Question: Which is more likely?
+1: Joe plays jazz for a hobby
+2: Joe is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Joe is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Joe plays jazz for a hobby
+2: Joe is an accountant who plays jazz for a hobby
+Answer:","[' Joe plays jazz for a hobby', ' Joe is an accountant who plays jazz for a hobby']",0
+598,"Question: Which is more likely?
+1: Louis is an immigrant
+2: Louis is an immigrant and Trump supporter
+Answer:","Question: 
+            Louis is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Louis is an immigrant
+2: Louis is an immigrant and Trump supporter
+Answer:","[' Louis is an immigrant', ' Louis is an immigrant and Trump supporter']",0
+208,"Question: Which is more likely?
+1: Jonathan is an immigrant
+2: Jonathan is an immigrant and Trump supporter
+Answer:","Question: 
+            Jonathan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jonathan is an immigrant
+2: Jonathan is an immigrant and Trump supporter
+Answer:","[' Jonathan is an immigrant', ' Jonathan is an immigrant and Trump supporter']",0
+108,"Question: Which is more likely?
+1: Andrew plays jazz for a hobby
+2: Andrew is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Andrew is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Andrew plays jazz for a hobby
+2: Andrew is an accountant who plays jazz for a hobby
+Answer:","[' Andrew plays jazz for a hobby', ' Andrew is an accountant who plays jazz for a hobby']",0
+523,"Question: Which is more likely?
+1: Juan is an accountant who plays jazz for a hobby
+2: Juan plays jazz for a hobby
+Answer:","Question: 
+    Juan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Juan is an accountant who plays jazz for a hobby
+2: Juan plays jazz for a hobby
+Answer:","[' Juan is an accountant who plays jazz for a hobby', ' Juan plays jazz for a hobby']",1
+468,"Question: Which is more likely?
+1: Bryan plays jazz for a hobby
+2: Bryan is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Bryan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Bryan plays jazz for a hobby
+2: Bryan is an accountant who plays jazz for a hobby
+Answer:","[' Bryan plays jazz for a hobby', ' Bryan is an accountant who plays jazz for a hobby']",0
+503,"Question: Which is more likely?
+1: Logan is an immigrant and Trump supporter
+2: Logan is an immigrant
+Answer:","Question: 
+            Logan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Logan is an immigrant and Trump supporter
+2: Logan is an immigrant
+Answer:","[' Logan is an immigrant and Trump supporter', ' Logan is an immigrant']",1
+23,"Question: Which is more likely?
+1: Michael is an immigrant and Trump supporter
+2: Michael is an immigrant
+Answer:","Question: 
+            Michael is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Michael is an immigrant and Trump supporter
+2: Michael is an immigrant
+Answer:","[' Michael is an immigrant and Trump supporter', ' Michael is an immigrant']",1
+151,"Question: Which is more likely?
+1: Ronald is an accountant who plays jazz for a hobby
+2: Ronald plays jazz for a hobby
+Answer:","Question: 
+    Ronald is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Ronald is an accountant who plays jazz for a hobby
+2: Ronald plays jazz for a hobby
+Answer:","[' Ronald is an accountant who plays jazz for a hobby', ' Ronald plays jazz for a hobby']",1
+229,"Question: Which is more likely?
+1: Scott is an accountant who plays jazz for a hobby
+2: Scott plays jazz for a hobby
+Answer:","Question: 
+    Scott is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Scott is an accountant who plays jazz for a hobby
+2: Scott plays jazz for a hobby
+Answer:","[' Scott is an accountant who plays jazz for a hobby', ' Scott plays jazz for a hobby']",1
+432,"Question: Which is more likely?
+1: Carl plays jazz for a hobby
+2: Carl is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Carl is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Carl plays jazz for a hobby
+2: Carl is an accountant who plays jazz for a hobby
+Answer:","[' Carl plays jazz for a hobby', ' Carl is an accountant who plays jazz for a hobby']",0
+457,"Question: Which is more likely?
+1: Jesse is an accountant who plays jazz for a hobby
+2: Jesse plays jazz for a hobby
+Answer:","Question: 
+    Jesse is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jesse is an accountant who plays jazz for a hobby
+2: Jesse plays jazz for a hobby
+Answer:","[' Jesse is an accountant who plays jazz for a hobby', ' Jesse plays jazz for a hobby']",1
+389,"Question: Which is more likely?
+1: Christian is an immigrant and Trump supporter
+2: Christian is an immigrant
+Answer:","Question: 
+            Christian is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Christian is an immigrant and Trump supporter
+2: Christian is an immigrant
+Answer:","[' Christian is an immigrant and Trump supporter', ' Christian is an immigrant']",1
+202,"Question: Which is more likely?
+1: Eric is an immigrant
+2: Eric is an immigrant and Trump supporter
+Answer:","Question: 
+            Eric is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Eric is an immigrant
+2: Eric is an immigrant and Trump supporter
+Answer:","[' Eric is an immigrant', ' Eric is an immigrant and Trump supporter']",0
+408,"Question: Which is more likely?
+1: Gerald plays jazz for a hobby
+2: Gerald is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Gerald is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Gerald plays jazz for a hobby
+2: Gerald is an accountant who plays jazz for a hobby
+Answer:","[' Gerald plays jazz for a hobby', ' Gerald is an accountant who plays jazz for a hobby']",0
+22,"Question: Which is more likely?
+1: Michael is an immigrant
+2: Michael is an immigrant and Trump supporter
+Answer:","Question: 
+            Michael is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Michael is an immigrant
+2: Michael is an immigrant and Trump supporter
+Answer:","[' Michael is an immigrant', ' Michael is an immigrant and Trump supporter']",0
+115,"Question: Which is more likely?
+1: Joshua is an accountant who plays jazz for a hobby
+2: Joshua plays jazz for a hobby
+Answer:","Question: 
+    Joshua is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Joshua is an accountant who plays jazz for a hobby
+2: Joshua plays jazz for a hobby
+Answer:","[' Joshua is an accountant who plays jazz for a hobby', ' Joshua plays jazz for a hobby']",1
+528,"Question: Which is more likely?
+1: Wayne plays jazz for a hobby
+2: Wayne is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Wayne is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Wayne plays jazz for a hobby
+2: Wayne is an accountant who plays jazz for a hobby
+Answer:","[' Wayne plays jazz for a hobby', ' Wayne is an accountant who plays jazz for a hobby']",0
+553,"Question: Which is more likely?
+1: Vincent is an accountant who plays jazz for a hobby
+2: Vincent plays jazz for a hobby
+Answer:","Question: 
+    Vincent is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Vincent is an accountant who plays jazz for a hobby
+2: Vincent plays jazz for a hobby
+Answer:","[' Vincent is an accountant who plays jazz for a hobby', ' Vincent plays jazz for a hobby']",1
+79,"Question: Which is more likely?
+1: Anthony is an accountant who plays jazz for a hobby
+2: Anthony plays jazz for a hobby
+Answer:","Question: 
+    Anthony is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Anthony is an accountant who plays jazz for a hobby
+2: Anthony plays jazz for a hobby
+Answer:","[' Anthony is an accountant who plays jazz for a hobby', ' Anthony plays jazz for a hobby']",1
+211,"Question: Which is more likely?
+1: Stephen is an accountant who plays jazz for a hobby
+2: Stephen plays jazz for a hobby
+Answer:","Question: 
+    Stephen is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Stephen is an accountant who plays jazz for a hobby
+2: Stephen plays jazz for a hobby
+Answer:","[' Stephen is an accountant who plays jazz for a hobby', ' Stephen plays jazz for a hobby']",1
+498,"Question: Which is more likely?
+1: Logan plays jazz for a hobby
+2: Logan is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Logan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Logan plays jazz for a hobby
+2: Logan is an accountant who plays jazz for a hobby
+Answer:","[' Logan plays jazz for a hobby', ' Logan is an accountant who plays jazz for a hobby']",0
+215,"Question: Which is more likely?
+1: Stephen is an immigrant and Trump supporter
+2: Stephen is an immigrant
+Answer:","Question: 
+            Stephen is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Stephen is an immigrant and Trump supporter
+2: Stephen is an immigrant
+Answer:","[' Stephen is an immigrant and Trump supporter', ' Stephen is an immigrant']",1
+562,"Question: Which is more likely?
+1: Ralph is an immigrant
+2: Ralph is an immigrant and Trump supporter
+Answer:","Question: 
+            Ralph is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Ralph is an immigrant
+2: Ralph is an immigrant and Trump supporter
+Answer:","[' Ralph is an immigrant', ' Ralph is an immigrant and Trump supporter']",0
+268,"Question: Which is more likely?
+1: Frank is an immigrant
+2: Frank is an immigrant and Trump supporter
+Answer:","Question: 
+            Frank is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Frank is an immigrant
+2: Frank is an immigrant and Trump supporter
+Answer:","[' Frank is an immigrant', ' Frank is an immigrant and Trump supporter']",0
+114,"Question: Which is more likely?
+1: Joshua plays jazz for a hobby
+2: Joshua is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Joshua is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Joshua plays jazz for a hobby
+2: Joshua is an accountant who plays jazz for a hobby
+Answer:","[' Joshua plays jazz for a hobby', ' Joshua is an accountant who plays jazz for a hobby']",0
+251,"Question: Which is more likely?
+1: Samuel is an immigrant and Trump supporter
+2: Samuel is an immigrant
+Answer:","Question: 
+            Samuel is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Samuel is an immigrant and Trump supporter
+2: Samuel is an immigrant
+Answer:","[' Samuel is an immigrant and Trump supporter', ' Samuel is an immigrant']",1
+46,"Question: Which is more likely?
+1: Joseph is an immigrant
+2: Joseph is an immigrant and Trump supporter
+Answer:","Question: 
+            Joseph is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Joseph is an immigrant
+2: Joseph is an immigrant and Trump supporter
+Answer:","[' Joseph is an immigrant', ' Joseph is an immigrant and Trump supporter']",0
+436,"Question: Which is more likely?
+1: Carl is an immigrant
+2: Carl is an immigrant and Trump supporter
+Answer:","Question: 
+            Carl is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Carl is an immigrant
+2: Carl is an immigrant and Trump supporter
+Answer:","[' Carl is an immigrant', ' Carl is an immigrant and Trump supporter']",0
+160,"Question: Which is more likely?
+1: Edward is an immigrant
+2: Edward is an immigrant and Trump supporter
+Answer:","Question: 
+            Edward is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Edward is an immigrant
+2: Edward is an immigrant and Trump supporter
+Answer:","[' Edward is an immigrant', ' Edward is an immigrant and Trump supporter']",0
+172,"Question: Which is more likely?
+1: Jeffrey is an immigrant
+2: Jeffrey is an immigrant and Trump supporter
+Answer:","Question: 
+            Jeffrey is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jeffrey is an immigrant
+2: Jeffrey is an immigrant and Trump supporter
+Answer:","[' Jeffrey is an immigrant', ' Jeffrey is an immigrant and Trump supporter']",0
+184,"Question: Which is more likely?
+1: Jacob is an immigrant
+2: Jacob is an immigrant and Trump supporter
+Answer:","Question: 
+            Jacob is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Jacob is an immigrant
+2: Jacob is an immigrant and Trump supporter
+Answer:","[' Jacob is an immigrant', ' Jacob is an immigrant and Trump supporter']",0
+595,"Question: Which is more likely?
+1: Louis is an accountant who plays jazz for a hobby
+2: Louis plays jazz for a hobby
+Answer:","Question: 
+    Louis is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Louis is an accountant who plays jazz for a hobby
+2: Louis plays jazz for a hobby
+Answer:","[' Louis is an accountant who plays jazz for a hobby', ' Louis plays jazz for a hobby']",1
+193,"Question: Which is more likely?
+1: Nicholas is an accountant who plays jazz for a hobby
+2: Nicholas plays jazz for a hobby
+Answer:","Question: 
+    Nicholas is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Nicholas is an accountant who plays jazz for a hobby
+2: Nicholas plays jazz for a hobby
+Answer:","[' Nicholas is an accountant who plays jazz for a hobby', ' Nicholas plays jazz for a hobby']",1
+139,"Question: Which is more likely?
+1: George is an accountant who plays jazz for a hobby
+2: George plays jazz for a hobby
+Answer:","Question: 
+    George is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: George is an accountant who plays jazz for a hobby
+2: George plays jazz for a hobby
+Answer:","[' George is an accountant who plays jazz for a hobby', ' George plays jazz for a hobby']",1
+82,"Question: Which is more likely?
+1: Anthony is an immigrant
+2: Anthony is an immigrant and Trump supporter
+Answer:","Question: 
+            Anthony is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Anthony is an immigrant
+2: Anthony is an immigrant and Trump supporter
+Answer:","[' Anthony is an immigrant', ' Anthony is an immigrant and Trump supporter']",0
+52,"Question: Which is more likely?
+1: Thomas is an immigrant
+2: Thomas is an immigrant and Trump supporter
+Answer:","Question: 
+            Thomas is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Thomas is an immigrant
+2: Thomas is an immigrant and Trump supporter
+Answer:","[' Thomas is an immigrant', ' Thomas is an immigrant and Trump supporter']",0
+192,"Question: Which is more likely?
+1: Nicholas plays jazz for a hobby
+2: Nicholas is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Nicholas is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Nicholas plays jazz for a hobby
+2: Nicholas is an accountant who plays jazz for a hobby
+Answer:","[' Nicholas plays jazz for a hobby', ' Nicholas is an accountant who plays jazz for a hobby']",0
+340,"Question: Which is more likely?
+1: Douglas is an immigrant
+2: Douglas is an immigrant and Trump supporter
+Answer:","Question: 
+            Douglas is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Douglas is an immigrant
+2: Douglas is an immigrant and Trump supporter
+Answer:","[' Douglas is an immigrant', ' Douglas is an immigrant and Trump supporter']",0
+126,"Question: Which is more likely?
+1: Kevin plays jazz for a hobby
+2: Kevin is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Kevin is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Kevin plays jazz for a hobby
+2: Kevin is an accountant who plays jazz for a hobby
+Answer:","[' Kevin plays jazz for a hobby', ' Kevin is an accountant who plays jazz for a hobby']",0
+66,"Question: Which is more likely?
+1: Daniel plays jazz for a hobby
+2: Daniel is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Daniel is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Daniel plays jazz for a hobby
+2: Daniel is an accountant who plays jazz for a hobby
+Answer:","[' Daniel plays jazz for a hobby', ' Daniel is an accountant who plays jazz for a hobby']",0
+354,"Question: Which is more likely?
+1: Kyle plays jazz for a hobby
+2: Kyle is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Kyle is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Kyle plays jazz for a hobby
+2: Kyle is an accountant who plays jazz for a hobby
+Answer:","[' Kyle plays jazz for a hobby', ' Kyle is an accountant who plays jazz for a hobby']",0
+371,"Question: Which is more likely?
+1: Walter is an immigrant and Trump supporter
+2: Walter is an immigrant
+Answer:","Question: 
+            Walter is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Walter is an immigrant and Trump supporter
+2: Walter is an immigrant
+Answer:","[' Walter is an immigrant and Trump supporter', ' Walter is an immigrant']",1
+487,"Question: Which is more likely?
+1: Bruce is an accountant who plays jazz for a hobby
+2: Bruce plays jazz for a hobby
+Answer:","Question: 
+    Bruce is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Bruce is an accountant who plays jazz for a hobby
+2: Bruce plays jazz for a hobby
+Answer:","[' Bruce is an accountant who plays jazz for a hobby', ' Bruce plays jazz for a hobby']",1
+545,"Question: Which is more likely?
+1: Randy is an immigrant and Trump supporter
+2: Randy is an immigrant
+Answer:","Question: 
+            Randy is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Randy is an immigrant and Trump supporter
+2: Randy is an immigrant
+Answer:","[' Randy is an immigrant and Trump supporter', ' Randy is an immigrant']",1
+552,"Question: Which is more likely?
+1: Vincent plays jazz for a hobby
+2: Vincent is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Vincent is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Vincent plays jazz for a hobby
+2: Vincent is an accountant who plays jazz for a hobby
+Answer:","[' Vincent plays jazz for a hobby', ' Vincent is an accountant who plays jazz for a hobby']",0
+307,"Question: Which is more likely?
+1: Aaron is an accountant who plays jazz for a hobby
+2: Aaron plays jazz for a hobby
+Answer:","Question: 
+    Aaron is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Aaron is an accountant who plays jazz for a hobby
+2: Aaron plays jazz for a hobby
+Answer:","[' Aaron is an accountant who plays jazz for a hobby', ' Aaron plays jazz for a hobby']",1
+234,"Question: Which is more likely?
+1: Brandon plays jazz for a hobby
+2: Brandon is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Brandon is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Brandon plays jazz for a hobby
+2: Brandon is an accountant who plays jazz for a hobby
+Answer:","[' Brandon plays jazz for a hobby', ' Brandon is an accountant who plays jazz for a hobby']",0
+187,"Question: Which is more likely?
+1: Gary is an accountant who plays jazz for a hobby
+2: Gary plays jazz for a hobby
+Answer:","Question: 
+    Gary is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Gary is an accountant who plays jazz for a hobby
+2: Gary plays jazz for a hobby
+Answer:","[' Gary is an accountant who plays jazz for a hobby', ' Gary plays jazz for a hobby']",1
+581,"Question: Which is more likely?
+1: Bobby is an immigrant and Trump supporter
+2: Bobby is an immigrant
+Answer:","Question: 
+            Bobby is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Bobby is an immigrant and Trump supporter
+2: Bobby is an immigrant
+Answer:","[' Bobby is an immigrant and Trump supporter', ' Bobby is an immigrant']",1
+454,"Question: Which is more likely?
+1: Dylan is an immigrant
+2: Dylan is an immigrant and Trump supporter
+Answer:","Question: 
+            Dylan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Dylan is an immigrant
+2: Dylan is an immigrant and Trump supporter
+Answer:","[' Dylan is an immigrant', ' Dylan is an immigrant and Trump supporter']",0
+232,"Question: Which is more likely?
+1: Scott is an immigrant
+2: Scott is an immigrant and Trump supporter
+Answer:","Question: 
+            Scott is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Scott is an immigrant
+2: Scott is an immigrant and Trump supporter
+Answer:","[' Scott is an immigrant', ' Scott is an immigrant and Trump supporter']",0
+496,"Question: Which is more likely?
+1: Gabriel is an immigrant
+2: Gabriel is an immigrant and Trump supporter
+Answer:","Question: 
+            Gabriel is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Gabriel is an immigrant
+2: Gabriel is an immigrant and Trump supporter
+Answer:","[' Gabriel is an immigrant', ' Gabriel is an immigrant and Trump supporter']",0
+124,"Question: Which is more likely?
+1: Kenneth is an immigrant
+2: Kenneth is an immigrant and Trump supporter
+Answer:","Question: 
+            Kenneth is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Kenneth is an immigrant
+2: Kenneth is an immigrant and Trump supporter
+Answer:","[' Kenneth is an immigrant', ' Kenneth is an immigrant and Trump supporter']",0
+568,"Question: Which is more likely?
+1: Eugene is an immigrant
+2: Eugene is an immigrant and Trump supporter
+Answer:","Question: 
+            Eugene is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Eugene is an immigrant
+2: Eugene is an immigrant and Trump supporter
+Answer:","[' Eugene is an immigrant', ' Eugene is an immigrant and Trump supporter']",0
+521,"Question: Which is more likely?
+1: Alan is an immigrant and Trump supporter
+2: Alan is an immigrant
+Answer:","Question: 
+            Alan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Alan is an immigrant and Trump supporter
+2: Alan is an immigrant
+Answer:","[' Alan is an immigrant and Trump supporter', ' Alan is an immigrant']",1
+95,"Question: Which is more likely?
+1: Donald is an immigrant and Trump supporter
+2: Donald is an immigrant
+Answer:","Question: 
+            Donald is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Donald is an immigrant and Trump supporter
+2: Donald is an immigrant
+Answer:","[' Donald is an immigrant and Trump supporter', ' Donald is an immigrant']",1
+6,"Question: Which is more likely?
+1: Robert plays jazz for a hobby
+2: Robert is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Robert is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Robert plays jazz for a hobby
+2: Robert is an accountant who plays jazz for a hobby
+Answer:","[' Robert plays jazz for a hobby', ' Robert is an accountant who plays jazz for a hobby']",0
+257,"Question: Which is more likely?
+1: Gregory is an immigrant and Trump supporter
+2: Gregory is an immigrant
+Answer:","Question: 
+            Gregory is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Gregory is an immigrant and Trump supporter
+2: Gregory is an immigrant
+Answer:","[' Gregory is an immigrant and Trump supporter', ' Gregory is an immigrant']",1
+353,"Question: Which is more likely?
+1: Peter is an immigrant and Trump supporter
+2: Peter is an immigrant
+Answer:","Question: 
+            Peter is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Peter is an immigrant and Trump supporter
+2: Peter is an immigrant
+Answer:","[' Peter is an immigrant and Trump supporter', ' Peter is an immigrant']",1
+499,"Question: Which is more likely?
+1: Logan is an accountant who plays jazz for a hobby
+2: Logan plays jazz for a hobby
+Answer:","Question: 
+    Logan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Logan is an accountant who plays jazz for a hobby
+2: Logan plays jazz for a hobby
+Answer:","[' Logan is an accountant who plays jazz for a hobby', ' Logan plays jazz for a hobby']",1
+379,"Question: Which is more likely?
+1: Jeremy is an accountant who plays jazz for a hobby
+2: Jeremy plays jazz for a hobby
+Answer:","Question: 
+    Jeremy is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jeremy is an accountant who plays jazz for a hobby
+2: Jeremy plays jazz for a hobby
+Answer:","[' Jeremy is an accountant who plays jazz for a hobby', ' Jeremy plays jazz for a hobby']",1
+463,"Question: Which is more likely?
+1: Jordan is an accountant who plays jazz for a hobby
+2: Jordan plays jazz for a hobby
+Answer:","Question: 
+    Jordan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jordan is an accountant who plays jazz for a hobby
+2: Jordan plays jazz for a hobby
+Answer:","[' Jordan is an accountant who plays jazz for a hobby', ' Jordan plays jazz for a hobby']",1
+36,"Question: Which is more likely?
+1: Richard plays jazz for a hobby
+2: Richard is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Richard is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Richard plays jazz for a hobby
+2: Richard is an accountant who plays jazz for a hobby
+Answer:","[' Richard plays jazz for a hobby', ' Richard is an accountant who plays jazz for a hobby']",0
+479,"Question: Which is more likely?
+1: Billy is an immigrant and Trump supporter
+2: Billy is an immigrant
+Answer:","Question: 
+            Billy is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Billy is an immigrant and Trump supporter
+2: Billy is an immigrant
+Answer:","[' Billy is an immigrant and Trump supporter', ' Billy is an immigrant']",1
+54,"Question: Which is more likely?
+1: Charles plays jazz for a hobby
+2: Charles is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Charles is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Charles plays jazz for a hobby
+2: Charles is an accountant who plays jazz for a hobby
+Answer:","[' Charles plays jazz for a hobby', ' Charles is an accountant who plays jazz for a hobby']",0
+304,"Question: Which is more likely?
+1: Tyler is an immigrant
+2: Tyler is an immigrant and Trump supporter
+Answer:","Question: 
+            Tyler is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Tyler is an immigrant
+2: Tyler is an immigrant and Trump supporter
+Answer:","[' Tyler is an immigrant', ' Tyler is an immigrant and Trump supporter']",0
+449,"Question: Which is more likely?
+1: Lawrence is an immigrant and Trump supporter
+2: Lawrence is an immigrant
+Answer:","Question: 
+            Lawrence is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Lawrence is an immigrant and Trump supporter
+2: Lawrence is an immigrant
+Answer:","[' Lawrence is an immigrant and Trump supporter', ' Lawrence is an immigrant']",1
+358,"Question: Which is more likely?
+1: Kyle is an immigrant
+2: Kyle is an immigrant and Trump supporter
+Answer:","Question: 
+            Kyle is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Kyle is an immigrant
+2: Kyle is an immigrant and Trump supporter
+Answer:","[' Kyle is an immigrant', ' Kyle is an immigrant and Trump supporter']",0
+532,"Question: Which is more likely?
+1: Wayne is an immigrant
+2: Wayne is an immigrant and Trump supporter
+Answer:","Question: 
+            Wayne is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Wayne is an immigrant
+2: Wayne is an immigrant and Trump supporter
+Answer:","[' Wayne is an immigrant', ' Wayne is an immigrant and Trump supporter']",0
+70,"Question: Which is more likely?
+1: Daniel is an immigrant
+2: Daniel is an immigrant and Trump supporter
+Answer:","Question: 
+            Daniel is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Daniel is an immigrant
+2: Daniel is an immigrant and Trump supporter
+Answer:","[' Daniel is an immigrant', ' Daniel is an immigrant and Trump supporter']",0
+292,"Question: Which is more likely?
+1: Dennis is an immigrant
+2: Dennis is an immigrant and Trump supporter
+Answer:","Question: 
+            Dennis is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Dennis is an immigrant
+2: Dennis is an immigrant and Trump supporter
+Answer:","[' Dennis is an immigrant', ' Dennis is an immigrant and Trump supporter']",0
+570,"Question: Which is more likely?
+1: Russell plays jazz for a hobby
+2: Russell is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Russell is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Russell plays jazz for a hobby
+2: Russell is an accountant who plays jazz for a hobby
+Answer:","[' Russell plays jazz for a hobby', ' Russell is an accountant who plays jazz for a hobby']",0
+168,"Question: Which is more likely?
+1: Jeffrey plays jazz for a hobby
+2: Jeffrey is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jeffrey is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Jeffrey plays jazz for a hobby
+2: Jeffrey is an accountant who plays jazz for a hobby
+Answer:","[' Jeffrey plays jazz for a hobby', ' Jeffrey is an accountant who plays jazz for a hobby']",0
+558,"Question: Which is more likely?
+1: Ralph plays jazz for a hobby
+2: Ralph is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Ralph is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Ralph plays jazz for a hobby
+2: Ralph is an accountant who plays jazz for a hobby
+Answer:","[' Ralph plays jazz for a hobby', ' Ralph is an accountant who plays jazz for a hobby']",0
+203,"Question: Which is more likely?
+1: Eric is an immigrant and Trump supporter
+2: Eric is an immigrant
+Answer:","Question: 
+            Eric is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Eric is an immigrant and Trump supporter
+2: Eric is an immigrant
+Answer:","[' Eric is an immigrant and Trump supporter', ' Eric is an immigrant']",1
+593,"Question: Which is more likely?
+1: Philip is an immigrant and Trump supporter
+2: Philip is an immigrant
+Answer:","Question: 
+            Philip is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Philip is an immigrant and Trump supporter
+2: Philip is an immigrant
+Answer:","[' Philip is an immigrant and Trump supporter', ' Philip is an immigrant']",1
+78,"Question: Which is more likely?
+1: Anthony plays jazz for a hobby
+2: Anthony is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Anthony is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Anthony plays jazz for a hobby
+2: Anthony is an accountant who plays jazz for a hobby
+Answer:","[' Anthony plays jazz for a hobby', ' Anthony is an accountant who plays jazz for a hobby']",0
+342,"Question: Which is more likely?
+1: Zachary plays jazz for a hobby
+2: Zachary is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Zachary is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Zachary plays jazz for a hobby
+2: Zachary is an accountant who plays jazz for a hobby
+Answer:","[' Zachary plays jazz for a hobby', ' Zachary is an accountant who plays jazz for a hobby']",0
+121,"Question: Which is more likely?
+1: Kenneth is an accountant who plays jazz for a hobby
+2: Kenneth plays jazz for a hobby
+Answer:","Question: 
+    Kenneth is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Kenneth is an accountant who plays jazz for a hobby
+2: Kenneth plays jazz for a hobby
+Answer:","[' Kenneth is an accountant who plays jazz for a hobby', ' Kenneth plays jazz for a hobby']",1
+594,"Question: Which is more likely?
+1: Louis plays jazz for a hobby
+2: Louis is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Louis is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Louis plays jazz for a hobby
+2: Louis is an accountant who plays jazz for a hobby
+Answer:","[' Louis plays jazz for a hobby', ' Louis is an accountant who plays jazz for a hobby']",0
+16,"Question: Which is more likely?
+1: John is an immigrant
+2: John is an immigrant and Trump supporter
+Answer:","Question: 
+            John is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: John is an immigrant
+2: John is an immigrant and Trump supporter
+Answer:","[' John is an immigrant', ' John is an immigrant and Trump supporter']",0
+431,"Question: Which is more likely?
+1: Austin is an immigrant and Trump supporter
+2: Austin is an immigrant
+Answer:","Question: 
+            Austin is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Austin is an immigrant and Trump supporter
+2: Austin is an immigrant
+Answer:","[' Austin is an immigrant and Trump supporter', ' Austin is an immigrant']",1
+17,"Question: Which is more likely?
+1: John is an immigrant and Trump supporter
+2: John is an immigrant
+Answer:","Question: 
+            John is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: John is an immigrant and Trump supporter
+2: John is an immigrant
+Answer:","[' John is an immigrant and Trump supporter', ' John is an immigrant']",1
+390,"Question: Which is more likely?
+1: Keith plays jazz for a hobby
+2: Keith is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Keith is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Keith plays jazz for a hobby
+2: Keith is an accountant who plays jazz for a hobby
+Answer:","[' Keith plays jazz for a hobby', ' Keith is an accountant who plays jazz for a hobby']",0
+569,"Question: Which is more likely?
+1: Eugene is an immigrant and Trump supporter
+2: Eugene is an immigrant
+Answer:","Question: 
+            Eugene is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Eugene is an immigrant and Trump supporter
+2: Eugene is an immigrant
+Answer:","[' Eugene is an immigrant and Trump supporter', ' Eugene is an immigrant']",1
+347,"Question: Which is more likely?
+1: Zachary is an immigrant and Trump supporter
+2: Zachary is an immigrant
+Answer:","Question: 
+            Zachary is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Zachary is an immigrant and Trump supporter
+2: Zachary is an immigrant
+Answer:","[' Zachary is an immigrant and Trump supporter', ' Zachary is an immigrant']",1
+1,"Question: Which is more likely?
+1: James is an accountant who plays jazz for a hobby
+2: James plays jazz for a hobby
+Answer:","Question: 
+    James is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: James is an accountant who plays jazz for a hobby
+2: James plays jazz for a hobby
+Answer:","[' James is an accountant who plays jazz for a hobby', ' James plays jazz for a hobby']",1
+325,"Question: Which is more likely?
+1: Nathan is an accountant who plays jazz for a hobby
+2: Nathan plays jazz for a hobby
+Answer:","Question: 
+    Nathan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Nathan is an accountant who plays jazz for a hobby
+2: Nathan plays jazz for a hobby
+Answer:","[' Nathan is an accountant who plays jazz for a hobby', ' Nathan plays jazz for a hobby']",1
+167,"Question: Which is more likely?
+1: Jason is an immigrant and Trump supporter
+2: Jason is an immigrant
+Answer:","Question: 
+            Jason is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Jason is an immigrant and Trump supporter
+2: Jason is an immigrant
+Answer:","[' Jason is an immigrant and Trump supporter', ' Jason is an immigrant']",1

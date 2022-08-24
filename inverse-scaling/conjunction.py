@@ -29,6 +29,15 @@ STORIES = {
                 """ XXX is a librarian who plays in a rock band""",
             ],
         },
+        {
+            "story": """
+            XXX is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            """,
+            "options": [
+                " XXX is an immigrant",
+                " XXX is an immigrant and Trump supporter",
+            ],
+        },
     ],
     "female": [
         {
@@ -104,6 +113,9 @@ def main():
     ]
     df[df["prompt"].str.contains("accountant")].to_csv(
         "data/conjunction_accountant.csv"
+    )
+    df[df["prompt"].str.contains("Trump|accountant", regex=True)].sample(300).to_csv(
+        "data/conjunction_Trump.csv"
     )
     df_original.to_csv("data/conjunction_original.csv", index=False)
     df.sample(n=300).to_csv("data/conjunction.csv", index=False)

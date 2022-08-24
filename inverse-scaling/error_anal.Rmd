@@ -180,3 +180,15 @@ broom::tidy(pol_model) %>%
   filter(estimate < 0)
 ```
 
+# Conjunction
+```{r}
+conresult <- read_results("conjunction_Trump.csv", "conjunction", glob_pattern="*text*.csv")
+
+conresult %>% 
+  group_by(model) %>% 
+  summarise(logodds_difference = mean(logodds_difference),
+            standard_dev = sd(logodds_difference)) %>% 
+  ggplot(aes(x=as.integer(as.factor(model)), y=logodds_difference)) + 
+  geom_line()
+```
+

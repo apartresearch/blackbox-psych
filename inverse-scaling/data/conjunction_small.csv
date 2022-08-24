@@ -1,23 +1,106 @@
 prompt,other_prompt,classes,answer_index
 "Question: Which is more likely?
-1: Roger is a librarian
-2: Roger is a librarian who plays in a rock band
+1: Amanda works on an oil rig
+2: Amanda works on an oil rig and is active in the environmental movement
 Answer:","Question: 
-        Roger is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+            Amanda is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+Which is more likely?
+1: Amanda works on an oil rig
+2: Amanda works on an oil rig and is active in the environmental movement
+Answer:","[' Amanda works on an oil rig', ' Amanda works on an oil rig and is active in the environmental movement']",0
+"Question: Which is more likely?
+1: Henry is an accountant who plays jazz for a hobby
+2: Henry plays jazz for a hobby
+Answer:","Question: 
+    Henry is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Henry is an accountant who plays jazz for a hobby
+2: Henry plays jazz for a hobby
+Answer:","[' Henry is an accountant who plays jazz for a hobby', ' Henry plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Frank is a librarian who plays in a rock band
+2: Frank is a librarian
+Answer:","Question: 
+        Frank is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Frank is a librarian who plays in a rock band
+2: Frank is a librarian
+Answer:","[' Frank is a librarian who plays in a rock band', ' Frank is a librarian']",1
+"Question: Which is more likely?
+1: Maria is a bank teller
+2: Maria is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Maria is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Maria is a bank teller
+2: Maria is a bank teller and is active in the feminist movement
+Answer:","[' Maria is a bank teller', ' Maria is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Douglas is an immigrant
+2: Douglas is an immigrant and Trump supporter
+Answer:","Question: 
+            Douglas is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Douglas is an immigrant
+2: Douglas is an immigrant and Trump supporter
+Answer:","[' Douglas is an immigrant', ' Douglas is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Harold is a librarian who plays in a rock band
+2: Harold is a librarian
+Answer:","Question: 
+        Harold is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Harold is a librarian who plays in a rock band
+2: Harold is a librarian
+Answer:","[' Harold is a librarian who plays in a rock band', ' Harold is a librarian']",1
+"Question: Which is more likely?
+1: Judith is a bank teller and is active in the feminist movement
+2: Judith is a bank teller
+Answer:","Question: 
+    Judith is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Judith is a bank teller and is active in the feminist movement
+2: Judith is a bank teller
+Answer:","[' Judith is a bank teller and is active in the feminist movement', ' Judith is a bank teller']",1
+"Question: Which is more likely?
+1: Adam is a librarian
+2: Adam is a librarian who plays in a rock band
+Answer:","Question: 
+        Adam is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
         
 Which is more likely?
-1: Roger is a librarian
-2: Roger is a librarian who plays in a rock band
-Answer:","[' Roger is a librarian', ' Roger is a librarian who plays in a rock band']",0
+1: Adam is a librarian
+2: Adam is a librarian who plays in a rock band
+Answer:","[' Adam is a librarian', ' Adam is a librarian who plays in a rock band']",0
 "Question: Which is more likely?
-1: Austin is a librarian who plays in a rock band
-2: Austin is a librarian
+1: Olivia is a bank teller
+2: Olivia is a bank teller and is active in the feminist movement
 Answer:","Question: 
-        Austin is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Austin is a librarian who plays in a rock band
-2: Austin is a librarian
-Answer:","[' Austin is a librarian who plays in a rock band', ' Austin is a librarian']",1
+    Olivia is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Olivia is a bank teller
+2: Olivia is a bank teller and is active in the feminist movement
+Answer:","[' Olivia is a bank teller', ' Olivia is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Peter is an accountant who plays jazz for a hobby
+2: Peter plays jazz for a hobby
+Answer:","Question: 
+    Peter is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Peter is an accountant who plays jazz for a hobby
+2: Peter plays jazz for a hobby
+Answer:","[' Peter is an accountant who plays jazz for a hobby', ' Peter plays jazz for a hobby']",1
 "Question: Which is more likely?
 1: Stephen is a librarian
 2: Stephen is a librarian who plays in a rock band
@@ -29,269 +112,44 @@ Which is more likely?
 2: Stephen is a librarian who plays in a rock band
 Answer:","[' Stephen is a librarian', ' Stephen is a librarian who plays in a rock band']",0
 "Question: Which is more likely?
-1: Andrea is a bank teller and is active in the feminist movement
-2: Andrea is a bank teller
+1: Frank is an immigrant and Trump supporter
+2: Frank is an immigrant
 Answer:","Question: 
-    Andrea is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Andrea is a bank teller and is active in the feminist movement
-2: Andrea is a bank teller
-Answer:","[' Andrea is a bank teller and is active in the feminist movement', ' Andrea is a bank teller']",1
-"Question: Which is more likely?
-1: Sara works on an oil rig and is active in the environmental movement
-2: Sara works on an oil rig
-Answer:","Question: 
-            Sara is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            Frank is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
             
-1: Sara works on an oil rig and is active in the environmental movement
-2: Sara works on an oil rig
-Answer:","[' Sara works on an oil rig and is active in the environmental movement', ' Sara works on an oil rig']",1
+1: Frank is an immigrant and Trump supporter
+2: Frank is an immigrant
+Answer:","[' Frank is an immigrant and Trump supporter', ' Frank is an immigrant']",1
 "Question: Which is more likely?
-1: Kathryn works on an oil rig and is active in the environmental movement
-2: Kathryn works on an oil rig
+1: Dennis is an immigrant
+2: Dennis is an immigrant and Trump supporter
 Answer:","Question: 
-            Kathryn is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            Dennis is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
             
-1: Kathryn works on an oil rig and is active in the environmental movement
-2: Kathryn works on an oil rig
-Answer:","[' Kathryn works on an oil rig and is active in the environmental movement', ' Kathryn works on an oil rig']",1
+Which is more likely?
+1: Dennis is an immigrant
+2: Dennis is an immigrant and Trump supporter
+Answer:","[' Dennis is an immigrant', ' Dennis is an immigrant and Trump supporter']",0
 "Question: Which is more likely?
-1: Paul is a librarian who plays in a rock band
-2: Paul is a librarian
+1: Christian is an accountant who plays jazz for a hobby
+2: Christian plays jazz for a hobby
 Answer:","Question: 
-        Paul is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Paul is a librarian who plays in a rock band
-2: Paul is a librarian
-Answer:","[' Paul is a librarian who plays in a rock band', ' Paul is a librarian']",1
-"Question: Which is more likely?
-1: Mason is an accountant who plays jazz for a hobby
-2: Mason plays jazz for a hobby
-Answer:","Question: 
-    Mason is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    Christian is 34 years old. He is intelligent, but unimaginative, compulsive, and
     generally lifeless. In school, he was strong in mathematics but weak in
     social studies and humanities.
     
-1: Mason is an accountant who plays jazz for a hobby
-2: Mason plays jazz for a hobby
-Answer:","[' Mason is an accountant who plays jazz for a hobby', ' Mason plays jazz for a hobby']",1
+1: Christian is an accountant who plays jazz for a hobby
+2: Christian plays jazz for a hobby
+Answer:","[' Christian is an accountant who plays jazz for a hobby', ' Christian plays jazz for a hobby']",1
 "Question: Which is more likely?
-1: Marilyn works on an oil rig and is active in the environmental movement
-2: Marilyn works on an oil rig
+1: Deborah works on an oil rig and is active in the environmental movement
+2: Deborah works on an oil rig
 Answer:","Question: 
-            Marilyn is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            Deborah is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
             
-1: Marilyn works on an oil rig and is active in the environmental movement
-2: Marilyn works on an oil rig
-Answer:","[' Marilyn works on an oil rig and is active in the environmental movement', ' Marilyn works on an oil rig']",1
-"Question: Which is more likely?
-1: Dylan plays jazz for a hobby
-2: Dylan is an accountant who plays jazz for a hobby
-Answer:","Question: 
-    Dylan is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-Which is more likely?
-1: Dylan plays jazz for a hobby
-2: Dylan is an accountant who plays jazz for a hobby
-Answer:","[' Dylan plays jazz for a hobby', ' Dylan is an accountant who plays jazz for a hobby']",0
-"Question: Which is more likely?
-1: Sean is a librarian who plays in a rock band
-2: Sean is a librarian
-Answer:","Question: 
-        Sean is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Sean is a librarian who plays in a rock band
-2: Sean is a librarian
-Answer:","[' Sean is a librarian who plays in a rock band', ' Sean is a librarian']",1
-"Question: Which is more likely?
-1: Janet is a bank teller
-2: Janet is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Janet is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Janet is a bank teller
-2: Janet is a bank teller and is active in the feminist movement
-Answer:","[' Janet is a bank teller', ' Janet is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Theresa is a bank teller
-2: Theresa is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Theresa is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Theresa is a bank teller
-2: Theresa is a bank teller and is active in the feminist movement
-Answer:","[' Theresa is a bank teller', ' Theresa is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Bobby is an accountant who plays jazz for a hobby
-2: Bobby plays jazz for a hobby
-Answer:","Question: 
-    Bobby is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Bobby is an accountant who plays jazz for a hobby
-2: Bobby plays jazz for a hobby
-Answer:","[' Bobby is an accountant who plays jazz for a hobby', ' Bobby plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: Heather is a bank teller
-2: Heather is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Heather is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Heather is a bank teller
-2: Heather is a bank teller and is active in the feminist movement
-Answer:","[' Heather is a bank teller', ' Heather is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Jeremy plays jazz for a hobby
-2: Jeremy is an accountant who plays jazz for a hobby
-Answer:","Question: 
-    Jeremy is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-Which is more likely?
-1: Jeremy plays jazz for a hobby
-2: Jeremy is an accountant who plays jazz for a hobby
-Answer:","[' Jeremy plays jazz for a hobby', ' Jeremy is an accountant who plays jazz for a hobby']",0
-"Question: Which is more likely?
-1: Pamela is a bank teller
-2: Pamela is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Pamela is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Pamela is a bank teller
-2: Pamela is a bank teller and is active in the feminist movement
-Answer:","[' Pamela is a bank teller', ' Pamela is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Julia works on an oil rig and is active in the environmental movement
-2: Julia works on an oil rig
-Answer:","Question: 
-            Julia is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Julia works on an oil rig and is active in the environmental movement
-2: Julia works on an oil rig
-Answer:","[' Julia works on an oil rig and is active in the environmental movement', ' Julia works on an oil rig']",1
-"Question: Which is more likely?
-1: Gloria works on an oil rig and is active in the environmental movement
-2: Gloria works on an oil rig
-Answer:","Question: 
-            Gloria is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Gloria works on an oil rig and is active in the environmental movement
-2: Gloria works on an oil rig
-Answer:","[' Gloria works on an oil rig and is active in the environmental movement', ' Gloria works on an oil rig']",1
-"Question: Which is more likely?
-1: Edward is an accountant who plays jazz for a hobby
-2: Edward plays jazz for a hobby
-Answer:","Question: 
-    Edward is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Edward is an accountant who plays jazz for a hobby
-2: Edward plays jazz for a hobby
-Answer:","[' Edward is an accountant who plays jazz for a hobby', ' Edward plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: Anthony is a librarian
-2: Anthony is a librarian who plays in a rock band
-Answer:","Question: 
-        Anthony is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-Which is more likely?
-1: Anthony is a librarian
-2: Anthony is a librarian who plays in a rock band
-Answer:","[' Anthony is a librarian', ' Anthony is a librarian who plays in a rock band']",0
-"Question: Which is more likely?
-1: Richard is a librarian who plays in a rock band
-2: Richard is a librarian
-Answer:","Question: 
-        Richard is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Richard is a librarian who plays in a rock band
-2: Richard is a librarian
-Answer:","[' Richard is a librarian who plays in a rock band', ' Richard is a librarian']",1
-"Question: Which is more likely?
-1: Lisa works on an oil rig
-2: Lisa works on an oil rig and is active in the environmental movement
-Answer:","Question: 
-            Lisa is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-Which is more likely?
-1: Lisa works on an oil rig
-2: Lisa works on an oil rig and is active in the environmental movement
-Answer:","[' Lisa works on an oil rig', ' Lisa works on an oil rig and is active in the environmental movement']",0
-"Question: Which is more likely?
-1: Catherine is a bank teller and is active in the feminist movement
-2: Catherine is a bank teller
-Answer:","Question: 
-    Catherine is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Catherine is a bank teller and is active in the feminist movement
-2: Catherine is a bank teller
-Answer:","[' Catherine is a bank teller and is active in the feminist movement', ' Catherine is a bank teller']",1
-"Question: Which is more likely?
-1: Mary is a bank teller and is active in the feminist movement
-2: Mary is a bank teller
-Answer:","Question: 
-    Mary is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Mary is a bank teller and is active in the feminist movement
-2: Mary is a bank teller
-Answer:","[' Mary is a bank teller and is active in the feminist movement', ' Mary is a bank teller']",1
-"Question: Which is more likely?
-1: Scott is a librarian
-2: Scott is a librarian who plays in a rock band
-Answer:","Question: 
-        Scott is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-Which is more likely?
-1: Scott is a librarian
-2: Scott is a librarian who plays in a rock band
-Answer:","[' Scott is a librarian', ' Scott is a librarian who plays in a rock band']",0
-"Question: Which is more likely?
-1: Joyce works on an oil rig and is active in the environmental movement
-2: Joyce works on an oil rig
-Answer:","Question: 
-            Joyce is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Joyce works on an oil rig and is active in the environmental movement
-2: Joyce works on an oil rig
-Answer:","[' Joyce works on an oil rig and is active in the environmental movement', ' Joyce works on an oil rig']",1
-"Question: Which is more likely?
-1: Sharon is a bank teller
-2: Sharon is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Sharon is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Sharon is a bank teller
-2: Sharon is a bank teller and is active in the feminist movement
-Answer:","[' Sharon is a bank teller', ' Sharon is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Jesse is an accountant who plays jazz for a hobby
-2: Jesse plays jazz for a hobby
-Answer:","Question: 
-    Jesse is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Jesse is an accountant who plays jazz for a hobby
-2: Jesse plays jazz for a hobby
-Answer:","[' Jesse is an accountant who plays jazz for a hobby', ' Jesse plays jazz for a hobby']",1
+1: Deborah works on an oil rig and is active in the environmental movement
+2: Deborah works on an oil rig
+Answer:","[' Deborah works on an oil rig and is active in the environmental movement', ' Deborah works on an oil rig']",1
 "Question: Which is more likely?
 1: Raymond is a librarian who plays in a rock band
 2: Raymond is a librarian
@@ -302,242 +160,210 @@ Answer:","Question:
 2: Raymond is a librarian
 Answer:","[' Raymond is a librarian who plays in a rock band', ' Raymond is a librarian']",1
 "Question: Which is more likely?
-1: Randy is a librarian
-2: Randy is a librarian who plays in a rock band
-Answer:","Question: 
-        Randy is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-Which is more likely?
-1: Randy is a librarian
-2: Randy is a librarian who plays in a rock band
-Answer:","[' Randy is a librarian', ' Randy is a librarian who plays in a rock band']",0
-"Question: Which is more likely?
-1: Aaron is an accountant who plays jazz for a hobby
-2: Aaron plays jazz for a hobby
-Answer:","Question: 
-    Aaron is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Aaron is an accountant who plays jazz for a hobby
-2: Aaron plays jazz for a hobby
-Answer:","[' Aaron is an accountant who plays jazz for a hobby', ' Aaron plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: Alexis works on an oil rig and is active in the environmental movement
-2: Alexis works on an oil rig
-Answer:","Question: 
-            Alexis is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Alexis works on an oil rig and is active in the environmental movement
-2: Alexis works on an oil rig
-Answer:","[' Alexis works on an oil rig and is active in the environmental movement', ' Alexis works on an oil rig']",1
-"Question: Which is more likely?
-1: Pamela works on an oil rig and is active in the environmental movement
-2: Pamela works on an oil rig
-Answer:","Question: 
-            Pamela is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Pamela works on an oil rig and is active in the environmental movement
-2: Pamela works on an oil rig
-Answer:","[' Pamela works on an oil rig and is active in the environmental movement', ' Pamela works on an oil rig']",1
-"Question: Which is more likely?
-1: Russell is a librarian who plays in a rock band
-2: Russell is a librarian
-Answer:","Question: 
-        Russell is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Russell is a librarian who plays in a rock band
-2: Russell is a librarian
-Answer:","[' Russell is a librarian who plays in a rock band', ' Russell is a librarian']",1
-"Question: Which is more likely?
-1: Brittany is a bank teller
-2: Brittany is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Brittany is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Brittany is a bank teller
-2: Brittany is a bank teller and is active in the feminist movement
-Answer:","[' Brittany is a bank teller', ' Brittany is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Logan is an accountant who plays jazz for a hobby
-2: Logan plays jazz for a hobby
-Answer:","Question: 
-    Logan is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Logan is an accountant who plays jazz for a hobby
-2: Logan plays jazz for a hobby
-Answer:","[' Logan is an accountant who plays jazz for a hobby', ' Logan plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: Mary is a bank teller
-2: Mary is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Mary is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Mary is a bank teller
-2: Mary is a bank teller and is active in the feminist movement
-Answer:","[' Mary is a bank teller', ' Mary is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Heather works on an oil rig and is active in the environmental movement
-2: Heather works on an oil rig
-Answer:","Question: 
-            Heather is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Heather works on an oil rig and is active in the environmental movement
-2: Heather works on an oil rig
-Answer:","[' Heather works on an oil rig and is active in the environmental movement', ' Heather works on an oil rig']",1
-"Question: Which is more likely?
-1: Carl plays jazz for a hobby
-2: Carl is an accountant who plays jazz for a hobby
-Answer:","Question: 
-    Carl is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-Which is more likely?
-1: Carl plays jazz for a hobby
-2: Carl is an accountant who plays jazz for a hobby
-Answer:","[' Carl plays jazz for a hobby', ' Carl is an accountant who plays jazz for a hobby']",0
-"Question: Which is more likely?
-1: Diana works on an oil rig and is active in the environmental movement
-2: Diana works on an oil rig
-Answer:","Question: 
-            Diana is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Diana works on an oil rig and is active in the environmental movement
-2: Diana works on an oil rig
-Answer:","[' Diana works on an oil rig and is active in the environmental movement', ' Diana works on an oil rig']",1
-"Question: Which is more likely?
-1: Cynthia works on an oil rig and is active in the environmental movement
-2: Cynthia works on an oil rig
+1: Cynthia works on an oil rig
+2: Cynthia works on an oil rig and is active in the environmental movement
 Answer:","Question: 
             Cynthia is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
             
-1: Cynthia works on an oil rig and is active in the environmental movement
-2: Cynthia works on an oil rig
-Answer:","[' Cynthia works on an oil rig and is active in the environmental movement', ' Cynthia works on an oil rig']",1
+Which is more likely?
+1: Cynthia works on an oil rig
+2: Cynthia works on an oil rig and is active in the environmental movement
+Answer:","[' Cynthia works on an oil rig', ' Cynthia works on an oil rig and is active in the environmental movement']",0
 "Question: Which is more likely?
-1: Jordan is an accountant who plays jazz for a hobby
-2: Jordan plays jazz for a hobby
+1: Karen is a bank teller
+2: Karen is a bank teller and is active in the feminist movement
 Answer:","Question: 
-    Jordan is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Jordan is an accountant who plays jazz for a hobby
-2: Jordan plays jazz for a hobby
-Answer:","[' Jordan is an accountant who plays jazz for a hobby', ' Jordan plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: Virginia is a bank teller and is active in the feminist movement
-2: Virginia is a bank teller
-Answer:","Question: 
-    Virginia is 31 years old, single, outspoken and very bright. She majored in
+    Karen is 31 years old, single, outspoken and very bright. She majored in
 philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
     
-1: Virginia is a bank teller and is active in the feminist movement
-2: Virginia is a bank teller
-Answer:","[' Virginia is a bank teller and is active in the feminist movement', ' Virginia is a bank teller']",1
-"Question: Which is more likely?
-1: Nathan is an accountant who plays jazz for a hobby
-2: Nathan plays jazz for a hobby
-Answer:","Question: 
-    Nathan is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Nathan is an accountant who plays jazz for a hobby
-2: Nathan plays jazz for a hobby
-Answer:","[' Nathan is an accountant who plays jazz for a hobby', ' Nathan plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: Willie plays jazz for a hobby
-2: Willie is an accountant who plays jazz for a hobby
-Answer:","Question: 
-    Willie is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
 Which is more likely?
-1: Willie plays jazz for a hobby
-2: Willie is an accountant who plays jazz for a hobby
-Answer:","[' Willie plays jazz for a hobby', ' Willie is an accountant who plays jazz for a hobby']",0
+1: Karen is a bank teller
+2: Karen is a bank teller and is active in the feminist movement
+Answer:","[' Karen is a bank teller', ' Karen is a bank teller and is active in the feminist movement']",0
 "Question: Which is more likely?
-1: Vincent plays jazz for a hobby
-2: Vincent is an accountant who plays jazz for a hobby
+1: Austin is a librarian
+2: Austin is a librarian who plays in a rock band
 Answer:","Question: 
-    Vincent is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-Which is more likely?
-1: Vincent plays jazz for a hobby
-2: Vincent is an accountant who plays jazz for a hobby
-Answer:","[' Vincent plays jazz for a hobby', ' Vincent is an accountant who plays jazz for a hobby']",0
-"Question: Which is more likely?
-1: Beverly works on an oil rig
-2: Beverly works on an oil rig and is active in the environmental movement
-Answer:","Question: 
-            Beverly is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-Which is more likely?
-1: Beverly works on an oil rig
-2: Beverly works on an oil rig and is active in the environmental movement
-Answer:","[' Beverly works on an oil rig', ' Beverly works on an oil rig and is active in the environmental movement']",0
-"Question: Which is more likely?
-1: Arthur is a librarian
-2: Arthur is a librarian who plays in a rock band
-Answer:","Question: 
-        Arthur is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        Austin is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
         
 Which is more likely?
-1: Arthur is a librarian
-2: Arthur is a librarian who plays in a rock band
-Answer:","[' Arthur is a librarian', ' Arthur is a librarian who plays in a rock band']",0
+1: Austin is a librarian
+2: Austin is a librarian who plays in a rock band
+Answer:","[' Austin is a librarian', ' Austin is a librarian who plays in a rock band']",0
 "Question: Which is more likely?
-1: Victoria works on an oil rig
-2: Victoria works on an oil rig and is active in the environmental movement
+1: Richard plays jazz for a hobby
+2: Richard is an accountant who plays jazz for a hobby
 Answer:","Question: 
-            Victoria is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-Which is more likely?
-1: Victoria works on an oil rig
-2: Victoria works on an oil rig and is active in the environmental movement
-Answer:","[' Victoria works on an oil rig', ' Victoria works on an oil rig and is active in the environmental movement']",0
-"Question: Which is more likely?
-1: Olivia is a bank teller and is active in the feminist movement
-2: Olivia is a bank teller
-Answer:","Question: 
-    Olivia is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Olivia is a bank teller and is active in the feminist movement
-2: Olivia is a bank teller
-Answer:","[' Olivia is a bank teller and is active in the feminist movement', ' Olivia is a bank teller']",1
-"Question: Which is more likely?
-1: Eric is an accountant who plays jazz for a hobby
-2: Eric plays jazz for a hobby
-Answer:","Question: 
-    Eric is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    Richard is 34 years old. He is intelligent, but unimaginative, compulsive, and
     generally lifeless. In school, he was strong in mathematics but weak in
     social studies and humanities.
     
-1: Eric is an accountant who plays jazz for a hobby
-2: Eric plays jazz for a hobby
-Answer:","[' Eric is an accountant who plays jazz for a hobby', ' Eric plays jazz for a hobby']",1
+Which is more likely?
+1: Richard plays jazz for a hobby
+2: Richard is an accountant who plays jazz for a hobby
+Answer:","[' Richard plays jazz for a hobby', ' Richard is an accountant who plays jazz for a hobby']",0
 "Question: Which is more likely?
-1: Karen works on an oil rig
-2: Karen works on an oil rig and is active in the environmental movement
+1: Aaron is a librarian who plays in a rock band
+2: Aaron is a librarian
 Answer:","Question: 
-            Karen is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+        Aaron is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Aaron is a librarian who plays in a rock band
+2: Aaron is a librarian
+Answer:","[' Aaron is a librarian who plays in a rock band', ' Aaron is a librarian']",1
+"Question: Which is more likely?
+1: Bruce plays jazz for a hobby
+2: Bruce is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Bruce is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Bruce plays jazz for a hobby
+2: Bruce is an accountant who plays jazz for a hobby
+Answer:","[' Bruce plays jazz for a hobby', ' Bruce is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Alexander is a librarian
+2: Alexander is a librarian who plays in a rock band
+Answer:","Question: 
+        Alexander is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+Which is more likely?
+1: Alexander is a librarian
+2: Alexander is a librarian who plays in a rock band
+Answer:","[' Alexander is a librarian', ' Alexander is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Victoria is a bank teller
+2: Victoria is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Victoria is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Victoria is a bank teller
+2: Victoria is a bank teller and is active in the feminist movement
+Answer:","[' Victoria is a bank teller', ' Victoria is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Nathan is a librarian who plays in a rock band
+2: Nathan is a librarian
+Answer:","Question: 
+        Nathan is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Nathan is a librarian who plays in a rock band
+2: Nathan is a librarian
+Answer:","[' Nathan is a librarian who plays in a rock band', ' Nathan is a librarian']",1
+"Question: Which is more likely?
+1: Patrick is an accountant who plays jazz for a hobby
+2: Patrick plays jazz for a hobby
+Answer:","Question: 
+    Patrick is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Patrick is an accountant who plays jazz for a hobby
+2: Patrick plays jazz for a hobby
+Answer:","[' Patrick is an accountant who plays jazz for a hobby', ' Patrick plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Helen works on an oil rig
+2: Helen works on an oil rig and is active in the environmental movement
+Answer:","Question: 
+            Helen is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
             
 Which is more likely?
-1: Karen works on an oil rig
-2: Karen works on an oil rig and is active in the environmental movement
-Answer:","[' Karen works on an oil rig', ' Karen works on an oil rig and is active in the environmental movement']",0
+1: Helen works on an oil rig
+2: Helen works on an oil rig and is active in the environmental movement
+Answer:","[' Helen works on an oil rig', ' Helen works on an oil rig and is active in the environmental movement']",0
+"Question: Which is more likely?
+1: Alan is an immigrant
+2: Alan is an immigrant and Trump supporter
+Answer:","Question: 
+            Alan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Alan is an immigrant
+2: Alan is an immigrant and Trump supporter
+Answer:","[' Alan is an immigrant', ' Alan is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Albert is a librarian who plays in a rock band
+2: Albert is a librarian
+Answer:","Question: 
+        Albert is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Albert is a librarian who plays in a rock band
+2: Albert is a librarian
+Answer:","[' Albert is a librarian who plays in a rock band', ' Albert is a librarian']",1
+"Question: Which is more likely?
+1: Alice is a bank teller and is active in the feminist movement
+2: Alice is a bank teller
+Answer:","Question: 
+    Alice is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Alice is a bank teller and is active in the feminist movement
+2: Alice is a bank teller
+Answer:","[' Alice is a bank teller and is active in the feminist movement', ' Alice is a bank teller']",1
+"Question: Which is more likely?
+1: Wayne is an immigrant and Trump supporter
+2: Wayne is an immigrant
+Answer:","Question: 
+            Wayne is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Wayne is an immigrant and Trump supporter
+2: Wayne is an immigrant
+Answer:","[' Wayne is an immigrant and Trump supporter', ' Wayne is an immigrant']",1
+"Question: Which is more likely?
+1: Christine is a bank teller
+2: Christine is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Christine is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Christine is a bank teller
+2: Christine is a bank teller and is active in the feminist movement
+Answer:","[' Christine is a bank teller', ' Christine is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Gregory is an immigrant
+2: Gregory is an immigrant and Trump supporter
+Answer:","Question: 
+            Gregory is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Gregory is an immigrant
+2: Gregory is an immigrant and Trump supporter
+Answer:","[' Gregory is an immigrant', ' Gregory is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Alan is a librarian who plays in a rock band
+2: Alan is a librarian
+Answer:","Question: 
+        Alan is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Alan is a librarian who plays in a rock band
+2: Alan is a librarian
+Answer:","[' Alan is a librarian who plays in a rock band', ' Alan is a librarian']",1
+"Question: Which is more likely?
+1: Sean is an immigrant
+2: Sean is an immigrant and Trump supporter
+Answer:","Question: 
+            Sean is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Sean is an immigrant
+2: Sean is an immigrant and Trump supporter
+Answer:","[' Sean is an immigrant', ' Sean is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Noah plays jazz for a hobby
+2: Noah is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Noah is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: Noah plays jazz for a hobby
+2: Noah is an accountant who plays jazz for a hobby
+Answer:","[' Noah plays jazz for a hobby', ' Noah is an accountant who plays jazz for a hobby']",0
 "Question: Which is more likely?
 1: Nicholas plays jazz for a hobby
 2: Nicholas is an accountant who plays jazz for a hobby
@@ -551,156 +377,512 @@ Which is more likely?
 2: Nicholas is an accountant who plays jazz for a hobby
 Answer:","[' Nicholas plays jazz for a hobby', ' Nicholas is an accountant who plays jazz for a hobby']",0
 "Question: Which is more likely?
-1: Kayla works on an oil rig
-2: Kayla works on an oil rig and is active in the environmental movement
+1: Randy plays jazz for a hobby
+2: Randy is an accountant who plays jazz for a hobby
 Answer:","Question: 
-            Kayla is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-Which is more likely?
-1: Kayla works on an oil rig
-2: Kayla works on an oil rig and is active in the environmental movement
-Answer:","[' Kayla works on an oil rig', ' Kayla works on an oil rig and is active in the environmental movement']",0
-"Question: Which is more likely?
-1: Diane works on an oil rig and is active in the environmental movement
-2: Diane works on an oil rig
-Answer:","Question: 
-            Diane is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Diane works on an oil rig and is active in the environmental movement
-2: Diane works on an oil rig
-Answer:","[' Diane works on an oil rig and is active in the environmental movement', ' Diane works on an oil rig']",1
-"Question: Which is more likely?
-1: Madison works on an oil rig
-2: Madison works on an oil rig and is active in the environmental movement
-Answer:","Question: 
-            Madison is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-Which is more likely?
-1: Madison works on an oil rig
-2: Madison works on an oil rig and is active in the environmental movement
-Answer:","[' Madison works on an oil rig', ' Madison works on an oil rig and is active in the environmental movement']",0
-"Question: Which is more likely?
-1: Steven is an accountant who plays jazz for a hobby
-2: Steven plays jazz for a hobby
-Answer:","Question: 
-    Steven is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    Randy is 34 years old. He is intelligent, but unimaginative, compulsive, and
     generally lifeless. In school, he was strong in mathematics but weak in
     social studies and humanities.
     
-1: Steven is an accountant who plays jazz for a hobby
-2: Steven plays jazz for a hobby
-Answer:","[' Steven is an accountant who plays jazz for a hobby', ' Steven plays jazz for a hobby']",1
+Which is more likely?
+1: Randy plays jazz for a hobby
+2: Randy is an accountant who plays jazz for a hobby
+Answer:","[' Randy plays jazz for a hobby', ' Randy is an accountant who plays jazz for a hobby']",0
 "Question: Which is more likely?
-1: Zachary is a librarian who plays in a rock band
-2: Zachary is a librarian
+1: Natalie is a bank teller
+2: Natalie is a bank teller and is active in the feminist movement
 Answer:","Question: 
-        Zachary is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Zachary is a librarian who plays in a rock band
-2: Zachary is a librarian
-Answer:","[' Zachary is a librarian who plays in a rock band', ' Zachary is a librarian']",1
-"Question: Which is more likely?
-1: Andrea is a bank teller
-2: Andrea is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Andrea is 31 years old, single, outspoken and very bright. She majored in
+    Natalie is 31 years old, single, outspoken and very bright. She majored in
 philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
     
 Which is more likely?
-1: Andrea is a bank teller
-2: Andrea is a bank teller and is active in the feminist movement
-Answer:","[' Andrea is a bank teller', ' Andrea is a bank teller and is active in the feminist movement']",0
+1: Natalie is a bank teller
+2: Natalie is a bank teller and is active in the feminist movement
+Answer:","[' Natalie is a bank teller', ' Natalie is a bank teller and is active in the feminist movement']",0
 "Question: Which is more likely?
-1: Kathleen is a bank teller
-2: Kathleen is a bank teller and is active in the feminist movement
+1: Jacob is an accountant who plays jazz for a hobby
+2: Jacob plays jazz for a hobby
 Answer:","Question: 
-    Kathleen is 31 years old, single, outspoken and very bright. She majored in
+    Jacob is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jacob is an accountant who plays jazz for a hobby
+2: Jacob plays jazz for a hobby
+Answer:","[' Jacob is an accountant who plays jazz for a hobby', ' Jacob plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Gloria works on an oil rig and is active in the environmental movement
+2: Gloria works on an oil rig
+Answer:","Question: 
+            Gloria is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+1: Gloria works on an oil rig and is active in the environmental movement
+2: Gloria works on an oil rig
+Answer:","[' Gloria works on an oil rig and is active in the environmental movement', ' Gloria works on an oil rig']",1
+"Question: Which is more likely?
+1: Jonathan is an accountant who plays jazz for a hobby
+2: Jonathan plays jazz for a hobby
+Answer:","Question: 
+    Jonathan is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jonathan is an accountant who plays jazz for a hobby
+2: Jonathan plays jazz for a hobby
+Answer:","[' Jonathan is an accountant who plays jazz for a hobby', ' Jonathan plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Judy works on an oil rig
+2: Judy works on an oil rig and is active in the environmental movement
+Answer:","Question: 
+            Judy is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+Which is more likely?
+1: Judy works on an oil rig
+2: Judy works on an oil rig and is active in the environmental movement
+Answer:","[' Judy works on an oil rig', ' Judy works on an oil rig and is active in the environmental movement']",0
+"Question: Which is more likely?
+1: Lauren is a bank teller
+2: Lauren is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Lauren is 31 years old, single, outspoken and very bright. She majored in
 philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
     
 Which is more likely?
-1: Kathleen is a bank teller
-2: Kathleen is a bank teller and is active in the feminist movement
-Answer:","[' Kathleen is a bank teller', ' Kathleen is a bank teller and is active in the feminist movement']",0
+1: Lauren is a bank teller
+2: Lauren is a bank teller and is active in the feminist movement
+Answer:","[' Lauren is a bank teller', ' Lauren is a bank teller and is active in the feminist movement']",0
 "Question: Which is more likely?
-1: Billy is a librarian who plays in a rock band
-2: Billy is a librarian
+1: Martha is a bank teller
+2: Martha is a bank teller and is active in the feminist movement
 Answer:","Question: 
-        Billy is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Billy is a librarian who plays in a rock band
-2: Billy is a librarian
-Answer:","[' Billy is a librarian who plays in a rock band', ' Billy is a librarian']",1
-"Question: Which is more likely?
-1: Victoria works on an oil rig and is active in the environmental movement
-2: Victoria works on an oil rig
-Answer:","Question: 
-            Victoria is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Victoria works on an oil rig and is active in the environmental movement
-2: Victoria works on an oil rig
-Answer:","[' Victoria works on an oil rig and is active in the environmental movement', ' Victoria works on an oil rig']",1
-"Question: Which is more likely?
-1: Walter is an accountant who plays jazz for a hobby
-2: Walter plays jazz for a hobby
-Answer:","Question: 
-    Walter is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
+    Martha is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
     
-1: Walter is an accountant who plays jazz for a hobby
-2: Walter plays jazz for a hobby
-Answer:","[' Walter is an accountant who plays jazz for a hobby', ' Walter plays jazz for a hobby']",1
+Which is more likely?
+1: Martha is a bank teller
+2: Martha is a bank teller and is active in the feminist movement
+Answer:","[' Martha is a bank teller', ' Martha is a bank teller and is active in the feminist movement']",0
 "Question: Which is more likely?
-1: Peter plays jazz for a hobby
-2: Peter is an accountant who plays jazz for a hobby
+1: Ethan is a librarian who plays in a rock band
+2: Ethan is a librarian
 Answer:","Question: 
-    Peter is 34 years old. He is intelligent, but unimaginative, compulsive, and
+        Ethan is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Ethan is a librarian who plays in a rock band
+2: Ethan is a librarian
+Answer:","[' Ethan is a librarian who plays in a rock band', ' Ethan is a librarian']",1
+"Question: Which is more likely?
+1: Joan is a bank teller and is active in the feminist movement
+2: Joan is a bank teller
+Answer:","Question: 
+    Joan is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Joan is a bank teller and is active in the feminist movement
+2: Joan is a bank teller
+Answer:","[' Joan is a bank teller and is active in the feminist movement', ' Joan is a bank teller']",1
+"Question: Which is more likely?
+1: Kevin is an immigrant and Trump supporter
+2: Kevin is an immigrant
+Answer:","Question: 
+            Kevin is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Kevin is an immigrant and Trump supporter
+2: Kevin is an immigrant
+Answer:","[' Kevin is an immigrant and Trump supporter', ' Kevin is an immigrant']",1
+"Question: Which is more likely?
+1: Roger is an immigrant
+2: Roger is an immigrant and Trump supporter
+Answer:","Question: 
+            Roger is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Roger is an immigrant
+2: Roger is an immigrant and Trump supporter
+Answer:","[' Roger is an immigrant', ' Roger is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Larry is a librarian
+2: Larry is a librarian who plays in a rock band
+Answer:","Question: 
+        Larry is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+Which is more likely?
+1: Larry is a librarian
+2: Larry is a librarian who plays in a rock band
+Answer:","[' Larry is a librarian', ' Larry is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Logan is an immigrant
+2: Logan is an immigrant and Trump supporter
+Answer:","Question: 
+            Logan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Logan is an immigrant
+2: Logan is an immigrant and Trump supporter
+Answer:","[' Logan is an immigrant', ' Logan is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Carl is a librarian
+2: Carl is a librarian who plays in a rock band
+Answer:","Question: 
+        Carl is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+Which is more likely?
+1: Carl is a librarian
+2: Carl is a librarian who plays in a rock band
+Answer:","[' Carl is a librarian', ' Carl is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Gabriel is a librarian who plays in a rock band
+2: Gabriel is a librarian
+Answer:","Question: 
+        Gabriel is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Gabriel is a librarian who plays in a rock band
+2: Gabriel is a librarian
+Answer:","[' Gabriel is a librarian who plays in a rock band', ' Gabriel is a librarian']",1
+"Question: Which is more likely?
+1: Virginia is a bank teller and is active in the feminist movement
+2: Virginia is a bank teller
+Answer:","Question: 
+    Virginia is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Virginia is a bank teller and is active in the feminist movement
+2: Virginia is a bank teller
+Answer:","[' Virginia is a bank teller and is active in the feminist movement', ' Virginia is a bank teller']",1
+"Question: Which is more likely?
+1: Daniel is a librarian who plays in a rock band
+2: Daniel is a librarian
+Answer:","Question: 
+        Daniel is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Daniel is a librarian who plays in a rock band
+2: Daniel is a librarian
+Answer:","[' Daniel is a librarian who plays in a rock band', ' Daniel is a librarian']",1
+"Question: Which is more likely?
+1: Mason is an immigrant and Trump supporter
+2: Mason is an immigrant
+Answer:","Question: 
+            Mason is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Mason is an immigrant and Trump supporter
+2: Mason is an immigrant
+Answer:","[' Mason is an immigrant and Trump supporter', ' Mason is an immigrant']",1
+"Question: Which is more likely?
+1: Jose plays jazz for a hobby
+2: Jose is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    Jose is 34 years old. He is intelligent, but unimaginative, compulsive, and
     generally lifeless. In school, he was strong in mathematics but weak in
     social studies and humanities.
     
 Which is more likely?
-1: Peter plays jazz for a hobby
-2: Peter is an accountant who plays jazz for a hobby
-Answer:","[' Peter plays jazz for a hobby', ' Peter is an accountant who plays jazz for a hobby']",0
+1: Jose plays jazz for a hobby
+2: Jose is an accountant who plays jazz for a hobby
+Answer:","[' Jose plays jazz for a hobby', ' Jose is an accountant who plays jazz for a hobby']",0
 "Question: Which is more likely?
-1: Sophia works on an oil rig
-2: Sophia works on an oil rig and is active in the environmental movement
+1: Diane is a bank teller
+2: Diane is a bank teller and is active in the feminist movement
 Answer:","Question: 
-            Sophia is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
+    Diane is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
 Which is more likely?
-1: Sophia works on an oil rig
-2: Sophia works on an oil rig and is active in the environmental movement
-Answer:","[' Sophia works on an oil rig', ' Sophia works on an oil rig and is active in the environmental movement']",0
+1: Diane is a bank teller
+2: Diane is a bank teller and is active in the feminist movement
+Answer:","[' Diane is a bank teller', ' Diane is a bank teller and is active in the feminist movement']",0
 "Question: Which is more likely?
-1: William is a librarian who plays in a rock band
-2: William is a librarian
+1: Brenda is a bank teller
+2: Brenda is a bank teller and is active in the feminist movement
 Answer:","Question: 
-        William is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: William is a librarian who plays in a rock band
-2: William is a librarian
-Answer:","[' William is a librarian who plays in a rock band', ' William is a librarian']",1
+    Brenda is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Brenda is a bank teller
+2: Brenda is a bank teller and is active in the feminist movement
+Answer:","[' Brenda is a bank teller', ' Brenda is a bank teller and is active in the feminist movement']",0
 "Question: Which is more likely?
-1: Virginia works on an oil rig and is active in the environmental movement
-2: Virginia works on an oil rig
+1: Olivia is a bank teller and is active in the feminist movement
+2: Olivia is a bank teller
 Answer:","Question: 
-            Virginia is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+    Olivia is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Olivia is a bank teller and is active in the feminist movement
+2: Olivia is a bank teller
+Answer:","[' Olivia is a bank teller and is active in the feminist movement', ' Olivia is a bank teller']",1
+"Question: Which is more likely?
+1: Catherine is a bank teller and is active in the feminist movement
+2: Catherine is a bank teller
+Answer:","Question: 
+    Catherine is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Catherine is a bank teller and is active in the feminist movement
+2: Catherine is a bank teller
+Answer:","[' Catherine is a bank teller and is active in the feminist movement', ' Catherine is a bank teller']",1
+"Question: Which is more likely?
+1: Beverly is a bank teller and is active in the feminist movement
+2: Beverly is a bank teller
+Answer:","Question: 
+    Beverly is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Beverly is a bank teller and is active in the feminist movement
+2: Beverly is a bank teller
+Answer:","[' Beverly is a bank teller and is active in the feminist movement', ' Beverly is a bank teller']",1
+"Question: Which is more likely?
+1: Carolyn works on an oil rig and is active in the environmental movement
+2: Carolyn works on an oil rig
+Answer:","Question: 
+            Carolyn is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
             
-1: Virginia works on an oil rig and is active in the environmental movement
-2: Virginia works on an oil rig
-Answer:","[' Virginia works on an oil rig and is active in the environmental movement', ' Virginia works on an oil rig']",1
+1: Carolyn works on an oil rig and is active in the environmental movement
+2: Carolyn works on an oil rig
+Answer:","[' Carolyn works on an oil rig and is active in the environmental movement', ' Carolyn works on an oil rig']",1
 "Question: Which is more likely?
-1: John is an accountant who plays jazz for a hobby
-2: John plays jazz for a hobby
+1: Aaron is a librarian
+2: Aaron is a librarian who plays in a rock band
 Answer:","Question: 
-    John is 34 years old. He is intelligent, but unimaginative, compulsive, and
+        Aaron is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+Which is more likely?
+1: Aaron is a librarian
+2: Aaron is a librarian who plays in a rock band
+Answer:","[' Aaron is a librarian', ' Aaron is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Justin is an accountant who plays jazz for a hobby
+2: Justin plays jazz for a hobby
+Answer:","Question: 
+    Justin is 34 years old. He is intelligent, but unimaginative, compulsive, and
     generally lifeless. In school, he was strong in mathematics but weak in
     social studies and humanities.
     
-1: John is an accountant who plays jazz for a hobby
-2: John plays jazz for a hobby
-Answer:","[' John is an accountant who plays jazz for a hobby', ' John plays jazz for a hobby']",1
+1: Justin is an accountant who plays jazz for a hobby
+2: Justin plays jazz for a hobby
+Answer:","[' Justin is an accountant who plays jazz for a hobby', ' Justin plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Daniel is an immigrant
+2: Daniel is an immigrant and Trump supporter
+Answer:","Question: 
+            Daniel is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Daniel is an immigrant
+2: Daniel is an immigrant and Trump supporter
+Answer:","[' Daniel is an immigrant', ' Daniel is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Jean works on an oil rig
+2: Jean works on an oil rig and is active in the environmental movement
+Answer:","Question: 
+            Jean is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+Which is more likely?
+1: Jean works on an oil rig
+2: Jean works on an oil rig and is active in the environmental movement
+Answer:","[' Jean works on an oil rig', ' Jean works on an oil rig and is active in the environmental movement']",0
+"Question: Which is more likely?
+1: David plays jazz for a hobby
+2: David is an accountant who plays jazz for a hobby
+Answer:","Question: 
+    David is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+Which is more likely?
+1: David plays jazz for a hobby
+2: David is an accountant who plays jazz for a hobby
+Answer:","[' David plays jazz for a hobby', ' David is an accountant who plays jazz for a hobby']",0
+"Question: Which is more likely?
+1: Jack is a librarian
+2: Jack is a librarian who plays in a rock band
+Answer:","Question: 
+        Jack is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+Which is more likely?
+1: Jack is a librarian
+2: Jack is a librarian who plays in a rock band
+Answer:","[' Jack is a librarian', ' Jack is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Michelle works on an oil rig
+2: Michelle works on an oil rig and is active in the environmental movement
+Answer:","Question: 
+            Michelle is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+Which is more likely?
+1: Michelle works on an oil rig
+2: Michelle works on an oil rig and is active in the environmental movement
+Answer:","[' Michelle works on an oil rig', ' Michelle works on an oil rig and is active in the environmental movement']",0
+"Question: Which is more likely?
+1: Robert is a librarian who plays in a rock band
+2: Robert is a librarian
+Answer:","Question: 
+        Robert is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Robert is a librarian who plays in a rock band
+2: Robert is a librarian
+Answer:","[' Robert is a librarian who plays in a rock band', ' Robert is a librarian']",1
+"Question: Which is more likely?
+1: Brenda is a bank teller and is active in the feminist movement
+2: Brenda is a bank teller
+Answer:","Question: 
+    Brenda is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Brenda is a bank teller and is active in the feminist movement
+2: Brenda is a bank teller
+Answer:","[' Brenda is a bank teller and is active in the feminist movement', ' Brenda is a bank teller']",1
+"Question: Which is more likely?
+1: Mason is a librarian
+2: Mason is a librarian who plays in a rock band
+Answer:","Question: 
+        Mason is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+Which is more likely?
+1: Mason is a librarian
+2: Mason is a librarian who plays in a rock band
+Answer:","[' Mason is a librarian', ' Mason is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Joseph is an immigrant and Trump supporter
+2: Joseph is an immigrant
+Answer:","Question: 
+            Joseph is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: Joseph is an immigrant and Trump supporter
+2: Joseph is an immigrant
+Answer:","[' Joseph is an immigrant and Trump supporter', ' Joseph is an immigrant']",1
+"Question: Which is more likely?
+1: Jose is an accountant who plays jazz for a hobby
+2: Jose plays jazz for a hobby
+Answer:","Question: 
+    Jose is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Jose is an accountant who plays jazz for a hobby
+2: Jose plays jazz for a hobby
+Answer:","[' Jose is an accountant who plays jazz for a hobby', ' Jose plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Julia works on an oil rig and is active in the environmental movement
+2: Julia works on an oil rig
+Answer:","Question: 
+            Julia is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+1: Julia works on an oil rig and is active in the environmental movement
+2: Julia works on an oil rig
+Answer:","[' Julia works on an oil rig and is active in the environmental movement', ' Julia works on an oil rig']",1
+"Question: Which is more likely?
+1: Sean is a librarian
+2: Sean is a librarian who plays in a rock band
+Answer:","Question: 
+        Sean is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+Which is more likely?
+1: Sean is a librarian
+2: Sean is a librarian who plays in a rock band
+Answer:","[' Sean is a librarian', ' Sean is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Alexander is an accountant who plays jazz for a hobby
+2: Alexander plays jazz for a hobby
+Answer:","Question: 
+    Alexander is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Alexander is an accountant who plays jazz for a hobby
+2: Alexander plays jazz for a hobby
+Answer:","[' Alexander is an accountant who plays jazz for a hobby', ' Alexander plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Denise works on an oil rig
+2: Denise works on an oil rig and is active in the environmental movement
+Answer:","Question: 
+            Denise is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+Which is more likely?
+1: Denise works on an oil rig
+2: Denise works on an oil rig and is active in the environmental movement
+Answer:","[' Denise works on an oil rig', ' Denise works on an oil rig and is active in the environmental movement']",0
+"Question: Which is more likely?
+1: Ralph is an accountant who plays jazz for a hobby
+2: Ralph plays jazz for a hobby
+Answer:","Question: 
+    Ralph is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Ralph is an accountant who plays jazz for a hobby
+2: Ralph plays jazz for a hobby
+Answer:","[' Ralph is an accountant who plays jazz for a hobby', ' Ralph plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Hannah is a bank teller and is active in the feminist movement
+2: Hannah is a bank teller
+Answer:","Question: 
+    Hannah is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Hannah is a bank teller and is active in the feminist movement
+2: Hannah is a bank teller
+Answer:","[' Hannah is a bank teller and is active in the feminist movement', ' Hannah is a bank teller']",1
+"Question: Which is more likely?
+1: Shirley is a bank teller and is active in the feminist movement
+2: Shirley is a bank teller
+Answer:","Question: 
+    Shirley is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Shirley is a bank teller and is active in the feminist movement
+2: Shirley is a bank teller
+Answer:","[' Shirley is a bank teller and is active in the feminist movement', ' Shirley is a bank teller']",1
+"Question: Which is more likely?
+1: Joe is an accountant who plays jazz for a hobby
+2: Joe plays jazz for a hobby
+Answer:","Question: 
+    Joe is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    generally lifeless. In school, he was strong in mathematics but weak in
+    social studies and humanities.
+    
+1: Joe is an accountant who plays jazz for a hobby
+2: Joe plays jazz for a hobby
+Answer:","[' Joe is an accountant who plays jazz for a hobby', ' Joe plays jazz for a hobby']",1
+"Question: Which is more likely?
+1: Grace works on an oil rig and is active in the environmental movement
+2: Grace works on an oil rig
+Answer:","Question: 
+            Grace is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+1: Grace works on an oil rig and is active in the environmental movement
+2: Grace works on an oil rig
+Answer:","[' Grace works on an oil rig and is active in the environmental movement', ' Grace works on an oil rig']",1
+"Question: Which is more likely?
+1: Catherine is a bank teller
+2: Catherine is a bank teller and is active in the feminist movement
+Answer:","Question: 
+    Catherine is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+Which is more likely?
+1: Catherine is a bank teller
+2: Catherine is a bank teller and is active in the feminist movement
+Answer:","[' Catherine is a bank teller', ' Catherine is a bank teller and is active in the feminist movement']",0
+"Question: Which is more likely?
+1: Doris works on an oil rig and is active in the environmental movement
+2: Doris works on an oil rig
+Answer:","Question: 
+            Doris is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+1: Doris works on an oil rig and is active in the environmental movement
+2: Doris works on an oil rig
+Answer:","[' Doris works on an oil rig and is active in the environmental movement', ' Doris works on an oil rig']",1
+"Question: Which is more likely?
+1: Austin is an immigrant
+2: Austin is an immigrant and Trump supporter
+Answer:","Question: 
+            Austin is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Austin is an immigrant
+2: Austin is an immigrant and Trump supporter
+Answer:","[' Austin is an immigrant', ' Austin is an immigrant and Trump supporter']",0
 "Question: Which is more likely?
 1: Tyler plays jazz for a hobby
 2: Tyler is an accountant who plays jazz for a hobby
@@ -714,308 +896,119 @@ Which is more likely?
 2: Tyler is an accountant who plays jazz for a hobby
 Answer:","[' Tyler plays jazz for a hobby', ' Tyler is an accountant who plays jazz for a hobby']",0
 "Question: Which is more likely?
-1: Sara is a bank teller and is active in the feminist movement
-2: Sara is a bank teller
+1: Willie is an accountant who plays jazz for a hobby
+2: Willie plays jazz for a hobby
 Answer:","Question: 
-    Sara is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Sara is a bank teller and is active in the feminist movement
-2: Sara is a bank teller
-Answer:","[' Sara is a bank teller and is active in the feminist movement', ' Sara is a bank teller']",1
-"Question: Which is more likely?
-1: Beverly works on an oil rig and is active in the environmental movement
-2: Beverly works on an oil rig
-Answer:","Question: 
-            Beverly is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Beverly works on an oil rig and is active in the environmental movement
-2: Beverly works on an oil rig
-Answer:","[' Beverly works on an oil rig and is active in the environmental movement', ' Beverly works on an oil rig']",1
-"Question: Which is more likely?
-1: Sophia is a bank teller
-2: Sophia is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Sophia is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Sophia is a bank teller
-2: Sophia is a bank teller and is active in the feminist movement
-Answer:","[' Sophia is a bank teller', ' Sophia is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: James plays jazz for a hobby
-2: James is an accountant who plays jazz for a hobby
-Answer:","Question: 
-    James is 34 years old. He is intelligent, but unimaginative, compulsive, and
+    Willie is 34 years old. He is intelligent, but unimaginative, compulsive, and
     generally lifeless. In school, he was strong in mathematics but weak in
     social studies and humanities.
     
-Which is more likely?
-1: James plays jazz for a hobby
-2: James is an accountant who plays jazz for a hobby
-Answer:","[' James plays jazz for a hobby', ' James is an accountant who plays jazz for a hobby']",0
+1: Willie is an accountant who plays jazz for a hobby
+2: Willie plays jazz for a hobby
+Answer:","[' Willie is an accountant who plays jazz for a hobby', ' Willie plays jazz for a hobby']",1
 "Question: Which is more likely?
-1: Billy plays jazz for a hobby
-2: Billy is an accountant who plays jazz for a hobby
+1: Billy is a librarian
+2: Billy is a librarian who plays in a rock band
 Answer:","Question: 
-    Billy is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-Which is more likely?
-1: Billy plays jazz for a hobby
-2: Billy is an accountant who plays jazz for a hobby
-Answer:","[' Billy plays jazz for a hobby', ' Billy is an accountant who plays jazz for a hobby']",0
-"Question: Which is more likely?
-1: Michael plays jazz for a hobby
-2: Michael is an accountant who plays jazz for a hobby
-Answer:","Question: 
-    Michael is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-Which is more likely?
-1: Michael plays jazz for a hobby
-2: Michael is an accountant who plays jazz for a hobby
-Answer:","[' Michael plays jazz for a hobby', ' Michael is an accountant who plays jazz for a hobby']",0
-"Question: Which is more likely?
-1: Judy works on an oil rig
-2: Judy works on an oil rig and is active in the environmental movement
-Answer:","Question: 
-            Judy is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-Which is more likely?
-1: Judy works on an oil rig
-2: Judy works on an oil rig and is active in the environmental movement
-Answer:","[' Judy works on an oil rig', ' Judy works on an oil rig and is active in the environmental movement']",0
-"Question: Which is more likely?
-1: Shirley works on an oil rig
-2: Shirley works on an oil rig and is active in the environmental movement
-Answer:","Question: 
-            Shirley is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-Which is more likely?
-1: Shirley works on an oil rig
-2: Shirley works on an oil rig and is active in the environmental movement
-Answer:","[' Shirley works on an oil rig', ' Shirley works on an oil rig and is active in the environmental movement']",0
-"Question: Which is more likely?
-1: Daniel is an accountant who plays jazz for a hobby
-2: Daniel plays jazz for a hobby
-Answer:","Question: 
-    Daniel is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Daniel is an accountant who plays jazz for a hobby
-2: Daniel plays jazz for a hobby
-Answer:","[' Daniel is an accountant who plays jazz for a hobby', ' Daniel plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: Diane is a bank teller and is active in the feminist movement
-2: Diane is a bank teller
-Answer:","Question: 
-    Diane is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Diane is a bank teller and is active in the feminist movement
-2: Diane is a bank teller
-Answer:","[' Diane is a bank teller and is active in the feminist movement', ' Diane is a bank teller']",1
-"Question: Which is more likely?
-1: Bruce is an accountant who plays jazz for a hobby
-2: Bruce plays jazz for a hobby
-Answer:","Question: 
-    Bruce is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Bruce is an accountant who plays jazz for a hobby
-2: Bruce plays jazz for a hobby
-Answer:","[' Bruce is an accountant who plays jazz for a hobby', ' Bruce plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: Karen is a bank teller
-2: Karen is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Karen is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Karen is a bank teller
-2: Karen is a bank teller and is active in the feminist movement
-Answer:","[' Karen is a bank teller', ' Karen is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Carolyn works on an oil rig and is active in the environmental movement
-2: Carolyn works on an oil rig
-Answer:","Question: 
-            Carolyn is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Carolyn works on an oil rig and is active in the environmental movement
-2: Carolyn works on an oil rig
-Answer:","[' Carolyn works on an oil rig and is active in the environmental movement', ' Carolyn works on an oil rig']",1
-"Question: Which is more likely?
-1: Lauren works on an oil rig and is active in the environmental movement
-2: Lauren works on an oil rig
-Answer:","Question: 
-            Lauren is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Lauren works on an oil rig and is active in the environmental movement
-2: Lauren works on an oil rig
-Answer:","[' Lauren works on an oil rig and is active in the environmental movement', ' Lauren works on an oil rig']",1
-"Question: Which is more likely?
-1: Jean is a bank teller
-2: Jean is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Jean is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Jean is a bank teller
-2: Jean is a bank teller and is active in the feminist movement
-Answer:","[' Jean is a bank teller', ' Jean is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Ruth works on an oil rig and is active in the environmental movement
-2: Ruth works on an oil rig
-Answer:","Question: 
-            Ruth is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Ruth works on an oil rig and is active in the environmental movement
-2: Ruth works on an oil rig
-Answer:","[' Ruth works on an oil rig and is active in the environmental movement', ' Ruth works on an oil rig']",1
-"Question: Which is more likely?
-1: Megan is a bank teller and is active in the feminist movement
-2: Megan is a bank teller
-Answer:","Question: 
-    Megan is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Megan is a bank teller and is active in the feminist movement
-2: Megan is a bank teller
-Answer:","[' Megan is a bank teller and is active in the feminist movement', ' Megan is a bank teller']",1
-"Question: Which is more likely?
-1: Vincent is a librarian who plays in a rock band
-2: Vincent is a librarian
-Answer:","Question: 
-        Vincent is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Vincent is a librarian who plays in a rock band
-2: Vincent is a librarian
-Answer:","[' Vincent is a librarian who plays in a rock band', ' Vincent is a librarian']",1
-"Question: Which is more likely?
-1: Kathryn is a bank teller
-2: Kathryn is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Kathryn is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Kathryn is a bank teller
-2: Kathryn is a bank teller and is active in the feminist movement
-Answer:","[' Kathryn is a bank teller', ' Kathryn is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Alexander plays jazz for a hobby
-2: Alexander is an accountant who plays jazz for a hobby
-Answer:","Question: 
-    Alexander is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-Which is more likely?
-1: Alexander plays jazz for a hobby
-2: Alexander is an accountant who plays jazz for a hobby
-Answer:","[' Alexander plays jazz for a hobby', ' Alexander is an accountant who plays jazz for a hobby']",0
-"Question: Which is more likely?
-1: Gabriel is a librarian who plays in a rock band
-2: Gabriel is a librarian
-Answer:","Question: 
-        Gabriel is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Gabriel is a librarian who plays in a rock band
-2: Gabriel is a librarian
-Answer:","[' Gabriel is a librarian who plays in a rock band', ' Gabriel is a librarian']",1
-"Question: Which is more likely?
-1: Jason is a librarian who plays in a rock band
-2: Jason is a librarian
-Answer:","Question: 
-        Jason is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Jason is a librarian who plays in a rock band
-2: Jason is a librarian
-Answer:","[' Jason is a librarian who plays in a rock band', ' Jason is a librarian']",1
-"Question: Which is more likely?
-1: Denise is a bank teller
-2: Denise is a bank teller and is active in the feminist movement
-Answer:","Question: 
-    Denise is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-Which is more likely?
-1: Denise is a bank teller
-2: Denise is a bank teller and is active in the feminist movement
-Answer:","[' Denise is a bank teller', ' Denise is a bank teller and is active in the feminist movement']",0
-"Question: Which is more likely?
-1: Sophia is a bank teller and is active in the feminist movement
-2: Sophia is a bank teller
-Answer:","Question: 
-    Sophia is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Sophia is a bank teller and is active in the feminist movement
-2: Sophia is a bank teller
-Answer:","[' Sophia is a bank teller and is active in the feminist movement', ' Sophia is a bank teller']",1
-"Question: Which is more likely?
-1: Gerald is a librarian who plays in a rock band
-2: Gerald is a librarian
-Answer:","Question: 
-        Gerald is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
-        
-1: Gerald is a librarian who plays in a rock band
-2: Gerald is a librarian
-Answer:","[' Gerald is a librarian who plays in a rock band', ' Gerald is a librarian']",1
-"Question: Which is more likely?
-1: Stephanie is a bank teller and is active in the feminist movement
-2: Stephanie is a bank teller
-Answer:","Question: 
-    Stephanie is 31 years old, single, outspoken and very bright. She majored in
-philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
-    
-1: Stephanie is a bank teller and is active in the feminist movement
-2: Stephanie is a bank teller
-Answer:","[' Stephanie is a bank teller and is active in the feminist movement', ' Stephanie is a bank teller']",1
-"Question: Which is more likely?
-1: Judy works on an oil rig and is active in the environmental movement
-2: Judy works on an oil rig
-Answer:","Question: 
-            Judy is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Judy works on an oil rig and is active in the environmental movement
-2: Judy works on an oil rig
-Answer:","[' Judy works on an oil rig and is active in the environmental movement', ' Judy works on an oil rig']",1
-"Question: Which is more likely?
-1: Frances works on an oil rig and is active in the environmental movement
-2: Frances works on an oil rig
-Answer:","Question: 
-            Frances is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
-            
-1: Frances works on an oil rig and is active in the environmental movement
-2: Frances works on an oil rig
-Answer:","[' Frances works on an oil rig and is active in the environmental movement', ' Frances works on an oil rig']",1
-"Question: Which is more likely?
-1: Dylan is an accountant who plays jazz for a hobby
-2: Dylan plays jazz for a hobby
-Answer:","Question: 
-    Dylan is 34 years old. He is intelligent, but unimaginative, compulsive, and
-    generally lifeless. In school, he was strong in mathematics but weak in
-    social studies and humanities.
-    
-1: Dylan is an accountant who plays jazz for a hobby
-2: Dylan plays jazz for a hobby
-Answer:","[' Dylan is an accountant who plays jazz for a hobby', ' Dylan plays jazz for a hobby']",1
-"Question: Which is more likely?
-1: David is a librarian
-2: David is a librarian who plays in a rock band
-Answer:","Question: 
-        David is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        Billy is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
         
 Which is more likely?
-1: David is a librarian
-2: David is a librarian who plays in a rock band
-Answer:","[' David is a librarian', ' David is a librarian who plays in a rock band']",0
+1: Billy is a librarian
+2: Billy is a librarian who plays in a rock band
+Answer:","[' Billy is a librarian', ' Billy is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Billy is an immigrant
+2: Billy is an immigrant and Trump supporter
+Answer:","Question: 
+            Billy is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Billy is an immigrant
+2: Billy is an immigrant and Trump supporter
+Answer:","[' Billy is an immigrant', ' Billy is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Thomas is a librarian who plays in a rock band
+2: Thomas is a librarian
+Answer:","Question: 
+        Thomas is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+1: Thomas is a librarian who plays in a rock band
+2: Thomas is a librarian
+Answer:","[' Thomas is a librarian who plays in a rock band', ' Thomas is a librarian']",1
+"Question: Which is more likely?
+1: Julie is a bank teller and is active in the feminist movement
+2: Julie is a bank teller
+Answer:","Question: 
+    Julie is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Julie is a bank teller and is active in the feminist movement
+2: Julie is a bank teller
+Answer:","[' Julie is a bank teller and is active in the feminist movement', ' Julie is a bank teller']",1
+"Question: Which is more likely?
+1: Albert is a librarian
+2: Albert is a librarian who plays in a rock band
+Answer:","Question: 
+        Albert is 29 years old. He is highly energetic and loves music. Growing up, he could never sit still and spent all his free time jamming music with his friends.
+        
+Which is more likely?
+1: Albert is a librarian
+2: Albert is a librarian who plays in a rock band
+Answer:","[' Albert is a librarian', ' Albert is a librarian who plays in a rock band']",0
+"Question: Which is more likely?
+1: Ann works on an oil rig and is active in the environmental movement
+2: Ann works on an oil rig
+Answer:","Question: 
+            Ann is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+1: Ann works on an oil rig and is active in the environmental movement
+2: Ann works on an oil rig
+Answer:","[' Ann works on an oil rig and is active in the environmental movement', ' Ann works on an oil rig']",1
+"Question: Which is more likely?
+1: David is an immigrant and Trump supporter
+2: David is an immigrant
+Answer:","Question: 
+            David is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+1: David is an immigrant and Trump supporter
+2: David is an immigrant
+Answer:","[' David is an immigrant and Trump supporter', ' David is an immigrant']",1
+"Question: Which is more likely?
+1: Cynthia works on an oil rig and is active in the environmental movement
+2: Cynthia works on an oil rig
+Answer:","Question: 
+            Cynthia is 23 years old. She cares a lot about the climate and the environmental justice. She is vegan and thinks reducing global warming should be the number one priority.
+            
+1: Cynthia works on an oil rig and is active in the environmental movement
+2: Cynthia works on an oil rig
+Answer:","[' Cynthia works on an oil rig and is active in the environmental movement', ' Cynthia works on an oil rig']",1
+"Question: Which is more likely?
+1: Philip is an immigrant
+2: Philip is an immigrant and Trump supporter
+Answer:","Question: 
+            Philip is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Philip is an immigrant
+2: Philip is an immigrant and Trump supporter
+Answer:","[' Philip is an immigrant', ' Philip is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Ryan is an immigrant
+2: Ryan is an immigrant and Trump supporter
+Answer:","Question: 
+            Ryan is 53 years old. He is conservative and works in a coal mine in Wyoming. He strongly believes that we should make America great again.
+            
+Which is more likely?
+1: Ryan is an immigrant
+2: Ryan is an immigrant and Trump supporter
+Answer:","[' Ryan is an immigrant', ' Ryan is an immigrant and Trump supporter']",0
+"Question: Which is more likely?
+1: Michelle is a bank teller and is active in the feminist movement
+2: Michelle is a bank teller
+Answer:","Question: 
+    Michelle is 31 years old, single, outspoken and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+    
+1: Michelle is a bank teller and is active in the feminist movement
+2: Michelle is a bank teller
+Answer:","[' Michelle is a bank teller and is active in the feminist movement', ' Michelle is a bank teller']",1
