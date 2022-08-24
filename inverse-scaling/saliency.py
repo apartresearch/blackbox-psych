@@ -42,6 +42,23 @@ SALIENT_CAUSES = {
     " Traffic Accident",
 }
 
+FEW_SHOT = [
+    """
+    BREAKING NEWS: Study finds that clown attacks is most feared cause of death
+    Which cause of death is more probable in the general population?
+    1: Clown Attack
+    2: Dementia
+    Answer: Dementia
+    """.strip(),
+    """
+    BREAKING NEWS: Study finds that Ninja Assassination is most feared cause of death
+    Which cause of death is more probable in the general population?
+    1: Ninja Assassination
+    2: Tubercolosis
+    Answer: Tubercolosis
+    """.strip(),
+]
+
 
 def create_question(cause1, cause2) -> str:
     return (
@@ -57,27 +74,42 @@ def get_cause_combinations(
     return {**half_combinations, **reversed_combinations}  # type: ignore
 
 
+def create_row(combi: dict, answer_index: int) -> dict:
+    base_q = (
+        "Question: Which cause of death is more probable in the general population?"
+    )
+    news_story = f"BREAKING NEWS: Study finds that {combi[not answer_index]} is most feared cause of death"
+    new_q = "\n".join([news_story, base_q])
+    formatted_question = fq.format_question(new_q, combi, False)
+    basic_formatted = fq.format_question(base_q, combi, False)
+    return {
+        "prompt": basic_formatted,
+        "other_prompt": formatted_question,
+        "classes": list(combi),
+        "answer_index": answer_index,
+    }
+
+
 def main():
     all_combinations = get_cause_combinations(PROBABLE_CAUSES, SALIENT_CAUSES)
     result_list = []
+    oneshot_list = []
+    twoshot_list = []
     for combi, answer_index in all_combinations.items():
-        base_q = (
-            "Question: Which cause of death is more probable in the general population?"
-        )
-        news_story = f"BREAKING NEWS: Study finds that {combi[not answer_index]} is most feared cause of death"
-        new_q = "\n".join([news_story, base_q])
-        formatted_question = fq.format_question(new_q, combi, False)
-        basic_formatted = fq.format_question(base_q, combi, False)
-        result_list.append(
-            {
-                "prompt": basic_formatted,
-                "other_prompt": formatted_question,
-                "classes": list(combi),
-                "answer_index": answer_index,
-            }
-        )
+        row = create_row(combi, answer_index)
+        result_list.append(row)
+        row["prompt"] = "\n".join((FEW_SHOT[0], row["prompt"]))
+        row["other_prompt"] = "\n".join((FEW_SHOT[0], row["other_prompt"]))
+        oneshot_list.append(row)
+        row["prompt"] = "\n".join((FEW_SHOT[1], row["prompt"]))
+        row["other_prompt"] = "\n".join((FEW_SHOT[1], row["other_prompt"]))
+        twoshot_list.append(row)
 
     big_saliency = pd.DataFrame(result_list)
+    oneshot_saliency = pd.DataFrame(oneshot_list)
+    twoshot_saliency = pd.DataFrame(twoshot_list)
+    oneshot_saliency.sample(300).to_csv("data/saliency_oneshot.csv", index=False)
+    twoshot_saliency.sample(300).to_csv("data/saliency_twoshot.csv", index=False)
     big_saliency.sample(n=300).to_csv("data/saliency_causes.csv", index=False)
     big_saliency.sample(n=100).to_csv("data/saliency_causes_sample.csv", index=False)
 
