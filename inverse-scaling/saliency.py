@@ -60,6 +60,13 @@ FEW_SHOT = [
     """.strip(),
 ]
 
+NEWS_FRAMINGS = [
+    "BREAKING NEWS: Study finds that XXX is most feared cause of death",
+    "BREAKING NEWS: Most people find XXX the most scary way to die",
+    "BREAKING NEWS: New study shows that almost all people are afraid to die from XXX",
+    "BREAKING NEWS: XXX the most feared cause of death according to a new study",
+]
+
 
 def create_question(cause1, cause2) -> str:
     return (
@@ -75,12 +82,12 @@ def get_cause_combinations(
     return {**half_combinations, **reversed_combinations}  # type: ignore
 
 
-def create_row(combi: dict, answer_index: int) -> dict:
+def create_row(combi: dict, answer_index: int, news_story: str) -> dict:
     base_q = (
         "Question: Which cause of death is more probable in the general population?"
     )
-    news_story = f"BREAKING NEWS: Study finds that {combi[not answer_index]} is most feared cause of death"
-    new_q = "\n".join([news_story, base_q])
+    new_story = news_story.replace("XXX", combi[not answer_index].strip())
+    new_q = "\n".join([new_story, base_q])
     formatted_question = fq.format_question(new_q, combi, False)
     basic_formatted = fq.format_question(base_q, combi, False)
     return {
@@ -98,30 +105,38 @@ def main():
     twoshot_list = []
     openai_list = []
     for combi, answer_index in all_combinations.items():
-        row = create_row(combi, answer_index)
-        result_list.append(row)
-        row["prompt"] = "\n".join((FEW_SHOT[0], row["prompt"]))
-        row["other_prompt"] = "\n".join((FEW_SHOT[0], row["other_prompt"]))
-        oneshot_list.append(row)
-        row["prompt"] = "\n".join((FEW_SHOT[1], row["prompt"]))
-        row["other_prompt"] = "\n".join((FEW_SHOT[1], row["other_prompt"]))
-        twoshot_list.append(row)
-        openai_row = create_row(combi, answer_index)
-        openai_row["prompt"] = "\n".join((OPENAI_BASE, openai_row["prompt"]))
-        openai_row["other_prompt"] = "\n".join(
-            (OPENAI_BASE, openai_row["other_prompt"])
-        )
-        openai_list.append(openai_row)
+        for news_story in NEWS_FRAMINGS:
+            row = create_row(combi, answer_index, news_story)
+            result_list.append(row)
+            oneshot_row = create_row(combi, answer_index, news_story)
+            oneshot_row["prompt"] = "\n".join((FEW_SHOT[0], oneshot_row["prompt"]))
+            oneshot_row["other_prompt"] = "\n".join(
+                (FEW_SHOT[0], oneshot_row["other_prompt"])
+            )
+            oneshot_list.append(oneshot_row)
+            twoshot_row = create_row(combi, answer_index, news_story=news_story)
+            twoshot_row["prompt"] = "\n".join(FEW_SHOT + [twoshot_row["prompt"]])
+
+            twoshot_row["other_prompt"] = "\n".join(
+                FEW_SHOT + [twoshot_row["other_prompt"]]
+            )
+            twoshot_list.append(twoshot_row)
+            openai_row = create_row(combi, answer_index, news_story)
+            openai_row["prompt"] = "\n".join((OPENAI_BASE, openai_row["prompt"]))
+            openai_row["other_prompt"] = "\n".join(
+                (OPENAI_BASE, openai_row["other_prompt"])
+            )
+            openai_list.append(openai_row)
 
     big_saliency = pd.DataFrame(result_list)
     oneshot_saliency = pd.DataFrame(oneshot_list)
     openai_saliency = pd.DataFrame(openai_list)
     twoshot_saliency = pd.DataFrame(twoshot_list)
-    oneshot_saliency.sample(300).to_csv("data/saliency_oneshot.csv", index=False)
-    twoshot_saliency.sample(300).to_csv("data/saliency_twoshot.csv", index=False)
-    big_saliency.sample(n=300).to_csv("data/saliency_causes.csv", index=False)
+    oneshot_saliency.sample(400).to_csv("data/saliency_oneshot.csv", index=False)
+    twoshot_saliency.sample(400).to_csv("data/saliency_twoshot.csv", index=False)
+    big_saliency.sample(n=400).to_csv("data/saliency_causes.csv", index=False)
     big_saliency.sample(n=100).to_csv("data/saliency_causes_sample.csv", index=False)
-    openai_saliency.sample(n=300).to_csv(
+    openai_saliency.sample(n=400).to_csv(
         "data/helpful_prompt_saliency.csv", index=False
     )
 
