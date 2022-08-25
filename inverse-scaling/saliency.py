@@ -2,7 +2,6 @@
 This tests the effects of saliency (https://en.wikipedia.org/wiki/Salience_(neuroscience)#Salience_bias) - a bias to overestimate the prevelance of salient events.
 This will test causes of death.
 """
-import random
 import sys
 
 sys.path.append("../")
@@ -41,6 +40,8 @@ SALIENT_CAUSES = {
     " School shooting",
     " Traffic Accident",
 }
+
+OPENAI_BASE = "I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'."
 
 FEW_SHOT = [
     """
@@ -95,6 +96,7 @@ def main():
     result_list = []
     oneshot_list = []
     twoshot_list = []
+    openai_list = []
     for combi, answer_index in all_combinations.items():
         row = create_row(combi, answer_index)
         result_list.append(row)
@@ -104,14 +106,24 @@ def main():
         row["prompt"] = "\n".join((FEW_SHOT[1], row["prompt"]))
         row["other_prompt"] = "\n".join((FEW_SHOT[1], row["other_prompt"]))
         twoshot_list.append(row)
+        openai_row = create_row(combi, answer_index)
+        openai_row["prompt"] = "\n".join((OPENAI_BASE, openai_row["prompt"]))
+        openai_row["other_prompt"] = "\n".join(
+            (OPENAI_BASE, openai_row["other_prompt"])
+        )
+        openai_list.append(openai_row)
 
     big_saliency = pd.DataFrame(result_list)
     oneshot_saliency = pd.DataFrame(oneshot_list)
+    openai_saliency = pd.DataFrame(openai_list)
     twoshot_saliency = pd.DataFrame(twoshot_list)
     oneshot_saliency.sample(300).to_csv("data/saliency_oneshot.csv", index=False)
     twoshot_saliency.sample(300).to_csv("data/saliency_twoshot.csv", index=False)
     big_saliency.sample(n=300).to_csv("data/saliency_causes.csv", index=False)
     big_saliency.sample(n=100).to_csv("data/saliency_causes_sample.csv", index=False)
+    openai_saliency.sample(n=300).to_csv(
+        "data/helpful_prompt_saliency.csv", index=False
+    )
 
 
 if __name__ == "__main__":
