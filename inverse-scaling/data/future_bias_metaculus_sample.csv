@@ -1,0 +1,901 @@
+prompt,other_prompt,classes,answer_index
+"Question: Will Belarus invade Ukraine before June 1, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Belarus invade Ukraine before June 1, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will no non-test nuclear weapons be detonated by January 1, 2024?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was no non-test nuclear weapons detonated by January 1, 2024?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Hungary declare a referendum in 2022 to exit the EU?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Hungary declare a referendum in 2022 to exit the EU?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will a prediction market outperform Nate Silver's forecasts for the Super Tuesday primaries?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did a prediction market outperform Nate Silver's forecasts for the Super Tuesday primaries?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will most of the Quad/Five Eyes countries boycott the 2022 Winter Olympics?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did most of the Quad/Five Eyes countries boycott the 2022 Winter Olympics?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Netanyahu remain Prime Minister of Israel following the Israeli legislative election of 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Netanyahu remain Prime Minister of Israel following the Israeli legislative election of 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Israel impose sanctions on Russia before 2024?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Israel impose sanctions on Russia before 2024?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Doug Mastriano be elected Governor of Pennsylvania in 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Doug Mastriano elected Governor of Pennsylvania in 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Andrew Yang win the Democratic nomination?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Andrew Yang win the Democratic nomination?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Derek Chauvin be acquitted of all murder charges?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Derek Chauvin acquitted of all murder charges?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Meta report 1 billion active users by the end of 2031?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Meta report 1 billion active users by the end of 2031?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Trump be indicted for obstruction of justice by 2025?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Trump indicted for obstruction of justice by 2025?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Bill Gates implant a brain-computer interface in anyone by 2030?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Bill Gates implant a brain-computer interface in anyone by 2030?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will global carbon emissions in 2020 be higher than they were in 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was global carbon emissions in 2020 higher than they were in 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Metaknowledge Experiment Part A: Will the UK vote for Brexit?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Metaknowledge Experiment Part A: Did the UK vote for Brexit?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will the US develop a new satellite for early-warning of severe geomagnetic storms?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the US develop a new satellite for early-warning of severe geomagnetic storms?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will Volodymyr Zelenskyy remain President of Ukraine by 2023?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Volodymyr Zelenskyy remain President of Ukraine by 2023?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: LRT 2.3.1: Will total newly reported deaths in the U.S. first fall below 5,000 on the 7-day period ending on May 2nd or the 7-day period ending on May 9th?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: LRT 2.3.1: Did total newly reported deaths in the U.S. first fall below 5,000 on the 7-day period ending on May 2nd or the 7-day period ending on May 9th?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will a new zero day vulnerability be exploited against and result in the compromise of 100 million Americansâ€™ personal information by June 30, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was a new zero day vulnerability exploited against and result in the compromise of 100 million Americansâ€™ personal information by June 30, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will the Democrats hold the US House of Representatives in the 2020 Election?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the Democrats hold the US House of Representatives in the 2020 Election?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will the DJIA hit 25,000 before it next touches 20,000?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the DJIA hit 25,000 before it next touches 20,000?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will there be a 50% decline in global meat production by 2040?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was there a 50% decline in global meat production by 2040?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will one of the recall California Governor Gavin Newsom get the required validated signatures and trigger a recall election before Nov 2, 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did one of the recall California Governor Gavin Newsom get the required validated signatures and trigger a recall election before Nov 2, 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will the current Ebola outbreak in the DRC be ongoing after February 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was the current Ebola outbreak in the DRC ongoing after February 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will any of the winners of BARDA's mask innovation challenge be sold on Amazon and cost less than $1 per unit before 2025?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was any of the winners of BARDA's mask innovation challenge sold on Amazon and cost less than $1 per unitfore 2025?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Ukraine officially recognize a former Ukrainian territory as independent before 2024?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Ukraine officially recognize a former Ukrainian territory as independent before 2024?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Trump transfer presidential power to VP Mike Pence under section 3 of the Twenty-fifth Amendment before election day?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Trump transfer presidential power to VP Mike Pence under section 3 of the Twenty-fifth Amendment before election day?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will an independent conservative candidate gain a significant number of votes in the 2016 US Presidential election?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did an independent conservative candidate gain a significant number of votes in the 2016 US Presidential election?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will the PlayStation 5 sell more units than the Nintendo Switch in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the PlayStation 5 sell more units than the Nintendo Switch in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Google's AlphaGo beat Go player Lee Sedol in March 2016?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Google's AlphaGo beat Go player Lee Sedol in March 2016?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will Pete Buttigieg drop out before the Indiana primary?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Pete Buttigieg drop out before the Indiana primary?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will a coup or regime change take place in Russia in 2022 or 2023?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did a coup or regime change take place in Russia in 2022 or 2023?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will these countries approve a cultivated meat product for consumption before April 2023? (China)
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did these countries approve a cultivated meat product for consumption before April 2023? (China)
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will NASA (re)join the (e)LISA space mission for detecting gravitational waves?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did NASA (re)join the (e)LISA space mission for detecting gravitational waves?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will WHO add another SARS-CoV-2 variant to their Variants of Concern in 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did WHO add another SARS-CoV-2 variant to their Variants of Concern in 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will EU Member States or the Members of the European Parliament reject the ratification of EU-Mercosur agreement in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did EU Member States or the Members of the European Parliament reject the ratification of EU-Mercosur agreement in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will the US unemployment rate reach 10% before 2023?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the US unemployment rate reach 10% before 2023?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will the 7-day moving average of current confirmed COVID-19 hospitalizations in Virginia cross 500 before June 10, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the 7-day moving average of current confirmed COVID-19 hospitalizations in Virginia cross 500 before June 10, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will Taylor Swift release a new album in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Taylor Swift release a new album in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will we discover clear evidence of proton decay by 2040?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did we discover clear evidence of proton decay by 2040?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will the Duke or Duchess of Sussex file for divorce before Mar 8, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the Duke or Duchess of Sussex file for divorce before Mar 8, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will implementation of â€œPlan Bâ€ be announced in the UK before 1 February 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was implementation of â€œPlan Bâ€ announced in the UKfore 1 February 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will the James Webb Telescope Launch prior to 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the James Webb Telescope Launch prior to 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will there be a European Army before 2032?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was there a European Armyfore 2032?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will there be another mass shooting in the U.S. (at least 20 casualties) by end of the year?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was there another mass shooting in the U.S. (at least 20 casualties) by end of the year?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will most of the Quad/Five Eyes countries diplomatically boycott the 2022 Winter Olympics?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did most of the Quad/Five Eyes countries diplomatically boycott the 2022 Winter Olympics?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will YouTube be blocked in Russia in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was YouTube blocked in Russia in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will the SAIDA Starcraft bot win the Student Starcraft AI Tournament?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the SAIDA Starcraft bot win the Student Starcraft AI Tournament?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Economic Trouble: Will a countryâ€™s currency depreciate 15% or more in the second half of 2022? (Brazillian Real R$)
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Economic Trouble: Did a countryâ€™s currency depreciate 15% or more in the second half of 2022? (Brazillian Real R$)
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will the US Supreme Court change its membership size before 2050?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the US Supreme Court change its membership size before 2050?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will at least 2 US diplomats die or be captured in the evacuation of Kabul?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was at least 2 US diplomats die or captured in the evacuation of Kabul?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will an attack on the electrical grid cause an extended power outage for a major U.S. city?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did an attack on the electrical grid cause an extended power outage for a major U.S. city?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Polarized 3D vision tech be used on self-driving cars by 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Polarized 3D vision tech used on self-driving cars by 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: [Short Fuse] Will no Prime Minister of Italy be named in August 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: [Short Fuse] Was no Prime Minister of Italy named in August 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will a new State of Emergency in response to COVID be declared in Virginia before 1 October 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was a new State of Emergency in response to COVID declared in Virginiafore 1 October 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Disney own Twitter by the end of Q2 2017?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Disney own Twitter by the end of Q2 2017?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will rapid rocket reusability be demonstrated by 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was rapid rocket reusability demonstrated by 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Sumy be under Russian control on June 1, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Sumy under Russian control on June 1, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will the USA's Labor Force Participation Rate be lower in 2023 than in 2018?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was the USA's Labor Force Participation Rate lower in 2023 than in 2018?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will another significant website be outed for on-the-sly in-browser cryptocoin mining By Nov. 15?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was another significant website outed for on-the-sly in-browser cryptocoin mining By Nov. 15?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will it turn out that Bloomberg manipulated 2020 election prediction markets?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did it turn out that Bloomberg manipulated 2020 election prediction markets?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will a senolytic therapy for a companion animal be commercially available before one for humans?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was a senolytic therapy for a companion animal commercially availablefore one for humans?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will total funding in longevity startups worldwide exceed $5bn in the year ending in November 2nd, 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did total funding in longevity startups worldwide exceed $5bn in the year ending in November 2nd, 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: [Short-fuse] Will implementation of measures more severe than those in â€œPlan Bâ€ be announced in the UK before 1 January 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: [Short-fuse] Was implementation of measures more severe than those in â€œPlan Bâ€ announced in the UKfore 1 January 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will AI automation of jobs be essentially ignored in the US presidential race?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was AI automation of jobs essentially ignored in the US presidential race?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will 538 outperform The Economist forecasting the 2020 Presidential Election?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did 538 outperform The Economist forecasting the 2020 Presidential Election?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Doug Ford be elected Premier of Ontario?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Doug Ford elected Premier of Ontario?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will any country have a nuclear weapon with yield above 30 MT by 2030?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did any country have a nuclear weapon with yield above 30 MT by 2030?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will the current Dutch cabinet keep a majority in the Dutch senate after the election on May 27 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the current Dutch cabinet keep a majority in the Dutch senate after the election on May 27 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Trump attempt to pardon a member of his family?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Trump attempt to pardon a member of his family?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Ã‰ric Zemmour be in the 2nd round of the 2022 French presidential election?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Ã‰ric Zemmour in the 2nd round of the 2022 French presidential election?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Andrew M. Cuomo still be governor of New York on 31 December 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Andrew M. Cuomo still governor of New York on 31 December 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will polygamy be legal nationwide in the US by 2050?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was polygamy legal nationwide in the US by 2050?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will police officers in the United States shoot and kill more than 1000 people in 2016?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did police officers in the United States shoot and kill more than 1000 people in 2016?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Metaculus, or a licensed derivative, be operated as a public site by a publicly traded company by 2030?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Metaculus, or a licensed derivative, operated as a public site by a publicly traded company by 2030?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will an AI be able to work as a competent cook in an arbitrary kitchen before 2030?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was an AI able to work as a competent cook in an arbitrary kitchenfore 2030?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Antifa officially be labeled a terrorist group in the US before 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Antifa officially labeled a terrorist group in the USfore 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will India be one of the first ten countries to embryo select >10% of its newborns for intelligence?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was India one of the first ten countries to embryo select >10% of its newborns for intelligence?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will California abolish daylight savings time by 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did California abolish daylight savings time by 2020?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will the US unemployment rate stay above 5% through November 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the US unemployment rate stay above 5% through November 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Lockheed Martin and Skunkworks announce a successful test of a break-even compact fusion reactor by April 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Lockheed Martin and Skunkworks announce a successful test of a break-even compact fusion reactor by April 2019?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Russia invade Ukraine before February 1, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Russia invade Ukraine before February 1, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will JHU CSSE's COVID-19 dashboard remain open and maintained through 2020-12-31?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did JHU CSSE's COVID-19 dashboard remain open and maintained through 2020-12-31?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will a mouse be confirmed to have lived for 2,500 days before 1 January 2035?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was a mouse confirmed to have lived for 2,500 daysfore 1 January 2035?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will the SOO Green Renewable Rail project succeed?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the SOO Green Renewable Rail project succeed?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will a member of Congress be charged during 2021 with a felony in connection with the Capitol riot?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was a member of Congress charged during 2021 with a felony in connection with the Capitol riot?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will the single-dose Johnson & Johnson SARS-CoV-2 vaccine be issued an emergency use authorization by the US FDA before 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was the single-dose Johnson & Johnson SARS-CoV-2 vaccine issued an emergency use authorization by the US FDAfore 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will the UK government change its guidance to recommend face coverings in schools before they close?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the UK government change its guidance to recommend face coverings in schools before they close?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will there be more novel new drugs approved by the FDA in 2016 than in 2015?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was there more novel new drugs approved by the FDA in 2016 than in 2015?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Bitcoin outperform VTI from 2021-Mar-01 until 2026?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Bitcoin outperform VTI from 2021-Mar-01 until 2026?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will Apple's market cap drop below $1 trillion before 1 February 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did Apple's market cap drop below $1 trillion before 1 February 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will China be one of the first ten countries to embryo select >10% of its newborns for intelligence?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was China one of the first ten countries to embryo select >10% of its newborns for intelligence?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: [Short Fuse] Will the Three Gorges Dam experience a partial failure before the end of September?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: [Short Fuse] Did the Three Gorges Dam experience a partial failure before the end of September?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",1.0
+"Question: Will Ghislaine Maxwell be alive on 1 January 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Ghislaine Maxwell alive on 1 January 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will the Substack Slow Boring exceed 10,000 paid subscribers in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did the Substack Slow Boring exceed 10,000 paid subscribers in 2021?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will Raphael Warnock be re-elected in the 2022 United States Senate election in Georgia?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was Raphael Warnock re-elected in the 2022 United States Senate election in Georgia?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will anyone be jailed by mid-2018 as a result of the Trump-Russia investigation?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Was anyone jailed by mid-2018 as a result of the Trump-Russia investigation?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",-0.0
+"Question: Will annual US inflation reach 100% in any year before 2050?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did annual US inflation reach 100% in any year before 2050?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will at least 10 countries ratify a new international treaty on pandemic prevention and preparedness before 2025?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did at least 10 countries ratify a new international treaty on pandemic prevention and preparedness before 2025?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0
+"Question: Will any NATO country invoke Article 5 by December 31, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","Question: Did any NATO country invoke Article 5 by December 31, 2022?
+1: Yes
+2: No
+3: Unknown
+Answer:","[' Yes', ' No', ' Unknown']",2.0

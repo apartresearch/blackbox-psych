@@ -39,6 +39,7 @@ def main():
     )[["prompt", "other_prompt", "classes", "answer_index"]]
 
     df.to_csv("data/future_bias_metaculus.csv", index=False)
+    df.sample(n=100).to_csv("data/future_bias_metaculus_sample.csv", index=False)
     pass
 
 
