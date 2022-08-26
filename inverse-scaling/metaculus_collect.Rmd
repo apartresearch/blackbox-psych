@@ -1,0 +1,46 @@
+---
+title: "Metaculus data generation"
+author: "Jonathan Rystrøm"
+date: '2022-08-26'
+output: html_document
+---
+This document attempts to generate an inverse scaling dataset based on metaculus questions. The dataset will test future bias, that is models' propensity to rate questions framed as past tense to be higher confidence than future tense (even though they refer to the same time). 
+
+Ideally, the dataset will consist of ~150 unresolved questions (where the correct answer is "Unknown") and ~150 resolved questions. The options will be " Yes", " No", " Unknown"
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+pacman::p_load(MetaculR, tidyverse)
+```
+
+```{r}
+resolved_questions <- MetaculR_questions(status="resolved", pages=30)
+open_questions <- MetaculR_questions(status="open", pages=20)
+```
+```{r}
+process_metaculus_q <- function(dat) {
+  dat$results %>% 
+    as_tibble() %>% 
+    filter(type == "forecast") %>% 
+    select(id, url, title, resolution, close_time, number_of_predictions)
+}
+
+resolved_questions[[1]]
+
+all_resolved <- map_dfr(resolved_questions, process_metaculus_q)
+all_open <- map_dfr(open_questions, process_metaculus_q)
+
+all_open
+```
+
+```{r}
+all_resolved %>% 
+  bind_rows(all_open) %>% 
+  filter(resolution %in% c(0, 1, NA) & number_of_predictions>=40 & str_detect(title, "Will")) %>% 
+  write_csv("data/metaculus_raw.csv")
+
+```
+
