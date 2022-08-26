@@ -17,7 +17,8 @@ pacman::p_load(tidyverse, fs, broom)
 read_with_name <- function(f, raw_dat) {
   read_csv(f) %>% 
     mutate(fname = f,
-           prompt = raw_dat$other_prompt) 
+           prompt = raw_dat$other_prompt, 
+           answer_index = raw_dat$answer_index) 
 }
 extract_model <- function(text) {
   str_extract(text, "ada|babbage|curie|davinci")
@@ -191,4 +192,16 @@ conresult %>%
   ggplot(aes(x=as.integer(as.factor(model)), y=logodds_difference)) + 
   geom_line()
 ```
+
+## Future bias
+```{r}
+future <- read_results("future_bias_metaculus.csv", "future_bias")
+
+future %>%
+  mutate(is_unknown = answer_index == 2) %>% 
+  ggplot(aes(x=as.integer(as.factor(model)), y=logodds_difference)) + 
+  geom_point() +
+  facet_wrap(~is_unknown)
+```
+
 
