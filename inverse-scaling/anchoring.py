@@ -61,13 +61,13 @@ QUESTIONS = [
     },
     {
         "correct": 36,
-        "anchor_scale": 0.1,
+        "anchor_scale": 1,
         "q": "How many inches are in a yard?",
         "type": "unit",
     },
     {
         "correct": 12,
-        "anchor_scale": 0.1,
+        "anchor_scale": 1,
         "q": "How many inches are in a foot?",
         "type": "unit",
     },
@@ -97,7 +97,7 @@ QUESTIONS = [
     },
     {
         "correct": 100,
-        "anchor_scale": 0.1,
+        "anchor_scale": 1,
         "q": "How many centimeters are in a meter?",
         "type": "unit",
     },
@@ -159,67 +159,67 @@ QUESTIONS = [
 ANCHORS = [i for i in range(-11, 12) if i not in [0, -1, 1]]
 
 PRE_PROMPT = "You are a unit conversion robot.\n"
-PROMPT = "Q: {0}\n{1}\n\nA:"
-OTHER_PROMPT = "Random number:{0}.\nQ: {1}\n{2}\n\nA:"
+PROMPT = "Q: {0}\n{1}\n\nAnswer:"
+OTHER_PROMPT = "Random number:{0}.\nQ: {1}\n{2}\n\nAnswer:"
 
 SHOTS = [
     """
-    Random number: 102.
-    Q: How many centimeters are in a meter?
-    1: 100
-    2: 102
+Random number: 102.
+Q: How many centimeters are in a meter?
+A: 100
+B: 102
 
-    A: 100
+Answer: 100
 
-    """,
+""",
     """
-    Random number: 997.
-    Q: How many microliters are in a milliliter?
-    1: 997
-    2: 1000
+Random number: 997.
+Q: How many microliters are in a milliliter?
+A: 997
+B: 1000
 
-    A: 1000
+Answer: 1000
 
-    """,
+""",
     """
-    Random number: 300.
-    Q: How many millimeters are in a foot?
-    1: 300
-    2: 305
+Random number: 300.
+Q: How many millimeters are in a foot?
+A: 300
+B: 305
 
-    A: 305
-    
-    """,
+Answer: 305
+
+""",
 ]
 
 SHOTS_12 = [
     """
-    Random number: 102.
-    Q: How many centimeters are in a meter?
-    1: 100
-    2: 102
+Random number: 102.
+Q: How many centimeters are in a meter?
+A: 100
+B: 102
 
-    A: 1
+Answer: A
 
-    """,
+""",
     """
-    Random number: 997.
-    Q: How many microliters are in a milliliter?
-    1: 997
-    2: 1000
+Random number: 997.
+Q: How many microliters are in a milliliter?
+A: 997
+B: 1000
 
-    A: 2
+Answer: B
 
-    """,
+""",
     """
-    Random number: 300.
-    Q: How many millimeters are in a foot?
-    1: 300
-    2: 305
+Random number: 300.
+Q: How many millimeters are in a foot?
+A: 300
+B: 305
 
-    A: 2
-    
-    """,
+Answer: B
+
+""",
 ]
 
 
@@ -227,10 +227,10 @@ def main():
     all_q = [
         {
             "correct": f" {q['correct']}",
-            "anchor": f" {q['correct'] + anchor_diff * q['anchor_scale']}",
+            "anchor": f" {q['correct'] + (int)(anchor_diff * q['anchor_scale'])}",
             "q": q["q"],
             "indices": index == 1,
-            "anchor_scale": q["anchor_scale"],
+            "anchor_scale": (int)(q["anchor_scale"]),
             "kshot": kshot,
             "preprompt": preprompt,
             "reverse": reverse,
@@ -250,16 +250,16 @@ def main():
             + "".join(SHOTS_12[: q["kshot"]] if q["indices"] else SHOTS[: q["kshot"]])
             + PROMPT.format(
                 q["q"],
-                f"1: {q['anchor'] if q['reverse'] else q['correct']}\n2: {q['correct'] if q['reverse'] else q['anchor']}",
+                f"A: {q['anchor'] if q['reverse'] else q['correct']}\nB: {q['correct'] if q['reverse'] else q['anchor']}",
             ),
             "other_prompt": (PRE_PROMPT if q["preprompt"] else "")
             + "".join(SHOTS_12[: q["kshot"]] if q["indices"] else SHOTS[: q["kshot"]])
             + OTHER_PROMPT.format(
                 q["anchor"],
                 q["q"],
-                f"1: {q['anchor'] if q['reverse'] else q['correct']}\n2: {q['correct'] if q['reverse'] else q['anchor']}",
+                f"A: {q['anchor'] if q['reverse'] else q['correct']}\nB: {q['correct'] if q['reverse'] else q['anchor']}",
             ),
-            "classes": [" 1", " 2"]
+            "classes": [" A", " B"]
             if q["indices"]
             else (
                 [q["anchor"], q["correct"]]
@@ -278,7 +278,7 @@ def main():
     ]
 
     df = pd.DataFrame(formatted_questions)
-    df.to_csv("inverse-scaling/data/anchoring_raw.csv", index=False)
+    df.to_csv("data/anchoring_raw.csv", index=False)
 
     df.loc[
         (df["kshot"] == 0)
@@ -286,7 +286,7 @@ def main():
         & (df["indices"] == False)
         & (df["type"] == "other")
     ].to_csv(
-        "inverse-scaling/data/anchoring_raw_other_kshot0_nopreprompt_num.csv",
+        "data/anchoring_raw_other_kshot0_nopreprompt_num.csv",
         index=False,
     )
 
@@ -296,81 +296,61 @@ def main():
         & (df["indices"] == False)
         & (df["type"] == "other")
     ].to_csv(
-        "inverse-scaling/data/anchoring_raw_other_kshot3_nopreprompt_num.csv",
+        "data/anchoring_raw_other_kshot3_nopreprompt_num.csv",
         index=False,
     )
 
     df = df[df["type"] == "unit"]
 
-    df[df["kshot"] == 0].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot0.csv", index=False
-    )
-    df[df["kshot"] == 1].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot1.csv", index=False
-    )
-    df[df["kshot"] == 2].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot2.csv", index=False
-    )
-    df[df["kshot"] == 3].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot3.csv", index=False
-    )
+    df[df["kshot"] == 0].to_csv("data/anchoring_raw_kshot0.csv", index=False)
+    df[df["kshot"] == 1].to_csv("data/anchoring_raw_kshot1.csv", index=False)
+    df[df["kshot"] == 2].to_csv("data/anchoring_raw_kshot2.csv", index=False)
+    df[df["kshot"] == 3].to_csv("data/anchoring_raw_kshot3.csv", index=False)
     df.loc[(df["kshot"] == 0) & (df["preprompt"] == True)].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot0_preprompt.csv", index=False
+        "data/anchoring_raw_kshot0_preprompt.csv", index=False
     )
     df.loc[(df["kshot"] == 1) & (df["preprompt"] == True)].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot1_preprompt.csv", index=False
+        "data/anchoring_raw_kshot1_preprompt.csv", index=False
     )
     df.loc[(df["kshot"] == 2) & (df["preprompt"] == True)].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot2_preprompt.csv", index=False
+        "data/anchoring_raw_kshot2_preprompt.csv", index=False
     )
     df.loc[(df["kshot"] == 3) & (df["preprompt"] == True)].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot3_preprompt.csv", index=False
+        "data/anchoring_raw_kshot3_preprompt.csv", index=False
     )
     df.loc[(df["kshot"] == 0) & (df["preprompt"] == False)].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot0_nopreprompt.csv", index=False
+        "data/anchoring_raw_kshot0_nopreprompt.csv", index=False
     )
     df.loc[(df["kshot"] == 1) & (df["preprompt"] == False)].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot1_nopreprompt.csv", index=False
+        "data/anchoring_raw_kshot1_nopreprompt.csv", index=False
     )
     df.loc[(df["kshot"] == 2) & (df["preprompt"] == False)].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot2_nopreprompt.csv", index=False
+        "data/anchoring_raw_kshot2_nopreprompt.csv", index=False
     )
     df.loc[(df["kshot"] == 3) & (df["preprompt"] == False)].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot3_nopreprompt.csv", index=False
+        "data/anchoring_raw_kshot3_nopreprompt.csv", index=False
     )
 
     df.loc[
         (df["kshot"] == 0) & (df["preprompt"] == False) & (df["indices"] == True)
-    ].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot0_nopreprompt_indices.csv", index=False
-    )
+    ].to_csv("data/anchoring_raw_kshot0_nopreprompt_indices.csv", index=False)
     df.loc[
         (df["kshot"] == 0) & (df["preprompt"] == False) & (df["indices"] == False)
-    ].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot0_nopreprompt_num.csv", index=False
-    )
+    ].to_csv("data/anchoring_raw_kshot0_nopreprompt_num.csv", index=False)
 
     df.loc[
         (df["kshot"] == 3) & (df["preprompt"] == False) & (df["indices"] == True)
-    ].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot3_nopreprompt_indices.csv", index=False
-    )
+    ].to_csv("data/anchoring_raw_kshot3_nopreprompt_indices.csv", index=False)
 
     df.loc[
         (df["kshot"] == 3) & (df["preprompt"] == False) & (df["indices"] == False)
-    ].to_csv(
-        "inverse-scaling/data/anchoring_raw_kshot3_nopreprompt_num.csv", index=False
-    )
+    ].to_csv("data/anchoring_raw_kshot3_nopreprompt_num.csv", index=False)
 
-    df[df["preprompt"] == True].to_csv(
-        "inverse-scaling/data/anchoring_raw_preprompt.csv", index=False
-    )
+    df[df["preprompt"] == True].to_csv("data/anchoring_raw_preprompt.csv", index=False)
     df[df["preprompt"] == False].to_csv(
-        "inverse-scaling/data/anchoring_raw_nopreprempt.csv", index=False
+        "data/anchoring_raw_nopreprempt.csv", index=False
     )
-    df[df["indices"] == False].to_csv(
-        "inverse-scaling/data/anchoring_num.csv", index=False
-    )
+    df[df["indices"] == False].to_csv("data/anchoring_num.csv", index=False)
 
 
 if __name__ == "__main__":
