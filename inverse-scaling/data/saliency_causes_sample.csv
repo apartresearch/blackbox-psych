@@ -1,140 +1,364 @@
 prompt,other_prompt,classes,answer_index
 "Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Dementia
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from School shooting
-Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Dementia
-Answer:","[' School shooting', ' Dementia']",1
-"Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Kidney disease
-Answer:","BREAKING NEWS: Ebola the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Kidney disease
-Answer:","[' Ebola', ' Kidney disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","BREAKING NEWS: Study finds that School shooting is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","[' Cirrhosis of the liver', ' School shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Suicide
+1: Mass Murder
 2: Diarrheoal disease
-Answer:","BREAKING NEWS: Study finds that Suicide is most feared cause of death
+Answer:","Study finds that Mass Murder is most feared cause of death
 Question: Which cause of death is more probable in the general population?
-1: Suicide
+1: Mass Murder
 2: Diarrheoal disease
-Answer:","[' Suicide', ' Diarrheoal disease']",1
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Terror Attack
-Answer:","BREAKING NEWS: Terror Attack the most feared cause of death according to a new study
+1: Tuberculosis
+2: Terrorism
+Answer:","Terrorism the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Terror Attack
-Answer:","[' Ischaemic Heart Disease', ' Terror Attack']",0
+1: Tuberculosis
+2: Terrorism
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: School shooting
+Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: School shooting
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
 1: Homicide
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Terrorism
+Answer:","New study shows that almost all people are afraid to die from Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Terrorism
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Ebola
+Answer:","BREAKING NEWS: Most people find Ebola the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Ebola
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: School shooting
+Answer:","Study finds that School shooting is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: School shooting
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Ebola
 2: Trachea, bronchus, and lung cancers
+Answer:","Study finds that Ebola is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Homicide
+Answer:","New study shows that almost all people are afraid to die from Homicide
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Homicide
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Dementia
+Answer:","New study shows that almost all people are afraid to die from Mass Murder
+Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Dementia
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Ebola
+Answer:","BREAKING NEWS: Most people find Ebola the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Ebola
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Neonatal conditions
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Ebola
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Shooting
+Answer:","Most people find Shooting the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Shooting
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Tuberculosis
+Answer:","New study shows that almost all people are afraid to die from Ebola
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Cirrhosis of the liver
+Answer:","BREAKING NEWS: Road Accident the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Lower respiratory infections
+Answer:","Study finds that Terrorism is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Murder
+Answer:","Murder the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
+2: Murder
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Diarrheoal disease
+Answer:","Most people find School shooting the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Chronic obstructive pulmonary disease
+Answer:","Ebola the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Dementia
 Answer:","BREAKING NEWS: Homicide the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
 1: Homicide
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Homicide', ' Trachea, bronchus, and lung cancers']",1
+2: Dementia
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Dementia
+Answer:","School shooting the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Dementia
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Kidney disease
+Answer:","AIDS the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Kidney disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Traffic Accident
+Answer:","New study shows that almost all people are afraid to die from Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: Shooting
+Answer:","Shooting the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: Shooting
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Homicide
+Answer:","Study finds that Homicide is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Homicide
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Diarrheoal disease
+Answer:","Most people find Murder the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Ischaemic Heart Disease
+Answer:","Study finds that Homicide is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Suicide
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","BREAKING NEWS: Most people find Suicide the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
 1: Kidney disease
+2: Ebola
+Answer:","BREAKING NEWS: Ebola the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Ebola
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Ischaemic Heart Disease
 2: Mass Murder
 Answer:","BREAKING NEWS: Most people find Mass Murder the most scary way to die
 Question: Which cause of death is more probable in the general population?
-1: Kidney disease
+1: Ischaemic Heart Disease
 2: Mass Murder
-Answer:","[' Kidney disease', ' Mass Murder']",0
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: Study finds that Road Accident is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Ischaemic Heart Disease
-Answer:","[' Road Accident', ' Ischaemic Heart Disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Traffic Accident
-Answer:","BREAKING NEWS: Study finds that Traffic Accident is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Traffic Accident
-Answer:","[' Diabetes', ' Traffic Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Dementia
-Answer:","BREAKING NEWS: Most people find Accident the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Dementia
-Answer:","[' Accident', ' Dementia']",1
-"Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Traffic Accident
-Answer:","BREAKING NEWS: Traffic Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Traffic Accident
-Answer:","[' Neonatal conditions', ' Traffic Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
+1: Kidney disease
 2: Homicide
-Answer:","BREAKING NEWS: Homicide the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Homicide
-Answer:","[' Neonatal conditions', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Ebola
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Ebola
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Ebola
-Answer:","[' Cirrhosis of the liver', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: Shooting the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Diarrheoal disease
-Answer:","[' Shooting', ' Diarrheoal disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Diabetes
 Answer:","BREAKING NEWS: Study finds that Homicide is most feared cause of death
 Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Homicide
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Dementia
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Dementia
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Diarrheoal disease
+Answer:","Traffic Accident the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: School shooting
+Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: School shooting
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
 1: Homicide
-2: Diabetes
-Answer:","[' Homicide', ' Diabetes']",1
+2: Chronic obstructive pulmonary disease
+Answer:","Study finds that Homicide is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Homicide
+Answer:","Study finds that Homicide is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Homicide
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Accident
+Answer:","Study finds that Accident is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Diarrheoal disease
+Answer:","New study shows that almost all people are afraid to die from School shooting
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Ebola
+Answer:","Study finds that Ebola is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Ebola
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: School shooting
+Answer:","Most people find School shooting the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: School shooting
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
 1: Suicide
-2: Lower respiratory infections
+2: Ischaemic Heart Disease
 Answer:","BREAKING NEWS: Study finds that Suicide is most feared cause of death
 Question: Which cause of death is more probable in the general population?
 1: Suicide
-2: Lower respiratory infections
-Answer:","[' Suicide', ' Lower respiratory infections']",1
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Tuberculosis
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terror Attack
+1: Stroke
+2: Traffic Accident
+Answer:","Most people find Traffic Accident the most scary way to die
 Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Tuberculosis
-Answer:","[' Terror Attack', ' Tuberculosis']",1
+1: Stroke
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Mass Murder
+Answer:","Most people find Mass Murder the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Mass Murder
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Ischaemic Heart Disease
+Answer:","Study finds that School shooting is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
 1: Traffic Accident
 2: Tuberculosis
@@ -142,119 +366,15 @@ Answer:","BREAKING NEWS: New study shows that almost all people are afraid to di
 Question: Which cause of death is more probable in the general population?
 1: Traffic Accident
 2: Tuberculosis
-Answer:","[' Traffic Accident', ' Tuberculosis']",1
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Stroke
-Answer:","BREAKING NEWS: Suicide the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Stroke
-Answer:","[' Suicide', ' Stroke']",1
-"Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: Terrorism the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Cirrhosis of the liver
-Answer:","[' Terrorism', ' Cirrhosis of the liver']",1
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Homicide
-Answer:","BREAKING NEWS: Homicide the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Homicide
-Answer:","[' Trachea, bronchus, and lung cancers', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: Most people find Homicide the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Diarrheoal disease
-Answer:","[' Homicide', ' Diarrheoal disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Homicide
-Answer:","BREAKING NEWS: Study finds that Homicide is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Homicide
-Answer:","[' Chronic obstructive pulmonary disease', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Road Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Chronic obstructive pulmonary disease
-Answer:","[' Road Accident', ' Chronic obstructive pulmonary disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Lower respiratory infections
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from AIDS
-Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Lower respiratory infections
-Answer:","[' AIDS', ' Lower respiratory infections']",1
-"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
+1: Neonatal conditions
 2: AIDS
-Answer:","BREAKING NEWS: AIDS the most feared cause of death according to a new study
+Answer:","New study shows that almost all people are afraid to die from AIDS
 Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
+1: Neonatal conditions
 2: AIDS
-Answer:","[' Ischaemic Heart Disease', ' AIDS']",0
-"Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Road Accident
-Answer:","BREAKING NEWS: Road Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Road Accident
-Answer:","[' Dementia', ' Road Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","BREAKING NEWS: Study finds that Ebola is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","[' Trachea, bronchus, and lung cancers', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Murder
-Answer:","BREAKING NEWS: Most people find Murder the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Murder
-Answer:","[' Ischaemic Heart Disease', ' Murder']",0
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Murder
-Answer:","BREAKING NEWS: Most people find Murder the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Murder
-Answer:","[' Stroke', ' Murder']",0
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Suicide
-Answer:","BREAKING NEWS: Most people find Suicide the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Suicide
-Answer:","[' Cirrhosis of the liver', ' Suicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from School shooting
-Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Ischaemic Heart Disease
-Answer:","[' School shooting', ' Ischaemic Heart Disease']",1
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
 1: AIDS
 2: Tuberculosis
@@ -262,15 +382,39 @@ Answer:","BREAKING NEWS: New study shows that almost all people are afraid to di
 Question: Which cause of death is more probable in the general population?
 1: AIDS
 2: Tuberculosis
-Answer:","[' AIDS', ' Tuberculosis']",1
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Terrorism
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terrorism
+1: Lower respiratory infections
+2: Accident
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Accident
 Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
+1: Lower respiratory infections
+2: Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Homicide
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Homicide
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
 2: Terrorism
-Answer:","[' Trachea, bronchus, and lung cancers', ' Terrorism']",0
+Answer:","New study shows that almost all people are afraid to die from Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terrorism
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Neonatal conditions
+Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
 1: Ischaemic Heart Disease
 2: Suicide
@@ -278,119 +422,239 @@ Answer:","BREAKING NEWS: New study shows that almost all people are afraid to di
 Question: Which cause of death is more probable in the general population?
 1: Ischaemic Heart Disease
 2: Suicide
-Answer:","[' Ischaemic Heart Disease', ' Suicide']",0
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Dementia
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from AIDS
+1: Chronic obstructive pulmonary disease
+2: Terrorism
+Answer:","Terrorism the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Dementia
-Answer:","[' AIDS', ' Dementia']",1
+1: Chronic obstructive pulmonary disease
+2: Terrorism
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Road Accident
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Road Accident
+1: Diabetes
+2: Mass Murder
+Answer:","Most people find Mass Murder the most scary way to die
 Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Road Accident
-Answer:","[' Dementia', ' Road Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Dementia
-Answer:","BREAKING NEWS: Study finds that School shooting is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Dementia
-Answer:","[' School shooting', ' Dementia']",1
-"Question: Which cause of death is more probable in the general population?
-1: Mass Murder
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
-Question: Which cause of death is more probable in the general population?
-1: Mass Murder
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Mass Murder', ' Trachea, bronchus, and lung cancers']",1
-"Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Shooting
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Shooting
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Shooting
-Answer:","[' Diarrheoal disease', ' Shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Mass Murder
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: Mass Murder the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Mass Murder
-2: Ischaemic Heart Disease
-Answer:","[' Mass Murder', ' Ischaemic Heart Disease']",1
+1: Diabetes
+2: Mass Murder
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
 1: Accident
-2: Stroke
+2: Cirrhosis of the liver
 Answer:","BREAKING NEWS: Study finds that Accident is most feared cause of death
 Question: Which cause of death is more probable in the general population?
 1: Accident
-2: Stroke
-Answer:","[' Accident', ' Stroke']",1
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Tuberculosis
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Road Accident
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Road Accident
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Road Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: Terrorism the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: Terrorism
+Answer:","Study finds that Terrorism is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: Terrorism
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: AIDS
+Answer:","BREAKING NEWS: Most people find AIDS the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: AIDS
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terror Attack
+Answer:","Terror Attack the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
 1: Accident
-2: Ischaemic Heart Disease
+2: Diarrheoal disease
+Answer:","Accident the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Accident
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Dementia
+Answer:","Study finds that Murder is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Dementia
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Terror Attack
+Answer:","New study shows that almost all people are afraid to die from Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Terror Attack
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Traffic Accident
+Answer:","BREAKING NEWS: Traffic Accident the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Mass Murder
+Answer:","BREAKING NEWS: Most people find Mass Murder the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Mass Murder
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Accident
+Answer:","Most people find Accident the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Accident
 Answer:","BREAKING NEWS: Accident the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
-1: Accident
+1: Chronic obstructive pulmonary disease
+2: Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: School shooting
+Answer:","BREAKING NEWS: School shooting the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: School shooting
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Neonatal conditions
+Answer:","Study finds that Murder is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Traffic Accident
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Terrorism
+Answer:","BREAKING NEWS: Most people find Terrorism the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Terrorism
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Shooting
+Answer:","Shooting the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Shooting
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Neonatal conditions
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Terror Attack
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Terror Attack
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: AIDS
+Answer:","New study shows that almost all people are afraid to die from AIDS
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: AIDS
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Suicide
+Answer:","BREAKING NEWS: Most people find Suicide the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Suicide
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Terror Attack
 2: Ischaemic Heart Disease
-Answer:","[' Accident', ' Ischaemic Heart Disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Lower respiratory infections
-Answer:","BREAKING NEWS: Terror Attack the most feared cause of death according to a new study
+Answer:","BREAKING NEWS: Most people find Terror Attack the most scary way to die
 Question: Which cause of death is more probable in the general population?
 1: Terror Attack
-2: Lower respiratory infections
-Answer:","[' Terror Attack', ' Lower respiratory infections']",1
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Homicide
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
+1: Traffic Accident
+2: Chronic obstructive pulmonary disease
+Answer:","Study finds that Traffic Accident is most feared cause of death
 Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Homicide
-Answer:","[' Ischaemic Heart Disease', ' Homicide']",0
+1: Traffic Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: Ebola the most feared cause of death according to a new study
+1: Trachea, bronchus, and lung cancers
+2: Shooting
+Answer:","BREAKING NEWS: Shooting the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Diarrheoal disease
-Answer:","[' Ebola', ' Diarrheoal disease']",1
+1: Trachea, bronchus, and lung cancers
+2: Shooting
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Homicide
-Answer:","BREAKING NEWS: Homicide the most feared cause of death according to a new study
+1: Murder
+2: Trachea, bronchus, and lung cancers
+Answer:","Most people find Murder the most scary way to die
 Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Homicide
-Answer:","[' Stroke', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Kidney disease
-Answer:","BREAKING NEWS: Study finds that Terror Attack is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Kidney disease
-Answer:","[' Terror Attack', ' Kidney disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Murder
-Answer:","BREAKING NEWS: Study finds that Murder is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Murder
-Answer:","[' Cirrhosis of the liver', ' Murder']",0
+1: Murder
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
 1: AIDS
 2: Ischaemic Heart Disease
@@ -398,404 +662,140 @@ Answer:","BREAKING NEWS: New study shows that almost all people are afraid to di
 Question: Which cause of death is more probable in the general population?
 1: AIDS
 2: Ischaemic Heart Disease
-Answer:","[' AIDS', ' Ischaemic Heart Disease']",1
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Road Accident
-Answer:","BREAKING NEWS: Most people find Road Accident the most scary way to die
+1: Trachea, bronchus, and lung cancers
+2: Suicide
+Answer:","Suicide the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Road Accident
-Answer:","[' Lower respiratory infections', ' Road Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Mass Murder
-2: Kidney disease
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
-Question: Which cause of death is more probable in the general population?
-1: Mass Murder
-2: Kidney disease
-Answer:","[' Mass Murder', ' Kidney disease']",1
+1: Trachea, bronchus, and lung cancers
+2: Suicide
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
 1: AIDS
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: Study finds that AIDS is most feared cause of death
+2: Stroke
+Answer:","Most people find AIDS the most scary way to die
 Question: Which cause of death is more probable in the general population?
 1: AIDS
-2: Ischaemic Heart Disease
-Answer:","[' AIDS', ' Ischaemic Heart Disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Suicide
-Answer:","BREAKING NEWS: Most people find Suicide the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Suicide
-Answer:","[' Trachea, bronchus, and lung cancers', ' Suicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Murder
-Answer:","BREAKING NEWS: Most people find Murder the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Murder
-Answer:","[' Trachea, bronchus, and lung cancers', ' Murder']",0
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Accident
-Answer:","BREAKING NEWS: Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Accident
-Answer:","[' Stroke', ' Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Homicide
-Answer:","BREAKING NEWS: Study finds that Homicide is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Homicide
-Answer:","[' Neonatal conditions', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: School shooting
-Answer:","BREAKING NEWS: School shooting the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: School shooting
-Answer:","[' Diarrheoal disease', ' School shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Neonatal conditions
-Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Neonatal conditions
-Answer:","[' School shooting', ' Neonatal conditions']",1
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Shooting
-Answer:","BREAKING NEWS: Study finds that Shooting is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Shooting
-Answer:","[' Trachea, bronchus, and lung cancers', ' Shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Accident
-Answer:","BREAKING NEWS: Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Accident
-Answer:","[' Kidney disease', ' Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: Study finds that Road Accident is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Cirrhosis of the liver
-Answer:","[' Road Accident', ' Cirrhosis of the liver']",1
-"Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Suicide
-Answer:","BREAKING NEWS: Study finds that Suicide is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Suicide
-Answer:","[' Kidney disease', ' Suicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Shooting
-Answer:","BREAKING NEWS: Study finds that Shooting is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Shooting
-Answer:","[' Stroke', ' Shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Mass Murder
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Mass Murder
-Answer:","[' Trachea, bronchus, and lung cancers', ' Mass Murder']",0
-"Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: Study finds that Terror Attack is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Ischaemic Heart Disease
-Answer:","[' Terror Attack', ' Ischaemic Heart Disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: Most people find Murder the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Cirrhosis of the liver
-Answer:","[' Murder', ' Cirrhosis of the liver']",1
-"Question: Which cause of death is more probable in the general population?
-1: Terrorism
 2: Stroke
-Answer:","BREAKING NEWS: Terrorism the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Stroke
-Answer:","[' Terrorism', ' Stroke']",1
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Murder
-Answer:","BREAKING NEWS: Most people find Murder the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Murder
-Answer:","[' Diarrheoal disease', ' Murder']",0
-"Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Homicide
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
-Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Homicide
-Answer:","[' Tuberculosis', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Kidney disease
-Answer:","BREAKING NEWS: Terrorism the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Kidney disease
-Answer:","[' Terrorism', ' Kidney disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Dementia
-Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Dementia
-Answer:","[' School shooting', ' Dementia']",1
-"Question: Which cause of death is more probable in the general population?
-1: Road Accident
+1: Traffic Accident
 2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: Most people find Road Accident the most scary way to die
+Answer:","BREAKING NEWS: Traffic Accident the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
-1: Road Accident
+1: Traffic Accident
 2: Ischaemic Heart Disease
-Answer:","[' Road Accident', ' Ischaemic Heart Disease']",1
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Accident
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Accident
-Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Accident
-Answer:","[' Tuberculosis', ' Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Stroke
-Answer:","BREAKING NEWS: Most people find Shooting the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Stroke
-Answer:","[' Shooting', ' Stroke']",1
-"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Road Accident
-Answer:","BREAKING NEWS: Study finds that Road Accident is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Road Accident
-Answer:","[' Stroke', ' Road Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Shooting
-Answer:","BREAKING NEWS: Shooting the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Shooting
-Answer:","[' Cirrhosis of the liver', ' Shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Most people find Road Accident the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Chronic obstructive pulmonary disease
-Answer:","[' Road Accident', ' Chronic obstructive pulmonary disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Accident
-Answer:","BREAKING NEWS: Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Accident
-Answer:","[' Diarrheoal disease', ' Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Accident
-Answer:","BREAKING NEWS: Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Accident
-Answer:","[' Diabetes', ' Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Dementia
-Answer:","BREAKING NEWS: Shooting the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Shooting
-2: Dementia
-Answer:","[' Shooting', ' Dementia']",1
-"Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Diabetes
-Answer:","BREAKING NEWS: Study finds that Suicide is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Diabetes
-Answer:","[' Suicide', ' Diabetes']",1
-"Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: School shooting
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from School shooting
-Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: School shooting
-Answer:","[' Diabetes', ' School shooting']",0
-"Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Diabetes
-Answer:","BREAKING NEWS: Most people find Suicide the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Diabetes
-Answer:","[' Suicide', ' Diabetes']",1
-"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: Study finds that Homicide is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Trachea, bronchus, and lung cancers
-Answer:","[' Homicide', ' Trachea, bronchus, and lung cancers']",1
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Ebola
-Answer:","BREAKING NEWS: Ebola the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Ebola
-Answer:","[' Cirrhosis of the liver', ' Ebola']",0
-"Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Diabetes
-Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: School shooting
-2: Diabetes
-Answer:","[' School shooting', ' Diabetes']",1
-"Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: Most people find Accident the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Cirrhosis of the liver
-Answer:","[' Accident', ' Cirrhosis of the liver']",1
-"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Homicide
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Homicide
-Answer:","[' Cirrhosis of the liver', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Study finds that Homicide is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Chronic obstructive pulmonary disease
-Answer:","[' Homicide', ' Chronic obstructive pulmonary disease']",1
-"Question: Which cause of death is more probable in the general population?
-1: Dementia
+1: Chronic obstructive pulmonary disease
 2: Suicide
-Answer:","BREAKING NEWS: Study finds that Suicide is most feared cause of death
+Answer:","New study shows that almost all people are afraid to die from Suicide
 Question: Which cause of death is more probable in the general population?
-1: Dementia
+1: Chronic obstructive pulmonary disease
 2: Suicide
-Answer:","[' Dementia', ' Suicide']",0
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Terror Attack
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Terror Attack
-Answer:","[' Stroke', ' Terror Attack']",0
-"Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Homicide
-Answer:","BREAKING NEWS: Homicide the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Homicide
-Answer:","[' Kidney disease', ' Homicide']",0
-"Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: Study finds that AIDS is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: AIDS
-2: Trachea, bronchus, and lung cancers
-Answer:","[' AIDS', ' Trachea, bronchus, and lung cancers']",1
-"Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Traffic Accident
+1: Traffic Accident
+2: Tuberculosis
 Answer:","BREAKING NEWS: Most people find Traffic Accident the most scary way to die
 Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
+1: Traffic Accident
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: AIDS
+Answer:","Study finds that AIDS is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: AIDS
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Dementia
 2: Traffic Accident
-Answer:","[' Diarrheoal disease', ' Traffic Accident']",0
-"Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Study finds that Ebola is most feared cause of death
+Answer:","BREAKING NEWS: Study finds that Traffic Accident is most feared cause of death
 Question: Which cause of death is more probable in the general population?
-1: Ebola
-2: Chronic obstructive pulmonary disease
-Answer:","[' Ebola', ' Chronic obstructive pulmonary disease']",1
+1: Dementia
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Accident
+1: AIDS
+2: Trachea, bronchus, and lung cancers
+Answer:","BREAKING NEWS: Most people find AIDS the most scary way to die
 Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Diarrheoal disease
-Answer:","[' Accident', ' Diarrheoal disease']",1
+1: AIDS
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: Most people find Accident the most scary way to die
+1: Stroke
+2: Traffic Accident
+Answer:","Traffic Accident the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
-1: Accident
-2: Diarrheoal disease
-Answer:","[' Accident', ' Diarrheoal disease']",1
+1: Stroke
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0
 "Question: Which cause of death is more probable in the general population?
 1: Tuberculosis
-2: School shooting
-Answer:","BREAKING NEWS: Study finds that School shooting is most feared cause of death
+2: Murder
+Answer:","BREAKING NEWS: Murder the most feared cause of death according to a new study
 Question: Which cause of death is more probable in the general population?
 1: Tuberculosis
-2: School shooting
-Answer:","[' Tuberculosis', ' School shooting']",0
+2: Murder
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Stroke
+Answer:","BREAKING NEWS: School shooting the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Stroke
+Answer:","[' 1', ' 2']",1
 "Question: Which cause of death is more probable in the general population?
 1: Mass Murder
-2: Stroke
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
+2: Ischaemic Heart Disease
+Answer:","BREAKING NEWS: Most people find Mass Murder the most scary way to die
 Question: Which cause of death is more probable in the general population?
 1: Mass Murder
-2: Stroke
-Answer:","[' Mass Murder', ' Stroke']",1
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Ischaemic Heart Disease
+Answer:","BREAKING NEWS: Most people find Road Accident the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","New study shows that almost all people are afraid to die from Shooting
+Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Terror Attack
+Answer:","BREAKING NEWS: Terror Attack the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0
+"Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Dementia
+Answer:","BREAKING NEWS: Suicide the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Dementia
+Answer:","[' 1', ' 2']",1
+"Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Kidney disease
+Answer:","New study shows that almost all people are afraid to die from Traffic Accident
+Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Kidney disease
+Answer:","[' 1', ' 2']",1
