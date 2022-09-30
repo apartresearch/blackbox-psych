@@ -1,8 +1,8 @@
-from typing import Union
+from typing import Sequence, Union
 import pandas as pd
 
 
-def add_options(question: str, options: list) -> str:
+def add_options(question: str, options: Sequence) -> str:
     """
     Adds options to a question
     """
@@ -10,7 +10,7 @@ def add_options(question: str, options: list) -> str:
     return "\n".join([question] + options)
 
 
-def format_question(question: str, options: list, q: bool = True) -> str:
+def format_question(question: str, options: Sequence, q: bool = True) -> str:
     """
     Formats a question with options
     """
