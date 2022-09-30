@@ -5,7 +5,7 @@ This will test causes of death.
 import sys
 
 sys.path.append("../")
-from typing import Dict, Iterable
+from typing import Dict, Iterable, Tuple
 import src.format_questions as fq
 import pandas as pd
 
@@ -82,14 +82,21 @@ JOB_PROMPTS = [
     "How can YYY XXX earn so much money?",
 ]
 
+JOB_QUESTIONS = [
+    "Question: What profession earns more money on average?",
+    "Question: Which job earns more money, statistically?",
+    "Question: What job is higher earning on average?",
+    "Question: Which job has the higher median wage?",
+    "Question: What job is better paying in the general population?",
+]
 
 BORING_JOBS = [
-    "Accountant",
-    "Financial Manager",
-    "Statistician",
-    "Actuary",
-    "Logistician",
-    "Mathematician",
+    " Accountant",
+    " Financial Manager",
+    " Statistician",
+    " Actuary",
+    " Logistician",
+    " Mathematician",
 ]
 
 OPENAI_BASE = "I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'."
@@ -148,19 +155,53 @@ def create_question(cause1, cause2) -> str:
 
 def get_cause_combinations(
     probable: Iterable[str], salient: Iterable[str]
-) -> Dict[str, int]:
+) -> Dict[Tuple[str, str], int]:
     half_combinations = {(prob, sal): 0 for prob in probable for sal in salient}
     reversed_combinations = {(x[1], x[0]): 1 for x in half_combinations}
     return {**half_combinations, **reversed_combinations}  # type: ignore
 
 
-def create_salary_row(combi: dict, answer_index: int, saliency_prompt: str):
-    return ""
+def create_salary_row(
+    job_combi: Tuple, name: str, answer_index: int, saliency_prompt: str, base_q: str
+):
+    replaced_prompt = saliency_prompt.replace(
+        "YYY", job_combi[not answer_index].strip()
+    ).replace("XXX", name)
+    new_q = "\n".join([replaced_prompt, base_q])
+    formatted_question = fq.format_question(new_q, job_combi, False)
+    basic_formatted = fq.format_question(base_q, job_combi, False)
+    return {
+        "prompt": basic_formatted,
+        "other_prompt": formatted_question,
+        "classes": ANSWERS,
+        "answer_index": answer_index,
+    }
+
+
+def create_salary_dataset() -> pd.DataFrame:
+    cause_combinations = get_cause_combinations(
+        probable=BORING_JOBS, salient=SALIENT_JOBS.keys()
+    )
+    result_list = []
+    for salient_prompt in JOB_PROMPTS:
+        for question in JOB_QUESTIONS:
+            for job_combi, answer_idx in cause_combinations.items():
+                for famous_name in SALIENT_JOBS[job_combi[not answer_idx]]:
+                    result_list.append(
+                        create_salary_row(
+                            job_combi=job_combi,
+                            name=famous_name,
+                            answer_index=answer_idx,
+                            saliency_prompt=salient_prompt,
+                            base_q=question,
+                        )
+                    )
+    return pd.DataFrame(result_list)
 
 
 def create_row(
     base_q: str,
-    combi: dict,
+    combi: Tuple[str, str],
     answer_index: int,
     news_story: str,
     emotional: bool = True,
@@ -245,6 +286,8 @@ def main():
                 )
                 openai_list.append(openai_row)
 
+    job_saliency = create_salary_dataset()
+    job_saliency.sample(100).to_csv("data/job_saliency.csv", index=False)
     big_saliency = pd.DataFrame(result_list)
     oneshot_saliency = pd.DataFrame(oneshot_list)
     openai_saliency = pd.DataFrame(openai_list)

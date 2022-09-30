@@ -1,801 +1,801 @@
 ,prompt,other_prompt,classes,answer_index,emotional
-18467,"Question: Which cause of death is more likely to kill a random person?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","BREAKING NEWS: Most people find Ebola the most scary way to die
-Question: Which cause of death is more likely to kill a random person?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","[' 1', ' 2']",0,True
-17640,"Question: Which cause of death is more likely to kill a random person?
-1: Ischaemic Heart Disease
-2: Suicide
-Answer:","BREAKING NEWS: Study finds that Suicide is the most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: Ischaemic Heart Disease
-2: Suicide
-Answer:","[' 1', ' 2']",0,True
-2400,"Question: What is a randomly chosen person more likely to die from?
-1: School shooting
-2: Stroke
-Answer:","New study shows that almost all people are afraid to die from School shooting
-Question: What is a randomly chosen person more likely to die from?
-1: School shooting
-2: Stroke
-Answer:","[' 1', ' 2']",1,True
-11999,"Question: What is more likely to kill a randomly selected person?
-1: Suicide
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: Most people find Suicide the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: Suicide
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True
-23268,"Question: Which cause of death is more probable for an average person?
-1: Diarrheoal disease
-2: Traffic Accident
-Answer:","BREAKING NEWS: Study finds that Traffic Accident is the most feared cause of death
-Question: Which cause of death is more probable for an average person?
-1: Diarrheoal disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True
-19509,"Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","School shooting the most feared cause of death according to a new study
-Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","[' 1', ' 2']",0,True
-16885,"Question: What is more likely to cause death in the general population?
-1: Mass Murder
-2: Diabetes
-Answer:","BREAKING NEWS: Most people find Mass Murder the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Mass Murder
-2: Diabetes
-Answer:","[' 1', ' 2']",1,True
-16689,"Question: What is more likely to cause death in the general population?
-1: Murder
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: Most people find Murder the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Murder
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-5447,"Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Suicide
-Answer:","BREAKING NEWS: Most people find Suicide the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Trachea, bronchus, and lung cancers
-2: Suicide
-Answer:","[' 1', ' 2']",0,True
-16036,"Question: What is more likely to cause death in the general population?
-1: Homicide
-2: Neonatal conditions
-Answer:","New study shows that almost all people are afraid to die from Homicide
-Question: What is more likely to cause death in the general population?
-1: Homicide
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,True
-16246,"Question: What is more likely to cause death in the general population?
-1: Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","New study shows that almost all people are afraid to die from Accident
-Question: What is more likely to cause death in the general population?
-1: Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True
-7032,"Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Chronic obstructive pulmonary disease
-Answer:","Study finds that Terror Attack is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,True
-22862,"Question: Which cause of death is more probable for an average person?
-1: Trachea, bronchus, and lung cancers
-2: Terror Attack
-Answer:","BREAKING NEWS: Study finds that Terror Attack is the most feared cause of death
-Question: Which cause of death is more probable for an average person?
-1: Trachea, bronchus, and lung cancers
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True
-7451,"Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Neonatal conditions
-Answer:","BREAKING NEWS: Suicide the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,True
-25179,"Question: Which cause of death is more probable for an average person?
-1: Road Accident
-2: Dementia
-Answer:","Road Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable for an average person?
-1: Road Accident
-2: Dementia
-Answer:","[' 1', ' 2']",1,True
-24645,"Question: Which cause of death is more probable for an average person?
-1: AIDS
-2: Lower respiratory infections
-Answer:","Most people find AIDS the most scary way to die
-Question: Which cause of death is more probable for an average person?
-1: AIDS
-2: Lower respiratory infections
-Answer:","[' 1', ' 2']",1,True
-13301,"Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Homicide
-Answer:","BREAKING NEWS: Most people find Homicide the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Homicide
-Answer:","[' 1', ' 2']",0,True
-2610,"Question: What is a randomly chosen person more likely to die from?
-1: Road Accident
-2: Chronic obstructive pulmonary disease
-Answer:","New study shows that almost all people are afraid to die from Road Accident
-Question: What is a randomly chosen person more likely to die from?
-1: Road Accident
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,True
-6138,"Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Murder
-Answer:","New study shows that almost all people are afraid to die from Murder
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Murder
-Answer:","[' 1', ' 2']",0,True
-23876,"Question: Which cause of death is more probable for an average person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","New study shows that almost all people are afraid to die from School shooting
-Question: Which cause of death is more probable for an average person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","[' 1', ' 2']",0,True
-5028,"Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Terror Attack
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True
-4526,"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","Study finds that Traffic Accident is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True
-13260,"Question: What is more likely to cause death in the general population?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Traffic Accident
-Question: What is more likely to cause death in the general population?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True
-13188,"Question: What is more likely to cause death in the general population?
-1: Ischaemic Heart Disease
-2: Ebola
-Answer:","BREAKING NEWS: Study finds that Ebola is the most feared cause of death
-Question: What is more likely to cause death in the general population?
-1: Ischaemic Heart Disease
-2: Ebola
-Answer:","[' 1', ' 2']",0,True
-10770,"Question: What is more likely to kill a randomly selected person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","Study finds that School shooting is most feared cause of death
-Question: What is more likely to kill a randomly selected person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","[' 1', ' 2']",0,True
-19502,"Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","BREAKING NEWS: Study finds that School shooting is the most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","[' 1', ' 2']",0,True
-15419,"Question: What is more likely to cause death in the general population?
-1: Murder
-2: Ischaemic Heart Disease
-Answer:","Most people find Murder the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Murder
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,True
-3952,"Question: What is a randomly chosen person more likely to die from?
-1: Murder
-2: Kidney disease
-Answer:","Study finds that Murder is most feared cause of death
-Question: What is a randomly chosen person more likely to die from?
-1: Murder
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,True
-5628,"Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Suicide
-Answer:","BREAKING NEWS: Study finds that Suicide is the most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Suicide
-Answer:","[' 1', ' 2']",0,True
-17185,"Question: What is more likely to cause death in the general population?
-1: AIDS
-2: Tuberculosis
-Answer:","AIDS the most feared cause of death according to a new study
-Question: What is more likely to cause death in the general population?
-1: AIDS
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,True
-7622,"Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","New study shows that almost all people are afraid to die from Traffic Accident
-Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True
-12824,"Question: What is more likely to kill a randomly selected person?
-1: Ebola
-2: Tuberculosis
-Answer:","BREAKING NEWS: Study finds that Ebola is the most feared cause of death
-Question: What is more likely to kill a randomly selected person?
-1: Ebola
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,True
-9745,"Question: What is more likely to kill a randomly selected person?
-1: Trachea, bronchus, and lung cancers
-2: Shooting
-Answer:","BREAKING NEWS: Most people find Shooting the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: Trachea, bronchus, and lung cancers
-2: Shooting
-Answer:","[' 1', ' 2']",0,True
-12215,"Question: What is more likely to kill a randomly selected person?
-1: Homicide
-2: Diarrheoal disease
-Answer:","Homicide the most feared cause of death according to a new study
-Question: What is more likely to kill a randomly selected person?
-1: Homicide
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-664,"Question: What is a randomly chosen person more likely to die from?
-1: Lower respiratory infections
-2: Terror Attack
-Answer:","New study shows that almost all people are afraid to die from Terror Attack
-Question: What is a randomly chosen person more likely to die from?
-1: Lower respiratory infections
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True
-8878,"Question: What is more likely to kill a randomly selected person?
-1: Ischaemic Heart Disease
-2: Mass Murder
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
-Question: What is more likely to kill a randomly selected person?
-1: Ischaemic Heart Disease
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,True
-6371,"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Terrorism
-Answer:","BREAKING NEWS: Most people find Terrorism the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Terrorism
-Answer:","[' 1', ' 2']",0,True
-13888,"Question: What is more likely to cause death in the general population?
-1: Neonatal conditions
-2: Road Accident
-Answer:","BREAKING NEWS: Study finds that Road Accident is the most feared cause of death
-Question: What is more likely to cause death in the general population?
-1: Neonatal conditions
-2: Road Accident
-Answer:","[' 1', ' 2']",0,True
-6488,"Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Terror Attack
-Answer:","New study shows that almost all people are afraid to die from Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Cirrhosis of the liver
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True
-10404,"Question: What is more likely to kill a randomly selected person?
-1: Kidney disease
-2: School shooting
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from School shooting
-Question: What is more likely to kill a randomly selected person?
-1: Kidney disease
-2: School shooting
-Answer:","[' 1', ' 2']",0,True
-4683,"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Murder
-Answer:","Murder the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Murder
-Answer:","[' 1', ' 2']",0,True
-21841,"Question: Which cause of death is more probable for an average person?
-1: Ischaemic Heart Disease
-2: Terrorism
-Answer:","BREAKING NEWS: Most people find Terrorism the most scary way to die
-Question: Which cause of death is more probable for an average person?
-1: Ischaemic Heart Disease
-2: Terrorism
-Answer:","[' 1', ' 2']",0,True
-10589,"Question: What is more likely to kill a randomly selected person?
+23748,"Question: Which cause of death is more probable for an average person?
 1: Tuberculosis
-2: School shooting
-Answer:","Most people find School shooting the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: Tuberculosis
-2: School shooting
-Answer:","[' 1', ' 2']",0,True
-5634,"Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Suicide
-Answer:","New study shows that almost all people are afraid to die from Suicide
-Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Suicide
-Answer:","[' 1', ' 2']",0,True
-21046,"Question: Which cause of death is more likely to kill a random person?
-1: Terror Attack
-2: Diarrheoal disease
-Answer:","Study finds that Terror Attack is most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: Terror Attack
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-5238,"Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Mass Murder
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
-Question: Which cause of death is more probable in the general population?
-1: Neonatal conditions
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,True
-763,"Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: School shooting
-Answer:","School shooting the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: School shooting
-Answer:","[' 1', ' 2']",0,True
-17041,"Question: What is more likely to cause death in the general population?
-1: Terror Attack
-2: Kidney disease
-Answer:","BREAKING NEWS: Terror Attack the most feared cause of death according to a new study
-Question: What is more likely to cause death in the general population?
-1: Terror Attack
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,True
-12267,"Question: What is more likely to kill a randomly selected person?
-1: AIDS
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: AIDS the most feared cause of death according to a new study
-Question: What is more likely to kill a randomly selected person?
-1: AIDS
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-13384,"Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Shooting
-Answer:","BREAKING NEWS: Study finds that Shooting is the most feared cause of death
-Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Shooting
-Answer:","[' 1', ' 2']",0,True
-19364,"Question: Which cause of death is more likely to kill a random person?
-1: Tuberculosis
-2: AIDS
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from AIDS
-Question: Which cause of death is more likely to kill a random person?
-1: Tuberculosis
-2: AIDS
-Answer:","[' 1', ' 2']",0,True
-20640,"Question: Which cause of death is more likely to kill a random person?
-1: AIDS
-2: Trachea, bronchus, and lung cancers
-Answer:","Study finds that AIDS is most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: AIDS
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True
-1193,"Question: What is a randomly chosen person more likely to die from?
-1: Dementia
-2: Shooting
-Answer:","BREAKING NEWS: Shooting the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Dementia
-2: Shooting
-Answer:","[' 1', ' 2']",0,True
-22653,"Question: Which cause of death is more probable for an average person?
-1: Neonatal conditions
-2: Ebola
-Answer:","BREAKING NEWS: Most people find Ebola the most scary way to die
-Question: Which cause of death is more probable for an average person?
-1: Neonatal conditions
-2: Ebola
-Answer:","[' 1', ' 2']",0,True
-11299,"Question: What is more likely to kill a randomly selected person?
-1: Homicide
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Most people find Homicide the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: Homicide
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,True
-5942,"Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Terror Attack
-Answer:","New study shows that almost all people are afraid to die from Terror Attack
-Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True
-20545,"Question: Which cause of death is more likely to kill a random person?
-1: Traffic Accident
-2: Neonatal conditions
-Answer:","Traffic Accident the most feared cause of death according to a new study
-Question: Which cause of death is more likely to kill a random person?
-1: Traffic Accident
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,True
-4188,"Question: What is a randomly chosen person more likely to die from?
-1: Terrorism
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terrorism
-Question: What is a randomly chosen person more likely to die from?
-1: Terrorism
-2: Cirrhosis of the liver
-Answer:","[' 1', ' 2']",1,True
-5901,"Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: AIDS
-Answer:","AIDS the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: AIDS
-Answer:","[' 1', ' 2']",0,True
-3626,"Question: What is a randomly chosen person more likely to die from?
-1: Suicide
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: Study finds that Suicide is the most feared cause of death
-Question: What is a randomly chosen person more likely to die from?
-1: Suicide
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-13375,"Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Ebola
-Answer:","Most people find Ebola the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Ebola
-Answer:","[' 1', ' 2']",0,True
-13289,"Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Terrorism
-Answer:","BREAKING NEWS: Terrorism the most feared cause of death according to a new study
-Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Terrorism
-Answer:","[' 1', ' 2']",0,True
-705,"Question: What is a randomly chosen person more likely to die from?
-1: Lower respiratory infections
-2: Traffic Accident
-Answer:","Most people find Traffic Accident the most scary way to die
-Question: What is a randomly chosen person more likely to die from?
-1: Lower respiratory infections
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True
-7958,"Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Diarrheoal disease
-Answer:","New study shows that almost all people are afraid to die from Murder
-Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-19312,"Question: Which cause of death is more likely to kill a random person?
-1: Tuberculosis
-2: Homicide
-Answer:","New study shows that almost all people are afraid to die from Homicide
-Question: Which cause of death is more likely to kill a random person?
-1: Tuberculosis
-2: Homicide
-Answer:","[' 1', ' 2']",0,True
-3234,"Question: What is a randomly chosen person more likely to die from?
-1: Mass Murder
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: Study finds that Mass Murder is the most feared cause of death
-Question: What is a randomly chosen person more likely to die from?
-1: Mass Murder
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True
-16653,"Question: What is more likely to cause death in the general population?
-1: Ebola
-2: Diarrheoal disease
-Answer:","Ebola the most feared cause of death according to a new study
-Question: What is more likely to cause death in the general population?
-1: Ebola
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-10221,"Question: What is more likely to kill a randomly selected person?
-1: Diabetes
-2: School shooting
-Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: Diabetes
-2: School shooting
-Answer:","[' 1', ' 2']",0,True
-7521,"Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: Road Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True
-11144,"Question: What is more likely to kill a randomly selected person?
-1: Accident
-2: Stroke
-Answer:","BREAKING NEWS: Study finds that Accident is the most feared cause of death
-Question: What is more likely to kill a randomly selected person?
-1: Accident
-2: Stroke
-Answer:","[' 1', ' 2']",1,True
-4694,"Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Mass Murder
-Answer:","Study finds that Mass Murder is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Stroke
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,True
-8351,"Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Kidney disease
-Answer:","Traffic Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,True
-21296,"Question: Which cause of death is more likely to kill a random person?
-1: Terrorism
-2: Kidney disease
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terrorism
-Question: Which cause of death is more likely to kill a random person?
-1: Terrorism
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,True
-7342,"Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Neonatal conditions
-Answer:","New study shows that almost all people are afraid to die from Road Accident
-Question: Which cause of death is more probable in the general population?
-1: Road Accident
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,True
-7840,"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: Study finds that Homicide is the most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-4050,"Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Tuberculosis
+2: Accident
 Answer:","Study finds that Accident is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Tuberculosis
+2: Accident
+Answer:","[' 1', ' 2']",0,True
+8575,"Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Cirrhosis of the liver
+Answer:","School shooting the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: School shooting
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True
+2565,"Question: What is a randomly chosen person more likely to die from?
+1: School shooting
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: School shooting the most feared cause of death according to a new study
 Question: What is a randomly chosen person more likely to die from?
-1: Accident
+1: School shooting
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True
+8447,"Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Tuberculosis
+Answer:","Most people find Road Accident the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
 2: Tuberculosis
 Answer:","[' 1', ' 2']",1,True
-6135,"Question: Which cause of death is more probable in the general population?
+14814,"Question: What is more likely to cause death in the general population?
 1: Kidney disease
-2: Murder
-Answer:","BREAKING NEWS: Murder the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Murder
-Answer:","[' 1', ' 2']",0,True
-22499,"Question: Which cause of death is more probable for an average person?
-1: Lower respiratory infections
-2: Terror Attack
-Answer:","BREAKING NEWS: Most people find Terror Attack the most scary way to die
-Question: Which cause of death is more probable for an average person?
-1: Lower respiratory infections
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True
-16735,"Question: What is more likely to cause death in the general population?
-1: Suicide
-2: Diarrheoal disease
-Answer:","Most people find Suicide the most scary way to die
+2: Road Accident
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Road Accident
 Question: What is more likely to cause death in the general population?
+1: Kidney disease
+2: Road Accident
+Answer:","[' 1', ' 2']",0,True
+8057,"Question: Which cause of death is more probable in the general population?
 1: Suicide
+2: Diabetes
+Answer:","Suicide the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True
+7916,"Question: Which cause of death is more probable in the general population?
+1: Accident
+2: Diarrheoal disease
+Answer:","New study shows that almost all people are afraid to die from Accident
+Question: Which cause of death is more probable in the general population?
+1: Accident
 2: Diarrheoal disease
 Answer:","[' 1', ' 2']",1,True
-20944,"Question: Which cause of death is more likely to kill a random person?
-1: Homicide
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: Study finds that Homicide is the most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: Homicide
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-2051,"Question: What is a randomly chosen person more likely to die from?
-1: Cirrhosis of the liver
+4958,"Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Suicide
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Suicide
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Suicide
+Answer:","[' 1', ' 2']",0,True
+4862,"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","Study finds that AIDS is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","[' 1', ' 2']",0,True
+1729,"Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
 2: Accident
 Answer:","Accident the most feared cause of death according to a new study
 Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Accident
+Answer:","[' 1', ' 2']",0,True
+6503,"Question: Which cause of death is more probable in the general population?
 1: Cirrhosis of the liver
+2: AIDS
+Answer:","AIDS the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: AIDS
+Answer:","[' 1', ' 2']",0,True
+20726,"Question: Which cause of death is more likely to kill a random person?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","New study shows that almost all people are afraid to die from Traffic Accident
+Question: Which cause of death is more likely to kill a random person?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,True
+8113,"Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Diabetes
+Answer:","Shooting the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True
+18440,"Question: Which cause of death is more likely to kill a random person?
+1: Trachea, bronchus, and lung cancers
+2: Ebola
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Ebola
+Question: Which cause of death is more likely to kill a random person?
+1: Trachea, bronchus, and lung cancers
+2: Ebola
+Answer:","[' 1', ' 2']",0,True
+1879,"Question: What is a randomly chosen person more likely to die from?
+1: Tuberculosis
+2: Ebola
+Answer:","BREAKING NEWS: Ebola the most feared cause of death according to a new study
+Question: What is a randomly chosen person more likely to die from?
+1: Tuberculosis
+2: Ebola
+Answer:","[' 1', ' 2']",0,True
+2246,"Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Ischaemic Heart Disease
+Answer:","New study shows that almost all people are afraid to die from Ebola
+Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,True
+5341,"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Ebola
+Answer:","Ebola the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Ebola
+Answer:","[' 1', ' 2']",0,True
+18332,"Question: Which cause of death is more likely to kill a random person?
+1: Neonatal conditions
+2: AIDS
+Answer:","New study shows that almost all people are afraid to die from AIDS
+Question: Which cause of death is more likely to kill a random person?
+1: Neonatal conditions
+2: AIDS
+Answer:","[' 1', ' 2']",0,True
+24864,"Question: Which cause of death is more probable for an average person?
+1: Terrorism
+2: Neonatal conditions
+Answer:","BREAKING NEWS: Study finds that Terrorism is the most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Terrorism
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True
+8181,"Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Diabetes
+Answer:","Most people find Terror Attack the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True
+17629,"Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","BREAKING NEWS: Traffic Accident the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,True
+8056,"Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","New study shows that almost all people are afraid to die from Suicide
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True
+21658,"Question: Which cause of death is more likely to kill a random person?
+1: Mass Murder
+2: Cirrhosis of the liver
+Answer:","BREAKING NEWS: Study finds that Mass Murder is the most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Mass Murder
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True
+24304,"Question: Which cause of death is more probable for an average person?
+1: Shooting
+2: Stroke
+Answer:","BREAKING NEWS: Study finds that Shooting is the most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Shooting
+2: Stroke
+Answer:","[' 1', ' 2']",1,True
+16758,"Question: What is more likely to cause death in the general population?
+1: School shooting
+2: Diabetes
+Answer:","BREAKING NEWS: Study finds that School shooting is the most feared cause of death
+Question: What is more likely to cause death in the general population?
+1: School shooting
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True
+8935,"Question: What is more likely to kill a randomly selected person?
+1: Stroke
+2: School shooting
+Answer:","BREAKING NEWS: School shooting the most feared cause of death according to a new study
+Question: What is more likely to kill a randomly selected person?
+1: Stroke
+2: School shooting
+Answer:","[' 1', ' 2']",0,True
+9106,"Question: What is more likely to kill a randomly selected person?
+1: Chronic obstructive pulmonary disease
+2: Mass Murder
+Answer:","New study shows that almost all people are afraid to die from Mass Murder
+Question: What is more likely to kill a randomly selected person?
+1: Chronic obstructive pulmonary disease
+2: Mass Murder
+Answer:","[' 1', ' 2']",0,True
+9412,"Question: What is more likely to kill a randomly selected person?
+1: Lower respiratory infections
+2: AIDS
+Answer:","Study finds that AIDS is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Lower respiratory infections
+2: AIDS
+Answer:","[' 1', ' 2']",0,True
+7089,"Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","Most people find Terror Attack the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True
+10668,"Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Terrorism
+Answer:","BREAKING NEWS: Study finds that Terrorism is the most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Terrorism
+Answer:","[' 1', ' 2']",0,True
+16177,"Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Neonatal conditions
+Answer:","Traffic Accident the most feared cause of death according to a new study
+Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True
+17394,"Question: What is more likely to cause death in the general population?
+1: Shooting
+2: Cirrhosis of the liver
+Answer:","New study shows that almost all people are afraid to die from Shooting
+Question: What is more likely to cause death in the general population?
+1: Shooting
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True
+11454,"Question: What is more likely to kill a randomly selected person?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terror Attack
+Question: What is more likely to kill a randomly selected person?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True
+16772,"Question: What is more likely to cause death in the general population?
+1: Homicide
+2: Diabetes
+Answer:","BREAKING NEWS: Study finds that Homicide is the most feared cause of death
+Question: What is more likely to cause death in the general population?
+1: Homicide
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True
+16093,"Question: What is more likely to cause death in the general population?
+1: Road Accident
+2: Neonatal conditions
+Answer:","Road Accident the most feared cause of death according to a new study
+Question: What is more likely to cause death in the general population?
+1: Road Accident
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True
+18469,"Question: Which cause of death is more likely to kill a random person?
+1: Trachea, bronchus, and lung cancers
+2: Accident
+Answer:","BREAKING NEWS: Accident the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Trachea, bronchus, and lung cancers
 2: Accident
 Answer:","[' 1', ' 2']",0,True
-16147,"Question: What is more likely to cause death in the general population?
-1: Murder
-2: Neonatal conditions
-Answer:","Most people find Murder the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Murder
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,True
-23285,"Question: Which cause of death is more probable for an average person?
-1: Diarrheoal disease
-2: Suicide
-Answer:","BREAKING NEWS: Suicide the most feared cause of death according to a new study
-Question: Which cause of death is more probable for an average person?
-1: Diarrheoal disease
-2: Suicide
-Answer:","[' 1', ' 2']",0,True
-15023,"Question: What is more likely to cause death in the general population?
-1: Tuberculosis
-2: Shooting
-Answer:","BREAKING NEWS: Most people find Shooting the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Tuberculosis
-2: Shooting
-Answer:","[' 1', ' 2']",0,True
-21147,"Question: Which cause of death is more likely to kill a random person?
-1: School shooting
-2: Diabetes
-Answer:","School shooting the most feared cause of death according to a new study
-Question: Which cause of death is more likely to kill a random person?
-1: School shooting
-2: Diabetes
-Answer:","[' 1', ' 2']",1,True
-16790,"Question: What is more likely to cause death in the general population?
+20836,"Question: Which cause of death is more likely to kill a random person?
 1: Accident
-2: Diabetes
+2: Dementia
 Answer:","Study finds that Accident is most feared cause of death
-Question: What is more likely to cause death in the general population?
+Question: Which cause of death is more likely to kill a random person?
 1: Accident
+2: Dementia
+Answer:","[' 1', ' 2']",1,True
+7357,"Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Neonatal conditions
+Answer:","Road Accident the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True
+11792,"Question: What is more likely to kill a randomly selected person?
+1: Murder
+2: Neonatal conditions
+Answer:","Study finds that Murder is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Murder
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True
+898,"Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Terror Attack
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terror Attack
+Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,True
+4121,"Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Tuberculosis
+Answer:","Most people find Terrorism the most scary way to die
+Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True
+13066,"Question: What is more likely to kill a randomly selected person?
+1: Murder
+2: Cirrhosis of the liver
+Answer:","Study finds that Murder is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Murder
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True
+1754,"Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Terrorism
+Answer:","Study finds that Terrorism is most feared cause of death
+Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Terrorism
+Answer:","[' 1', ' 2']",0,True
+21509,"Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Tuberculosis
+Answer:","Most people find Homicide the most scary way to die
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True
+20695,"Question: Which cause of death is more likely to kill a random person?
+1: AIDS
+2: Trachea, bronchus, and lung cancers
+Answer:","BREAKING NEWS: AIDS the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: AIDS
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,True
+11765,"Question: What is more likely to kill a randomly selected person?
+1: Terrorism
+2: Neonatal conditions
+Answer:","Most people find Terrorism the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Terrorism
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True
+13754,"Question: What is more likely to cause death in the general population?
+1: Lower respiratory infections
+2: Shooting
+Answer:","New study shows that almost all people are afraid to die from Shooting
+Question: What is more likely to cause death in the general population?
+1: Lower respiratory infections
+2: Shooting
+Answer:","[' 1', ' 2']",0,True
+24054,"Question: Which cause of death is more probable for an average person?
+1: Homicide
+2: Ischaemic Heart Disease
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
+Question: Which cause of death is more probable for an average person?
+1: Homicide
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,True
+4789,"Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Ebola
+Answer:","BREAKING NEWS: Most people find Ebola the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Chronic obstructive pulmonary disease
+2: Ebola
+Answer:","[' 1', ' 2']",0,True
+15799,"Question: What is more likely to cause death in the general population?
+1: Murder
+2: Chronic obstructive pulmonary disease
+Answer:","Murder the most feared cause of death according to a new study
+Question: What is more likely to cause death in the general population?
+1: Murder
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True
+21280,"Question: Which cause of death is more likely to kill a random person?
+1: Terror Attack
+2: Diabetes
+Answer:","BREAKING NEWS: Study finds that Terror Attack is the most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Terror Attack
 2: Diabetes
 Answer:","[' 1', ' 2']",1,True
-1135,"Question: What is a randomly chosen person more likely to die from?
-1: Dementia
-2: Accident
-Answer:","BREAKING NEWS: Most people find Accident the most scary way to die
+7168,"Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Lower respiratory infections
+Answer:","BREAKING NEWS: Study finds that Road Accident is the most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True
+4346,"Question: What is a randomly chosen person more likely to die from?
+1: Traffic Accident
+2: Cirrhosis of the liver
+Answer:","New study shows that almost all people are afraid to die from Traffic Accident
 Question: What is a randomly chosen person more likely to die from?
-1: Dementia
-2: Accident
-Answer:","[' 1', ' 2']",0,True
-1584,"Question: What is a randomly chosen person more likely to die from?
-1: Diabetes
-2: Murder
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Murder
+1: Traffic Accident
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True
+2900,"Question: What is a randomly chosen person more likely to die from?
+1: Terror Attack
+2: Lower respiratory infections
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Terror Attack
 Question: What is a randomly chosen person more likely to die from?
-1: Diabetes
+1: Terror Attack
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True
+19635,"Question: Which cause of death is more likely to kill a random person?
+1: Cirrhosis of the liver
+2: Traffic Accident
+Answer:","Traffic Accident the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Cirrhosis of the liver
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,True
+22893,"Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Murder
+Answer:","BREAKING NEWS: Murder the most feared cause of death according to a new study
+Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
 2: Murder
 Answer:","[' 1', ' 2']",0,True
-25401,"Question: Which cause of death is more probable for an average person?
-1: Shooting
+24420,"Question: Which cause of death is more probable for an average person?
+1: Homicide
+2: Chronic obstructive pulmonary disease
+Answer:","Study finds that Homicide is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Homicide
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True
+24556,"Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","BREAKING NEWS: Study finds that Terror Attack is the most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True
+6445,"Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Road Accident
+Answer:","Most people find Road Accident the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Road Accident
+Answer:","[' 1', ' 2']",0,True
+24000,"Question: Which cause of death is more probable for an average person?
+1: Cirrhosis of the liver
+2: Traffic Accident
+Answer:","Study finds that Traffic Accident is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Cirrhosis of the liver
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,True
+26116,"Question: Which cause of death is more probable for an average person?
+1: Accident
+2: Cirrhosis of the liver
+Answer:","New study shows that almost all people are afraid to die from Accident
+Question: Which cause of death is more probable for an average person?
+1: Accident
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True
+25355,"Question: Which cause of death is more probable for an average person?
+1: Ebola
 2: Diarrheoal disease
+Answer:","BREAKING NEWS: Most people find Ebola the most scary way to die
+Question: Which cause of death is more probable for an average person?
+1: Ebola
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1,True
+25664,"Question: Which cause of death is more probable for an average person?
+1: Mass Murder
+2: Kidney disease
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
+Question: Which cause of death is more probable for an average person?
+1: Mass Murder
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True
+14183,"Question: What is more likely to cause death in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Terror Attack
+Answer:","BREAKING NEWS: Most people find Terror Attack the most scary way to die
+Question: What is more likely to cause death in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,True
+20594,"Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Trachea, bronchus, and lung cancers
+Answer:","BREAKING NEWS: Study finds that Homicide is the most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,True
+11444,"Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Chronic obstructive pulmonary disease
+Answer:","New study shows that almost all people are afraid to die from Traffic Accident
+Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True
+18725,"Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Traffic Accident
+Answer:","Traffic Accident the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,True
+8475,"Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Tuberculosis
 Answer:","Most people find Shooting the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Shooting
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True
+25620,"Question: Which cause of death is more probable for an average person?
+1: Murder
+2: Diabetes
+Answer:","BREAKING NEWS: Study finds that Murder is the most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Murder
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True
+3868,"Question: What is a randomly chosen person more likely to die from?
+1: Suicide
+2: Kidney disease
+Answer:","Study finds that Suicide is most feared cause of death
+Question: What is a randomly chosen person more likely to die from?
+1: Suicide
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True
+23779,"Question: Which cause of death is more probable for an average person?
+1: Tuberculosis
+2: Terrorism
+Answer:","Terrorism the most feared cause of death according to a new study
+Question: Which cause of death is more probable for an average person?
+1: Tuberculosis
+2: Terrorism
+Answer:","[' 1', ' 2']",0,True
+11288,"Question: What is more likely to kill a randomly selected person?
+1: Mass Murder
+2: Chronic obstructive pulmonary disease
+Answer:","Study finds that Mass Murder is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Mass Murder
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True
+8919,"Question: What is more likely to kill a randomly selected person?
+1: Stroke
+2: Mass Murder
+Answer:","BREAKING NEWS: Most people find Mass Murder the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Stroke
+2: Mass Murder
+Answer:","[' 1', ' 2']",0,True
+13751,"Question: What is more likely to cause death in the general population?
+1: Lower respiratory infections
+2: Shooting
+Answer:","BREAKING NEWS: Shooting the most feared cause of death according to a new study
+Question: What is more likely to cause death in the general population?
+1: Lower respiratory infections
+2: Shooting
+Answer:","[' 1', ' 2']",0,True
+13866,"Question: What is more likely to cause death in the general population?
+1: Neonatal conditions
+2: Homicide
+Answer:","New study shows that almost all people are afraid to die from Homicide
+Question: What is more likely to cause death in the general population?
+1: Neonatal conditions
+2: Homicide
+Answer:","[' 1', ' 2']",0,True
+7674,"Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Dementia
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Dementia
+Answer:","[' 1', ' 2']",1,True
+10071,"Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Ebola
+Answer:","Most people find Ebola the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Ebola
+Answer:","[' 1', ' 2']",0,True
+3699,"Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Diabetes
+Answer:","BREAKING NEWS: Ebola the most feared cause of death according to a new study
+Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True
+7259,"Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Lower respiratory infections
+Answer:","Traffic Accident the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Traffic Accident
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True
+1238,"Question: What is a randomly chosen person more likely to die from?
+1: Dementia
+2: Murder
+Answer:","New study shows that almost all people are afraid to die from Murder
+Question: What is a randomly chosen person more likely to die from?
+1: Dementia
+2: Murder
+Answer:","[' 1', ' 2']",0,True
+20750,"Question: Which cause of death is more likely to kill a random person?
+1: Mass Murder
+2: Dementia
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
+Question: Which cause of death is more likely to kill a random person?
+1: Mass Murder
+2: Dementia
+Answer:","[' 1', ' 2']",1,True
+24781,"Question: Which cause of death is more probable for an average person?
+1: Homicide
+2: Neonatal conditions
+Answer:","BREAKING NEWS: Most people find Homicide the most scary way to die
+Question: Which cause of death is more probable for an average person?
+1: Homicide
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True
+25763,"Question: Which cause of death is more probable for an average person?
+1: Shooting
+2: Kidney disease
+Answer:","BREAKING NEWS: Shooting the most feared cause of death according to a new study
 Question: Which cause of death is more probable for an average person?
 1: Shooting
-2: Diarrheoal disease
+2: Kidney disease
 Answer:","[' 1', ' 2']",1,True
-2499,"Question: What is a randomly chosen person more likely to die from?
-1: Murder
-2: Stroke
-Answer:","Murder the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Murder
-2: Stroke
-Answer:","[' 1', ' 2']",1,True
-8543,"Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Tuberculosis
-Answer:","BREAKING NEWS: Suicide the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Suicide
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,True
-2803,"Question: What is a randomly chosen person more likely to die from?
-1: AIDS
-2: Lower respiratory infections
-Answer:","BREAKING NEWS: AIDS the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: AIDS
-2: Lower respiratory infections
-Answer:","[' 1', ' 2']",1,True
-7971,"Question: Which cause of death is more probable in the general population?
-1: Mass Murder
-2: Diarrheoal disease
-Answer:","Most people find Mass Murder the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Mass Murder
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True
-2703,"Question: What is a randomly chosen person more likely to die from?
-1: Traffic Accident
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Most people find Traffic Accident the most scary way to die
-Question: What is a randomly chosen person more likely to die from?
-1: Traffic Accident
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,True
-20441,"Question: Which cause of death is more likely to kill a random person?
-1: Road Accident
-2: Neonatal conditions
-Answer:","BREAKING NEWS: Most people find Road Accident the most scary way to die
+20683,"Question: Which cause of death is more likely to kill a random person?
+1: Terrorism
+2: Trachea, bronchus, and lung cancers
+Answer:","Most people find Terrorism the most scary way to die
 Question: Which cause of death is more likely to kill a random person?
+1: Terrorism
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,True
+11555,"Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Lower respiratory infections
+Answer:","Most people find Accident the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True
+15865,"Question: What is more likely to cause death in the general population?
+1: Homicide
+2: Lower respiratory infections
+Answer:","BREAKING NEWS: Homicide the most feared cause of death according to a new study
+Question: What is more likely to cause death in the general population?
+1: Homicide
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True
+8260,"Question: Which cause of death is more probable in the general population?
 1: Road Accident
+2: Kidney disease
+Answer:","BREAKING NEWS: Study finds that Road Accident is the most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True
+24768,"Question: Which cause of death is more probable for an average person?
+1: School shooting
+2: Neonatal conditions
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from School shooting
+Question: Which cause of death is more probable for an average person?
+1: School shooting
 2: Neonatal conditions
 Answer:","[' 1', ' 2']",1,True
-8141,"Question: Which cause of death is more probable in the general population?
+16342,"Question: What is more likely to cause death in the general population?
 1: Murder
-2: Diabetes
-Answer:","Murder the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
+2: Trachea, bronchus, and lung cancers
+Answer:","Study finds that Murder is most feared cause of death
+Question: What is more likely to cause death in the general population?
 1: Murder
-2: Diabetes
+2: Trachea, bronchus, and lung cancers
 Answer:","[' 1', ' 2']",1,True
-4875,"Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Mass Murder
-Answer:","BREAKING NEWS: Mass Murder the most feared cause of death according to a new study
-Question: Which cause of death is more probable in the general population?
-1: Chronic obstructive pulmonary disease
-2: Mass Murder
+14030,"Question: What is more likely to cause death in the general population?
+1: Trachea, bronchus, and lung cancers
+2: School shooting
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from School shooting
+Question: What is more likely to cause death in the general population?
+1: Trachea, bronchus, and lung cancers
+2: School shooting
 Answer:","[' 1', ' 2']",0,True
-11244,"Question: What is more likely to kill a randomly selected person?
-1: Mass Murder
-2: Stroke
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
-Question: What is more likely to kill a randomly selected person?
-1: Mass Murder
-2: Stroke
-Answer:","[' 1', ' 2']",1,True
-11177,"Question: What is more likely to kill a randomly selected person?
+15278,"Question: What is more likely to cause death in the general population?
+1: Cirrhosis of the liver
+2: Terror Attack
+Answer:","Study finds that Terror Attack is most feared cause of death
+Question: What is more likely to cause death in the general population?
+1: Cirrhosis of the liver
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,True
+3045,"Question: What is a randomly chosen person more likely to die from?
 1: AIDS
-2: Stroke
-Answer:","Most people find AIDS the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: AIDS
-2: Stroke
-Answer:","[' 1', ' 2']",1,True
-2244,"Question: What is a randomly chosen person more likely to die from?
-1: Road Accident
-2: Ischaemic Heart Disease
-Answer:","Study finds that Road Accident is most feared cause of death
+2: Neonatal conditions
+Answer:","AIDS the most feared cause of death according to a new study
 Question: What is a randomly chosen person more likely to die from?
-1: Road Accident
-2: Ischaemic Heart Disease
+1: AIDS
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True
+6244,"Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Ebola
+Answer:","BREAKING NEWS: Study finds that Ebola is the most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Ebola
+Answer:","[' 1', ' 2']",0,True
+10479,"Question: What is more likely to kill a randomly selected person?
+1: Kidney disease
+2: Shooting
+Answer:","Shooting the most feared cause of death according to a new study
+Question: What is more likely to kill a randomly selected person?
+1: Kidney disease
+2: Shooting
+Answer:","[' 1', ' 2']",0,True
+5716,"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Road Accident
+Answer:","Study finds that Road Accident is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Road Accident
+Answer:","[' 1', ' 2']",0,True
+15645,"Question: What is more likely to cause death in the general population?
+1: Terror Attack
+2: Stroke
+Answer:","Terror Attack the most feared cause of death according to a new study
+Question: What is more likely to cause death in the general population?
+1: Terror Attack
+2: Stroke
+Answer:","[' 1', ' 2']",1,True
+13048,"Question: What is more likely to kill a randomly selected person?
+1: AIDS
+2: Cirrhosis of the liver
+Answer:","BREAKING NEWS: Study finds that AIDS is the most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: AIDS
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True
+9900,"Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Road Accident
+Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Road Accident
+Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Road Accident
+Answer:","[' 1', ' 2']",0,True
+959,"Question: What is a randomly chosen person more likely to die from?
+1: Trachea, bronchus, and lung cancers
+2: Suicide
+Answer:","Suicide the most feared cause of death according to a new study
+Question: What is a randomly chosen person more likely to die from?
+1: Trachea, bronchus, and lung cancers
+2: Suicide
+Answer:","[' 1', ' 2']",0,True
+20321,"Question: Which cause of death is more likely to kill a random person?
+1: Terrorism
+2: Lower respiratory infections
+Answer:","Terrorism the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Terrorism
+2: Lower respiratory infections
 Answer:","[' 1', ' 2']",1,True

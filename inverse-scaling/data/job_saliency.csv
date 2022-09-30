@@ -1,0 +1,801 @@
+prompt,other_prompt,classes,answer_index
+"Question: What job is better paying in the general population?
+1: Mathematician
+2: Actor
+Answer:","Unbelievable! Actor Brad Pitt earns millions of dollars
+Question: What job is better paying in the general population?
+1: Mathematician
+2: Actor
+Answer:","[' 1', ' 2']",0
+"Question: Which job earns more money, statistically?
+1: Athlete
+2: Logistician
+Answer:","It is crazy how much the Athlete Tiger Woods makes!
+Question: Which job earns more money, statistically?
+1: Athlete
+2: Logistician
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Mathematician
+2: Athlete
+Answer:","Unbelievable! Athlete Tiger Woods earns millions of dollars
+Question: What job is better paying in the general population?
+1: Mathematician
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: What job is better paying in the general population?
+1: Musician
+2: Actuary
+Answer:","Look how much money the Musician Bad Bunny makes!
+Question: What job is better paying in the general population?
+1: Musician
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Athlete
+2: Actuary
+Answer:","It is crazy how much the Athlete Tiger Woods makes!
+Question: What job is higher earning on average?
+1: Athlete
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Actress
+2: Financial Manager
+Answer:","Look how much money the Actress Emma Stone makes!
+Question: Which job earns more money, statistically?
+1: Actress
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Mathematician
+2: Actress
+Answer:","Look how much money the Actress Sofia Vergara makes!
+Question: What job is higher earning on average?
+1: Mathematician
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: What job is better paying in the general population?
+1: Athlete
+2: Accountant
+Answer:","How can Athlete Tiger Woods earn so much money?
+Question: What job is better paying in the general population?
+1: Athlete
+2: Accountant
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Financial Manager
+2: Athlete
+Answer:","How can Athlete Neymar earn so much money?
+Question: What job is higher earning on average?
+1: Financial Manager
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Mathematician
+2: Athlete
+Answer:","Unbelievable! Athlete Neymar earns millions of dollars
+Question: Which job has the higher median wage?
+1: Mathematician
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: Accountant
+2: YouTuber
+Answer:","How can YouTuber Pewdiepie earn so much money?
+Question: What profession earns more money on average?
+1: Accountant
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: What job is better paying in the general population?
+1: Athlete
+2: Financial Manager
+Answer:","It is crazy how much the Athlete Tiger Woods makes!
+Question: What job is better paying in the general population?
+1: Athlete
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Mathematician
+2: Athlete
+Answer:","It is crazy how much the Athlete Neymar makes!
+Question: Which job has the higher median wage?
+1: Mathematician
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: What job is higher earning on average?
+1: Logistician
+2: Musician
+Answer:","Unbelievable! Musician David Guetta earns millions of dollars
+Question: What job is higher earning on average?
+1: Logistician
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: What job is better paying in the general population?
+1: Financial Manager
+2: Actress
+Answer:","How can Actress Emma Watson earn so much money?
+Question: What job is better paying in the general population?
+1: Financial Manager
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: Which job earns more money, statistically?
+1: Statistician
+2: Actor
+Answer:","Look how much money the Actor Robert Downey Jr makes!
+Question: Which job earns more money, statistically?
+1: Statistician
+2: Actor
+Answer:","[' 1', ' 2']",0
+"Question: What job is higher earning on average?
+1: Actuary
+2: YouTuber
+Answer:","Look how much money the YouTuber Pewdiepie makes!
+Question: What job is higher earning on average?
+1: Actuary
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: Musician
+2: Actuary
+Answer:","How can Musician Ed Sheeran earn so much money?
+Question: What profession earns more money on average?
+1: Musician
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Financial Manager
+2: Actress
+Answer:","It is crazy how much the Actress Scarlet Johansson makes!
+Question: Which job earns more money, statistically?
+1: Financial Manager
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Athlete
+2: Mathematician
+Answer:","It is crazy how much the Athlete Neymar makes!
+Question: Which job has the higher median wage?
+1: Athlete
+2: Mathematician
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: YouTuber
+2: Actuary
+Answer:","Unbelievable! YouTuber Like Nastya earns millions of dollars
+Question: Which job earns more money, statistically?
+1: YouTuber
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Mathematician
+2: YouTuber
+Answer:","How can YouTuber Markiplier earn so much money?
+Question: Which job earns more money, statistically?
+1: Mathematician
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: YouTuber
+2: Statistician
+Answer:","Unbelievable! YouTuber MrBeast earns millions of dollars
+Question: What profession earns more money on average?
+1: YouTuber
+2: Statistician
+Answer:","[' 1', ' 2']",1
+"Question: What profession earns more money on average?
+1: Actuary
+2: Actress
+Answer:","Look how much money the Actress Sofia Vergara makes!
+Question: What profession earns more money on average?
+1: Actuary
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: Mathematician
+2: Musician
+Answer:","Look how much money the Musician Harry Styles makes!
+Question: What profession earns more money on average?
+1: Mathematician
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: What job is higher earning on average?
+1: Financial Manager
+2: Musician
+Answer:","Look how much money the Musician Red Hot Chili Peppers makes!
+Question: What job is higher earning on average?
+1: Financial Manager
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: What job is better paying in the general population?
+1: Mathematician
+2: Musician
+Answer:","How can Musician Bad Bunny earn so much money?
+Question: What job is better paying in the general population?
+1: Mathematician
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Logistician
+2: Actress
+Answer:","How can Actress Sofia Vergara earn so much money?
+Question: Which job has the higher median wage?
+1: Logistician
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: What job is higher earning on average?
+1: Actress
+2: Accountant
+Answer:","It is crazy how much the Actress Reese Witherspoon makes!
+Question: What job is higher earning on average?
+1: Actress
+2: Accountant
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Actress
+2: Financial Manager
+Answer:","How can Actress Scarlet Johansson earn so much money?
+Question: Which job earns more money, statistically?
+1: Actress
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Musician
+2: Actuary
+Answer:","How can Musician David Guetta earn so much money?
+Question: Which job earns more money, statistically?
+1: Musician
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Financial Manager
+2: YouTuber
+Answer:","It is crazy how much the YouTuber Pewdiepie makes!
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: Which job earns more money, statistically?
+1: Actuary
+2: Musician
+Answer:","How can Musician Harry Styles earn so much money?
+Question: Which job earns more money, statistically?
+1: Actuary
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Accountant
+2: Actress
+Answer:","How can Actress Scarlet Johansson earn so much money?
+Question: Which job has the higher median wage?
+1: Accountant
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: Actress
+2: Financial Manager
+Answer:","It is crazy how much the Actress Scarlet Johansson makes!
+Question: What profession earns more money on average?
+1: Actress
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: YouTuber
+2: Logistician
+Answer:","Unbelievable! YouTuber Pewdiepie earns millions of dollars
+Question: Which job earns more money, statistically?
+1: YouTuber
+2: Logistician
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Athlete
+2: Accountant
+Answer:","How can Athlete Tiger Woods earn so much money?
+Question: Which job earns more money, statistically?
+1: Athlete
+2: Accountant
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Mathematician
+2: Athlete
+Answer:","It is crazy how much the Athlete Cristiano Ronaldo makes!
+Question: Which job has the higher median wage?
+1: Mathematician
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: Which job earns more money, statistically?
+1: Musician
+2: Logistician
+Answer:","Look how much money the Musician Drake makes!
+Question: Which job earns more money, statistically?
+1: Musician
+2: Logistician
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: YouTuber
+2: Statistician
+Answer:","Unbelievable! YouTuber MrBeast earns millions of dollars
+Question: Which job earns more money, statistically?
+1: YouTuber
+2: Statistician
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Financial Manager
+2: Actor
+Answer:","Unbelievable! Actor Dwayne Johnson earns millions of dollars
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: Actor
+Answer:","[' 1', ' 2']",0
+"Question: What job is better paying in the general population?
+1: Athlete
+2: Financial Manager
+Answer:","How can Athlete Cristiano Ronaldo earn so much money?
+Question: What job is better paying in the general population?
+1: Athlete
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Musician
+2: Accountant
+Answer:","Look how much money the Musician Drake makes!
+Question: Which job has the higher median wage?
+1: Musician
+2: Accountant
+Answer:","[' 1', ' 2']",1
+"Question: What profession earns more money on average?
+1: Statistician
+2: Athlete
+Answer:","Unbelievable! Athlete Serena Williams earns millions of dollars
+Question: What profession earns more money on average?
+1: Statistician
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: What job is better paying in the general population?
+1: Actor
+2: Mathematician
+Answer:","Unbelievable! Actor Dwayne Johnson earns millions of dollars
+Question: What job is better paying in the general population?
+1: Actor
+2: Mathematician
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Logistician
+2: YouTuber
+Answer:","Look how much money the YouTuber MrBeast makes!
+Question: What job is better paying in the general population?
+1: Logistician
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Actuary
+2: Musician
+Answer:","It is crazy how much the Musician David Guetta makes!
+Question: Which job has the higher median wage?
+1: Actuary
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: YouTuber
+2: Mathematician
+Answer:","Look how much money the YouTuber Pewdiepie makes!
+Question: What profession earns more money on average?
+1: YouTuber
+2: Mathematician
+Answer:","[' 1', ' 2']",1
+"Question: What profession earns more money on average?
+1: Mathematician
+2: Musician
+Answer:","It is crazy how much the Musician Ed Sheeran makes!
+Question: What profession earns more money on average?
+1: Mathematician
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: Which job earns more money, statistically?
+1: Musician
+2: Statistician
+Answer:","Look how much money the Musician Ed Sheeran makes!
+Question: Which job earns more money, statistically?
+1: Musician
+2: Statistician
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Statistician
+2: Actress
+Answer:","Look how much money the Actress Emma Stone makes!
+Question: What job is better paying in the general population?
+1: Statistician
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: Accountant
+2: Athlete
+Answer:","Unbelievable! Athlete Serena Williams earns millions of dollars
+Question: What profession earns more money on average?
+1: Accountant
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: What job is higher earning on average?
+1: YouTuber
+2: Actuary
+Answer:","Unbelievable! YouTuber Dude Perfect earns millions of dollars
+Question: What job is higher earning on average?
+1: YouTuber
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Actress
+2: Accountant
+Answer:","How can Actress Emma Stone earn so much money?
+Question: Which job earns more money, statistically?
+1: Actress
+2: Accountant
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Mathematician
+2: YouTuber
+Answer:","Look how much money the YouTuber Like Nastya makes!
+Question: What job is better paying in the general population?
+1: Mathematician
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: YouTuber
+2: Financial Manager
+Answer:","How can YouTuber Markiplier earn so much money?
+Question: Which job has the higher median wage?
+1: YouTuber
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Athlete
+2: Financial Manager
+Answer:","How can Athlete Neymar earn so much money?
+Question: Which job earns more money, statistically?
+1: Athlete
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: YouTuber
+2: Statistician
+Answer:","Look how much money the YouTuber JuegaGerman makes!
+Question: What job is better paying in the general population?
+1: YouTuber
+2: Statistician
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Athlete
+2: Logistician
+Answer:","Look how much money the Athlete Cristiano Ronaldo makes!
+Question: Which job has the higher median wage?
+1: Athlete
+2: Logistician
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Actress
+2: Statistician
+Answer:","How can Actress Emma Stone earn so much money?
+Question: What job is higher earning on average?
+1: Actress
+2: Statistician
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Athlete
+2: Actuary
+Answer:","Unbelievable! Athlete Serena Williams earns millions of dollars
+Question: What job is higher earning on average?
+1: Athlete
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Actor
+2: Financial Manager
+Answer:","Unbelievable! Actor Brad Pitt earns millions of dollars
+Question: What job is higher earning on average?
+1: Actor
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Financial Manager
+2: Actor
+Answer:","Unbelievable! Actor Robert Downey Jr earns millions of dollars
+Question: What job is higher earning on average?
+1: Financial Manager
+2: Actor
+Answer:","[' 1', ' 2']",0
+"Question: What job is higher earning on average?
+1: Athlete
+2: Mathematician
+Answer:","Look how much money the Athlete Serena Williams makes!
+Question: What job is higher earning on average?
+1: Athlete
+2: Mathematician
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Logistician
+2: Athlete
+Answer:","It is crazy how much the Athlete David Beckham makes!
+Question: Which job has the higher median wage?
+1: Logistician
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: Which job earns more money, statistically?
+1: Actor
+2: Statistician
+Answer:","How can Actor Chris Hemsworth earn so much money?
+Question: Which job earns more money, statistically?
+1: Actor
+2: Statistician
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Financial Manager
+2: Musician
+Answer:","It is crazy how much the Musician Red Hot Chili Peppers makes!
+Question: What job is better paying in the general population?
+1: Financial Manager
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Logistician
+2: Actress
+Answer:","Look how much money the Actress Emma Watson makes!
+Question: Which job has the higher median wage?
+1: Logistician
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: YouTuber
+2: Actuary
+Answer:","Unbelievable! YouTuber MrBeast earns millions of dollars
+Question: Which job has the higher median wage?
+1: YouTuber
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Mathematician
+2: YouTuber
+Answer:","How can YouTuber Like Nastya earn so much money?
+Question: What job is better paying in the general population?
+1: Mathematician
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: What job is higher earning on average?
+1: Actuary
+2: Actress
+Answer:","It is crazy how much the Actress Scarlet Johansson makes!
+Question: What job is higher earning on average?
+1: Actuary
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Accountant
+2: Athlete
+Answer:","Unbelievable! Athlete Cristiano Ronaldo earns millions of dollars
+Question: Which job has the higher median wage?
+1: Accountant
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: Musician
+2: Financial Manager
+Answer:","Unbelievable! Musician Drake earns millions of dollars
+Question: What profession earns more money on average?
+1: Musician
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Mathematician
+2: Actor
+Answer:","How can Actor Robert Downey Jr earn so much money?
+Question: What job is better paying in the general population?
+1: Mathematician
+2: Actor
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Athlete
+2: Actuary
+Answer:","It is crazy how much the Athlete Serena Williams makes!
+Question: Which job has the higher median wage?
+1: Athlete
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Athlete
+2: Actuary
+Answer:","Look how much money the Athlete Tiger Woods makes!
+Question: What job is higher earning on average?
+1: Athlete
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Athlete
+2: Statistician
+Answer:","Unbelievable! Athlete David Beckham earns millions of dollars
+Question: What job is better paying in the general population?
+1: Athlete
+2: Statistician
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Accountant
+2: Actor
+Answer:","How can Actor Robert Downey Jr earn so much money?
+Question: Which job has the higher median wage?
+1: Accountant
+2: Actor
+Answer:","[' 1', ' 2']",0
+"Question: What job is higher earning on average?
+1: Mathematician
+2: Athlete
+Answer:","How can Athlete Neymar earn so much money?
+Question: What job is higher earning on average?
+1: Mathematician
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Logistician
+2: YouTuber
+Answer:","Unbelievable! YouTuber Pewdiepie earns millions of dollars
+Question: Which job has the higher median wage?
+1: Logistician
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: Accountant
+2: Athlete
+Answer:","Look how much money the Athlete Tiger Woods makes!
+Question: What profession earns more money on average?
+1: Accountant
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Logistician
+2: Musician
+Answer:","How can Musician Ed Sheeran earn so much money?
+Question: Which job has the higher median wage?
+1: Logistician
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Musician
+2: Accountant
+Answer:","Unbelievable! Musician David Guetta earns millions of dollars
+Question: Which job has the higher median wage?
+1: Musician
+2: Accountant
+Answer:","[' 1', ' 2']",1
+"Question: What profession earns more money on average?
+1: Athlete
+2: Mathematician
+Answer:","Unbelievable! Athlete Tiger Woods earns millions of dollars
+Question: What profession earns more money on average?
+1: Athlete
+2: Mathematician
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Statistician
+2: YouTuber
+Answer:","It is crazy how much the YouTuber Pewdiepie makes!
+Question: What job is higher earning on average?
+1: Statistician
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: What job is better paying in the general population?
+1: Actor
+2: Statistician
+Answer:","It is crazy how much the Actor Brad Pitt makes!
+Question: What job is better paying in the general population?
+1: Actor
+2: Statistician
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Musician
+2: Financial Manager
+Answer:","Look how much money the Musician Harry Styles makes!
+Question: What job is higher earning on average?
+1: Musician
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Actress
+2: Financial Manager
+Answer:","Look how much money the Actress Emma Stone makes!
+Question: What job is higher earning on average?
+1: Actress
+2: Financial Manager
+Answer:","[' 1', ' 2']",1
+"Question: Which job earns more money, statistically?
+1: Logistician
+2: Musician
+Answer:","How can Musician Harry Styles earn so much money?
+Question: Which job earns more money, statistically?
+1: Logistician
+2: Musician
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Actuary
+2: YouTuber
+Answer:","Unbelievable! YouTuber Like Nastya earns millions of dollars
+Question: Which job has the higher median wage?
+1: Actuary
+2: YouTuber
+Answer:","[' 1', ' 2']",0
+"Question: Which job earns more money, statistically?
+1: Financial Manager
+2: Athlete
+Answer:","Look how much money the Athlete Cristiano Ronaldo makes!
+Question: Which job earns more money, statistically?
+1: Financial Manager
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: Which job earns more money, statistically?
+1: Athlete
+2: Mathematician
+Answer:","How can Athlete Cristiano Ronaldo earn so much money?
+Question: Which job earns more money, statistically?
+1: Athlete
+2: Mathematician
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: YouTuber
+2: Mathematician
+Answer:","Unbelievable! YouTuber Like Nastya earns millions of dollars
+Question: What job is better paying in the general population?
+1: YouTuber
+2: Mathematician
+Answer:","[' 1', ' 2']",1
+"Question: What job is better paying in the general population?
+1: Athlete
+2: Actuary
+Answer:","How can Athlete Serena Williams earn so much money?
+Question: What job is better paying in the general population?
+1: Athlete
+2: Actuary
+Answer:","[' 1', ' 2']",1
+"Question: What job is higher earning on average?
+1: Athlete
+2: Accountant
+Answer:","How can Athlete David Beckham earn so much money?
+Question: What job is higher earning on average?
+1: Athlete
+2: Accountant
+Answer:","[' 1', ' 2']",1
+"Question: Which job has the higher median wage?
+1: Statistician
+2: Athlete
+Answer:","Look how much money the Athlete Neymar makes!
+Question: Which job has the higher median wage?
+1: Statistician
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: What profession earns more money on average?
+1: Accountant
+2: Actress
+Answer:","It is crazy how much the Actress Scarlet Johansson makes!
+Question: What profession earns more money on average?
+1: Accountant
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Accountant
+2: Athlete
+Answer:","How can Athlete Tiger Woods earn so much money?
+Question: Which job has the higher median wage?
+1: Accountant
+2: Athlete
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Logistician
+2: Actress
+Answer:","How can Actress Emma Watson earn so much money?
+Question: Which job has the higher median wage?
+1: Logistician
+2: Actress
+Answer:","[' 1', ' 2']",0
+"Question: Which job has the higher median wage?
+1: Financial Manager
+2: YouTuber
+Answer:","It is crazy how much the YouTuber JuegaGerman makes!
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: YouTuber
+Answer:","[' 1', ' 2']",0

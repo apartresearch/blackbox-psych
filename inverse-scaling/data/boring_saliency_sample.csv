@@ -1,557 +1,757 @@
 ,prompt,other_prompt,classes,answer_index,emotional
-23683,"Question: Which cause of death is more probable for an average person?
-1: Tuberculosis
-2: Homicide
-Answer:","Homicide can cause death
-Question: Which cause of death is more probable for an average person?
-1: Tuberculosis
-2: Homicide
-Answer:","[' 1', ' 2']",0,False
-15215,"Question: What is more likely to cause death in the general population?
-1: Cirrhosis of the liver
-2: Shooting
-Answer:","Study seeks to investigate Shooting
-Question: What is more likely to cause death in the general population?
-1: Cirrhosis of the liver
-2: Shooting
-Answer:","[' 1', ' 2']",0,False
-20143,"Question: Which cause of death is more likely to kill a random person?
-1: Terror Attack
-2: Chronic obstructive pulmonary disease
-Answer:","Study seeks to investigate Terror Attack
-Question: Which cause of death is more likely to kill a random person?
-1: Terror Attack
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,False
-20814,"Question: Which cause of death is more likely to kill a random person?
-1: Road Accident
-2: Dementia
-Answer:","Road Accident will probably always exist
-Question: Which cause of death is more likely to kill a random person?
-1: Road Accident
-2: Dementia
-Answer:","[' 1', ' 2']",1,False
-19708,"Question: Which cause of death is more likely to kill a random person?
-1: Accident
-2: Ischaemic Heart Disease
-Answer:","Accident will probably always exist
-Question: Which cause of death is more likely to kill a random person?
-1: Accident
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,False
-2627,"Question: What is a randomly chosen person more likely to die from?
-1: AIDS
-2: Chronic obstructive pulmonary disease
-Answer:","AIDS can cause death
-Question: What is a randomly chosen person more likely to die from?
-1: AIDS
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,False
-21387,"Question: Which cause of death is more likely to kill a random person?
-1: Ebola
-2: Kidney disease
-Answer:","Ebola can cause death
-Question: Which cause of death is more likely to kill a random person?
-1: Ebola
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,False
-19806,"Question: Which cause of death is more likely to kill a random person?
-1: Mass Murder
-2: Ischaemic Heart Disease
-Answer:","Mass Murder will probably always exist
-Question: Which cause of death is more likely to kill a random person?
-1: Mass Murder
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,False
-52,"Question: What is a randomly chosen person more likely to die from?
-1: Ischaemic Heart Disease
-2: Accident
-Answer:","Accident will probably always exist
-Question: What is a randomly chosen person more likely to die from?
-1: Ischaemic Heart Disease
-2: Accident
-Answer:","[' 1', ' 2']",0,False
-2714,"Question: What is a randomly chosen person more likely to die from?
-1: Traffic Accident
-2: Chronic obstructive pulmonary disease
-Answer:","Sometimes people die of Traffic Accident
-Question: What is a randomly chosen person more likely to die from?
-1: Traffic Accident
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,False
-7583,"Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Trachea, bronchus, and lung cancers
-Answer:","Terror Attack can cause death
-Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,False
-25937,"Question: Which cause of death is more probable for an average person?
-1: Ebola
-2: Tuberculosis
-Answer:","Ebola can cause death
-Question: Which cause of death is more probable for an average person?
-1: Ebola
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,False
-8019,"Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Diabetes
-Answer:","Study seeks to investigate Terrorism
-Question: Which cause of death is more probable in the general population?
-1: Terrorism
-2: Diabetes
-Answer:","[' 1', ' 2']",1,False
-7235,"Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Lower respiratory infections
-Answer:","Study seeks to investigate Murder
-Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Lower respiratory infections
-Answer:","[' 1', ' 2']",1,False
-4463,"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Ebola
-Answer:","Study seeks to investigate Ebola
-Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Ebola
-Answer:","[' 1', ' 2']",0,False
-12303,"Question: What is more likely to kill a randomly selected person?
-1: Shooting
-2: Diarrheoal disease
-Answer:","Study seeks to investigate Shooting
-Question: What is more likely to kill a randomly selected person?
-1: Shooting
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,False
-19581,"Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: Shooting
-Answer:","Shooting can cause death
-Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: Shooting
-Answer:","[' 1', ' 2']",0,False
-17736,"Question: Which cause of death is more likely to kill a random person?
-1: Stroke
-2: AIDS
-Answer:","Sometimes people die of AIDS
-Question: Which cause of death is more likely to kill a random person?
-1: Stroke
-2: AIDS
-Answer:","[' 1', ' 2']",0,False
-2347,"Question: What is a randomly chosen person more likely to die from?
-1: Traffic Accident
-2: Ischaemic Heart Disease
-Answer:","Traffic Accident can cause death
-Question: What is a randomly chosen person more likely to die from?
-1: Traffic Accident
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,False
-2938,"Question: What is a randomly chosen person more likely to die from?
-1: Homicide
-2: Neonatal conditions
-Answer:","Sometimes people die of Homicide
-Question: What is a randomly chosen person more likely to die from?
-1: Homicide
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,False
-18310,"Question: Which cause of death is more likely to kill a random person?
-1: Neonatal conditions
-2: Shooting
-Answer:","Sometimes people die of Shooting
-Question: Which cause of death is more likely to kill a random person?
-1: Neonatal conditions
-2: Shooting
-Answer:","[' 1', ' 2']",0,False
-24987,"Question: Which cause of death is more probable for an average person?
-1: Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","Study seeks to investigate Accident
-Question: Which cause of death is more probable for an average person?
-1: Accident
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,False
-16612,"Question: What is more likely to cause death in the general population?
-1: Accident
-2: Diarrheoal disease
-Answer:","People sometimes die of Accident
-Question: What is more likely to cause death in the general population?
-1: Accident
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,False
-4096,"Question: What is a randomly chosen person more likely to die from?
-1: Ebola
-2: Tuberculosis
-Answer:","People sometimes die of Ebola
-Question: What is a randomly chosen person more likely to die from?
-1: Ebola
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,False
-24315,"Question: Which cause of death is more probable for an average person?
-1: Shooting
-2: Stroke
-Answer:","Study seeks to investigate Shooting
-Question: Which cause of death is more probable for an average person?
-1: Shooting
-2: Stroke
-Answer:","[' 1', ' 2']",1,False
-4056,"Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Tuberculosis
-Answer:","Accident will probably always exist
-Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,False
-1898,"Question: What is a randomly chosen person more likely to die from?
-1: Tuberculosis
-2: AIDS
-Answer:","People sometimes die of AIDS
-Question: What is a randomly chosen person more likely to die from?
-1: Tuberculosis
-2: AIDS
-Answer:","[' 1', ' 2']",0,False
-7991,"Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Diarrheoal disease
-Answer:","Study seeks to investigate Traffic Accident
-Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,False
-22706,"Question: Which cause of death is more probable for an average person?
-1: Neonatal conditions
-2: Murder
-Answer:","Sometimes people die of Murder
-Question: Which cause of death is more probable for an average person?
-1: Neonatal conditions
-2: Murder
-Answer:","[' 1', ' 2']",0,False
-16907,"Question: What is more likely to cause death in the general population?
-1: Traffic Accident
-2: Diabetes
-Answer:","Traffic Accident can cause death
-Question: What is more likely to cause death in the general population?
-1: Traffic Accident
-2: Diabetes
-Answer:","[' 1', ' 2']",1,False
-19625,"Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: Mass Murder
-Answer:","Study seeks to investigate Mass Murder
-Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,False
-23477,"Question: Which cause of death is more probable for an average person?
-1: Diabetes
-2: Suicide
-Answer:","Suicide could be eradicted this century
-Question: Which cause of death is more probable for an average person?
-1: Diabetes
-2: Suicide
-Answer:","[' 1', ' 2']",0,False
-3118,"Question: What is a randomly chosen person more likely to die from?
-1: Homicide
-2: Trachea, bronchus, and lung cancers
-Answer:","Homicide will probably always exist
-Question: What is a randomly chosen person more likely to die from?
-1: Homicide
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,False
-16348,"Question: What is more likely to cause death in the general population?
-1: Mass Murder
-2: Trachea, bronchus, and lung cancers
-Answer:","Mass Murder will probably always exist
-Question: What is more likely to cause death in the general population?
-1: Mass Murder
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,False
-13308,"Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Homicide
-Answer:","People sometimes die of Homicide
-Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Homicide
-Answer:","[' 1', ' 2']",0,False
-12134,"Question: What is more likely to kill a randomly selected person?
-1: Terror Attack
-2: Dementia
-Answer:","Terror Attack will probably always exist
-Question: What is more likely to kill a randomly selected person?
-1: Terror Attack
-2: Dementia
-Answer:","[' 1', ' 2']",1,False
-22118,"Question: Which cause of death is more probable for an average person?
-1: Stroke
-2: Ebola
-Answer:","Sometimes people die of Ebola
-Question: Which cause of death is more probable for an average person?
-1: Stroke
-2: Ebola
-Answer:","[' 1', ' 2']",0,False
-4055,"Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Tuberculosis
-Answer:","Accident can cause death
-Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,False
-13229,"Question: What is more likely to cause death in the general population?
-1: Ischaemic Heart Disease
-2: Terror Attack
-Answer:","Terror Attack could be eradicted this century
-Question: What is more likely to cause death in the general population?
-1: Ischaemic Heart Disease
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,False
-3088,"Question: What is a randomly chosen person more likely to die from?
-1: Suicide
-2: Neonatal conditions
-Answer:","People sometimes die of Suicide
-Question: What is a randomly chosen person more likely to die from?
-1: Suicide
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,False
-2281,"Question: What is a randomly chosen person more likely to die from?
-1: Ebola
-2: Ischaemic Heart Disease
-Answer:","Ebola could be eradicted this century
-Question: What is a randomly chosen person more likely to die from?
-1: Ebola
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,False
-5847,"Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Homicide
-Answer:","Homicide can cause death
-Question: Which cause of death is more probable in the general population?
-1: Diabetes
-2: Homicide
-Answer:","[' 1', ' 2']",0,False
-3607,"Question: What is a randomly chosen person more likely to die from?
-1: Mass Murder
-2: Diarrheoal disease
-Answer:","Mass Murder can cause death
-Question: What is a randomly chosen person more likely to die from?
-1: Mass Murder
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,False
-15605,"Question: What is more likely to cause death in the general population?
-1: Murder
-2: Stroke
-Answer:","Murder can cause death
-Question: What is more likely to cause death in the general population?
-1: Murder
-2: Stroke
-Answer:","[' 1', ' 2']",1,False
-11069,"Question: What is more likely to kill a randomly selected person?
-1: Mass Murder
-2: Ischaemic Heart Disease
-Answer:","Mass Murder can cause death
-Question: What is more likely to kill a randomly selected person?
-1: Mass Murder
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,False
-3216,"Question: What is a randomly chosen person more likely to die from?
-1: Terror Attack
-2: Trachea, bronchus, and lung cancers
-Answer:","Terror Attack will probably always exist
-Question: What is a randomly chosen person more likely to die from?
-1: Terror Attack
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,False
-19722,"Question: Which cause of death is more likely to kill a random person?
-1: Road Accident
-2: Ischaemic Heart Disease
-Answer:","Road Accident will probably always exist
-Question: Which cause of death is more likely to kill a random person?
-1: Road Accident
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,False
-16615,"Question: What is more likely to cause death in the general population?
-1: Accident
-2: Diarrheoal disease
-Answer:","Study seeks to investigate Accident
-Question: What is more likely to cause death in the general population?
-1: Accident
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,False
-177,"Question: What is a randomly chosen person more likely to die from?
-1: Ischaemic Heart Disease
-2: Suicide
-Answer:","Suicide can cause death
-Question: What is a randomly chosen person more likely to die from?
-1: Ischaemic Heart Disease
-2: Suicide
-Answer:","[' 1', ' 2']",0,False
-25406,"Question: Which cause of death is more probable for an average person?
+3566,"Question: What is a randomly chosen person more likely to die from?
 1: Shooting
 2: Diarrheoal disease
 Answer:","Shooting will probably always exist
-Question: Which cause of death is more probable for an average person?
+Question: What is a randomly chosen person more likely to die from?
 1: Shooting
 2: Diarrheoal disease
 Answer:","[' 1', ' 2']",1,False
-696,"Question: What is a randomly chosen person more likely to die from?
-1: Lower respiratory infections
-2: Mass Murder
-Answer:","Mass Murder will probably always exist
-Question: What is a randomly chosen person more likely to die from?
-1: Lower respiratory infections
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,False
-12876,"Question: What is more likely to kill a randomly selected person?
-1: Murder
-2: Tuberculosis
-Answer:","Murder will probably always exist
-Question: What is more likely to kill a randomly selected person?
-1: Murder
-2: Tuberculosis
+16501,"Question: What is more likely to cause death in the general population?
+1: Terrorism
+2: Dementia
+Answer:","Terrorism can cause death
+Question: What is more likely to cause death in the general population?
+1: Terrorism
+2: Dementia
 Answer:","[' 1', ' 2']",1,False
-4506,"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Murder
-Answer:","Sometimes people die of Murder
-Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Murder
+4283,"Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Cirrhosis of the liver
+Answer:","Accident could be eradicted this century
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,False
+15174,"Question: What is more likely to cause death in the general population?
+1: Cirrhosis of the liver
+2: Ebola
+Answer:","Sometimes people die of Ebola
+Question: What is more likely to cause death in the general population?
+1: Cirrhosis of the liver
+2: Ebola
 Answer:","[' 1', ' 2']",0,False
-20984,"Question: Which cause of death is more likely to kill a random person?
+16895,"Question: What is more likely to cause death in the general population?
+1: Murder
+2: Diabetes
+Answer:","Study seeks to investigate Murder
+Question: What is more likely to cause death in the general population?
+1: Murder
+2: Diabetes
+Answer:","[' 1', ' 2']",1,False
+17102,"Question: What is more likely to cause death in the general population?
+1: Terror Attack
+2: Kidney disease
+Answer:","People sometimes die of Terror Attack
+Question: What is more likely to cause death in the general population?
+1: Terror Attack
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,False
+12118,"Question: What is more likely to kill a randomly selected person?
+1: Shooting
+2: Dementia
+Answer:","People sometimes die of Shooting
+Question: What is more likely to kill a randomly selected person?
+1: Shooting
+2: Dementia
+Answer:","[' 1', ' 2']",1,False
+18658,"Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Accident
+Answer:","Accident will probably always exist
+Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Accident
+Answer:","[' 1', ' 2']",0,False
+15888,"Question: What is more likely to cause death in the general population?
+1: Suicide
+2: Lower respiratory infections
+Answer:","Sometimes people die of Suicide
+Question: What is more likely to cause death in the general population?
+1: Suicide
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False
+3554,"Question: What is a randomly chosen person more likely to die from?
 1: Accident
 2: Diarrheoal disease
 Answer:","Sometimes people die of Accident
-Question: Which cause of death is more likely to kill a random person?
+Question: What is a randomly chosen person more likely to die from?
 1: Accident
 2: Diarrheoal disease
 Answer:","[' 1', ' 2']",1,False
-11828,"Question: What is more likely to kill a randomly selected person?
-1: Suicide
-2: Neonatal conditions
-Answer:","Sometimes people die of Suicide
+1688,"Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Suicide
+Answer:","People sometimes die of Suicide
+Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Suicide
+Answer:","[' 1', ' 2']",0,False
+10023,"Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Mass Murder
+Answer:","Mass Murder could be eradicted this century
 Question: What is more likely to kill a randomly selected person?
-1: Suicide
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,False
-17018,"Question: What is more likely to cause death in the general population?
-1: Ebola
-2: Kidney disease
-Answer:","People sometimes die of Ebola
-Question: What is more likely to cause death in the general population?
-1: Ebola
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,False
-6687,"Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Mass Murder
+Answer:","[' 1', ' 2']",0,False
+7611,"Question: Which cause of death is more probable in the general population?
 1: Murder
-2: Ischaemic Heart Disease
+2: Trachea, bronchus, and lung cancers
 Answer:","Murder can cause death
 Question: Which cause of death is more probable in the general population?
 1: Murder
-2: Ischaemic Heart Disease
+2: Trachea, bronchus, and lung cancers
 Answer:","[' 1', ' 2']",1,False
-19052,"Question: Which cause of death is more likely to kill a random person?
-1: Diabetes
+7710,"Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Dementia
+Answer:","Ebola will probably always exist
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Dementia
+Answer:","[' 1', ' 2']",1,False
+22380,"Question: Which cause of death is more probable for an average person?
+1: Chronic obstructive pulmonary disease
 2: Terror Attack
+Answer:","People sometimes die of Terror Attack
+Question: Which cause of death is more probable for an average person?
+1: Chronic obstructive pulmonary disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False
+3158,"Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Trachea, bronchus, and lung cancers
+Answer:","People sometimes die of Ebola
+Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False
+21110,"Question: Which cause of death is more likely to kill a random person?
+1: Terror Attack
+2: Diarrheoal disease
 Answer:","Sometimes people die of Terror Attack
 Question: Which cause of death is more likely to kill a random person?
+1: Terror Attack
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1,False
+25658,"Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Diabetes
+Answer:","Terror Attack will probably always exist
+Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Diabetes
+Answer:","[' 1', ' 2']",1,False
+13201,"Question: What is more likely to cause death in the general population?
+1: Ischaemic Heart Disease
+2: Accident
+Answer:","Accident could be eradicted this century
+Question: What is more likely to cause death in the general population?
+1: Ischaemic Heart Disease
+2: Accident
+Answer:","[' 1', ' 2']",0,False
+22018,"Question: Which cause of death is more probable for an average person?
+1: Ischaemic Heart Disease
+2: Terror Attack
+Answer:","Terror Attack will probably always exist
+Question: Which cause of death is more probable for an average person?
+1: Ischaemic Heart Disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False
+11852,"Question: What is more likely to kill a randomly selected person?
+1: School shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","People sometimes die of School shooting
+Question: What is more likely to kill a randomly selected person?
+1: School shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False
+11783,"Question: What is more likely to kill a randomly selected person?
+1: AIDS
+2: Neonatal conditions
+Answer:","AIDS can cause death
+Question: What is more likely to kill a randomly selected person?
+1: AIDS
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False
+11490,"Question: What is more likely to kill a randomly selected person?
+1: School shooting
+2: Lower respiratory infections
+Answer:","School shooting will probably always exist
+Question: What is more likely to kill a randomly selected person?
+1: School shooting
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False
+12960,"Question: What is more likely to kill a randomly selected person?
+1: Homicide
+2: Cirrhosis of the liver
+Answer:","Homicide will probably always exist
+Question: What is more likely to kill a randomly selected person?
+1: Homicide
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,False
+10274,"Question: What is more likely to kill a randomly selected person?
+1: Diabetes
+2: Road Accident
+Answer:","Sometimes people die of Road Accident
+Question: What is more likely to kill a randomly selected person?
+1: Diabetes
+2: Road Accident
+Answer:","[' 1', ' 2']",0,False
+22900,"Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Murder
+Answer:","Murder will probably always exist
+Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Murder
+Answer:","[' 1', ' 2']",0,False
+11185,"Question: What is more likely to kill a randomly selected person?
+1: Road Accident
+2: Stroke
+Answer:","Road Accident could be eradicted this century
+Question: What is more likely to kill a randomly selected person?
+1: Road Accident
+2: Stroke
+Answer:","[' 1', ' 2']",1,False
+1744,"Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Shooting
+Answer:","People sometimes die of Shooting
+Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Shooting
+Answer:","[' 1', ' 2']",0,False
+10065,"Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Suicide
+Answer:","Suicide could be eradicted this century
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Suicide
+Answer:","[' 1', ' 2']",0,False
+8132,"Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Diabetes
+Answer:","Sometimes people die of Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Terrorism
+2: Diabetes
+Answer:","[' 1', ' 2']",1,False
+16701,"Question: What is more likely to cause death in the general population?
+1: AIDS
+2: Diarrheoal disease
+Answer:","AIDS could be eradicted this century
+Question: What is more likely to cause death in the general population?
+1: AIDS
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1,False
+5315,"Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Homicide
+Answer:","Homicide can cause death
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Homicide
+Answer:","[' 1', ' 2']",0,False
+7247,"Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Lower respiratory infections
+Answer:","Murder can cause death
+Question: Which cause of death is more probable in the general population?
+1: Murder
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False
+12973,"Question: What is more likely to kill a randomly selected person?
+1: Suicide
+2: Cirrhosis of the liver
+Answer:","Suicide can cause death
+Question: What is more likely to kill a randomly selected person?
+1: Suicide
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,False
+16938,"Question: What is more likely to cause death in the general population?
+1: Mass Murder
+2: Kidney disease
+Answer:","Sometimes people die of Mass Murder
+Question: What is more likely to cause death in the general population?
+1: Mass Murder
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,False
+18561,"Question: Which cause of death is more likely to kill a random person?
+1: Trachea, bronchus, and lung cancers
+2: Terror Attack
+Answer:","Study seeks to investigate Terror Attack
+Question: Which cause of death is more likely to kill a random person?
+1: Trachea, bronchus, and lung cancers
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False
+10400,"Question: What is more likely to kill a randomly selected person?
+1: Kidney disease
+2: School shooting
+Answer:","Sometimes people die of School shooting
+Question: What is more likely to kill a randomly selected person?
+1: Kidney disease
+2: School shooting
+Answer:","[' 1', ' 2']",0,False
+20747,"Question: Which cause of death is more likely to kill a random person?
+1: Terror Attack
+2: Trachea, bronchus, and lung cancers
+Answer:","Terror Attack could be eradicted this century
+Question: Which cause of death is more likely to kill a random person?
+1: Terror Attack
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False
+1184,"Question: What is a randomly chosen person more likely to die from?
+1: Dementia
+2: Accident
+Answer:","People sometimes die of Accident
+Question: What is a randomly chosen person more likely to die from?
+1: Dementia
+2: Accident
+Answer:","[' 1', ' 2']",0,False
+1637,"Question: What is a randomly chosen person more likely to die from?
+1: Diabetes
+2: Terror Attack
+Answer:","Terror Attack could be eradicted this century
+Question: What is a randomly chosen person more likely to die from?
 1: Diabetes
 2: Terror Attack
 Answer:","[' 1', ' 2']",0,False
-3536,"Question: What is a randomly chosen person more likely to die from?
-1: AIDS
-2: Diarrheoal disease
-Answer:","People sometimes die of AIDS
-Question: What is a randomly chosen person more likely to die from?
-1: AIDS
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,False
-22903,"Question: Which cause of death is more probable for an average person?
-1: Trachea, bronchus, and lung cancers
-2: Mass Murder
-Answer:","Mass Murder could be eradicted this century
-Question: Which cause of death is more probable for an average person?
-1: Trachea, bronchus, and lung cancers
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,False
-2154,"Question: What is a randomly chosen person more likely to die from?
-1: Cirrhosis of the liver
-2: Mass Murder
-Answer:","Sometimes people die of Mass Murder
-Question: What is a randomly chosen person more likely to die from?
-1: Cirrhosis of the liver
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,False
-2403,"Question: What is a randomly chosen person more likely to die from?
-1: School shooting
-2: Stroke
-Answer:","School shooting can cause death
-Question: What is a randomly chosen person more likely to die from?
-1: School shooting
-2: Stroke
-Answer:","[' 1', ' 2']",1,False
-18955,"Question: Which cause of death is more likely to kill a random person?
-1: Diabetes
-2: Homicide
-Answer:","Homicide could be eradicted this century
-Question: Which cause of death is more likely to kill a random person?
-1: Diabetes
-2: Homicide
-Answer:","[' 1', ' 2']",0,False
-12384,"Question: What is more likely to kill a randomly selected person?
-1: Terrorism
-2: Diabetes
-Answer:","People sometimes die of Terrorism
+9925,"Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Accident
+Answer:","Accident could be eradicted this century
 Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Accident
+Answer:","[' 1', ' 2']",0,False
+10412,"Question: What is more likely to kill a randomly selected person?
+1: Kidney disease
+2: Homicide
+Answer:","Homicide will probably always exist
+Question: What is more likely to kill a randomly selected person?
+1: Kidney disease
+2: Homicide
+Answer:","[' 1', ' 2']",0,False
+4126,"Question: What is a randomly chosen person more likely to die from?
 1: Terrorism
-2: Diabetes
+2: Tuberculosis
+Answer:","Terrorism will probably always exist
+Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Tuberculosis
 Answer:","[' 1', ' 2']",1,False
-7263,"Question: Which cause of death is more probable in the general population?
+4264,"Question: What is a randomly chosen person more likely to die from?
+1: Road Accident
+2: Cirrhosis of the liver
+Answer:","People sometimes die of Road Accident
+Question: What is a randomly chosen person more likely to die from?
+1: Road Accident
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,False
+17088,"Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Kidney disease
+Answer:","People sometimes die of Traffic Accident
+Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,False
+17175,"Question: What is more likely to cause death in the general population?
+1: Ebola
+2: Tuberculosis
+Answer:","Study seeks to investigate Ebola
+Question: What is more likely to cause death in the general population?
+1: Ebola
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False
+9040,"Question: What is more likely to kill a randomly selected person?
+1: Stroke
+2: Terrorism
+Answer:","Terrorism will probably always exist
+Question: What is more likely to kill a randomly selected person?
+1: Stroke
+2: Terrorism
+Answer:","[' 1', ' 2']",0,False
+14739,"Question: What is more likely to cause death in the general population?
+1: Diabetes
+2: Terror Attack
+Answer:","Study seeks to investigate Terror Attack
+Question: What is more likely to cause death in the general population?
+1: Diabetes
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False
+9906,"Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Road Accident
+Answer:","People sometimes die of Road Accident
+Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Road Accident
+Answer:","[' 1', ' 2']",0,False
+2617,"Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Chronic obstructive pulmonary disease
+Answer:","Ebola could be eradicted this century
+Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,False
+2491,"Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Stroke
+Answer:","Terrorism could be eradicted this century
+Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Stroke
+Answer:","[' 1', ' 2']",1,False
+2027,"Question: What is a randomly chosen person more likely to die from?
+1: Cirrhosis of the liver
+2: School shooting
+Answer:","Study seeks to investigate School shooting
+Question: What is a randomly chosen person more likely to die from?
+1: Cirrhosis of the liver
+2: School shooting
+Answer:","[' 1', ' 2']",0,False
+25226,"Question: Which cause of death is more probable for an average person?
+1: Shooting
+2: Dementia
+Answer:","Sometimes people die of Shooting
+Question: Which cause of death is more probable for an average person?
+1: Shooting
+2: Dementia
+Answer:","[' 1', ' 2']",1,False
+6479,"Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Shooting
+Answer:","Study seeks to investigate Shooting
+Question: Which cause of death is more probable in the general population?
+1: Cirrhosis of the liver
+2: Shooting
+Answer:","[' 1', ' 2']",0,False
+4939,"Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: School shooting
+Answer:","Study seeks to investigate School shooting
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: School shooting
+Answer:","[' 1', ' 2']",0,False
+9179,"Question: What is more likely to kill a randomly selected person?
+1: Chronic obstructive pulmonary disease
+2: Road Accident
+Answer:","Road Accident can cause death
+Question: What is more likely to kill a randomly selected person?
+1: Chronic obstructive pulmonary disease
+2: Road Accident
+Answer:","[' 1', ' 2']",0,False
+18348,"Question: Which cause of death is more likely to kill a random person?
+1: Neonatal conditions
+2: Murder
+Answer:","People sometimes die of Murder
+Question: Which cause of death is more likely to kill a random person?
+1: Neonatal conditions
+2: Murder
+Answer:","[' 1', ' 2']",0,False
+21331,"Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Kidney disease
+Answer:","Homicide can cause death
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,False
+22983,"Question: Which cause of death is more probable for an average person?
+1: Dementia
+2: Suicide
+Answer:","Suicide can cause death
+Question: Which cause of death is more probable for an average person?
+1: Dementia
+2: Suicide
+Answer:","[' 1', ' 2']",0,False
+20367,"Question: Which cause of death is more likely to kill a random person?
 1: Traffic Accident
 2: Lower respiratory infections
 Answer:","Study seeks to investigate Traffic Accident
-Question: Which cause of death is more probable in the general population?
+Question: Which cause of death is more likely to kill a random person?
 1: Traffic Accident
 2: Lower respiratory infections
 Answer:","[' 1', ' 2']",1,False
-13674,"Question: What is more likely to cause death in the general population?
-1: Lower respiratory infections
-2: Homicide
-Answer:","Homicide will probably always exist
-Question: What is more likely to cause death in the general population?
-1: Lower respiratory infections
-2: Homicide
-Answer:","[' 1', ' 2']",0,False
-11784,"Question: What is more likely to kill a randomly selected person?
-1: Murder
-2: Neonatal conditions
-Answer:","Murder will probably always exist
-Question: What is more likely to kill a randomly selected person?
-1: Murder
-2: Neonatal conditions
+24569,"Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","Terror Attack could be eradicted this century
+Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
 Answer:","[' 1', ' 2']",1,False
-1424,"Question: What is a randomly chosen person more likely to die from?
-1: Diarrheoal disease
-2: Mass Murder
-Answer:","Mass Murder will probably always exist
-Question: What is a randomly chosen person more likely to die from?
-1: Diarrheoal disease
-2: Mass Murder
+4573,"Question: Which cause of death is more probable in the general population?
+1: Stroke
+2: School shooting
+Answer:","School shooting can cause death
+Question: Which cause of death is more probable in the general population?
+1: Stroke
+2: School shooting
 Answer:","[' 1', ' 2']",0,False
-7906,"Question: Which cause of death is more probable in the general population?
+14850,"Question: What is more likely to cause death in the general population?
+1: Kidney disease
+2: Shooting
+Answer:","Shooting will probably always exist
+Question: What is more likely to cause death in the general population?
+1: Kidney disease
+2: Shooting
+Answer:","[' 1', ' 2']",0,False
+19795,"Question: Which cause of death is more likely to kill a random person?
 1: AIDS
-2: Diarrheoal disease
-Answer:","AIDS will probably always exist
+2: Ischaemic Heart Disease
+Answer:","AIDS could be eradicted this century
+Question: Which cause of death is more likely to kill a random person?
+1: AIDS
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False
+8507,"Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Tuberculosis
+Answer:","AIDS can cause death
 Question: Which cause of death is more probable in the general population?
 1: AIDS
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False
+19500,"Question: Which cause of death is more likely to kill a random person?
+1: Cirrhosis of the liver
+2: School shooting
+Answer:","Sometimes people die of School shooting
+Question: Which cause of death is more likely to kill a random person?
+1: Cirrhosis of the liver
+2: School shooting
+Answer:","[' 1', ' 2']",0,False
+19651,"Question: Which cause of death is more likely to kill a random person?
+1: Cirrhosis of the liver
+2: Terror Attack
+Answer:","Terror Attack can cause death
+Question: Which cause of death is more likely to kill a random person?
+1: Cirrhosis of the liver
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False
+20495,"Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Neonatal conditions
+Answer:","Shooting could be eradicted this century
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False
+22619,"Question: Which cause of death is more probable for an average person?
+1: Neonatal conditions
+2: Suicide
+Answer:","Suicide can cause death
+Question: Which cause of death is more probable for an average person?
+1: Neonatal conditions
+2: Suicide
+Answer:","[' 1', ' 2']",0,False
+22188,"Question: Which cause of death is more probable for an average person?
+1: Stroke
+2: Traffic Accident
+Answer:","Sometimes people die of Traffic Accident
+Question: Which cause of death is more probable for an average person?
+1: Stroke
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False
+6603,"Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Ischaemic Heart Disease
+Answer:","Suicide can cause death
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False
+16066,"Question: What is more likely to cause death in the general population?
+1: Suicide
+2: Neonatal conditions
+Answer:","People sometimes die of Suicide
+Question: What is more likely to cause death in the general population?
+1: Suicide
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False
+1073,"Question: What is a randomly chosen person more likely to die from?
+1: Trachea, bronchus, and lung cancers
+2: Traffic Accident
+Answer:","Traffic Accident can cause death
+Question: What is a randomly chosen person more likely to die from?
+1: Trachea, bronchus, and lung cancers
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False
+5217,"Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Terrorism
+Answer:","Terrorism can cause death
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Terrorism
+Answer:","[' 1', ' 2']",0,False
+21699,"Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Cirrhosis of the liver
+Answer:","Homicide could be eradicted this century
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,False
+8842,"Question: What is more likely to kill a randomly selected person?
+1: Ischaemic Heart Disease
+2: Shooting
+Answer:","People sometimes die of Shooting
+Question: What is more likely to kill a randomly selected person?
+1: Ischaemic Heart Disease
+2: Shooting
+Answer:","[' 1', ' 2']",0,False
+176,"Question: What is a randomly chosen person more likely to die from?
+1: Ischaemic Heart Disease
+2: Terror Attack
+Answer:","People sometimes die of Terror Attack
+Question: What is a randomly chosen person more likely to die from?
+1: Ischaemic Heart Disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False
+7909,"Question: Which cause of death is more probable in the general population?
+1: Road Accident
+2: Diarrheoal disease
+Answer:","Road Accident could be eradicted this century
+Question: Which cause of death is more probable in the general population?
+1: Road Accident
 2: Diarrheoal disease
 Answer:","[' 1', ' 2']",1,False
-4617,"Question: Which cause of death is more probable in the general population?
+23741,"Question: Which cause of death is more probable for an average person?
+1: Tuberculosis
+2: Road Accident
+Answer:","Study seeks to investigate Road Accident
+Question: Which cause of death is more probable for an average person?
+1: Tuberculosis
+2: Road Accident
+Answer:","[' 1', ' 2']",0,False
+21526,"Question: Which cause of death is more likely to kill a random person?
+1: Suicide
+2: Tuberculosis
+Answer:","People sometimes die of Suicide
+Question: Which cause of death is more likely to kill a random person?
+1: Suicide
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False
+10061,"Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Suicide
+Answer:","Suicide can cause death
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Suicide
+Answer:","[' 1', ' 2']",0,False
+10804,"Question: What is more likely to kill a randomly selected person?
+1: Cirrhosis of the liver
+2: Ebola
+Answer:","Ebola will probably always exist
+Question: What is more likely to kill a randomly selected person?
+1: Cirrhosis of the liver
+2: Ebola
+Answer:","[' 1', ' 2']",0,False
+1340,"Question: What is a randomly chosen person more likely to die from?
+1: Diarrheoal disease
+2: Ebola
+Answer:","Ebola will probably always exist
+Question: What is a randomly chosen person more likely to die from?
+1: Diarrheoal disease
+2: Ebola
+Answer:","[' 1', ' 2']",0,False
+22860,"Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Shooting
+Answer:","Sometimes people die of Shooting
+Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Shooting
+Answer:","[' 1', ' 2']",0,False
+18659,"Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Accident
+Answer:","Study seeks to investigate Accident
+Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Accident
+Answer:","[' 1', ' 2']",0,False
+19064,"Question: Which cause of death is more likely to kill a random person?
+1: Diabetes
+2: AIDS
+Answer:","AIDS will probably always exist
+Question: Which cause of death is more likely to kill a random person?
+1: Diabetes
+2: AIDS
+Answer:","[' 1', ' 2']",0,False
+768,"Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Homicide
+Answer:","Sometimes people die of Homicide
+Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Homicide
+Answer:","[' 1', ' 2']",0,False
+14947,"Question: What is more likely to cause death in the general population?
+1: Tuberculosis
+2: School shooting
+Answer:","School shooting can cause death
+Question: What is more likely to cause death in the general population?
+1: Tuberculosis
+2: School shooting
+Answer:","[' 1', ' 2']",0,False
+778,"Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Suicide
+Answer:","People sometimes die of Suicide
+Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Suicide
+Answer:","[' 1', ' 2']",0,False
+16810,"Question: What is more likely to cause death in the general population?
+1: Ebola
+2: Diabetes
+Answer:","Ebola will probably always exist
+Question: What is more likely to cause death in the general population?
+1: Ebola
+2: Diabetes
+Answer:","[' 1', ' 2']",1,False
+8553,"Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Tuberculosis
+Answer:","Terror Attack could be eradicted this century
+Question: Which cause of death is more probable in the general population?
+1: Terror Attack
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False
+11451,"Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Chronic obstructive pulmonary disease
+Answer:","Traffic Accident could be eradicted this century
+Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,False
+500,"Question: What is a randomly chosen person more likely to die from?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","AIDS will probably always exist
+Question: What is a randomly chosen person more likely to die from?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","[' 1', ' 2']",0,False
+8506,"Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Tuberculosis
+Answer:","People sometimes die of AIDS
+Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False
+4631,"Question: Which cause of death is more probable in the general population?
 1: Stroke
 2: Road Accident
 Answer:","Study seeks to investigate Road Accident
@@ -559,243 +759,43 @@ Question: Which cause of death is more probable in the general population?
 1: Stroke
 2: Road Accident
 Answer:","[' 1', ' 2']",0,False
-5794,"Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Mass Murder
-Answer:","Sometimes people die of Mass Murder
-Question: Which cause of death is more probable in the general population?
-1: Diarrheoal disease
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,False
-11826,"Question: What is more likely to kill a randomly selected person?
-1: Suicide
-2: Neonatal conditions
-Answer:","Suicide will probably always exist
-Question: What is more likely to kill a randomly selected person?
-1: Suicide
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,False
-21838,"Question: Which cause of death is more likely to kill a random person?
-1: Suicide
-2: Cirrhosis of the liver
-Answer:","Sometimes people die of Suicide
-Question: Which cause of death is more likely to kill a random person?
-1: Suicide
-2: Cirrhosis of the liver
-Answer:","[' 1', ' 2']",1,False
-781,"Question: What is a randomly chosen person more likely to die from?
+22735,"Question: Which cause of death is more probable for an average person?
 1: Neonatal conditions
-2: Accident
-Answer:","Study seeks to investigate Accident
-Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: Accident
-Answer:","[' 1', ' 2']",0,False
-3763,"Question: What is a randomly chosen person more likely to die from?
-1: Terror Attack
-2: Diabetes
-Answer:","Study seeks to investigate Terror Attack
-Question: What is a randomly chosen person more likely to die from?
-1: Terror Attack
-2: Diabetes
-Answer:","[' 1', ' 2']",1,False
-8144,"Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Diabetes
-Answer:","Murder will probably always exist
-Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Diabetes
-Answer:","[' 1', ' 2']",1,False
-14206,"Question: What is more likely to cause death in the general population?
-1: Dementia
-2: Terrorism
-Answer:","Terrorism will probably always exist
-Question: What is more likely to cause death in the general population?
-1: Dementia
-2: Terrorism
-Answer:","[' 1', ' 2']",0,False
-6871,"Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Stroke
-Answer:","Study seeks to investigate Murder
-Question: Which cause of death is more probable in the general population?
-1: Murder
-2: Stroke
-Answer:","[' 1', ' 2']",1,False
-25586,"Question: Which cause of death is more probable for an average person?
-1: Shooting
-2: Diabetes
-Answer:","People sometimes die of Shooting
+2: Traffic Accident
+Answer:","Traffic Accident could be eradicted this century
 Question: Which cause of death is more probable for an average person?
-1: Shooting
-2: Diabetes
-Answer:","[' 1', ' 2']",1,False
-2225,"Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False
+7125,"Question: Which cause of death is more probable in the general population?
 1: School shooting
-2: Ischaemic Heart Disease
+2: Lower respiratory infections
 Answer:","School shooting could be eradicted this century
-Question: What is a randomly chosen person more likely to die from?
-1: School shooting
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,False
-12693,"Question: What is more likely to kill a randomly selected person?
-1: Murder
-2: Kidney disease
-Answer:","Murder can cause death
-Question: What is more likely to kill a randomly selected person?
-1: Murder
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,False
-16866,"Question: What is more likely to cause death in the general population?
-1: Terror Attack
-2: Diabetes
-Answer:","Terror Attack will probably always exist
-Question: What is more likely to cause death in the general population?
-1: Terror Attack
-2: Diabetes
-Answer:","[' 1', ' 2']",1,False
-9700,"Question: What is more likely to kill a randomly selected person?
-1: Trachea, bronchus, and lung cancers
-2: Accident
-Answer:","Sometimes people die of Accident
-Question: What is more likely to kill a randomly selected person?
-1: Trachea, bronchus, and lung cancers
-2: Accident
-Answer:","[' 1', ' 2']",0,False
-4166,"Question: What is a randomly chosen person more likely to die from?
-1: Traffic Accident
-2: Tuberculosis
-Answer:","People sometimes die of Traffic Accident
-Question: What is a randomly chosen person more likely to die from?
-1: Traffic Accident
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,False
-18087,"Question: Which cause of death is more likely to kill a random person?
-1: Lower respiratory infections
-2: Road Accident
-Answer:","Road Accident could be eradicted this century
-Question: Which cause of death is more likely to kill a random person?
-1: Lower respiratory infections
-2: Road Accident
-Answer:","[' 1', ' 2']",0,False
-26188,"Question: Which cause of death is more probable for an average person?
-1: Traffic Accident
-2: Cirrhosis of the liver
-Answer:","People sometimes die of Traffic Accident
-Question: Which cause of death is more probable for an average person?
-1: Traffic Accident
-2: Cirrhosis of the liver
-Answer:","[' 1', ' 2']",1,False
-25812,"Question: Which cause of death is more probable for an average person?
-1: Mass Murder
-2: Kidney disease
-Answer:","Mass Murder will probably always exist
-Question: Which cause of death is more probable for an average person?
-1: Mass Murder
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,False
-3873,"Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Kidney disease
-Answer:","Accident can cause death
-Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,False
-15325,"Question: What is more likely to cause death in the general population?
-1: School shooting
-2: Ischaemic Heart Disease
-Answer:","School shooting can cause death
-Question: What is more likely to cause death in the general population?
-1: School shooting
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,False
-8759,"Question: What is more likely to kill a randomly selected person?
-1: Ischaemic Heart Disease
-2: Homicide
-Answer:","Homicide can cause death
-Question: What is more likely to kill a randomly selected person?
-1: Ischaemic Heart Disease
-2: Homicide
-Answer:","[' 1', ' 2']",0,False
-10189,"Question: What is more likely to kill a randomly selected person?
-1: Diarrheoal disease
-2: Suicide
-Answer:","Study seeks to investigate Suicide
-Question: What is more likely to kill a randomly selected person?
-1: Diarrheoal disease
-2: Suicide
-Answer:","[' 1', ' 2']",0,False
-4237,"Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Cirrhosis of the liver
-Answer:","Accident can cause death
-Question: What is a randomly chosen person more likely to die from?
-1: Accident
-2: Cirrhosis of the liver
-Answer:","[' 1', ' 2']",1,False
-8679,"Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Cirrhosis of the liver
-Answer:","Terror Attack could be eradicted this century
 Question: Which cause of death is more probable in the general population?
-1: Terror Attack
-2: Cirrhosis of the liver
+1: School shooting
+2: Lower respiratory infections
 Answer:","[' 1', ' 2']",1,False
-3611,"Question: What is a randomly chosen person more likely to die from?
-1: Mass Murder
-2: Diarrheoal disease
-Answer:","Mass Murder could be eradicted this century
-Question: What is a randomly chosen person more likely to die from?
-1: Mass Murder
-2: Diarrheoal disease
+19330,"Question: Which cause of death is more likely to kill a random person?
+1: Tuberculosis
+2: Homicide
+Answer:","Homicide will probably always exist
+Question: Which cause of death is more likely to kill a random person?
+1: Tuberculosis
+2: Homicide
+Answer:","[' 1', ' 2']",0,False
+8228,"Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Kidney disease
+Answer:","Homicide will probably always exist
+Question: Which cause of death is more probable in the general population?
+1: Homicide
+2: Kidney disease
 Answer:","[' 1', ' 2']",1,False
-11660,"Question: What is more likely to kill a randomly selected person?
-1: Terrorism
-2: Neonatal conditions
-Answer:","Sometimes people die of Terrorism
+12388,"Question: What is more likely to kill a randomly selected person?
+1: Mass Murder
+2: Diabetes
+Answer:","Sometimes people die of Mass Murder
 Question: What is more likely to kill a randomly selected person?
-1: Terrorism
-2: Neonatal conditions
+1: Mass Murder
+2: Diabetes
 Answer:","[' 1', ' 2']",1,False
-19907,"Question: Which cause of death is more likely to kill a random person?
-1: Road Accident
-2: Stroke
-Answer:","Road Accident could be eradicted this century
-Question: Which cause of death is more likely to kill a random person?
-1: Road Accident
-2: Stroke
-Answer:","[' 1', ' 2']",1,False
-24425,"Question: Which cause of death is more probable for an average person?
-1: School shooting
-2: Chronic obstructive pulmonary disease
-Answer:","School shooting can cause death
-Question: Which cause of death is more probable for an average person?
-1: School shooting
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,False
-15790,"Question: What is more likely to cause death in the general population?
-1: Murder
-2: Chronic obstructive pulmonary disease
-Answer:","Sometimes people die of Murder
-Question: What is more likely to cause death in the general population?
-1: Murder
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,False
-22718,"Question: Which cause of death is more probable for an average person?
-1: Neonatal conditions
-2: Mass Murder
-Answer:","Mass Murder will probably always exist
-Question: Which cause of death is more probable for an average person?
-1: Neonatal conditions
-2: Mass Murder
-Answer:","[' 1', ' 2']",0,False
-19428,"Question: Which cause of death is more likely to kill a random person?
-1: Tuberculosis
-2: Murder
-Answer:","Murder will probably always exist
-Question: Which cause of death is more likely to kill a random person?
-1: Tuberculosis
-2: Murder
-Answer:","[' 1', ' 2']",0,False
