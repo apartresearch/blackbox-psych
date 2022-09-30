@@ -1,0 +1,4401 @@
+prompt,other_prompt,classes,answer_index,indices,anchor_scale,kshot,preprompt,reverse,type,correct_n
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  5
+
+Answer:","Random number: 5.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  5
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  5
+B:  16
+
+Answer:","Random number: 5.
+Q: What was the number of Lincoln's presidency?
+A:  5
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  6
+
+Answer:","Random number: 6.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  6
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  6
+B:  16
+
+Answer:","Random number: 6.
+Q: What was the number of Lincoln's presidency?
+A:  6
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  7
+
+Answer:","Random number: 7.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  7
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  7
+B:  16
+
+Answer:","Random number: 7.
+Q: What was the number of Lincoln's presidency?
+A:  7
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  8
+
+Answer:","Random number: 8.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  8
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  8
+B:  16
+
+Answer:","Random number: 8.
+Q: What was the number of Lincoln's presidency?
+A:  8
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  9
+
+Answer:","Random number: 9.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  9
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  9
+B:  16
+
+Answer:","Random number: 9.
+Q: What was the number of Lincoln's presidency?
+A:  9
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  10
+
+Answer:","Random number: 10.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  10
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  10
+B:  16
+
+Answer:","Random number: 10.
+Q: What was the number of Lincoln's presidency?
+A:  10
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  11
+
+Answer:","Random number: 11.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  11
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  11
+B:  16
+
+Answer:","Random number: 11.
+Q: What was the number of Lincoln's presidency?
+A:  11
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  12
+
+Answer:","Random number: 12.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  12
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  12
+B:  16
+
+Answer:","Random number: 12.
+Q: What was the number of Lincoln's presidency?
+A:  12
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  13
+
+Answer:","Random number: 13.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  13
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  13
+B:  16
+
+Answer:","Random number: 13.
+Q: What was the number of Lincoln's presidency?
+A:  13
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  14
+
+Answer:","Random number: 14.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  14
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  14
+B:  16
+
+Answer:","Random number: 14.
+Q: What was the number of Lincoln's presidency?
+A:  14
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  18
+
+Answer:","Random number: 18.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  18
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  18
+B:  16
+
+Answer:","Random number: 18.
+Q: What was the number of Lincoln's presidency?
+A:  18
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  19
+
+Answer:","Random number: 19.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  19
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  19
+B:  16
+
+Answer:","Random number: 19.
+Q: What was the number of Lincoln's presidency?
+A:  19
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  20
+
+Answer:","Random number: 20.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  20
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  20
+B:  16
+
+Answer:","Random number: 20.
+Q: What was the number of Lincoln's presidency?
+A:  20
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  21
+
+Answer:","Random number: 21.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  21
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  21
+B:  16
+
+Answer:","Random number: 21.
+Q: What was the number of Lincoln's presidency?
+A:  21
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  22
+
+Answer:","Random number: 22.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  22
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  22
+B:  16
+
+Answer:","Random number: 22.
+Q: What was the number of Lincoln's presidency?
+A:  22
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  23
+
+Answer:","Random number: 23.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  23
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  23
+B:  16
+
+Answer:","Random number: 23.
+Q: What was the number of Lincoln's presidency?
+A:  23
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  24
+
+Answer:","Random number: 24.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  24
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  24
+B:  16
+
+Answer:","Random number: 24.
+Q: What was the number of Lincoln's presidency?
+A:  24
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  25
+
+Answer:","Random number: 25.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  25
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  25
+B:  16
+
+Answer:","Random number: 25.
+Q: What was the number of Lincoln's presidency?
+A:  25
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  26
+
+Answer:","Random number: 26.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  26
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  26
+B:  16
+
+Answer:","Random number: 26.
+Q: What was the number of Lincoln's presidency?
+A:  26
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  16
+B:  27
+
+Answer:","Random number: 27.
+Q: What was the number of Lincoln's presidency?
+A:  16
+B:  27
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,16
+"Q: What was the number of Lincoln's presidency?
+A:  27
+B:  16
+
+Answer:","Random number: 27.
+Q: What was the number of Lincoln's presidency?
+A:  27
+B:  16
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,16
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  -5
+
+Answer:","Random number: -5.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  -5
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  -5
+B:  6
+
+Answer:","Random number: -5.
+Q: How many players are there on an ice hockey team?
+A:  -5
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  -4
+
+Answer:","Random number: -4.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  -4
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  -4
+B:  6
+
+Answer:","Random number: -4.
+Q: How many players are there on an ice hockey team?
+A:  -4
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  -3
+
+Answer:","Random number: -3.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  -3
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  -3
+B:  6
+
+Answer:","Random number: -3.
+Q: How many players are there on an ice hockey team?
+A:  -3
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  -2
+
+Answer:","Random number: -2.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  -2
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  -2
+B:  6
+
+Answer:","Random number: -2.
+Q: How many players are there on an ice hockey team?
+A:  -2
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  -1
+
+Answer:","Random number: -1.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  -1
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  -1
+B:  6
+
+Answer:","Random number: -1.
+Q: How many players are there on an ice hockey team?
+A:  -1
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  0
+
+Answer:","Random number: 0.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  0
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  0
+B:  6
+
+Answer:","Random number: 0.
+Q: How many players are there on an ice hockey team?
+A:  0
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  1
+
+Answer:","Random number: 1.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  1
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  1
+B:  6
+
+Answer:","Random number: 1.
+Q: How many players are there on an ice hockey team?
+A:  1
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  2
+
+Answer:","Random number: 2.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  2
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  2
+B:  6
+
+Answer:","Random number: 2.
+Q: How many players are there on an ice hockey team?
+A:  2
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  3
+
+Answer:","Random number: 3.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  3
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  3
+B:  6
+
+Answer:","Random number: 3.
+Q: How many players are there on an ice hockey team?
+A:  3
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  4
+
+Answer:","Random number: 4.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  4
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  4
+B:  6
+
+Answer:","Random number: 4.
+Q: How many players are there on an ice hockey team?
+A:  4
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  8
+
+Answer:","Random number: 8.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  8
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  8
+B:  6
+
+Answer:","Random number: 8.
+Q: How many players are there on an ice hockey team?
+A:  8
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  9
+
+Answer:","Random number: 9.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  9
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  9
+B:  6
+
+Answer:","Random number: 9.
+Q: How many players are there on an ice hockey team?
+A:  9
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  10
+
+Answer:","Random number: 10.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  10
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  10
+B:  6
+
+Answer:","Random number: 10.
+Q: How many players are there on an ice hockey team?
+A:  10
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  11
+
+Answer:","Random number: 11.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  11
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  11
+B:  6
+
+Answer:","Random number: 11.
+Q: How many players are there on an ice hockey team?
+A:  11
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  12
+
+Answer:","Random number: 12.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  12
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  12
+B:  6
+
+Answer:","Random number: 12.
+Q: How many players are there on an ice hockey team?
+A:  12
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  13
+
+Answer:","Random number: 13.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  13
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  13
+B:  6
+
+Answer:","Random number: 13.
+Q: How many players are there on an ice hockey team?
+A:  13
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  14
+
+Answer:","Random number: 14.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  14
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  14
+B:  6
+
+Answer:","Random number: 14.
+Q: How many players are there on an ice hockey team?
+A:  14
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  15
+
+Answer:","Random number: 15.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  15
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  15
+B:  6
+
+Answer:","Random number: 15.
+Q: How many players are there on an ice hockey team?
+A:  15
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  16
+
+Answer:","Random number: 16.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  16
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  16
+B:  6
+
+Answer:","Random number: 16.
+Q: How many players are there on an ice hockey team?
+A:  16
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  6
+B:  17
+
+Answer:","Random number: 17.
+Q: How many players are there on an ice hockey team?
+A:  6
+B:  17
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,6
+"Q: How many players are there on an ice hockey team?
+A:  17
+B:  6
+
+Answer:","Random number: 17.
+Q: How many players are there on an ice hockey team?
+A:  17
+B:  6
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,6
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  33
+
+Answer:","Random number: 33.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  33
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  33
+B:  44
+
+Answer:","Random number: 33.
+Q: Which number president was Obama of the United States?
+A:  33
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  34
+
+Answer:","Random number: 34.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  34
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  34
+B:  44
+
+Answer:","Random number: 34.
+Q: Which number president was Obama of the United States?
+A:  34
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  35
+
+Answer:","Random number: 35.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  35
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  35
+B:  44
+
+Answer:","Random number: 35.
+Q: Which number president was Obama of the United States?
+A:  35
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  36
+
+Answer:","Random number: 36.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  36
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  36
+B:  44
+
+Answer:","Random number: 36.
+Q: Which number president was Obama of the United States?
+A:  36
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  37
+
+Answer:","Random number: 37.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  37
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  37
+B:  44
+
+Answer:","Random number: 37.
+Q: Which number president was Obama of the United States?
+A:  37
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  38
+
+Answer:","Random number: 38.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  38
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  38
+B:  44
+
+Answer:","Random number: 38.
+Q: Which number president was Obama of the United States?
+A:  38
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  39
+
+Answer:","Random number: 39.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  39
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  39
+B:  44
+
+Answer:","Random number: 39.
+Q: Which number president was Obama of the United States?
+A:  39
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  40
+
+Answer:","Random number: 40.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  40
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  40
+B:  44
+
+Answer:","Random number: 40.
+Q: Which number president was Obama of the United States?
+A:  40
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  41
+
+Answer:","Random number: 41.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  41
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  41
+B:  44
+
+Answer:","Random number: 41.
+Q: Which number president was Obama of the United States?
+A:  41
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  42
+
+Answer:","Random number: 42.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  42
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  42
+B:  44
+
+Answer:","Random number: 42.
+Q: Which number president was Obama of the United States?
+A:  42
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  46
+
+Answer:","Random number: 46.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  46
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  46
+B:  44
+
+Answer:","Random number: 46.
+Q: Which number president was Obama of the United States?
+A:  46
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  47
+
+Answer:","Random number: 47.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  47
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  47
+B:  44
+
+Answer:","Random number: 47.
+Q: Which number president was Obama of the United States?
+A:  47
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  48
+
+Answer:","Random number: 48.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  48
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  48
+B:  44
+
+Answer:","Random number: 48.
+Q: Which number president was Obama of the United States?
+A:  48
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  49
+
+Answer:","Random number: 49.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  49
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  49
+B:  44
+
+Answer:","Random number: 49.
+Q: Which number president was Obama of the United States?
+A:  49
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  50
+
+Answer:","Random number: 50.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  50
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  50
+B:  44
+
+Answer:","Random number: 50.
+Q: Which number president was Obama of the United States?
+A:  50
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  51
+
+Answer:","Random number: 51.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  51
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  51
+B:  44
+
+Answer:","Random number: 51.
+Q: Which number president was Obama of the United States?
+A:  51
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  52
+
+Answer:","Random number: 52.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  52
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  52
+B:  44
+
+Answer:","Random number: 52.
+Q: Which number president was Obama of the United States?
+A:  52
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  53
+
+Answer:","Random number: 53.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  53
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  53
+B:  44
+
+Answer:","Random number: 53.
+Q: Which number president was Obama of the United States?
+A:  53
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  54
+
+Answer:","Random number: 54.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  54
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  54
+B:  44
+
+Answer:","Random number: 54.
+Q: Which number president was Obama of the United States?
+A:  54
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: Which number president was Obama of the United States?
+A:  44
+B:  55
+
+Answer:","Random number: 55.
+Q: Which number president was Obama of the United States?
+A:  44
+B:  55
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,44
+"Q: Which number president was Obama of the United States?
+A:  55
+B:  44
+
+Answer:","Random number: 55.
+Q: Which number president was Obama of the United States?
+A:  55
+B:  44
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,44
+"Q: How many countries are in the European Union?
+A:  27
+B:  16
+
+Answer:","Random number: 16.
+Q: How many countries are in the European Union?
+A:  27
+B:  16
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  16
+B:  27
+
+Answer:","Random number: 16.
+Q: How many countries are in the European Union?
+A:  16
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  17
+
+Answer:","Random number: 17.
+Q: How many countries are in the European Union?
+A:  27
+B:  17
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  17
+B:  27
+
+Answer:","Random number: 17.
+Q: How many countries are in the European Union?
+A:  17
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  18
+
+Answer:","Random number: 18.
+Q: How many countries are in the European Union?
+A:  27
+B:  18
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  18
+B:  27
+
+Answer:","Random number: 18.
+Q: How many countries are in the European Union?
+A:  18
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  19
+
+Answer:","Random number: 19.
+Q: How many countries are in the European Union?
+A:  27
+B:  19
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  19
+B:  27
+
+Answer:","Random number: 19.
+Q: How many countries are in the European Union?
+A:  19
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  20
+
+Answer:","Random number: 20.
+Q: How many countries are in the European Union?
+A:  27
+B:  20
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  20
+B:  27
+
+Answer:","Random number: 20.
+Q: How many countries are in the European Union?
+A:  20
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  21
+
+Answer:","Random number: 21.
+Q: How many countries are in the European Union?
+A:  27
+B:  21
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  21
+B:  27
+
+Answer:","Random number: 21.
+Q: How many countries are in the European Union?
+A:  21
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  22
+
+Answer:","Random number: 22.
+Q: How many countries are in the European Union?
+A:  27
+B:  22
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  22
+B:  27
+
+Answer:","Random number: 22.
+Q: How many countries are in the European Union?
+A:  22
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  23
+
+Answer:","Random number: 23.
+Q: How many countries are in the European Union?
+A:  27
+B:  23
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  23
+B:  27
+
+Answer:","Random number: 23.
+Q: How many countries are in the European Union?
+A:  23
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  24
+
+Answer:","Random number: 24.
+Q: How many countries are in the European Union?
+A:  27
+B:  24
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  24
+B:  27
+
+Answer:","Random number: 24.
+Q: How many countries are in the European Union?
+A:  24
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  25
+
+Answer:","Random number: 25.
+Q: How many countries are in the European Union?
+A:  27
+B:  25
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  25
+B:  27
+
+Answer:","Random number: 25.
+Q: How many countries are in the European Union?
+A:  25
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  29
+
+Answer:","Random number: 29.
+Q: How many countries are in the European Union?
+A:  27
+B:  29
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  29
+B:  27
+
+Answer:","Random number: 29.
+Q: How many countries are in the European Union?
+A:  29
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  30
+
+Answer:","Random number: 30.
+Q: How many countries are in the European Union?
+A:  27
+B:  30
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  30
+B:  27
+
+Answer:","Random number: 30.
+Q: How many countries are in the European Union?
+A:  30
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  31
+
+Answer:","Random number: 31.
+Q: How many countries are in the European Union?
+A:  27
+B:  31
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  31
+B:  27
+
+Answer:","Random number: 31.
+Q: How many countries are in the European Union?
+A:  31
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  32
+
+Answer:","Random number: 32.
+Q: How many countries are in the European Union?
+A:  27
+B:  32
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  32
+B:  27
+
+Answer:","Random number: 32.
+Q: How many countries are in the European Union?
+A:  32
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  33
+
+Answer:","Random number: 33.
+Q: How many countries are in the European Union?
+A:  27
+B:  33
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  33
+B:  27
+
+Answer:","Random number: 33.
+Q: How many countries are in the European Union?
+A:  33
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  34
+
+Answer:","Random number: 34.
+Q: How many countries are in the European Union?
+A:  27
+B:  34
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  34
+B:  27
+
+Answer:","Random number: 34.
+Q: How many countries are in the European Union?
+A:  34
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  35
+
+Answer:","Random number: 35.
+Q: How many countries are in the European Union?
+A:  27
+B:  35
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  35
+B:  27
+
+Answer:","Random number: 35.
+Q: How many countries are in the European Union?
+A:  35
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  36
+
+Answer:","Random number: 36.
+Q: How many countries are in the European Union?
+A:  27
+B:  36
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  36
+B:  27
+
+Answer:","Random number: 36.
+Q: How many countries are in the European Union?
+A:  36
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  37
+
+Answer:","Random number: 37.
+Q: How many countries are in the European Union?
+A:  27
+B:  37
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  37
+B:  27
+
+Answer:","Random number: 37.
+Q: How many countries are in the European Union?
+A:  37
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many countries are in the European Union?
+A:  27
+B:  38
+
+Answer:","Random number: 38.
+Q: How many countries are in the European Union?
+A:  27
+B:  38
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,27
+"Q: How many countries are in the European Union?
+A:  38
+B:  27
+
+Answer:","Random number: 38.
+Q: How many countries are in the European Union?
+A:  38
+B:  27
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,27
+"Q: How many states are in the United States?
+A:  50
+B:  39
+
+Answer:","Random number: 39.
+Q: How many states are in the United States?
+A:  50
+B:  39
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  39
+B:  50
+
+Answer:","Random number: 39.
+Q: How many states are in the United States?
+A:  39
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  40
+
+Answer:","Random number: 40.
+Q: How many states are in the United States?
+A:  50
+B:  40
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  40
+B:  50
+
+Answer:","Random number: 40.
+Q: How many states are in the United States?
+A:  40
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  41
+
+Answer:","Random number: 41.
+Q: How many states are in the United States?
+A:  50
+B:  41
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  41
+B:  50
+
+Answer:","Random number: 41.
+Q: How many states are in the United States?
+A:  41
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  42
+
+Answer:","Random number: 42.
+Q: How many states are in the United States?
+A:  50
+B:  42
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  42
+B:  50
+
+Answer:","Random number: 42.
+Q: How many states are in the United States?
+A:  42
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  43
+
+Answer:","Random number: 43.
+Q: How many states are in the United States?
+A:  50
+B:  43
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  43
+B:  50
+
+Answer:","Random number: 43.
+Q: How many states are in the United States?
+A:  43
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  44
+
+Answer:","Random number: 44.
+Q: How many states are in the United States?
+A:  50
+B:  44
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  44
+B:  50
+
+Answer:","Random number: 44.
+Q: How many states are in the United States?
+A:  44
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  45
+
+Answer:","Random number: 45.
+Q: How many states are in the United States?
+A:  50
+B:  45
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  45
+B:  50
+
+Answer:","Random number: 45.
+Q: How many states are in the United States?
+A:  45
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  46
+
+Answer:","Random number: 46.
+Q: How many states are in the United States?
+A:  50
+B:  46
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  46
+B:  50
+
+Answer:","Random number: 46.
+Q: How many states are in the United States?
+A:  46
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  47
+
+Answer:","Random number: 47.
+Q: How many states are in the United States?
+A:  50
+B:  47
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  47
+B:  50
+
+Answer:","Random number: 47.
+Q: How many states are in the United States?
+A:  47
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  48
+
+Answer:","Random number: 48.
+Q: How many states are in the United States?
+A:  50
+B:  48
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  48
+B:  50
+
+Answer:","Random number: 48.
+Q: How many states are in the United States?
+A:  48
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  52
+
+Answer:","Random number: 52.
+Q: How many states are in the United States?
+A:  50
+B:  52
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  52
+B:  50
+
+Answer:","Random number: 52.
+Q: How many states are in the United States?
+A:  52
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  53
+
+Answer:","Random number: 53.
+Q: How many states are in the United States?
+A:  50
+B:  53
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  53
+B:  50
+
+Answer:","Random number: 53.
+Q: How many states are in the United States?
+A:  53
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  54
+
+Answer:","Random number: 54.
+Q: How many states are in the United States?
+A:  50
+B:  54
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  54
+B:  50
+
+Answer:","Random number: 54.
+Q: How many states are in the United States?
+A:  54
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  55
+
+Answer:","Random number: 55.
+Q: How many states are in the United States?
+A:  50
+B:  55
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  55
+B:  50
+
+Answer:","Random number: 55.
+Q: How many states are in the United States?
+A:  55
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  56
+
+Answer:","Random number: 56.
+Q: How many states are in the United States?
+A:  50
+B:  56
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  56
+B:  50
+
+Answer:","Random number: 56.
+Q: How many states are in the United States?
+A:  56
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  57
+
+Answer:","Random number: 57.
+Q: How many states are in the United States?
+A:  50
+B:  57
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  57
+B:  50
+
+Answer:","Random number: 57.
+Q: How many states are in the United States?
+A:  57
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  58
+
+Answer:","Random number: 58.
+Q: How many states are in the United States?
+A:  50
+B:  58
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  58
+B:  50
+
+Answer:","Random number: 58.
+Q: How many states are in the United States?
+A:  58
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  59
+
+Answer:","Random number: 59.
+Q: How many states are in the United States?
+A:  50
+B:  59
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  59
+B:  50
+
+Answer:","Random number: 59.
+Q: How many states are in the United States?
+A:  59
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  60
+
+Answer:","Random number: 60.
+Q: How many states are in the United States?
+A:  50
+B:  60
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  60
+B:  50
+
+Answer:","Random number: 60.
+Q: How many states are in the United States?
+A:  60
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many states are in the United States?
+A:  50
+B:  61
+
+Answer:","Random number: 61.
+Q: How many states are in the United States?
+A:  50
+B:  61
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,50
+"Q: How many states are in the United States?
+A:  61
+B:  50
+
+Answer:","Random number: 61.
+Q: How many states are in the United States?
+A:  61
+B:  50
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,50
+"Q: How many universities are there in Denmark?
+A:  8
+B:  -3
+
+Answer:","Random number: -3.
+Q: How many universities are there in Denmark?
+A:  8
+B:  -3
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  -3
+B:  8
+
+Answer:","Random number: -3.
+Q: How many universities are there in Denmark?
+A:  -3
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  -2
+
+Answer:","Random number: -2.
+Q: How many universities are there in Denmark?
+A:  8
+B:  -2
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  -2
+B:  8
+
+Answer:","Random number: -2.
+Q: How many universities are there in Denmark?
+A:  -2
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  -1
+
+Answer:","Random number: -1.
+Q: How many universities are there in Denmark?
+A:  8
+B:  -1
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  -1
+B:  8
+
+Answer:","Random number: -1.
+Q: How many universities are there in Denmark?
+A:  -1
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  0
+
+Answer:","Random number: 0.
+Q: How many universities are there in Denmark?
+A:  8
+B:  0
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  0
+B:  8
+
+Answer:","Random number: 0.
+Q: How many universities are there in Denmark?
+A:  0
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  1
+
+Answer:","Random number: 1.
+Q: How many universities are there in Denmark?
+A:  8
+B:  1
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  1
+B:  8
+
+Answer:","Random number: 1.
+Q: How many universities are there in Denmark?
+A:  1
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  2
+
+Answer:","Random number: 2.
+Q: How many universities are there in Denmark?
+A:  8
+B:  2
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  2
+B:  8
+
+Answer:","Random number: 2.
+Q: How many universities are there in Denmark?
+A:  2
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  3
+
+Answer:","Random number: 3.
+Q: How many universities are there in Denmark?
+A:  8
+B:  3
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  3
+B:  8
+
+Answer:","Random number: 3.
+Q: How many universities are there in Denmark?
+A:  3
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  4
+
+Answer:","Random number: 4.
+Q: How many universities are there in Denmark?
+A:  8
+B:  4
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  4
+B:  8
+
+Answer:","Random number: 4.
+Q: How many universities are there in Denmark?
+A:  4
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  5
+
+Answer:","Random number: 5.
+Q: How many universities are there in Denmark?
+A:  8
+B:  5
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  5
+B:  8
+
+Answer:","Random number: 5.
+Q: How many universities are there in Denmark?
+A:  5
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  6
+
+Answer:","Random number: 6.
+Q: How many universities are there in Denmark?
+A:  8
+B:  6
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  6
+B:  8
+
+Answer:","Random number: 6.
+Q: How many universities are there in Denmark?
+A:  6
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  10
+
+Answer:","Random number: 10.
+Q: How many universities are there in Denmark?
+A:  8
+B:  10
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  10
+B:  8
+
+Answer:","Random number: 10.
+Q: How many universities are there in Denmark?
+A:  10
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  11
+
+Answer:","Random number: 11.
+Q: How many universities are there in Denmark?
+A:  8
+B:  11
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  11
+B:  8
+
+Answer:","Random number: 11.
+Q: How many universities are there in Denmark?
+A:  11
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  12
+
+Answer:","Random number: 12.
+Q: How many universities are there in Denmark?
+A:  8
+B:  12
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  12
+B:  8
+
+Answer:","Random number: 12.
+Q: How many universities are there in Denmark?
+A:  12
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  13
+
+Answer:","Random number: 13.
+Q: How many universities are there in Denmark?
+A:  8
+B:  13
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  13
+B:  8
+
+Answer:","Random number: 13.
+Q: How many universities are there in Denmark?
+A:  13
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  14
+
+Answer:","Random number: 14.
+Q: How many universities are there in Denmark?
+A:  8
+B:  14
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  14
+B:  8
+
+Answer:","Random number: 14.
+Q: How many universities are there in Denmark?
+A:  14
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  15
+
+Answer:","Random number: 15.
+Q: How many universities are there in Denmark?
+A:  8
+B:  15
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  15
+B:  8
+
+Answer:","Random number: 15.
+Q: How many universities are there in Denmark?
+A:  15
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  16
+
+Answer:","Random number: 16.
+Q: How many universities are there in Denmark?
+A:  8
+B:  16
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  16
+B:  8
+
+Answer:","Random number: 16.
+Q: How many universities are there in Denmark?
+A:  16
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  17
+
+Answer:","Random number: 17.
+Q: How many universities are there in Denmark?
+A:  8
+B:  17
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  17
+B:  8
+
+Answer:","Random number: 17.
+Q: How many universities are there in Denmark?
+A:  17
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  18
+
+Answer:","Random number: 18.
+Q: How many universities are there in Denmark?
+A:  8
+B:  18
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  18
+B:  8
+
+Answer:","Random number: 18.
+Q: How many universities are there in Denmark?
+A:  18
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many universities are there in Denmark?
+A:  8
+B:  19
+
+Answer:","Random number: 19.
+Q: How many universities are there in Denmark?
+A:  8
+B:  19
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,8
+"Q: How many universities are there in Denmark?
+A:  19
+B:  8
+
+Answer:","Random number: 19.
+Q: How many universities are there in Denmark?
+A:  19
+B:  8
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,8
+"Q: How many players are there in an American football team?
+A:  11
+B:  0
+
+Answer:","Random number: 0.
+Q: How many players are there in an American football team?
+A:  11
+B:  0
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  0
+B:  11
+
+Answer:","Random number: 0.
+Q: How many players are there in an American football team?
+A:  0
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  1
+
+Answer:","Random number: 1.
+Q: How many players are there in an American football team?
+A:  11
+B:  1
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  1
+B:  11
+
+Answer:","Random number: 1.
+Q: How many players are there in an American football team?
+A:  1
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  2
+
+Answer:","Random number: 2.
+Q: How many players are there in an American football team?
+A:  11
+B:  2
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  2
+B:  11
+
+Answer:","Random number: 2.
+Q: How many players are there in an American football team?
+A:  2
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  3
+
+Answer:","Random number: 3.
+Q: How many players are there in an American football team?
+A:  11
+B:  3
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  3
+B:  11
+
+Answer:","Random number: 3.
+Q: How many players are there in an American football team?
+A:  3
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  4
+
+Answer:","Random number: 4.
+Q: How many players are there in an American football team?
+A:  11
+B:  4
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  4
+B:  11
+
+Answer:","Random number: 4.
+Q: How many players are there in an American football team?
+A:  4
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  5
+
+Answer:","Random number: 5.
+Q: How many players are there in an American football team?
+A:  11
+B:  5
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  5
+B:  11
+
+Answer:","Random number: 5.
+Q: How many players are there in an American football team?
+A:  5
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  6
+
+Answer:","Random number: 6.
+Q: How many players are there in an American football team?
+A:  11
+B:  6
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  6
+B:  11
+
+Answer:","Random number: 6.
+Q: How many players are there in an American football team?
+A:  6
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  7
+
+Answer:","Random number: 7.
+Q: How many players are there in an American football team?
+A:  11
+B:  7
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  7
+B:  11
+
+Answer:","Random number: 7.
+Q: How many players are there in an American football team?
+A:  7
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  8
+
+Answer:","Random number: 8.
+Q: How many players are there in an American football team?
+A:  11
+B:  8
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  8
+B:  11
+
+Answer:","Random number: 8.
+Q: How many players are there in an American football team?
+A:  8
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  9
+
+Answer:","Random number: 9.
+Q: How many players are there in an American football team?
+A:  11
+B:  9
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  9
+B:  11
+
+Answer:","Random number: 9.
+Q: How many players are there in an American football team?
+A:  9
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  13
+
+Answer:","Random number: 13.
+Q: How many players are there in an American football team?
+A:  11
+B:  13
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  13
+B:  11
+
+Answer:","Random number: 13.
+Q: How many players are there in an American football team?
+A:  13
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  14
+
+Answer:","Random number: 14.
+Q: How many players are there in an American football team?
+A:  11
+B:  14
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  14
+B:  11
+
+Answer:","Random number: 14.
+Q: How many players are there in an American football team?
+A:  14
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  15
+
+Answer:","Random number: 15.
+Q: How many players are there in an American football team?
+A:  11
+B:  15
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  15
+B:  11
+
+Answer:","Random number: 15.
+Q: How many players are there in an American football team?
+A:  15
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  16
+
+Answer:","Random number: 16.
+Q: How many players are there in an American football team?
+A:  11
+B:  16
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  16
+B:  11
+
+Answer:","Random number: 16.
+Q: How many players are there in an American football team?
+A:  16
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  17
+
+Answer:","Random number: 17.
+Q: How many players are there in an American football team?
+A:  11
+B:  17
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  17
+B:  11
+
+Answer:","Random number: 17.
+Q: How many players are there in an American football team?
+A:  17
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  18
+
+Answer:","Random number: 18.
+Q: How many players are there in an American football team?
+A:  11
+B:  18
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  18
+B:  11
+
+Answer:","Random number: 18.
+Q: How many players are there in an American football team?
+A:  18
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  19
+
+Answer:","Random number: 19.
+Q: How many players are there in an American football team?
+A:  11
+B:  19
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  19
+B:  11
+
+Answer:","Random number: 19.
+Q: How many players are there in an American football team?
+A:  19
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  20
+
+Answer:","Random number: 20.
+Q: How many players are there in an American football team?
+A:  11
+B:  20
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  20
+B:  11
+
+Answer:","Random number: 20.
+Q: How many players are there in an American football team?
+A:  20
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  21
+
+Answer:","Random number: 21.
+Q: How many players are there in an American football team?
+A:  11
+B:  21
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  21
+B:  11
+
+Answer:","Random number: 21.
+Q: How many players are there in an American football team?
+A:  21
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many players are there in an American football team?
+A:  11
+B:  22
+
+Answer:","Random number: 22.
+Q: How many players are there in an American football team?
+A:  11
+B:  22
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,11
+"Q: How many players are there in an American football team?
+A:  22
+B:  11
+
+Answer:","Random number: 22.
+Q: How many players are there in an American football team?
+A:  22
+B:  11
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,11
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  61
+
+Answer:","Random number: 61.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  61
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  61
+B:  72
+
+Answer:","Random number: 61.
+Q: How many years was the longest rule of a monarch?
+A:  61
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  62
+
+Answer:","Random number: 62.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  62
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  62
+B:  72
+
+Answer:","Random number: 62.
+Q: How many years was the longest rule of a monarch?
+A:  62
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  63
+
+Answer:","Random number: 63.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  63
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  63
+B:  72
+
+Answer:","Random number: 63.
+Q: How many years was the longest rule of a monarch?
+A:  63
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  64
+
+Answer:","Random number: 64.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  64
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  64
+B:  72
+
+Answer:","Random number: 64.
+Q: How many years was the longest rule of a monarch?
+A:  64
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  65
+
+Answer:","Random number: 65.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  65
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  65
+B:  72
+
+Answer:","Random number: 65.
+Q: How many years was the longest rule of a monarch?
+A:  65
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  66
+
+Answer:","Random number: 66.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  66
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  66
+B:  72
+
+Answer:","Random number: 66.
+Q: How many years was the longest rule of a monarch?
+A:  66
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  67
+
+Answer:","Random number: 67.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  67
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  67
+B:  72
+
+Answer:","Random number: 67.
+Q: How many years was the longest rule of a monarch?
+A:  67
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  68
+
+Answer:","Random number: 68.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  68
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  68
+B:  72
+
+Answer:","Random number: 68.
+Q: How many years was the longest rule of a monarch?
+A:  68
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  69
+
+Answer:","Random number: 69.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  69
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  69
+B:  72
+
+Answer:","Random number: 69.
+Q: How many years was the longest rule of a monarch?
+A:  69
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  70
+
+Answer:","Random number: 70.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  70
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  70
+B:  72
+
+Answer:","Random number: 70.
+Q: How many years was the longest rule of a monarch?
+A:  70
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  74
+
+Answer:","Random number: 74.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  74
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  74
+B:  72
+
+Answer:","Random number: 74.
+Q: How many years was the longest rule of a monarch?
+A:  74
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  75
+
+Answer:","Random number: 75.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  75
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  75
+B:  72
+
+Answer:","Random number: 75.
+Q: How many years was the longest rule of a monarch?
+A:  75
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  76
+
+Answer:","Random number: 76.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  76
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  76
+B:  72
+
+Answer:","Random number: 76.
+Q: How many years was the longest rule of a monarch?
+A:  76
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  77
+
+Answer:","Random number: 77.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  77
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  77
+B:  72
+
+Answer:","Random number: 77.
+Q: How many years was the longest rule of a monarch?
+A:  77
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  78
+
+Answer:","Random number: 78.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  78
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  78
+B:  72
+
+Answer:","Random number: 78.
+Q: How many years was the longest rule of a monarch?
+A:  78
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  79
+
+Answer:","Random number: 79.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  79
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  79
+B:  72
+
+Answer:","Random number: 79.
+Q: How many years was the longest rule of a monarch?
+A:  79
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  80
+
+Answer:","Random number: 80.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  80
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  80
+B:  72
+
+Answer:","Random number: 80.
+Q: How many years was the longest rule of a monarch?
+A:  80
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  81
+
+Answer:","Random number: 81.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  81
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  81
+B:  72
+
+Answer:","Random number: 81.
+Q: How many years was the longest rule of a monarch?
+A:  81
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  82
+
+Answer:","Random number: 82.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  82
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  82
+B:  72
+
+Answer:","Random number: 82.
+Q: How many years was the longest rule of a monarch?
+A:  82
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  83
+
+Answer:","Random number: 83.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  83
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  83
+B:  72
+
+Answer:","Random number: 83.
+Q: How many years was the longest rule of a monarch?
+A:  83
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  61
+
+Answer:","Random number: 61.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  61
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  61
+B:  72
+
+Answer:","Random number: 61.
+Q: How many years was the longest rule of a monarch?
+A:  61
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  62
+
+Answer:","Random number: 62.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  62
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  62
+B:  72
+
+Answer:","Random number: 62.
+Q: How many years was the longest rule of a monarch?
+A:  62
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  63
+
+Answer:","Random number: 63.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  63
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  63
+B:  72
+
+Answer:","Random number: 63.
+Q: How many years was the longest rule of a monarch?
+A:  63
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  64
+
+Answer:","Random number: 64.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  64
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  64
+B:  72
+
+Answer:","Random number: 64.
+Q: How many years was the longest rule of a monarch?
+A:  64
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  65
+
+Answer:","Random number: 65.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  65
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  65
+B:  72
+
+Answer:","Random number: 65.
+Q: How many years was the longest rule of a monarch?
+A:  65
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  66
+
+Answer:","Random number: 66.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  66
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  66
+B:  72
+
+Answer:","Random number: 66.
+Q: How many years was the longest rule of a monarch?
+A:  66
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  67
+
+Answer:","Random number: 67.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  67
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  67
+B:  72
+
+Answer:","Random number: 67.
+Q: How many years was the longest rule of a monarch?
+A:  67
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  68
+
+Answer:","Random number: 68.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  68
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  68
+B:  72
+
+Answer:","Random number: 68.
+Q: How many years was the longest rule of a monarch?
+A:  68
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  69
+
+Answer:","Random number: 69.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  69
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  69
+B:  72
+
+Answer:","Random number: 69.
+Q: How many years was the longest rule of a monarch?
+A:  69
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  70
+
+Answer:","Random number: 70.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  70
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  70
+B:  72
+
+Answer:","Random number: 70.
+Q: How many years was the longest rule of a monarch?
+A:  70
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  74
+
+Answer:","Random number: 74.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  74
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  74
+B:  72
+
+Answer:","Random number: 74.
+Q: How many years was the longest rule of a monarch?
+A:  74
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  75
+
+Answer:","Random number: 75.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  75
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  75
+B:  72
+
+Answer:","Random number: 75.
+Q: How many years was the longest rule of a monarch?
+A:  75
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  76
+
+Answer:","Random number: 76.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  76
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  76
+B:  72
+
+Answer:","Random number: 76.
+Q: How many years was the longest rule of a monarch?
+A:  76
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  77
+
+Answer:","Random number: 77.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  77
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  77
+B:  72
+
+Answer:","Random number: 77.
+Q: How many years was the longest rule of a monarch?
+A:  77
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  78
+
+Answer:","Random number: 78.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  78
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  78
+B:  72
+
+Answer:","Random number: 78.
+Q: How many years was the longest rule of a monarch?
+A:  78
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  79
+
+Answer:","Random number: 79.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  79
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  79
+B:  72
+
+Answer:","Random number: 79.
+Q: How many years was the longest rule of a monarch?
+A:  79
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  80
+
+Answer:","Random number: 80.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  80
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  80
+B:  72
+
+Answer:","Random number: 80.
+Q: How many years was the longest rule of a monarch?
+A:  80
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  81
+
+Answer:","Random number: 81.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  81
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  81
+B:  72
+
+Answer:","Random number: 81.
+Q: How many years was the longest rule of a monarch?
+A:  81
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  82
+
+Answer:","Random number: 82.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  82
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  82
+B:  72
+
+Answer:","Random number: 82.
+Q: How many years was the longest rule of a monarch?
+A:  82
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  72
+B:  83
+
+Answer:","Random number: 83.
+Q: How many years was the longest rule of a monarch?
+A:  72
+B:  83
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,72
+"Q: How many years was the longest rule of a monarch?
+A:  83
+B:  72
+
+Answer:","Random number: 83.
+Q: How many years was the longest rule of a monarch?
+A:  83
+B:  72
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,72
+"Q: How many years was the Powhatan War?
+A:  22
+B:  11
+
+Answer:","Random number: 11.
+Q: How many years was the Powhatan War?
+A:  22
+B:  11
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  11
+B:  22
+
+Answer:","Random number: 11.
+Q: How many years was the Powhatan War?
+A:  11
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  12
+
+Answer:","Random number: 12.
+Q: How many years was the Powhatan War?
+A:  22
+B:  12
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  12
+B:  22
+
+Answer:","Random number: 12.
+Q: How many years was the Powhatan War?
+A:  12
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  13
+
+Answer:","Random number: 13.
+Q: How many years was the Powhatan War?
+A:  22
+B:  13
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  13
+B:  22
+
+Answer:","Random number: 13.
+Q: How many years was the Powhatan War?
+A:  13
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  14
+
+Answer:","Random number: 14.
+Q: How many years was the Powhatan War?
+A:  22
+B:  14
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  14
+B:  22
+
+Answer:","Random number: 14.
+Q: How many years was the Powhatan War?
+A:  14
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  15
+
+Answer:","Random number: 15.
+Q: How many years was the Powhatan War?
+A:  22
+B:  15
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  15
+B:  22
+
+Answer:","Random number: 15.
+Q: How many years was the Powhatan War?
+A:  15
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  16
+
+Answer:","Random number: 16.
+Q: How many years was the Powhatan War?
+A:  22
+B:  16
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  16
+B:  22
+
+Answer:","Random number: 16.
+Q: How many years was the Powhatan War?
+A:  16
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  17
+
+Answer:","Random number: 17.
+Q: How many years was the Powhatan War?
+A:  22
+B:  17
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  17
+B:  22
+
+Answer:","Random number: 17.
+Q: How many years was the Powhatan War?
+A:  17
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  18
+
+Answer:","Random number: 18.
+Q: How many years was the Powhatan War?
+A:  22
+B:  18
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  18
+B:  22
+
+Answer:","Random number: 18.
+Q: How many years was the Powhatan War?
+A:  18
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  19
+
+Answer:","Random number: 19.
+Q: How many years was the Powhatan War?
+A:  22
+B:  19
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  19
+B:  22
+
+Answer:","Random number: 19.
+Q: How many years was the Powhatan War?
+A:  19
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  20
+
+Answer:","Random number: 20.
+Q: How many years was the Powhatan War?
+A:  22
+B:  20
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  20
+B:  22
+
+Answer:","Random number: 20.
+Q: How many years was the Powhatan War?
+A:  20
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  24
+
+Answer:","Random number: 24.
+Q: How many years was the Powhatan War?
+A:  22
+B:  24
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  24
+B:  22
+
+Answer:","Random number: 24.
+Q: How many years was the Powhatan War?
+A:  24
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  25
+
+Answer:","Random number: 25.
+Q: How many years was the Powhatan War?
+A:  22
+B:  25
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  25
+B:  22
+
+Answer:","Random number: 25.
+Q: How many years was the Powhatan War?
+A:  25
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  26
+
+Answer:","Random number: 26.
+Q: How many years was the Powhatan War?
+A:  22
+B:  26
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  26
+B:  22
+
+Answer:","Random number: 26.
+Q: How many years was the Powhatan War?
+A:  26
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  27
+
+Answer:","Random number: 27.
+Q: How many years was the Powhatan War?
+A:  22
+B:  27
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  27
+B:  22
+
+Answer:","Random number: 27.
+Q: How many years was the Powhatan War?
+A:  27
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  28
+
+Answer:","Random number: 28.
+Q: How many years was the Powhatan War?
+A:  22
+B:  28
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  28
+B:  22
+
+Answer:","Random number: 28.
+Q: How many years was the Powhatan War?
+A:  28
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  29
+
+Answer:","Random number: 29.
+Q: How many years was the Powhatan War?
+A:  22
+B:  29
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  29
+B:  22
+
+Answer:","Random number: 29.
+Q: How many years was the Powhatan War?
+A:  29
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  30
+
+Answer:","Random number: 30.
+Q: How many years was the Powhatan War?
+A:  22
+B:  30
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  30
+B:  22
+
+Answer:","Random number: 30.
+Q: How many years was the Powhatan War?
+A:  30
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  31
+
+Answer:","Random number: 31.
+Q: How many years was the Powhatan War?
+A:  22
+B:  31
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  31
+B:  22
+
+Answer:","Random number: 31.
+Q: How many years was the Powhatan War?
+A:  31
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  32
+
+Answer:","Random number: 32.
+Q: How many years was the Powhatan War?
+A:  22
+B:  32
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  32
+B:  22
+
+Answer:","Random number: 32.
+Q: How many years was the Powhatan War?
+A:  32
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many years was the Powhatan War?
+A:  22
+B:  33
+
+Answer:","Random number: 33.
+Q: How many years was the Powhatan War?
+A:  22
+B:  33
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,22
+"Q: How many years was the Powhatan War?
+A:  33
+B:  22
+
+Answer:","Random number: 33.
+Q: How many years was the Powhatan War?
+A:  33
+B:  22
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,22
+"Q: How many us presidents have been in office?
+A:  46
+B:  35
+
+Answer:","Random number: 35.
+Q: How many us presidents have been in office?
+A:  46
+B:  35
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  35
+B:  46
+
+Answer:","Random number: 35.
+Q: How many us presidents have been in office?
+A:  35
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  36
+
+Answer:","Random number: 36.
+Q: How many us presidents have been in office?
+A:  46
+B:  36
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  36
+B:  46
+
+Answer:","Random number: 36.
+Q: How many us presidents have been in office?
+A:  36
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  37
+
+Answer:","Random number: 37.
+Q: How many us presidents have been in office?
+A:  46
+B:  37
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  37
+B:  46
+
+Answer:","Random number: 37.
+Q: How many us presidents have been in office?
+A:  37
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  38
+
+Answer:","Random number: 38.
+Q: How many us presidents have been in office?
+A:  46
+B:  38
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  38
+B:  46
+
+Answer:","Random number: 38.
+Q: How many us presidents have been in office?
+A:  38
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  39
+
+Answer:","Random number: 39.
+Q: How many us presidents have been in office?
+A:  46
+B:  39
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  39
+B:  46
+
+Answer:","Random number: 39.
+Q: How many us presidents have been in office?
+A:  39
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  40
+
+Answer:","Random number: 40.
+Q: How many us presidents have been in office?
+A:  46
+B:  40
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  40
+B:  46
+
+Answer:","Random number: 40.
+Q: How many us presidents have been in office?
+A:  40
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  41
+
+Answer:","Random number: 41.
+Q: How many us presidents have been in office?
+A:  46
+B:  41
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  41
+B:  46
+
+Answer:","Random number: 41.
+Q: How many us presidents have been in office?
+A:  41
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  42
+
+Answer:","Random number: 42.
+Q: How many us presidents have been in office?
+A:  46
+B:  42
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  42
+B:  46
+
+Answer:","Random number: 42.
+Q: How many us presidents have been in office?
+A:  42
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  43
+
+Answer:","Random number: 43.
+Q: How many us presidents have been in office?
+A:  46
+B:  43
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  43
+B:  46
+
+Answer:","Random number: 43.
+Q: How many us presidents have been in office?
+A:  43
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  44
+
+Answer:","Random number: 44.
+Q: How many us presidents have been in office?
+A:  46
+B:  44
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  44
+B:  46
+
+Answer:","Random number: 44.
+Q: How many us presidents have been in office?
+A:  44
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  48
+
+Answer:","Random number: 48.
+Q: How many us presidents have been in office?
+A:  46
+B:  48
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  48
+B:  46
+
+Answer:","Random number: 48.
+Q: How many us presidents have been in office?
+A:  48
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  49
+
+Answer:","Random number: 49.
+Q: How many us presidents have been in office?
+A:  46
+B:  49
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  49
+B:  46
+
+Answer:","Random number: 49.
+Q: How many us presidents have been in office?
+A:  49
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  50
+
+Answer:","Random number: 50.
+Q: How many us presidents have been in office?
+A:  46
+B:  50
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  50
+B:  46
+
+Answer:","Random number: 50.
+Q: How many us presidents have been in office?
+A:  50
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  51
+
+Answer:","Random number: 51.
+Q: How many us presidents have been in office?
+A:  46
+B:  51
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  51
+B:  46
+
+Answer:","Random number: 51.
+Q: How many us presidents have been in office?
+A:  51
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  52
+
+Answer:","Random number: 52.
+Q: How many us presidents have been in office?
+A:  46
+B:  52
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  52
+B:  46
+
+Answer:","Random number: 52.
+Q: How many us presidents have been in office?
+A:  52
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  53
+
+Answer:","Random number: 53.
+Q: How many us presidents have been in office?
+A:  46
+B:  53
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  53
+B:  46
+
+Answer:","Random number: 53.
+Q: How many us presidents have been in office?
+A:  53
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  54
+
+Answer:","Random number: 54.
+Q: How many us presidents have been in office?
+A:  46
+B:  54
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  54
+B:  46
+
+Answer:","Random number: 54.
+Q: How many us presidents have been in office?
+A:  54
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  55
+
+Answer:","Random number: 55.
+Q: How many us presidents have been in office?
+A:  46
+B:  55
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  55
+B:  46
+
+Answer:","Random number: 55.
+Q: How many us presidents have been in office?
+A:  55
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  56
+
+Answer:","Random number: 56.
+Q: How many us presidents have been in office?
+A:  46
+B:  56
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  56
+B:  46
+
+Answer:","Random number: 56.
+Q: How many us presidents have been in office?
+A:  56
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
+"Q: How many us presidents have been in office?
+A:  46
+B:  57
+
+Answer:","Random number: 57.
+Q: How many us presidents have been in office?
+A:  46
+B:  57
+
+Answer:","[' A', ' B']",0,True,1,0,False,False,unit,46
+"Q: How many us presidents have been in office?
+A:  57
+B:  46
+
+Answer:","Random number: 57.
+Q: How many us presidents have been in office?
+A:  57
+B:  46
+
+Answer:","[' A', ' B']",1,True,1,0,False,True,unit,46
