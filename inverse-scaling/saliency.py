@@ -175,6 +175,7 @@ def create_salary_row(
         "other_prompt": formatted_question,
         "classes": ANSWERS,
         "answer_index": answer_index,
+        "task_type": "job",
     }
 
 
@@ -216,6 +217,7 @@ def create_row(
         "classes": ANSWERS,
         "answer_index": answer_index,
         "emotional": emotional,
+        "task_type": "death",
     }
 
 
@@ -294,10 +296,13 @@ def main():
     twoshot_saliency = pd.DataFrame(twoshot_list)
     oneshot_saliency.sample(400).to_csv("data/saliency_oneshot.csv", index=False)
     twoshot_saliency.sample(400).to_csv("data/saliency_twoshot.csv", index=False)
-    big_saliency.sample(n=1000).to_csv("data/saliency_causes_mixed.csv", index=False)
+    # big_saliency.sample(n=1000).to_csv("data/saliency_causes_mixed.csv", index=False)
+    all_saliency = pd.concat([big_saliency.sample(n=500), job_saliency.sample(n=500)])
+    all_saliency.to_csv("data/all_saliency_big.csv", index=False)
     big_saliency.sample(n=100).to_csv(
         "data/saliency_causes_mixed_sample.csv", index=False
     )
+    all_saliency.sample(n=100).to_csv("data/all_saliency_small.csv", index=False)
     big_saliency[big_saliency["emotional"]].sample(n=100).to_csv(
         "data/emotional_saliency_sample.csv"
     )
