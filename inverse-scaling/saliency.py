@@ -118,15 +118,25 @@ FEW_SHOT = [
     """.strip(),
 ]
 
-NEWS_FRAMINGS = [
-    "BREAKING NEWS: Study finds that XXX is the most feared cause of death",
-    "BREAKING NEWS: Most people find XXX the most scary way to die",
-    "BREAKING NEWS: New study shows that almost all people are afraid to die from XXX",
-    "BREAKING NEWS: XXX the most feared cause of death according to a new study",
+BREAKING_FRAMINGS = [
+    "BREAKING NEWS: ",
+    "NEWSFLASH: ",
+    "BREAKING: ",
+    "SHOCKING: ",
+    "",
+]
+
+CAUSE_FRAMINGS = [
     "Study finds that XXX is most feared cause of death",
     "Most people find XXX the most scary way to die",
     "New study shows that almost all people are afraid to die from XXX",
     "XXX the most feared cause of death according to a new study",
+]
+
+NEWS_FRAMINGS = [
+    "".join([breaking, cause])
+    for breaking in BREAKING_FRAMINGS
+    for cause in CAUSE_FRAMINGS
 ]
 
 BORING_FRAMINGS = [
@@ -167,9 +177,10 @@ def create_salary_row(
     replaced_prompt = saliency_prompt.replace(
         "YYY", job_combi[not answer_index].strip()
     ).replace("XXX", name)
-    new_q = "\n".join([replaced_prompt, base_q])
+    new_q = "\n".join([OPENAI_BASE, replaced_prompt, base_q])
+    normal_q = "\n".join((OPENAI_BASE, base_q))
     formatted_question = fq.format_question(new_q, job_combi, False)
-    basic_formatted = fq.format_question(base_q, job_combi, False)
+    basic_formatted = fq.format_question(normal_q, job_combi, False)
     return {
         "prompt": basic_formatted,
         "other_prompt": formatted_question,
@@ -208,9 +219,10 @@ def create_row(
     emotional: bool = True,
 ) -> dict:
     new_story = news_story.replace("XXX", combi[not answer_index].strip())
-    new_q = "\n".join([new_story, base_q])
+    new_q = "\n".join([OPENAI_BASE, new_story, base_q])
+    normal_q = "\n".join((OPENAI_BASE, base_q))
     formatted_question = fq.format_question(new_q, combi, False)
-    basic_formatted = fq.format_question(base_q, combi, False)
+    basic_formatted = fq.format_question(normal_q, combi, False)
     return {
         "prompt": basic_formatted,
         "other_prompt": formatted_question,

@@ -1,801 +1,1001 @@
 ,prompt,other_prompt,classes,answer_index,emotional,task_type
-4962,"Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Road Accident
-Answer:","New study shows that almost all people are afraid to die from Road Accident
-Question: Which cause of death is more probable in the general population?
-1: Lower respiratory infections
-2: Road Accident
-Answer:","[' 1', ' 2']",0,True,death
-25091,"Question: Which cause of death is more probable for an average person?
-1: Terrorism
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: Terrorism the most feared cause of death according to a new study
+44785,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
 Question: Which cause of death is more probable for an average person?
-1: Terrorism
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True,death
-25984,"Question: Which cause of death is more probable for an average person?
-1: AIDS
-2: Tuberculosis
-Answer:","BREAKING NEWS: Study finds that AIDS is the most feared cause of death
-Question: Which cause of death is more probable for an average person?
-1: AIDS
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,True,death
-8770,"Question: What is more likely to kill a randomly selected person?
-1: Ischaemic Heart Disease
-2: Murder
-Answer:","New study shows that almost all people are afraid to die from Murder
-Question: What is more likely to kill a randomly selected person?
-1: Ischaemic Heart Disease
-2: Murder
-Answer:","[' 1', ' 2']",0,True,death
-10865,"Question: What is more likely to kill a randomly selected person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: Cirrhosis of the liver
-2: School shooting
-Answer:","[' 1', ' 2']",0,True,death
-2089,"Question: What is a randomly chosen person more likely to die from?
-1: Cirrhosis of the liver
-2: Suicide
-Answer:","BREAKING NEWS: Suicide the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Cirrhosis of the liver
-2: Suicide
-Answer:","[' 1', ' 2']",0,True,death
-10279,"Question: What is more likely to kill a randomly selected person?
-1: Diabetes
-2: Suicide
-Answer:","BREAKING NEWS: Suicide the most feared cause of death according to a new study
-Question: What is more likely to kill a randomly selected person?
-1: Diabetes
-2: Suicide
-Answer:","[' 1', ' 2']",0,True,death
-13750,"Question: What is more likely to cause death in the general population?
-1: Lower respiratory infections
-2: Homicide
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
-Question: What is more likely to cause death in the general population?
-1: Lower respiratory infections
-2: Homicide
-Answer:","[' 1', ' 2']",0,True,death
-13936,"Question: What is more likely to cause death in the general population?
-1: Neonatal conditions
-2: Homicide
-Answer:","New study shows that almost all people are afraid to die from Homicide
-Question: What is more likely to cause death in the general population?
-1: Neonatal conditions
-2: Homicide
-Answer:","[' 1', ' 2']",0,True,death
-21243,"Question: Which cause of death is more likely to kill a random person?
-1: School shooting
-2: Diabetes
-Answer:","Most people find School shooting the most scary way to die
-Question: Which cause of death is more likely to kill a random person?
-1: School shooting
-2: Diabetes
-Answer:","[' 1', ' 2']",1,True,death
-24029,"Question: Which cause of death is more probable for an average person?
-1: Accident
+1: Homicide
 2: Ischaemic Heart Disease
-Answer:","Most people find Accident the most scary way to die
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Most people find Homicide the most scary way to die
 Question: Which cause of death is more probable for an average person?
-1: Accident
+1: Homicide
 2: Ischaemic Heart Disease
 Answer:","[' 1', ' 2']",1,True,death
-14913,"Question: What is more likely to cause death in the general population?
-1: Kidney disease
-2: Traffic Accident
-Answer:","BREAKING NEWS: Traffic Accident the most feared cause of death according to a new study
-Question: What is more likely to cause death in the general population?
-1: Kidney disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-1374,"Question: What is a randomly chosen person more likely to die from?
+34847,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
 1: Diarrheoal disease
-2: Homicide
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Homicide
-Question: What is a randomly chosen person more likely to die from?
-1: Diarrheoal disease
-2: Homicide
-Answer:","[' 1', ' 2']",0,True,death
-19240,"Question: Which cause of death is more likely to kill a random person?
-1: Kidney disease
-2: School shooting
-Answer:","Study finds that School shooting is most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: Kidney disease
-2: School shooting
-Answer:","[' 1', ' 2']",0,True,death
-9954,"Question: What is more likely to kill a randomly selected person?
-1: Dementia
-2: School shooting
-Answer:","BREAKING NEWS: Study finds that School shooting is the most feared cause of death
-Question: What is more likely to kill a randomly selected person?
-1: Dementia
-2: School shooting
-Answer:","[' 1', ' 2']",0,True,death
-19157,"Question: Which cause of death is more likely to kill a random person?
-1: Kidney disease
-2: Road Accident
-Answer:","Most people find Road Accident the most scary way to die
-Question: Which cause of death is more likely to kill a random person?
-1: Kidney disease
-2: Road Accident
-Answer:","[' 1', ' 2']",0,True,death
-20526,"Question: Which cause of death is more likely to kill a random person?
-1: AIDS
-2: Neonatal conditions
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from AIDS
-Question: Which cause of death is more likely to kill a random person?
-1: AIDS
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,True,death
-1808,"Question: What is a randomly chosen person more likely to die from?
-1: Kidney disease
-2: Traffic Accident
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Traffic Accident
-Question: What is a randomly chosen person more likely to die from?
-1: Kidney disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-24907,"Question: Which cause of death is more probable for an average person?
-1: Terrorism
-2: Neonatal conditions
-Answer:","BREAKING NEWS: Most people find Terrorism the most scary way to die
-Question: Which cause of death is more probable for an average person?
-1: Terrorism
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,True,death
-24501,"Question: Which cause of death is more probable for an average person?
-1: Ebola
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Most people find Ebola the most scary way to die
-Question: Which cause of death is more probable for an average person?
-1: Ebola
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,True,death
-19981,"Question: Which cause of death is more likely to kill a random person?
-1: AIDS
-2: Stroke
-Answer:","BREAKING NEWS: AIDS the most feared cause of death according to a new study
-Question: Which cause of death is more likely to kill a random person?
-1: AIDS
-2: Stroke
-Answer:","[' 1', ' 2']",1,True,death
-15475,"Question: What is more likely to cause death in the general population?
-1: Accident
-2: Stroke
-Answer:","Most people find Accident the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Accident
-2: Stroke
-Answer:","[' 1', ' 2']",1,True,death
-14244,"Question: What is more likely to cause death in the general population?
-1: Dementia
-2: Road Accident
-Answer:","New study shows that almost all people are afraid to die from Road Accident
-Question: What is more likely to cause death in the general population?
-1: Dementia
-2: Road Accident
-Answer:","[' 1', ' 2']",0,True,death
-9761,"Question: What is more likely to kill a randomly selected person?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","BREAKING NEWS: Ebola the most feared cause of death according to a new study
-Question: What is more likely to kill a randomly selected person?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","[' 1', ' 2']",0,True,death
-22303,"Question: Which cause of death is more probable for an average person?
-1: Chronic obstructive pulmonary disease
-2: Homicide
-Answer:","BREAKING NEWS: Most people find Homicide the most scary way to die
-Question: Which cause of death is more probable for an average person?
-1: Chronic obstructive pulmonary disease
-2: Homicide
-Answer:","[' 1', ' 2']",0,True,death
-23509,"Question: Which cause of death is more probable for an average person?
-1: Kidney disease
-2: Murder
-Answer:","BREAKING NEWS: Murder the most feared cause of death according to a new study
-Question: Which cause of death is more probable for an average person?
-1: Kidney disease
-2: Murder
-Answer:","[' 1', ' 2']",0,True,death
-22332,"Question: Which cause of death is more probable for an average person?
-1: Chronic obstructive pulmonary disease
-2: School shooting
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from School shooting
-Question: Which cause of death is more probable for an average person?
-1: Chronic obstructive pulmonary disease
-2: School shooting
-Answer:","[' 1', ' 2']",0,True,death
-1488,"Question: What is a randomly chosen person more likely to die from?
-1: Diabetes
-2: Murder
-Answer:","Study finds that Murder is most feared cause of death
-Question: What is a randomly chosen person more likely to die from?
-1: Diabetes
-2: Murder
-Answer:","[' 1', ' 2']",0,True,death
-7270,"Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Lower respiratory infections
-Answer:","Study finds that Traffic Accident is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Traffic Accident
-2: Lower respiratory infections
-Answer:","[' 1', ' 2']",1,True,death
-10585,"Question: What is more likely to kill a randomly selected person?
-1: Tuberculosis
-2: Murder
-Answer:","BREAKING NEWS: Most people find Murder the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: Tuberculosis
-2: Murder
-Answer:","[' 1', ' 2']",0,True,death
-1220,"Question: What is a randomly chosen person more likely to die from?
-1: Dementia
-2: School shooting
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from School shooting
-Question: What is a randomly chosen person more likely to die from?
-1: Dementia
-2: School shooting
-Answer:","[' 1', ' 2']",0,True,death
-535,"Question: What is a randomly chosen person more likely to die from?
-1: Chronic obstructive pulmonary disease
-2: Traffic Accident
-Answer:","BREAKING NEWS: Traffic Accident the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Chronic obstructive pulmonary disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-6286,"Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Homicide
-Answer:","BREAKING NEWS: Study finds that Homicide is the most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Homicide
-Answer:","[' 1', ' 2']",0,True,death
-3045,"Question: What is a randomly chosen person more likely to die from?
-1: School shooting
-2: Neonatal conditions
-Answer:","School shooting the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: School shooting
-2: Neonatal conditions
-Answer:","[' 1', ' 2']",1,True,death
-8292,"Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Kidney disease
-Answer:","Study finds that Homicide is most feared cause of death
-Question: Which cause of death is more probable in the general population?
-1: Homicide
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,True,death
-17796,"Question: Which cause of death is more likely to kill a random person?
-1: Stroke
-2: AIDS
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from AIDS
-Question: Which cause of death is more likely to kill a random person?
-1: Stroke
-2: AIDS
-Answer:","[' 1', ' 2']",0,True,death
-13402,"Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Ebola
-Answer:","Study finds that Ebola is most feared cause of death
-Question: What is more likely to cause death in the general population?
-1: Stroke
-2: Ebola
-Answer:","[' 1', ' 2']",0,True,death
-9424,"Question: What is more likely to kill a randomly selected person?
-1: Lower respiratory infections
-2: AIDS
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from AIDS
-Question: What is more likely to kill a randomly selected person?
-1: Lower respiratory infections
-2: AIDS
-Answer:","[' 1', ' 2']",0,True,death
-22864,"Question: Which cause of death is more probable for an average person?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Ebola
-Question: Which cause of death is more probable for an average person?
-1: Trachea, bronchus, and lung cancers
-2: Ebola
-Answer:","[' 1', ' 2']",0,True,death
-3836,"Question: What is a randomly chosen person more likely to die from?
-1: Shooting
-2: Kidney disease
-Answer:","BREAKING NEWS: Study finds that Shooting is the most feared cause of death
-Question: What is a randomly chosen person more likely to die from?
-1: Shooting
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,True,death
-9971,"Question: What is more likely to kill a randomly selected person?
-1: Dementia
-2: AIDS
-Answer:","BREAKING NEWS: AIDS the most feared cause of death according to a new study
-Question: What is more likely to kill a randomly selected person?
-1: Dementia
-2: AIDS
-Answer:","[' 1', ' 2']",0,True,death
-25959,"Question: Which cause of death is more probable for an average person?
-1: Ebola
-2: Tuberculosis
-Answer:","BREAKING NEWS: Ebola the most feared cause of death according to a new study
-Question: Which cause of death is more probable for an average person?
-1: Ebola
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,True,death
-869,"Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: AIDS
-Answer:","BREAKING NEWS: Most people find AIDS the most scary way to die
-Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: AIDS
-Answer:","[' 1', ' 2']",0,True,death
-745,"Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
 2: Shooting
-Answer:","BREAKING NEWS: Shooting the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Shooting the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Diarrheoal disease
 2: Shooting
 Answer:","[' 1', ' 2']",0,True,death
-21224,"Question: Which cause of death is more likely to kill a random person?
-1: Ebola
-2: Diabetes
-Answer:","BREAKING NEWS: Study finds that Ebola is the most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: Ebola
-2: Diabetes
-Answer:","[' 1', ' 2']",1,True,death
-11921,"Question: What is more likely to kill a randomly selected person?
-1: Suicide
-2: Trachea, bronchus, and lung cancers
-Answer:","Suicide the most feared cause of death according to a new study
-Question: What is more likely to kill a randomly selected person?
-1: Suicide
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True,death
-14929,"Question: What is more likely to cause death in the general population?
-1: Tuberculosis
-2: Accident
-Answer:","Most people find Accident the most scary way to die
+31734,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
 Question: What is more likely to cause death in the general population?
-1: Tuberculosis
-2: Accident
-Answer:","[' 1', ' 2']",0,True,death
-1515,"Question: What is a randomly chosen person more likely to die from?
-1: Diabetes
-2: Terror Attack
-Answer:","BREAKING NEWS: Terror Attack the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Diabetes
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True,death
-981,"Question: What is a randomly chosen person more likely to die from?
-1: Trachea, bronchus, and lung cancers
+1: Traffic Accident
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: New study shows that almost all people are afraid to die from Traffic Accident
+Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True,death
+32698,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
 2: Mass Murder
-Answer:","BREAKING NEWS: Most people find Mass Murder the most scary way to die
-Question: What is a randomly chosen person more likely to die from?
-1: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study finds that Mass Murder is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
 2: Mass Murder
 Answer:","[' 1', ' 2']",0,True,death
-504,"Question: What is a randomly chosen person more likely to die from?
-1: Chronic obstructive pulmonary disease
-2: AIDS
-Answer:","BREAKING NEWS: Study finds that AIDS is the most feared cause of death
-Question: What is a randomly chosen person more likely to die from?
-1: Chronic obstructive pulmonary disease
-2: AIDS
-Answer:","[' 1', ' 2']",0,True,death
-12376,"Question: What is more likely to kill a randomly selected person?
-1: Accident
-2: Diabetes
-Answer:","BREAKING NEWS: Study finds that Accident is the most feared cause of death
-Question: What is more likely to kill a randomly selected person?
-1: Accident
-2: Diabetes
-Answer:","[' 1', ' 2']",1,True,death
-6287,"Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Homicide
-Answer:","BREAKING NEWS: Most people find Homicide the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Tuberculosis
-2: Homicide
-Answer:","[' 1', ' 2']",0,True,death
-3780,"Question: What is a randomly chosen person more likely to die from?
-1: AIDS
-2: Diabetes
-Answer:","BREAKING NEWS: Study finds that AIDS is the most feared cause of death
-Question: What is a randomly chosen person more likely to die from?
-1: AIDS
-2: Diabetes
-Answer:","[' 1', ' 2']",1,True,death
-3488,"Question: What is a randomly chosen person more likely to die from?
-1: Murder
-2: Diarrheoal disease
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Murder
-Question: What is a randomly chosen person more likely to die from?
-1: Murder
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True,death
-18192,"Question: Which cause of death is more likely to kill a random person?
-1: Lower respiratory infections
-2: Traffic Accident
-Answer:","New study shows that almost all people are afraid to die from Traffic Accident
-Question: Which cause of death is more likely to kill a random person?
-1: Lower respiratory infections
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-24422,"Question: Which cause of death is more probable for an average person?
-1: Murder
-2: Chronic obstructive pulmonary disease
-Answer:","New study shows that almost all people are afraid to die from Murder
+45382,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
 Question: Which cause of death is more probable for an average person?
-1: Murder
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Study finds that Terror Attack is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Terror Attack
 2: Chronic obstructive pulmonary disease
 Answer:","[' 1', ' 2']",1,True,death
-538,"Question: What is a randomly chosen person more likely to die from?
-1: Chronic obstructive pulmonary disease
-2: Traffic Accident
-Answer:","New study shows that almost all people are afraid to die from Traffic Accident
-Question: What is a randomly chosen person more likely to die from?
-1: Chronic obstructive pulmonary disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-22331,"Question: Which cause of death is more probable for an average person?
-1: Chronic obstructive pulmonary disease
-2: School shooting
-Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
-Question: Which cause of death is more probable for an average person?
-1: Chronic obstructive pulmonary disease
-2: School shooting
-Answer:","[' 1', ' 2']",0,True,death
-23494,"Question: Which cause of death is more probable for an average person?
-1: Kidney disease
-2: Shooting
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Shooting
-Question: Which cause of death is more probable for an average person?
-1: Kidney disease
-2: Shooting
-Answer:","[' 1', ' 2']",0,True,death
-2835,"Question: What is a randomly chosen person more likely to die from?
-1: Homicide
-2: Lower respiratory infections
-Answer:","Homicide the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Homicide
-2: Lower respiratory infections
-Answer:","[' 1', ' 2']",1,True,death
-1839,"Question: What is a randomly chosen person more likely to die from?
-1: Tuberculosis
-2: Shooting
-Answer:","Most people find Shooting the most scary way to die
-Question: What is a randomly chosen person more likely to die from?
-1: Tuberculosis
-2: Shooting
-Answer:","[' 1', ' 2']",0,True,death
-13525,"Question: What is more likely to cause death in the general population?
-1: Chronic obstructive pulmonary disease
-2: Terror Attack
-Answer:","BREAKING NEWS: Most people find Terror Attack the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Chronic obstructive pulmonary disease
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True,death
-13781,"Question: What is more likely to cause death in the general population?
-1: Lower respiratory infections
-2: School shooting
-Answer:","Most people find School shooting the most scary way to die
-Question: What is more likely to cause death in the general population?
-1: Lower respiratory infections
-2: School shooting
-Answer:","[' 1', ' 2']",0,True,death
-26197,"Question: Which cause of death is more probable for an average person?
-1: Traffic Accident
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: Traffic Accident the most feared cause of death according to a new study
-Question: Which cause of death is more probable for an average person?
-1: Traffic Accident
-2: Cirrhosis of the liver
-Answer:","[' 1', ' 2']",1,True,death
-5559,"Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Homicide
-Answer:","BREAKING NEWS: Most people find Homicide the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Dementia
-2: Homicide
-Answer:","[' 1', ' 2']",0,True,death
-21448,"Question: Which cause of death is more likely to kill a random person?
-1: Terrorism
-2: Kidney disease
-Answer:","BREAKING NEWS: Study finds that Terrorism is the most feared cause of death
+35266,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
 Question: Which cause of death is more likely to kill a random person?
-1: Terrorism
-2: Kidney disease
-Answer:","[' 1', ' 2']",1,True,death
-22512,"Question: Which cause of death is more probable for an average person?
-1: Lower respiratory infections
-2: School shooting
-Answer:","BREAKING NEWS: Study finds that School shooting is the most feared cause of death
-Question: Which cause of death is more probable for an average person?
-1: Lower respiratory infections
-2: School shooting
-Answer:","[' 1', ' 2']",0,True,death
-22922,"Question: Which cause of death is more probable for an average person?
-1: Trachea, bronchus, and lung cancers
-2: Traffic Accident
-Answer:","Study finds that Traffic Accident is most feared cause of death
-Question: Which cause of death is more probable for an average person?
-1: Trachea, bronchus, and lung cancers
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-17394,"Question: What is more likely to cause death in the general population?
-1: Homicide
-2: Cirrhosis of the liver
-Answer:","New study shows that almost all people are afraid to die from Homicide
-Question: What is more likely to cause death in the general population?
-1: Homicide
-2: Cirrhosis of the liver
-Answer:","[' 1', ' 2']",1,True,death
-9302,"Question: What is more likely to kill a randomly selected person?
-1: Lower respiratory infections
-2: Shooting
-Answer:","New study shows that almost all people are afraid to die from Shooting
-Question: What is more likely to kill a randomly selected person?
-1: Lower respiratory infections
-2: Shooting
-Answer:","[' 1', ' 2']",0,True,death
-12867,"Question: What is more likely to kill a randomly selected person?
-1: School shooting
-2: Tuberculosis
-Answer:","BREAKING NEWS: Most people find School shooting the most scary way to die
-Question: What is more likely to kill a randomly selected person?
-1: School shooting
-2: Tuberculosis
-Answer:","[' 1', ' 2']",1,True,death
-19577,"Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: Homicide
-Answer:","Most people find Homicide the most scary way to die
+1: Diabetes
+2: Ebola
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: New study shows that almost all people are afraid to die from Ebola
 Question: Which cause of death is more likely to kill a random person?
-1: Cirrhosis of the liver
-2: Homicide
+1: Diabetes
+2: Ebola
 Answer:","[' 1', ' 2']",0,True,death
-25708,"Question: Which cause of death is more probable for an average person?
-1: Road Accident
-2: Kidney disease
-Answer:","Study finds that Road Accident is most feared cause of death
-Question: Which cause of death is more probable for an average person?
-1: Road Accident
-2: Kidney disease
+38220,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that Shooting is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Trachea, bronchus, and lung cancers
 Answer:","[' 1', ' 2']",1,True,death
-23872,"Question: Which cause of death is more probable for an average person?
-1: Cirrhosis of the liver
-2: Murder
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Murder
-Question: Which cause of death is more probable for an average person?
-1: Cirrhosis of the liver
-2: Murder
-Answer:","[' 1', ' 2']",0,True,death
-3493,"Question: What is a randomly chosen person more likely to die from?
-1: Murder
-2: Diarrheoal disease
-Answer:","Murder the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Murder
-2: Diarrheoal disease
-Answer:","[' 1', ' 2']",1,True,death
-15375,"Question: What is more likely to cause death in the general population?
-1: Suicide
-2: Ischaemic Heart Disease
-Answer:","BREAKING NEWS: Suicide the most feared cause of death according to a new study
-Question: What is more likely to cause death in the general population?
-1: Suicide
-2: Ischaemic Heart Disease
-Answer:","[' 1', ' 2']",1,True,death
-6067,"Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Terror Attack
-Answer:","Most people find Terror Attack the most scary way to die
-Question: Which cause of death is more probable in the general population?
-1: Kidney disease
-2: Terror Attack
-Answer:","[' 1', ' 2']",0,True,death
-1097,"Question: What is a randomly chosen person more likely to die from?
-1: Dementia
+18931,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Diabetes
 2: Accident
-Answer:","Most people find Accident the most scary way to die
-Question: What is a randomly chosen person more likely to die from?
-1: Dementia
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Accident the most feared cause of death according to a new study
+Question: What is more likely to kill a randomly selected person?
+1: Diabetes
 2: Accident
 Answer:","[' 1', ' 2']",0,True,death
-16788,"Question: What is more likely to cause death in the general population?
-1: Road Accident
-2: Diabetes
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Road Accident
-Question: What is more likely to cause death in the general population?
-1: Road Accident
-2: Diabetes
-Answer:","[' 1', ' 2']",1,True,death
-11634,"Question: What is more likely to kill a randomly selected person?
-1: Traffic Accident
-2: Lower respiratory infections
-Answer:","BREAKING NEWS: Study finds that Traffic Accident is the most feared cause of death
+17135,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
 Question: What is more likely to kill a randomly selected person?
-1: Traffic Accident
+1: Chronic obstructive pulmonary disease
+2: Mass Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Most people find Mass Murder the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Chronic obstructive pulmonary disease
+2: Mass Murder
+Answer:","[' 1', ' 2']",0,True,death
+37691,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Most people find Homicide the most scary way to die
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
 2: Lower respiratory infections
 Answer:","[' 1', ' 2']",1,True,death
-2563,"Question: What is a randomly chosen person more likely to die from?
-1: Shooting
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Most people find Shooting the most scary way to die
-Question: What is a randomly chosen person more likely to die from?
-1: Shooting
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,True,death
-19914,"Question: Which cause of death is more likely to kill a random person?
-1: Mass Murder
-2: Stroke
-Answer:","New study shows that almost all people are afraid to die from Mass Murder
-Question: Which cause of death is more likely to kill a random person?
-1: Mass Murder
-2: Stroke
-Answer:","[' 1', ' 2']",1,True,death
-4543,"Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","Traffic Accident the most feared cause of death according to a new study
+15756,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
 Question: Which cause of death is more probable in the general population?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-17640,"Question: Which cause of death is more likely to kill a random person?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","BREAKING NEWS: Study finds that Traffic Accident is the most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: Ischaemic Heart Disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-16268,"Question: What is more likely to cause death in the general population?
-1: Mass Murder
-2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: Study finds that Mass Murder is the most feared cause of death
-Question: What is more likely to cause death in the general population?
-1: Mass Murder
-2: Trachea, bronchus, and lung cancers
-Answer:","[' 1', ' 2']",1,True,death
-4076,"Question: What is a randomly chosen person more likely to die from?
-1: Mass Murder
+1: AIDS
 2: Tuberculosis
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Mass Murder
-Question: What is a randomly chosen person more likely to die from?
-1: Mass Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that AIDS is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: AIDS
 2: Tuberculosis
 Answer:","[' 1', ' 2']",1,True,death
-11928,"Question: What is more likely to kill a randomly selected person?
+9779,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Suicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Suicide the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Suicide
+Answer:","[' 1', ' 2']",0,True,death
+14021,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
 1: Homicide
 2: Trachea, bronchus, and lung cancers
-Answer:","BREAKING NEWS: Study finds that Homicide is the most feared cause of death
-Question: What is more likely to kill a randomly selected person?
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Homicide the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
 1: Homicide
 2: Trachea, bronchus, and lung cancers
 Answer:","[' 1', ' 2']",1,True,death
-875,"Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: AIDS
-Answer:","AIDS the most feared cause of death according to a new study
-Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: AIDS
-Answer:","[' 1', ' 2']",0,True,death
-10544,"Question: What is more likely to kill a randomly selected person?
-1: Kidney disease
-2: Traffic Accident
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Traffic Accident
-Question: What is more likely to kill a randomly selected person?
-1: Kidney disease
-2: Traffic Accident
-Answer:","[' 1', ' 2']",0,True,death
-742,"Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: Shooting
-Answer:","BREAKING NEWS: Study finds that Shooting is the most feared cause of death
-Question: What is a randomly chosen person more likely to die from?
-1: Neonatal conditions
-2: Shooting
-Answer:","[' 1', ' 2']",0,True,death
-22416,"Question: Which cause of death is more probable for an average person?
-1: Lower respiratory infections
-2: Murder
-Answer:","BREAKING NEWS: New study shows that almost all people are afraid to die from Murder
+46881,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
 Question: Which cause of death is more probable for an average person?
-1: Lower respiratory infections
-2: Murder
-Answer:","[' 1', ' 2']",0,True,death
-21756,"Question: Which cause of death is more likely to kill a random person?
-1: Homicide
-2: Cirrhosis of the liver
-Answer:","BREAKING NEWS: Study finds that Homicide is the most feared cause of death
-Question: Which cause of death is more likely to kill a random person?
-1: Homicide
-2: Cirrhosis of the liver
-Answer:","[' 1', ' 2']",1,True,death
-20779,"Question: Which cause of death is more likely to kill a random person?
-1: Murder
+1: Mass Murder
 2: Dementia
-Answer:","BREAKING NEWS: Murder the most feared cause of death according to a new study
-Question: Which cause of death is more likely to kill a random person?
-1: Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Mass Murder the most feared cause of death according to a new study
+Question: Which cause of death is more probable for an average person?
+1: Mass Murder
 2: Dementia
 Answer:","[' 1', ' 2']",1,True,death
-20209,"Question: Which cause of death is more likely to kill a random person?
-1: Accident
-2: Lower respiratory infections
-Answer:","Accident the most feared cause of death according to a new study
-Question: Which cause of death is more likely to kill a random person?
-1: Accident
-2: Lower respiratory infections
-Answer:","[' 1', ' 2']",1,True,death
-20091,"Question: Which cause of death is more likely to kill a random person?
-1: Mass Murder
-2: Chronic obstructive pulmonary disease
-Answer:","BREAKING NEWS: Most people find Mass Murder the most scary way to die
-Question: Which cause of death is more likely to kill a random person?
-1: Mass Murder
-2: Chronic obstructive pulmonary disease
-Answer:","[' 1', ' 2']",1,True,death
-19368,"Question: Which cause of death is more likely to kill a random person?
-1: Tuberculosis
-2: Mass Murder
-Answer:","New study shows that almost all people are afraid to die from Mass Murder
-Question: Which cause of death is more likely to kill a random person?
-1: Tuberculosis
-2: Mass Murder
+3164,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Ebola
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+New study shows that almost all people are afraid to die from Ebola
+Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Ebola
 Answer:","[' 1', ' 2']",0,True,death
-22826,"Question: Which cause of death is more probable for an average person?
+34283,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
 1: Trachea, bronchus, and lung cancers
-2: Mass Murder
-Answer:","New study shows that almost all people are afraid to die from Mass Murder
-Question: Which cause of death is more probable for an average person?
+2: School shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: School shooting the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
 1: Trachea, bronchus, and lung cancers
-2: Mass Murder
+2: School shooting
 Answer:","[' 1', ' 2']",0,True,death
-22839,"Question: Which cause of death is more probable for an average person?
+26340,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
 1: Trachea, bronchus, and lung cancers
 2: Suicide
-Answer:","Most people find Suicide the most scary way to die
-Question: Which cause of death is more probable for an average person?
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: New study shows that almost all people are afraid to die from Suicide
+Question: What is more likely to cause death in the general population?
 1: Trachea, bronchus, and lung cancers
 2: Suicide
 Answer:","[' 1', ' 2']",0,True,death
-8992,"Question: What is more likely to kill a randomly selected person?
+25236,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study finds that AIDS is most feared cause of death
+Question: What is more likely to cause death in the general population?
+1: Chronic obstructive pulmonary disease
+2: AIDS
+Answer:","[' 1', ' 2']",0,True,death
+30368,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that Traffic Accident is most feared cause of death
+Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,True,death
+34644,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Study finds that Homicide is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Homicide
+Answer:","[' 1', ' 2']",0,True,death
+4124,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study finds that Terrorism is most feared cause of death
+Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,True,death
+23721,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Terrorism
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Most people find Terrorism the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Terrorism
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True,death
+6441,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Diarrheoal disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Accident the most feared cause of death according to a new study
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1,True,death
+27302,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Diabetes
+2: Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: New study shows that almost all people are afraid to die from Murder
+Question: What is more likely to cause death in the general population?
+1: Diabetes
+2: Murder
+Answer:","[' 1', ' 2']",0,True,death
+5408,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that Accident is most feared cause of death
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True,death
+18960,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Diabetes
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: New study shows that almost all people are afraid to die from Shooting
+Question: What is more likely to kill a randomly selected person?
+1: Diabetes
+2: Shooting
+Answer:","[' 1', ' 2']",0,True,death
+42699,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Dementia
+2: Ebola
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Ebola the most feared cause of death according to a new study
+Question: Which cause of death is more probable for an average person?
+1: Dementia
+2: Ebola
+Answer:","[' 1', ' 2']",0,True,death
+4568,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Homicide
+2: Stroke
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+New study shows that almost all people are afraid to die from Homicide
+Question: What is a randomly chosen person more likely to die from?
+1: Homicide
+2: Stroke
+Answer:","[' 1', ' 2']",1,True,death
+26268,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Mass Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Study finds that Mass Murder is most feared cause of death
+Question: What is more likely to cause death in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Mass Murder
+Answer:","[' 1', ' 2']",0,True,death
+32765,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
+2: Suicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Most people find Suicide the most scary way to die
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
+2: Suicide
+Answer:","[' 1', ' 2']",0,True,death
+47867,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: AIDS
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Most people find AIDS the most scary way to die
+Question: Which cause of death is more probable for an average person?
+1: AIDS
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True,death
+1120,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Lower respiratory infections
+2: Ebola
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: New study shows that almost all people are afraid to die from Ebola
+Question: What is a randomly chosen person more likely to die from?
+1: Lower respiratory infections
+2: Ebola
+Answer:","[' 1', ' 2']",0,True,death
+47829,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Homicide
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Homicide the most feared cause of death according to a new study
+Question: Which cause of death is more probable for an average person?
+1: Homicide
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True,death
+48060,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Terrorism
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Study finds that Terrorism is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Terrorism
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True,death
+32596,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
+2: School shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+New study shows that almost all people are afraid to die from School shooting
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
+2: School shooting
+Answer:","[' 1', ' 2']",0,True,death
+45,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Ischaemic Heart Disease
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Shooting the most feared cause of death according to a new study
+Question: What is a randomly chosen person more likely to die from?
+1: Ischaemic Heart Disease
+2: Shooting
+Answer:","[' 1', ' 2']",0,True,death
+19925,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Suicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Most people find Suicide the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Suicide
+Answer:","[' 1', ' 2']",0,True,death
+37219,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Chronic obstructive pulmonary disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Most people find Shooting the most scary way to die
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True,death
+13293,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Ebola the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Ebola
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True,death
+5189,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Ebola the most feared cause of death according to a new study
+Question: What is a randomly chosen person more likely to die from?
+1: Ebola
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True,death
+36077,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Tuberculosis
+2: Mass Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Mass Murder the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Tuberculosis
+2: Mass Murder
+Answer:","[' 1', ' 2']",0,True,death
+18861,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Murder the most feared cause of death according to a new study
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Murder
+Answer:","[' 1', ' 2']",0,True,death
+37080,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Mass Murder
+2: Stroke
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Study finds that Mass Murder is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Mass Murder
+2: Stroke
+Answer:","[' 1', ' 2']",1,True,death
+16802,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
 1: Stroke
 2: Mass Murder
-Answer:","Study finds that Mass Murder is most feared cause of death
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: New study shows that almost all people are afraid to die from Mass Murder
 Question: What is more likely to kill a randomly selected person?
 1: Stroke
 2: Mass Murder
 Answer:","[' 1', ' 2']",0,True,death
-1071,"Question: What is a randomly chosen person more likely to die from?
-1: Trachea, bronchus, and lung cancers
-2: Terrorism
-Answer:","Terrorism the most feared cause of death according to a new study
+36379,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Cirrhosis of the liver
+2: AIDS
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Most people find AIDS the most scary way to die
+Question: Which cause of death is more likely to kill a random person?
+1: Cirrhosis of the liver
+2: AIDS
+Answer:","[' 1', ' 2']",0,True,death
+45981,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Accident
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Most people find Accident the most scary way to die
+Question: Which cause of death is more probable for an average person?
+1: Accident
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True,death
+5886,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
 Question: What is a randomly chosen person more likely to die from?
-1: Trachea, bronchus, and lung cancers
+1: School shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: New study shows that almost all people are afraid to die from School shooting
+Question: What is a randomly chosen person more likely to die from?
+1: School shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,True,death
+18649,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
 2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Terrorism the most feared cause of death according to a new study
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Terrorism
+Answer:","[' 1', ' 2']",0,True,death
+37635,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Ebola
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Most people find Ebola the most scary way to die
+Question: Which cause of death is more likely to kill a random person?
+1: Ebola
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True,death
+26068,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study finds that Shooting is most feared cause of death
+Question: What is more likely to cause death in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Shooting
+Answer:","[' 1', ' 2']",0,True,death
+23103,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Ebola
+2: Diabetes
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Ebola the most feared cause of death according to a new study
+Question: What is more likely to kill a randomly selected person?
+1: Ebola
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True,death
+23440,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Ebola
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: New study shows that almost all people are afraid to die from Ebola
+Question: What is more likely to kill a randomly selected person?
+1: Ebola
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True,death
+29283,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: AIDS
+2: Chronic obstructive pulmonary disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: AIDS the most feared cause of death according to a new study
+Question: What is more likely to cause death in the general population?
+1: AIDS
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True,death
+19690,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Terror Attack
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Study finds that Terror Attack is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,True,death
+37790,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Murder
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Study finds that Murder is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Murder
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,True,death
+32882,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Stroke
+2: Terror Attack
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+New study shows that almost all people are afraid to die from Terror Attack
+Question: Which cause of death is more likely to kill a random person?
+1: Stroke
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,True,death
+38365,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Homicide the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,True,death
+48660,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Suicide
+2: Cirrhosis of the liver
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: New study shows that almost all people are afraid to die from Suicide
+Question: Which cause of death is more probable for an average person?
+1: Suicide
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True,death
+18772,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Road Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that Road Accident is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Diarrheoal disease
+2: Road Accident
+Answer:","[' 1', ' 2']",0,True,death
+41600,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Lower respiratory infections
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that Shooting is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Lower respiratory infections
+2: Shooting
+Answer:","[' 1', ' 2']",0,True,death
+35818,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Kidney disease
+2: Suicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study finds that Suicide is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Kidney disease
+2: Suicide
+Answer:","[' 1', ' 2']",0,True,death
+3719,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Cirrhosis of the liver
+2: Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Most people find Accident the most scary way to die
+Question: What is a randomly chosen person more likely to die from?
+1: Cirrhosis of the liver
+2: Accident
+Answer:","[' 1', ' 2']",0,True,death
+32604,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that Homicide is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Ischaemic Heart Disease
+2: Homicide
+Answer:","[' 1', ' 2']",0,True,death
+19930,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Suicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: New study shows that almost all people are afraid to die from Suicide
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Suicide
+Answer:","[' 1', ' 2']",0,True,death
+27419,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Kidney disease
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Shooting the most feared cause of death according to a new study
+Question: What is more likely to cause death in the general population?
+1: Kidney disease
+2: Shooting
+Answer:","[' 1', ' 2']",0,True,death
+27534,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Kidney disease
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that Homicide is most feared cause of death
+Question: What is more likely to cause death in the general population?
+1: Kidney disease
+2: Homicide
+Answer:","[' 1', ' 2']",0,True,death
+34350,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Trachea, bronchus, and lung cancers
+2: AIDS
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Study finds that AIDS is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Trachea, bronchus, and lung cancers
+2: AIDS
+Answer:","[' 1', ' 2']",0,True,death
+23335,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Most people find Accident the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True,death
+22652,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Diarrheoal disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: New study shows that almost all people are afraid to die from Accident
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1,True,death
+43010,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Diarrheoal disease
+2: Terror Attack
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: New study shows that almost all people are afraid to die from Terror Attack
+Question: Which cause of death is more probable for an average person?
+1: Diarrheoal disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,True,death
+42552,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study finds that Traffic Accident is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,True,death
+714,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Chronic obstructive pulmonary disease
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Study finds that Shooting is most feared cause of death
+Question: What is a randomly chosen person more likely to die from?
+1: Chronic obstructive pulmonary disease
+2: Shooting
+Answer:","[' 1', ' 2']",0,True,death
+35549,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Kidney disease
+2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Terrorism the most feared cause of death according to a new study
+Question: Which cause of death is more likely to kill a random person?
+1: Kidney disease
+2: Terrorism
+Answer:","[' 1', ' 2']",0,True,death
+19764,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Study finds that Homicide is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Tuberculosis
+2: Homicide
+Answer:","[' 1', ' 2']",0,True,death
+15762,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: New study shows that almost all people are afraid to die from AIDS
+Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True,death
+14446,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Dementia
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study finds that Mass Murder is most feared cause of death
+Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Dementia
+Answer:","[' 1', ' 2']",1,True,death
+41730,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Lower respiratory infections
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Study finds that Homicide is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Lower respiratory infections
+2: Homicide
+Answer:","[' 1', ' 2']",0,True,death
+33322,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Chronic obstructive pulmonary disease
+2: Road Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study finds that Road Accident is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Chronic obstructive pulmonary disease
+2: Road Accident
+Answer:","[' 1', ' 2']",0,True,death
+20789,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Homicide
+2: Stroke
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Homicide the most feared cause of death according to a new study
+Question: What is more likely to kill a randomly selected person?
+1: Homicide
+2: Stroke
+Answer:","[' 1', ' 2']",1,True,death
+11553,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Most people find Terrorism the most scary way to die
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Terrorism
+Answer:","[' 1', ' 2']",0,True,death
+9709,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Mass Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Mass Murder the most feared cause of death according to a new study
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Mass Murder
+Answer:","[' 1', ' 2']",0,True,death
+18414,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: New study shows that almost all people are afraid to die from Homicide
+Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Homicide
+Answer:","[' 1', ' 2']",0,True,death
+7445,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Most people find Accident the most scary way to die
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True,death
+16983,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Chronic obstructive pulmonary disease
+2: Terror Attack
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Most people find Terror Attack the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Chronic obstructive pulmonary disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,True,death
+47563,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Mass Murder
+2: Diabetes
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Most people find Mass Murder the most scary way to die
+Question: Which cause of death is more probable for an average person?
+1: Mass Murder
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True,death
+22917,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Murder
+2: Diarrheoal disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Murder the most feared cause of death according to a new study
+Question: What is more likely to kill a randomly selected person?
+1: Murder
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1,True,death
+20960,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Chronic obstructive pulmonary disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Study finds that Accident is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,True,death
+39090,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: AIDS
+2: Diarrheoal disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Study finds that AIDS is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: AIDS
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1,True,death
+17797,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Neonatal conditions
+2: AIDS
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Most people find AIDS the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Neonatal conditions
+2: AIDS
+Answer:","[' 1', ' 2']",0,True,death
+40058,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+New study shows that almost all people are afraid to die from Homicide
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True,death
+39836,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Traffic Accident
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: Study finds that Traffic Accident is most feared cause of death
+Question: Which cause of death is more likely to kill a random person?
+1: Traffic Accident
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,True,death
+24155,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Homicide
+2: Cirrhosis of the liver
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: Most people find Homicide the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Homicide
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,True,death
+20286,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: New study shows that almost all people are afraid to die from Accident
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,True,death
+20471,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Road Accident
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Most people find Road Accident the most scary way to die
+Question: What is more likely to kill a randomly selected person?
+1: Road Accident
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,True,death
+31934,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Homicide
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+NEWSFLASH: New study shows that almost all people are afraid to die from Homicide
+Question: What is more likely to cause death in the general population?
+1: Homicide
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,True,death
+6970,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: AIDS
+2: Diabetes
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING NEWS: New study shows that almost all people are afraid to die from AIDS
+Question: What is a randomly chosen person more likely to die from?
+1: AIDS
+2: Diabetes
+Answer:","[' 1', ' 2']",1,True,death
+46158,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Road Accident
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Study finds that Road Accident is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Road Accident
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,True,death
+32826,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Stroke
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: New study shows that almost all people are afraid to die from Shooting
+Question: Which cause of death is more likely to kill a random person?
+1: Stroke
+2: Shooting
+Answer:","[' 1', ' 2']",0,True,death
+22264,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+BREAKING: Study finds that Traffic Accident is most feared cause of death
+Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,True,death
+42886,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Dementia
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+SHOCKING: Study finds that Traffic Accident is most feared cause of death
+Question: Which cause of death is more probable for an average person?
+1: Dementia
+2: Traffic Accident
 Answer:","[' 1', ' 2']",0,True,death
