@@ -1,23 +1,24 @@
 import pandas as pd
+import re
 
 
-def create_n_shots(df: pd.DataFrame, n=1) -> pd.DataFrame:
-    """Add n-shots to a dataframe"""
-    copy_df = df.copy()
-    for i, row in copy_df.iterrows():
-        # Sample n rows from the dataframe that doesn't contain the current row's "classes"
-        new_rows = df[~df["prompt"].str.contains("|".join(row["classes"]))].sample(n=n)
-        # Add the correct answer to the new rows "prompt" column
-        new_rows["prompt"] = new_rows.apply(
-            lambda nr: nr["prompt"] + f"{nr['classes'][nr['answer_index']]} ", axis=1
-        )
-        # Prepend the new_rows to the original row "prompt"
-        row["prompt"] = new_rows["prompt"].str.cat(sep="\n") + "\n" + row["prompt"]
-        # Prepend the new_rows to the original row "other_prompt"
-        row["other_prompt"] = (
-            new_rows["other_prompt"].str.cat(sep="\n") + "\n" + row["other_prompt"]
-        )
-        print(f"{row['prompt']=}")
+def create_n_shot_preprompt(
+    prompt: str, alternative_df: pd.DataFrame, n: int = 1
+) -> str:
+    prompt_options = [option[2:] for option in re.findall(r"\d\.\s\w+", prompt)]
+    # sample n rows from alternative that don't have both prompt options
+    sample_rows = alternative_df[
+        ~alternative_df["prompt"].str.contains(prompt_options[0])
+        & ~alternative_df["prompt"].str.contains(prompt_options[1])
+    ].sample(n=n)
+    # add the answer to the sample rows
+    sample_rows["prompt"] = (
+        sample_rows["prompt"] + " " + (sample_rows["answer_index"] + 1).astype(str)
+    )
+    return "\n".join(sample_rows["prompt"].tolist())
 
-    return copy_df
 
+def create_n_shots(prompt: str, alternative_df: pd.DataFrame, n: int = 1) -> str:
+    """Transforms the prompt into an n-shot task without duplicating the options"""
+    preprompt = create_n_shot_preprompt(prompt, alternative_df, n=n)
+    return "\n".join([preprompt, prompt])
