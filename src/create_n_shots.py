@@ -5,7 +5,7 @@ import re
 def create_n_shot_preprompt(
     prompt: str, alternative_df: pd.DataFrame, n: int = 1
 ) -> str:
-    prompt_options = [option[2:] for option in re.findall(r"\d\.\s\w+", prompt)]
+    prompt_options = [option[2:] for option in re.findall(r"\d:\s\w+", prompt)]
     # sample n rows from alternative that don't have both prompt options
     sample_rows = alternative_df[
         ~alternative_df["prompt"].str.contains(prompt_options[0])
