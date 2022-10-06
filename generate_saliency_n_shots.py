@@ -20,17 +20,18 @@ def format_n_shots(preprompt: str, prompt: str) -> str:
 
 
 def main(args: argparse.Namespace) -> None:
-    N = args.n
+    N = args.max_n
     FILE_NAME = args.filename
     filepath = Path("data") / FILE_NAME
     assert filepath.exists(), f"{filepath} does not exist"
-    df = pd.read_csv(filepath)
-    for idx, row in tqdm(df.iterrows()):
-        preprompt = cns.create_n_shot_preprompt(row["prompt"], df, n=N)
-        df.loc[idx, "prompt"] = format_n_shots(preprompt, row["prompt"])
-        df.loc[idx, "other_prompt"] = format_n_shots(preprompt, row["other_prompt"])
+    for n in tqdm(range(1, N + 1)):
+        df = pd.read_csv(filepath)
+        for idx, row in tqdm(df.iterrows()):
+            preprompt = cns.create_n_shot_preprompt(row["prompt"], df, n=n)
+            df.loc[idx, "prompt"] = format_n_shots(preprompt, row["prompt"])
+            df.loc[idx, "other_prompt"] = format_n_shots(preprompt, row["other_prompt"])
 
-    df.to_csv(f"data/all_saliency_big_{N}shot.csv", index=False)
+        df.to_csv(f"data/saliency_bias-{n}shot.csv", index=False)
 
 
 if __name__ == "__main__":
@@ -38,7 +39,9 @@ if __name__ == "__main__":
         description="Generate n-shot prompts",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
-    parser.add_argument("--filename", type=str, default="all_saliency_big.csv")
-    parser.add_argument("--n", type=int, default=2, help="Number of shots")
+    parser.add_argument("--filename", type=str, default="saliency_bias.csv")
+    parser.add_argument(
+        "--max-n", type=int, default=2, help="Number of shots to maximally generate"
+    )
     args = parser.parse_args()
     main(args)
