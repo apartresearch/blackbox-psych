@@ -1,0 +1,1001 @@
+,prompt,other_prompt,classes,answer_index,emotional,task_type
+15156,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Suicide
+Question: Which cause of death is more probable in the general population?
+1: Suicide
+2: Diabetes
+Answer:","[' 1', ' 2']",1,False,death
+9304,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Homicide will probably always exist
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: Homicide
+Answer:","[' 1', ' 2']",0,False,death
+20691,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Terror Attack
+2: Stroke
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Terror Attack can cause death
+Question: What is more likely to kill a randomly selected person?
+1: Terror Attack
+2: Stroke
+Answer:","[' 1', ' 2']",1,False,death
+5038,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Murder
+2: Chronic obstructive pulmonary disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Murder
+Question: What is a randomly chosen person more likely to die from?
+1: Murder
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,False,death
+45443,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Road Accident
+2: Chronic obstructive pulmonary disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Road Accident can cause death
+Question: Which cause of death is more probable for an average person?
+1: Road Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,False,death
+9513,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Ebola
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Ebola
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: Ebola
+Answer:","[' 1', ' 2']",0,False,death
+37201,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Accident
+2: Chronic obstructive pulmonary disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Accident can cause death
+Question: Which cause of death is more likely to kill a random person?
+1: Accident
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,False,death
+30236,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Road Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Road Accident
+Question: What is more likely to cause death in the general population?
+1: Road Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False,death
+24673,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident could be eradicted this century
+Question: What is more likely to cause death in the general population?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+44299,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Cirrhosis of the liver
+2: Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Accident can cause death
+Question: Which cause of death is more probable for an average person?
+1: Cirrhosis of the liver
+2: Accident
+Answer:","[' 1', ' 2']",0,False,death
+47106,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: AIDS
+2: Diarrheoal disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of AIDS
+Question: Which cause of death is more probable for an average person?
+1: AIDS
+2: Diarrheoal disease
+Answer:","[' 1', ' 2']",1,False,death
+37852,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Traffic Accident
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident will probably always exist
+Question: Which cause of death is more likely to kill a random person?
+1: Traffic Accident
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False,death
+44949,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Traffic Accident
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident can cause death
+Question: Which cause of death is more probable for an average person?
+1: Traffic Accident
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False,death
+27765,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Tuberculosis
+2: Ebola
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Ebola
+Question: What is more likely to cause death in the general population?
+1: Tuberculosis
+2: Ebola
+Answer:","[' 1', ' 2']",0,False,death
+1533,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Homicide could be eradicted this century
+Question: What is a randomly chosen person more likely to die from?
+1: Neonatal conditions
+2: Homicide
+Answer:","[' 1', ' 2']",0,False,death
+24516,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Ischaemic Heart Disease
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Homicide
+Question: What is more likely to cause death in the general population?
+1: Ischaemic Heart Disease
+2: Homicide
+Answer:","[' 1', ' 2']",0,False,death
+24333,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Cirrhosis of the liver
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Traffic Accident
+Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,False,death
+3376,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident will probably always exist
+Question: What is a randomly chosen person more likely to die from?
+1: Kidney disease
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+33094,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Stroke
+2: Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Murder will probably always exist
+Question: Which cause of death is more likely to kill a random person?
+1: Stroke
+2: Murder
+Answer:","[' 1', ' 2']",0,False,death
+30028,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Suicide
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Suicide
+Question: What is more likely to cause death in the general population?
+1: Suicide
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False,death
+21627,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident can cause death
+Question: What is more likely to kill a randomly selected person?
+1: Traffic Accident
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False,death
+4055,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Cirrhosis of the liver
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident could be eradicted this century
+Question: What is a randomly chosen person more likely to die from?
+1: Cirrhosis of the liver
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+21578,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Suicide
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Suicide
+Question: What is more likely to kill a randomly selected person?
+1: Suicide
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False,death
+25998,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Neonatal conditions
+2: Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Murder
+Question: What is more likely to cause death in the general population?
+1: Neonatal conditions
+2: Murder
+Answer:","[' 1', ' 2']",0,False,death
+23447,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: AIDS
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+AIDS can cause death
+Question: What is more likely to kill a randomly selected person?
+1: AIDS
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,False,death
+9250,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: AIDS
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of AIDS
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: AIDS
+Answer:","[' 1', ' 2']",0,False,death
+37749,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: School shooting
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate School shooting
+Question: Which cause of death is more likely to kill a random person?
+1: School shooting
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False,death
+44846,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: School shooting
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+School shooting will probably always exist
+Question: Which cause of death is more probable for an average person?
+1: School shooting
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False,death
+9696,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: School shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of School shooting
+Question: Which cause of death is more probable in the general population?
+1: Neonatal conditions
+2: School shooting
+Answer:","[' 1', ' 2']",0,False,death
+33199,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Chronic obstructive pulmonary disease
+2: Terror Attack
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Terror Attack
+Question: Which cause of death is more likely to kill a random person?
+1: Chronic obstructive pulmonary disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False,death
+40999,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Stroke
+2: Mass Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Mass Murder
+Question: Which cause of death is more probable for an average person?
+1: Stroke
+2: Mass Murder
+Answer:","[' 1', ' 2']",0,False,death
+20720,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Mass Murder
+2: Stroke
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Mass Murder
+Question: What is more likely to kill a randomly selected person?
+1: Mass Murder
+2: Stroke
+Answer:","[' 1', ' 2']",1,False,death
+22176,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Shooting
+Question: What is more likely to kill a randomly selected person?
+1: Shooting
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False,death
+40115,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: School shooting
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate School shooting
+Question: Which cause of death is more likely to kill a random person?
+1: School shooting
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False,death
+35666,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Kidney disease
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Homicide
+Question: Which cause of death is more likely to kill a random person?
+1: Kidney disease
+2: Homicide
+Answer:","[' 1', ' 2']",0,False,death
+36086,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Tuberculosis
+2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Terrorism
+Question: Which cause of death is more likely to kill a random person?
+1: Tuberculosis
+2: Terrorism
+Answer:","[' 1', ' 2']",0,False,death
+17258,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Lower respiratory infections
+2: Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Accident
+Question: What is more likely to kill a randomly selected person?
+1: Lower respiratory infections
+2: Accident
+Answer:","[' 1', ' 2']",0,False,death
+5172,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Mass Murder
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Mass Murder
+Question: What is a randomly chosen person more likely to die from?
+1: Mass Murder
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False,death
+25526,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Lower respiratory infections
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Homicide
+Question: What is more likely to cause death in the general population?
+1: Lower respiratory infections
+2: Homicide
+Answer:","[' 1', ' 2']",0,False,death
+25008,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Stroke
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident will probably always exist
+Question: What is more likely to cause death in the general population?
+1: Stroke
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+40087,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Shooting can cause death
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False,death
+22333,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Dementia
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Accident could be eradicted this century
+Question: What is more likely to kill a randomly selected person?
+1: Accident
+2: Dementia
+Answer:","[' 1', ' 2']",1,False,death
+125,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Ischaemic Heart Disease
+2: AIDS
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+AIDS can cause death
+Question: What is a randomly chosen person more likely to die from?
+1: Ischaemic Heart Disease
+2: AIDS
+Answer:","[' 1', ' 2']",0,False,death
+31584,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Road Accident
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Road Accident
+Question: What is more likely to cause death in the general population?
+1: Road Accident
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,False,death
+36837,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Traffic Accident
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident can cause death
+Question: Which cause of death is more likely to kill a random person?
+1: Traffic Accident
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False,death
+673,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Stroke
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Traffic Accident
+Question: What is a randomly chosen person more likely to die from?
+1: Stroke
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+9853,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Ebola
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Ebola could be eradicted this century
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Ebola
+Answer:","[' 1', ' 2']",0,False,death
+22513,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Shooting
+2: Dementia
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Shooting
+Question: What is more likely to kill a randomly selected person?
+1: Shooting
+2: Dementia
+Answer:","[' 1', ' 2']",1,False,death
+14893,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Accident
+2: Diabetes
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Accident can cause death
+Question: Which cause of death is more probable in the general population?
+1: Accident
+2: Diabetes
+Answer:","[' 1', ' 2']",1,False,death
+17495,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Lower respiratory infections
+2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Terrorism
+Question: What is more likely to kill a randomly selected person?
+1: Lower respiratory infections
+2: Terrorism
+Answer:","[' 1', ' 2']",0,False,death
+2729,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Diabetes
+2: Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Accident could be eradicted this century
+Question: What is a randomly chosen person more likely to die from?
+1: Diabetes
+2: Accident
+Answer:","[' 1', ' 2']",0,False,death
+14325,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Dementia
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+AIDS could be eradicted this century
+Question: Which cause of death is more probable in the general population?
+1: AIDS
+2: Dementia
+Answer:","[' 1', ' 2']",1,False,death
+2648,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Diarrheoal disease
+2: Suicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Suicide will probably always exist
+Question: What is a randomly chosen person more likely to die from?
+1: Diarrheoal disease
+2: Suicide
+Answer:","[' 1', ' 2']",0,False,death
+42582,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Traffic Accident
+Question: Which cause of death is more probable for an average person?
+1: Trachea, bronchus, and lung cancers
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+9252,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: AIDS
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+AIDS will probably always exist
+Question: Which cause of death is more probable in the general population?
+1: Lower respiratory infections
+2: AIDS
+Answer:","[' 1', ' 2']",0,False,death
+2284,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Dementia
+2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Terrorism will probably always exist
+Question: What is a randomly chosen person more likely to die from?
+1: Dementia
+2: Terrorism
+Answer:","[' 1', ' 2']",0,False,death
+46249,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Suicide
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Suicide can cause death
+Question: Which cause of death is more probable for an average person?
+1: Suicide
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False,death
+18508,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Terrorism will probably always exist
+Question: What is more likely to kill a randomly selected person?
+1: Dementia
+2: Terrorism
+Answer:","[' 1', ' 2']",0,False,death
+17779,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Neonatal conditions
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Shooting can cause death
+Question: What is more likely to kill a randomly selected person?
+1: Neonatal conditions
+2: Shooting
+Answer:","[' 1', ' 2']",0,False,death
+32131,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Accident
+2: Cirrhosis of the liver
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Accident can cause death
+Question: What is more likely to cause death in the general population?
+1: Accident
+2: Cirrhosis of the liver
+Answer:","[' 1', ' 2']",1,False,death
+9982,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Homicide
+Question: Which cause of death is more probable in the general population?
+1: Trachea, bronchus, and lung cancers
+2: Homicide
+Answer:","[' 1', ' 2']",0,False,death
+44589,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Cirrhosis of the liver
+2: Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Murder could be eradicted this century
+Question: Which cause of death is more probable for an average person?
+1: Cirrhosis of the liver
+2: Murder
+Answer:","[' 1', ' 2']",0,False,death
+20799,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Homicide
+2: Stroke
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Homicide could be eradicted this century
+Question: What is more likely to kill a randomly selected person?
+1: Homicide
+2: Stroke
+Answer:","[' 1', ' 2']",1,False,death
+28702,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Murder
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Murder
+Question: What is more likely to cause death in the general population?
+1: Murder
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False,death
+40138,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Terrorism
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Terrorism
+Question: Which cause of death is more likely to kill a random person?
+1: Terrorism
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False,death
+7614,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Homicide
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Homicide will probably always exist
+Question: What is a randomly chosen person more likely to die from?
+1: Homicide
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False,death
+46379,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Terror Attack can cause death
+Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False,death
+31847,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Terror Attack
+2: Tuberculosis
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Terror Attack
+Question: What is more likely to cause death in the general population?
+1: Terror Attack
+2: Tuberculosis
+Answer:","[' 1', ' 2']",1,False,death
+11023,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Shooting could be eradicted this century
+Question: Which cause of death is more probable in the general population?
+1: Diabetes
+2: Shooting
+Answer:","[' 1', ' 2']",0,False,death
+38062,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Shooting
+Question: Which cause of death is more likely to kill a random person?
+1: Shooting
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False,death
+38630,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Mass Murder
+2: Dementia
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Mass Murder
+Question: Which cause of death is more likely to kill a random person?
+1: Mass Murder
+2: Dementia
+Answer:","[' 1', ' 2']",1,False,death
+3638,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Tuberculosis
+2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Terrorism
+Question: What is a randomly chosen person more likely to die from?
+1: Tuberculosis
+2: Terrorism
+Answer:","[' 1', ' 2']",0,False,death
+10629,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Road Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Road Accident can cause death
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Road Accident
+Answer:","[' 1', ' 2']",0,False,death
+22125,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Road Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Road Accident could be eradicted this century
+Question: What is more likely to kill a randomly selected person?
+1: Road Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False,death
+11230,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Terror Attack
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Terror Attack
+Question: Which cause of death is more probable in the general population?
+1: Kidney disease
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False,death
+2777,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Diabetes
+2: Terror Attack
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Terror Attack can cause death
+Question: What is a randomly chosen person more likely to die from?
+1: Diabetes
+2: Terror Attack
+Answer:","[' 1', ' 2']",0,False,death
+6005,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Terrorism could be eradicted this century
+Question: What is a randomly chosen person more likely to die from?
+1: Terrorism
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False,death
+36685,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Homicide could be eradicted this century
+Question: Which cause of death is more likely to kill a random person?
+1: Homicide
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False,death
+40897,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident could be eradicted this century
+Question: Which cause of death is more probable for an average person?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+35956,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Tuberculosis
+2: AIDS
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of AIDS
+Question: Which cause of death is more likely to kill a random person?
+1: Tuberculosis
+2: AIDS
+Answer:","[' 1', ' 2']",0,False,death
+30414,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Traffic Accident
+Question: What is more likely to cause death in the general population?
+1: Traffic Accident
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False,death
+12605,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Stroke
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Mass Murder can cause death
+Question: Which cause of death is more probable in the general population?
+1: Mass Murder
+2: Stroke
+Answer:","[' 1', ' 2']",1,False,death
+10450,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: Murder
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Murder
+Question: Which cause of death is more probable in the general population?
+1: Dementia
+2: Murder
+Answer:","[' 1', ' 2']",0,False,death
+37985,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: AIDS
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+AIDS could be eradicted this century
+Question: Which cause of death is more likely to kill a random person?
+1: AIDS
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False,death
+34028,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Neonatal conditions
+2: School shooting
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of School shooting
+Question: Which cause of death is more likely to kill a random person?
+1: Neonatal conditions
+2: School shooting
+Answer:","[' 1', ' 2']",0,False,death
+11826,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Traffic Accident will probably always exist
+Question: Which cause of death is more probable in the general population?
+1: Tuberculosis
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+153,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Ischaemic Heart Disease
+2: Road Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Road Accident
+Question: What is a randomly chosen person more likely to die from?
+1: Ischaemic Heart Disease
+2: Road Accident
+Answer:","[' 1', ' 2']",0,False,death
+36734,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: School shooting
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+School shooting will probably always exist
+Question: Which cause of death is more likely to kill a random person?
+1: School shooting
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False,death
+5432,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Accident
+Question: What is a randomly chosen person more likely to die from?
+1: Accident
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False,death
+28517,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: AIDS
+2: Ischaemic Heart Disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+AIDS can cause death
+Question: What is more likely to cause death in the general population?
+1: AIDS
+2: Ischaemic Heart Disease
+Answer:","[' 1', ' 2']",1,False,death
+19546,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Kidney disease
+2: Suicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Suicide
+Question: What is more likely to kill a randomly selected person?
+1: Kidney disease
+2: Suicide
+Answer:","[' 1', ' 2']",0,False,death
+29556,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Road Accident
+2: Lower respiratory infections
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Road Accident
+Question: What is more likely to cause death in the general population?
+1: Road Accident
+2: Lower respiratory infections
+Answer:","[' 1', ' 2']",1,False,death
+45366,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Terror Attack will probably always exist
+Question: Which cause of death is more probable for an average person?
+1: Terror Attack
+2: Chronic obstructive pulmonary disease
+Answer:","[' 1', ' 2']",1,False,death
+34500,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Accident
+Question: Which cause of death is more likely to kill a random person?
+1: Dementia
+2: Accident
+Answer:","[' 1', ' 2']",0,False,death
+16556,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to kill a randomly selected person?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+People sometimes die of Traffic Accident
+Question: What is more likely to kill a randomly selected person?
+1: Ischaemic Heart Disease
+2: Traffic Accident
+Answer:","[' 1', ' 2']",0,False,death
+33978,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more likely to kill a random person?
+1: Neonatal conditions
+2: Homicide
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Homicide will probably always exist
+Question: Which cause of death is more likely to kill a random person?
+1: Neonatal conditions
+2: Homicide
+Answer:","[' 1', ' 2']",0,False,death
+10736,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terrorism
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Terrorism
+Question: Which cause of death is more probable in the general population?
+1: Diarrheoal disease
+2: Terrorism
+Answer:","[' 1', ' 2']",0,False,death
+5923,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Homicide
+2: Trachea, bronchus, and lung cancers
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Homicide can cause death
+Question: What is a randomly chosen person more likely to die from?
+1: Homicide
+2: Trachea, bronchus, and lung cancers
+Answer:","[' 1', ' 2']",1,False,death
+7434,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is a randomly chosen person more likely to die from?
+1: Traffic Accident
+2: Kidney disease
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Sometimes people die of Traffic Accident
+Question: What is a randomly chosen person more likely to die from?
+1: Traffic Accident
+2: Kidney disease
+Answer:","[' 1', ' 2']",1,False,death
+29923,"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What is more likely to cause death in the general population?
+1: Homicide
+2: Neonatal conditions
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Study seeks to investigate Homicide
+Question: What is more likely to cause death in the general population?
+1: Homicide
+2: Neonatal conditions
+Answer:","[' 1', ' 2']",1,False,death

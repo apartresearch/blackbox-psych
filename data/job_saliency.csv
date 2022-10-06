@@ -1,0 +1,1001 @@
+prompt,other_prompt,classes,answer_index,task_type
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: YouTuber
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the YouTuber JuegaGerman makes!
+Question: What profession earns more money on average?
+1: YouTuber
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Statistician
+2: Actor
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actor Brad Pitt earn so much money?
+Question: Which job earns more money, statistically?
+1: Statistician
+2: Actor
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Accountant
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the YouTuber Like Nastya makes!
+Question: Which job has the higher median wage?
+1: Accountant
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: YouTuber
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! YouTuber Markiplier earns millions of dollars
+Question: Which job earns more money, statistically?
+1: YouTuber
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Actor
+2: Actuary
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actor Robert Downey Jr earn so much money?
+Question: What profession earns more money on average?
+1: Actor
+2: Actuary
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Logistician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Musician Drake earn so much money?
+Question: What job is better paying in the general population?
+1: Logistician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Financial Manager
+2: Athlete
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Athlete Tiger Woods makes!
+Question: What job is higher earning on average?
+1: Financial Manager
+2: Athlete
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Actuary
+2: Athlete
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Athlete Cristiano Ronaldo makes!
+Question: Which job has the higher median wage?
+1: Actuary
+2: Athlete
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: YouTuber
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber Pewdiepie makes!
+Question: Which job has the higher median wage?
+1: YouTuber
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Actuary
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber Dude Perfect earn so much money?
+Question: What job is better paying in the general population?
+1: Actuary
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Mathematician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Musician Drake earns millions of dollars
+Question: Which job has the higher median wage?
+1: Mathematician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: YouTuber
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the YouTuber Dude Perfect makes!
+Question: What job is higher earning on average?
+1: YouTuber
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: YouTuber
+2: Logistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber Like Nastya earn so much money?
+Question: What profession earns more money on average?
+1: YouTuber
+2: Logistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Actor
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Actor Robert Downey Jr makes!
+Question: What profession earns more money on average?
+1: Actor
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Accountant
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Musician Harry Styles earns millions of dollars
+Question: Which job has the higher median wage?
+1: Accountant
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Accountant
+2: Actor
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actor Brad Pitt makes!
+Question: What profession earns more money on average?
+1: Accountant
+2: Actor
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Accountant
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber MrBeast makes!
+Question: What job is better paying in the general population?
+1: Accountant
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Athlete
+2: Financial Manager
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Athlete David Beckham earn so much money?
+Question: Which job has the higher median wage?
+1: Athlete
+2: Financial Manager
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: YouTuber
+2: Actuary
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber JuegaGerman earn so much money?
+Question: What job is better paying in the general population?
+1: YouTuber
+2: Actuary
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Statistician
+2: Athlete
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Athlete David Beckham earns millions of dollars
+Question: What job is higher earning on average?
+1: Statistician
+2: Athlete
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Logistician
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber MrBeast earn so much money?
+Question: Which job has the higher median wage?
+1: Logistician
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Athlete
+2: Financial Manager
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Athlete Cristiano Ronaldo earns millions of dollars
+Question: What job is better paying in the general population?
+1: Athlete
+2: Financial Manager
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Musician
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Musician Red Hot Chili Peppers earns millions of dollars
+Question: What job is higher earning on average?
+1: Musician
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: YouTuber
+2: Mathematician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the YouTuber JuegaGerman makes!
+Question: Which job earns more money, statistically?
+1: YouTuber
+2: Mathematician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Logistician
+2: Athlete
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Athlete Neymar earns millions of dollars
+Question: Which job has the higher median wage?
+1: Logistician
+2: Athlete
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Athlete
+2: Accountant
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Athlete Cristiano Ronaldo earns millions of dollars
+Question: Which job earns more money, statistically?
+1: Athlete
+2: Accountant
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Accountant
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Musician Harry Styles earns millions of dollars
+Question: What job is higher earning on average?
+1: Accountant
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Logistician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Musician Ed Sheeran earns millions of dollars
+Question: What job is higher earning on average?
+1: Logistician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Statistician
+2: Actress
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Actress Emma Stone earns millions of dollars
+Question: Which job earns more money, statistically?
+1: Statistician
+2: Actress
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Logistician
+2: Actor
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actor Dwayne Johnson earn so much money?
+Question: What profession earns more money on average?
+1: Logistician
+2: Actor
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Mathematician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Musician Red Hot Chili Peppers earn so much money?
+Question: Which job earns more money, statistically?
+1: Mathematician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Actor
+2: Actuary
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actor Robert Downey Jr earn so much money?
+Question: Which job has the higher median wage?
+1: Actor
+2: Actuary
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: YouTuber
+2: Accountant
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the YouTuber MrBeast makes!
+Question: What job is higher earning on average?
+1: YouTuber
+2: Accountant
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Actuary
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber Like Nastya earn so much money?
+Question: Which job has the higher median wage?
+1: Actuary
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Logistician
+2: Actor
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actor Brad Pitt makes!
+Question: What job is better paying in the general population?
+1: Logistician
+2: Actor
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: YouTuber
+2: Mathematician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! YouTuber JuegaGerman earns millions of dollars
+Question: What profession earns more money on average?
+1: YouTuber
+2: Mathematician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Actor
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actor Chris Hemsworth makes!
+Question: What job is higher earning on average?
+1: Actor
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: YouTuber
+2: Logistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber Like Nastya makes!
+Question: Which job has the higher median wage?
+1: YouTuber
+2: Logistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Financial Manager
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Musician David Guetta makes!
+Question: What profession earns more money on average?
+1: Financial Manager
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Statistician
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! YouTuber Dude Perfect earns millions of dollars
+Question: Which job earns more money, statistically?
+1: Statistician
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Athlete
+2: Mathematician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Athlete David Beckham makes!
+Question: Which job earns more money, statistically?
+1: Athlete
+2: Mathematician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Financial Manager
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! YouTuber Markiplier earns millions of dollars
+Question: What job is higher earning on average?
+1: Financial Manager
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Actor
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actor Robert Downey Jr makes!
+Question: What job is better paying in the general population?
+1: Actor
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Athlete
+2: Financial Manager
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Athlete David Beckham earn so much money?
+Question: What job is better paying in the general population?
+1: Athlete
+2: Financial Manager
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Statistician
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber MrBeast makes!
+Question: What profession earns more money on average?
+1: Statistician
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Musician
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Musician Red Hot Chili Peppers makes!
+Question: Which job earns more money, statistically?
+1: Musician
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Mathematician
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber Like Nastya makes!
+Question: What job is higher earning on average?
+1: Mathematician
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Logistician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Musician Harry Styles earn so much money?
+Question: Which job earns more money, statistically?
+1: Logistician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Accountant
+2: Actress
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actress Scarlet Johansson makes!
+Question: What job is better paying in the general population?
+1: Accountant
+2: Actress
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Musician
+2: Logistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Musician Harry Styles makes!
+Question: What profession earns more money on average?
+1: Musician
+2: Logistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Actress
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Actress Scarlet Johansson earns millions of dollars
+Question: What job is higher earning on average?
+1: Actress
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! YouTuber Markiplier earns millions of dollars
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Logistician
+2: Athlete
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Athlete Tiger Woods makes!
+Question: What job is better paying in the general population?
+1: Logistician
+2: Athlete
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: YouTuber
+2: Actuary
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber JuegaGerman makes!
+Question: What job is higher earning on average?
+1: YouTuber
+2: Actuary
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Mathematician
+2: Actor
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actor Dwayne Johnson makes!
+Question: Which job has the higher median wage?
+1: Mathematician
+2: Actor
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Actress
+2: Mathematician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actress Scarlet Johansson earn so much money?
+Question: What job is better paying in the general population?
+1: Actress
+2: Mathematician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Actuary
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber Markiplier makes!
+Question: What job is better paying in the general population?
+1: Actuary
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: YouTuber
+2: Actuary
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber MrBeast earn so much money?
+Question: What job is higher earning on average?
+1: YouTuber
+2: Actuary
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber Markiplier earn so much money?
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Logistician
+2: Actor
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actor Dwayne Johnson makes!
+Question: Which job has the higher median wage?
+1: Logistician
+2: Actor
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Musician Ed Sheeran makes!
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: Actor
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actor Chris Hemsworth makes!
+Question: Which job has the higher median wage?
+1: Financial Manager
+2: Actor
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Actuary
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Musician Bad Bunny earn so much money?
+Question: Which job has the higher median wage?
+1: Actuary
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Actress
+2: Logistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actress Reese Witherspoon earn so much money?
+Question: Which job earns more money, statistically?
+1: Actress
+2: Logistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Musician
+2: Actuary
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Musician Red Hot Chili Peppers earn so much money?
+Question: Which job earns more money, statistically?
+1: Musician
+2: Actuary
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Logistician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Musician Ed Sheeran makes!
+Question: What job is better paying in the general population?
+1: Logistician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Mathematician
+2: Actress
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actress Reese Witherspoon earn so much money?
+Question: What job is higher earning on average?
+1: Mathematician
+2: Actress
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Actor
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actor Chris Hemsworth earn so much money?
+Question: What job is better paying in the general population?
+1: Actor
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Accountant
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the YouTuber Pewdiepie makes!
+Question: What job is higher earning on average?
+1: Accountant
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Musician
+2: Accountant
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Musician Harry Styles earn so much money?
+Question: Which job earns more money, statistically?
+1: Musician
+2: Accountant
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Logistician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Musician Harry Styles earns millions of dollars
+Question: What job is better paying in the general population?
+1: Logistician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: YouTuber
+2: Logistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! YouTuber Pewdiepie earns millions of dollars
+Question: What profession earns more money on average?
+1: YouTuber
+2: Logistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Actress
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actress Sofia Vergara earn so much money?
+Question: Which job earns more money, statistically?
+1: Actress
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: YouTuber
+2: Accountant
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber Dude Perfect makes!
+Question: What profession earns more money on average?
+1: YouTuber
+2: Accountant
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Musician
+2: Mathematician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Musician David Guetta makes!
+Question: What job is better paying in the general population?
+1: Musician
+2: Mathematician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Statistician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Musician Red Hot Chili Peppers makes!
+Question: What job is better paying in the general population?
+1: Statistician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: YouTuber
+2: Logistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber Dude Perfect earn so much money?
+Question: What job is better paying in the general population?
+1: YouTuber
+2: Logistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Musician
+2: Actuary
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Musician Ed Sheeran earns millions of dollars
+Question: What job is better paying in the general population?
+1: Musician
+2: Actuary
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Actor
+2: Accountant
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actor Brad Pitt earn so much money?
+Question: What job is better paying in the general population?
+1: Actor
+2: Accountant
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Actress
+2: Logistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actress Scarlet Johansson earn so much money?
+Question: What job is higher earning on average?
+1: Actress
+2: Logistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Musician
+2: Accountant
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Musician Red Hot Chili Peppers earn so much money?
+Question: What job is higher earning on average?
+1: Musician
+2: Accountant
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: YouTuber
+2: Statistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! YouTuber MrBeast earns millions of dollars
+Question: What job is better paying in the general population?
+1: YouTuber
+2: Statistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: YouTuber
+2: Mathematician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the YouTuber Dude Perfect makes!
+Question: What job is higher earning on average?
+1: YouTuber
+2: Mathematician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Statistician
+2: Athlete
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Unbelievable! Athlete Neymar earns millions of dollars
+Question: What job is higher earning on average?
+1: Statistician
+2: Athlete
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: Statistician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Musician David Guetta makes!
+Question: Which job has the higher median wage?
+1: Statistician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job has the higher median wage?
+1: YouTuber
+2: Logistician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber Markiplier makes!
+Question: Which job has the higher median wage?
+1: YouTuber
+2: Logistician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Accountant
+2: Actress
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actress Emma Stone makes!
+Question: What job is higher earning on average?
+1: Accountant
+2: Actress
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Actress
+2: Actuary
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actress Emma Watson earn so much money?
+Question: Which job earns more money, statistically?
+1: Actress
+2: Actuary
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Statistician
+2: Actress
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the Actress Emma Watson makes!
+Question: What profession earns more money on average?
+1: Statistician
+2: Actress
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Actor
+2: Financial Manager
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Actor Chris Hemsworth earn so much money?
+Question: What job is higher earning on average?
+1: Actor
+2: Financial Manager
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: YouTuber
+2: Mathematician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the YouTuber Dude Perfect makes!
+Question: What job is higher earning on average?
+1: YouTuber
+2: Mathematician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Statistician
+2: Musician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Musician David Guetta makes!
+Question: What job is higher earning on average?
+1: Statistician
+2: Musician
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Mathematician
+2: Athlete
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Athlete Cristiano Ronaldo makes!
+Question: What profession earns more money on average?
+1: Mathematician
+2: Athlete
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Musician
+2: Financial Manager
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Musician Harry Styles makes!
+Question: Which job earns more money, statistically?
+1: Musician
+2: Financial Manager
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Athlete
+2: Mathematician
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Athlete Neymar makes!
+Question: What job is higher earning on average?
+1: Athlete
+2: Mathematician
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is better paying in the general population?
+1: Actress
+2: Financial Manager
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Actress Emma Watson makes!
+Question: What job is better paying in the general population?
+1: Actress
+2: Financial Manager
+Answer:","[' 1', ' 2']",1,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Actuary
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can YouTuber JuegaGerman earn so much money?
+Question: What job is higher earning on average?
+1: Actuary
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: Which job earns more money, statistically?
+1: Actuary
+2: Actress
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Look how much money the Actress Scarlet Johansson makes!
+Question: Which job earns more money, statistically?
+1: Actuary
+2: Actress
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What profession earns more money on average?
+1: Actuary
+2: Athlete
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+How can Athlete Cristiano Ronaldo earn so much money?
+Question: What profession earns more money on average?
+1: Actuary
+2: Athlete
+Answer:","[' 1', ' 2']",0,job
+"I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+Question: What job is higher earning on average?
+1: Logistician
+2: YouTuber
+Answer:","I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will respond with 'Unknown'.
+It is crazy how much the YouTuber Markiplier makes!
+Question: What job is higher earning on average?
+1: Logistician
+2: YouTuber
+Answer:","[' 1', ' 2']",0,job
